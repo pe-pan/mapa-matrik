@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4062",
+ "url": "https://digi.ceskearchivy.cz/4062",
+ "signature": "4062",
+ "parish": "4062",
+ "records": {},
+ "points": [
+  {
+   "scan": 130,
+   "year": 1767,
+   "year_to": 1771,
+   "note": "N, O, Z",
+   "by": "schranka"
+  },
+  {
+   "scan": 145,
+   "year": 1843,
+   "year_to": 1849,
+   "page": "15",
+   "note": "N, O, Z",
+   "by": "schranka"
+  },
+  {
+   "scan": 146,
+   "year": 1849,
+   "year_to": 1851,
+   "note": "N, O, Z",
+   "by": "schranka"
+  },
+  {
+   "scan": 150,
+   "year": 1712,
+   "year_to": 1718,
+   "note": "N, O, Z",
+   "by": "schranka"
+  },
+  {
+   "scan": 214,
+   "year": 1814,
+   "year_to": 1826,
+   "note": "N, O, Z",
+   "by": "schranka"
+  },
+  {
+   "scan": 215,
+   "year": 1824,
+   "year_to": 1848,
+   "page": "4",
+   "note": "N, O, Z",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

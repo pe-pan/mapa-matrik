@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4626",
+ "url": "https://digi.ceskearchivy.cz/4626",
+ "signature": "4626",
+ "parish": "4626",
+ "records": {
+  "N": "1770",
+  "O": "1772"
+ },
+ "points": [
+  {
+   "scan": 274,
+   "type": "N",
+   "year": 1770,
+   "by": "schranka"
+  },
+  {
+   "scan": 280,
+   "type": "O",
+   "year": 1772,
+   "months": "X–XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 281,
+   "type": "O",
+   "year": 1772,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

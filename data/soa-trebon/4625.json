@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4625",
+ "url": "https://digi.ceskearchivy.cz/4625",
+ "signature": "4625",
+ "parish": "4625",
+ "records": {
+  "N": "1697"
+ },
+ "points": [
+  {
+   "scan": 1,
+   "type": "N",
+   "year": 1697,
+   "by": "schranka"
+  },
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1697,
+   "months": "VIII–IX",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4988",
+ "url": "https://digi.ceskearchivy.cz/4988",
+ "signature": "Křemže 10 O 1787-1863",
+ "parish": "Křemže 10 O 1787-1863",
+ "records": {
+  "O": "1787–1863"
+ },
+ "points": [
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1801,
+   "year_to": 1816,
+   "by": "schranka"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1817,
+   "year_to": 1821,
+   "by": "schranka"
+  },
+  {
+   "scan": 58,
+   "type": "O",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

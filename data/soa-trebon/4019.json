@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4019",
+ "url": "https://digi.ceskearchivy.cz/4019",
+ "signature": "4019",
+ "parish": "4019",
+ "records": {
+  "N": "1829",
+  "O": "1805"
+ },
+ "points": [
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1829,
+   "year_to": 1830,
+   "page": "fol. 52",
+   "by": "schranka"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1805,
+   "year_to": 1807,
+   "page": "fol. 1",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

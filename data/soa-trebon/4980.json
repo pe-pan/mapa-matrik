@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4980",
+ "url": "https://digi.ceskearchivy.cz/4980",
+ "signature": "4980",
+ "parish": "4980",
+ "records": {
+  "N": "1716–1718"
+ },
+ "points": [
+  {
+   "scan": 138,
+   "type": "N",
+   "year": 1716,
+   "year_to": 1717,
+   "months": "X–I",
+   "by": "schranka"
+  },
+  {
+   "scan": 139,
+   "type": "N",
+   "year": 1717,
+   "months": "I–IV",
+   "by": "schranka"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1717,
+   "months": "VII–X",
+   "by": "schranka"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1717,
+   "months": "X–XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 143,
+   "type": "N",
+   "year": 1718,
+   "months": "I–III",
+   "by": "schranka"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "year": 1718,
+   "months": "III–VI",
+   "by": "schranka"
+  },
+  {
+   "scan": 145,
+   "type": "N",
+   "year": 1718,
+   "months": "VII–IX",
+   "by": "schranka"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1718,
+   "months": "X–XII",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

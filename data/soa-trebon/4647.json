@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4647",
+ "url": "https://digi.ceskearchivy.cz/4647",
+ "signature": "4647",
+ "parish": "4647",
+ "records": {
+  "O": "1751"
+ },
+ "points": [
+  {
+   "scan": 1,
+   "type": "O",
+   "year": 1751,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

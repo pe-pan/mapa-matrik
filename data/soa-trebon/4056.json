@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4056",
+ "url": "https://digi.ceskearchivy.cz/4056",
+ "signature": "4056",
+ "parish": "4056",
+ "records": {
+  "N": "1809–1811"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1809,
+   "page": "fol. 8",
+   "by": "schranka"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1811,
+   "page": "fol. 13",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4984",
+ "url": "https://digi.ceskearchivy.cz/4984",
+ "signature": "Křemže 6 N 1802-1841",
+ "parish": "Křemže 6 N 1802-1841",
+ "records": {
+  "N": "1803–1819"
+ },
+ "points": [
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1803,
+   "months": "II–XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1804,
+   "months": "II–X",
+   "by": "schranka"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1805,
+   "months": "VIII–III",
+   "by": "schranka"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1806,
+   "months": "VII–VIII",
+   "by": "schranka"
+  },
+  {
+   "scan": 102,
+   "type": "N",
+   "year": 1806,
+   "months": "VIII–VI",
+   "by": "schranka"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1807,
+   "months": "VII–II",
+   "by": "schranka"
+  },
+  {
+   "scan": 104,
+   "type": "N",
+   "year": 1808,
+   "months": "II–XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1808,
+   "months": "IX–I",
+   "by": "schranka"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1809,
+   "months": "II–V",
+   "by": "schranka"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1812,
+   "months": "I–IX",
+   "by": "schranka"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1812,
+   "year_to": 1817,
+   "by": "schranka"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1817,
+   "year_to": 1819,
+   "by": "schranka"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1819,
+   "year_to": 1822,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

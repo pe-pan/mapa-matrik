@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5144",
+ "url": "https://digi.ceskearchivy.cz/5144",
+ "signature": "Ledenice 5 1806-1827",
+ "parish": "Ledenice 5 1806-1827",
+ "records": {
+  "N": "1826"
+ },
+ "points": [
+  {
+   "scan": 127,
+   "type": "N",
+   "year": 1826,
+   "year_to": 1827,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}
