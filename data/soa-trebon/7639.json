@@ -1,0 +1,25 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7639",
+ "url": "https://digi.ceskearchivy.cz/7639",
+ "signature": "7639",
+ "parish": "7639",
+ "records": {},
+ "points": [
+  {
+   "scan": 22,
+   "year": 1738,
+   "year_to": 1739,
+   "note": "rejstřík",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

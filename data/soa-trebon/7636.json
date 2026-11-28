@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7636",
+ "url": "https://digi.ceskearchivy.cz/7636",
+ "signature": "Střížov 22 1784-1809",
+ "parish": "Střížov 22 1784-1809",
+ "records": {
+  "Z": "1784–1799"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "Z",
+   "year": 1784,
+   "by": "schranka"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1787,
+   "year_to": 1790,
+   "by": "schranka"
+  },
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1787,
+   "year_to": 1791,
+   "by": "schranka"
+  },
+  {
+   "scan": 26,
+   "type": "Z",
+   "year": 1786,
+   "year_to": 1787,
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "Z",
+   "year": 1799,
+   "year_to": 1801,
+   "by": "schranka"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "year": 1785,
+   "year_to": 1789,
+   "by": "schranka"
+  },
+  {
+   "scan": 41,
+   "type": "Z",
+   "year": 1789,
+   "year_to": 1797,
+   "by": "schranka"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1797,
+   "year_to": 1803,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

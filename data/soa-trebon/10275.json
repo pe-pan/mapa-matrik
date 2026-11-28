@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "10275",
+ "url": "https://digi.ceskearchivy.cz/10275",
+ "signature": "10275",
+ "parish": "10275",
+ "records": {
+  "O": "1921–1922"
+ },
+ "points": [
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1921,
+   "months": "II",
+   "page": "fol. 41",
+   "by": "schranka"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1921,
+   "months": "XI",
+   "page": "fol. 49",
+   "by": "schranka"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1921,
+   "year_to": 1922,
+   "months": "XII–I",
+   "page": "fol. 50",
+   "by": "schranka"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1922,
+   "months": "I",
+   "page": "fol. 51",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}
