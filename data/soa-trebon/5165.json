@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5165",
+ "url": "https://digi.ceskearchivy.cz/5165",
+ "signature": "5165",
+ "parish": "5165",
+ "records": {
+  "O": "1858"
+ },
+ "points": [
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1858,
+   "by": "schranka"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

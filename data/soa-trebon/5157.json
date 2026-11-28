@@ -1,0 +1,157 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5157",
+ "url": "https://digi.ceskearchivy.cz/5157",
+ "signature": "5157",
+ "parish": "5157",
+ "records": {},
+ "points": [
+  {
+   "scan": 34,
+   "year": 1823,
+   "year_to": 1829,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 36,
+   "year": 1837,
+   "year_to": 1843,
+   "letters": "C",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 38,
+   "year": 1854,
+   "year_to": 1863,
+   "letters": "C",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 39,
+   "year": 1863,
+   "year_to": 1877,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 42,
+   "year": 1907,
+   "year_to": 1923,
+   "letters": "Č",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 43,
+   "year": 1868,
+   "year_to": 1875,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 45,
+   "year": 1886,
+   "year_to": 1902,
+   "page": "272",
+   "letters": "C",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 64,
+   "year": 1912,
+   "year_to": 1923,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 66,
+   "year": 1817,
+   "year_to": 1825,
+   "letters": "F",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 69,
+   "year": 1847,
+   "year_to": 1861,
+   "letters": "F",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 71,
+   "year": 1872,
+   "year_to": 1882,
+   "letters": "F",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 72,
+   "year": 1882,
+   "year_to": 1890,
+   "letters": "F",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 73,
+   "year": 1891,
+   "year_to": 1899,
+   "letters": "F",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 74,
+   "year": 1899,
+   "year_to": 1902,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 89,
+   "year": 1903,
+   "year_to": 1907,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 98,
+   "year": 1817,
+   "year_to": 1820,
+   "letters": "K",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 161,
+   "year": 1813,
+   "year_to": 1818,
+   "letters": "P",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 162,
+   "year": 1818,
+   "year_to": 1823,
+   "letters": "P",
+   "note": "rejstřík",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

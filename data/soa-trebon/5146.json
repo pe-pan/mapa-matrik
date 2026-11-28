@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5146",
+ "url": "https://digi.ceskearchivy.cz/5146",
+ "signature": "Ledenice 7 1828-1876",
+ "parish": "Ledenice 7 1828-1876",
+ "records": {
+  "N": "1828–1862"
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1828,
+   "year_to": 1829,
+   "page": "fol. 2",
+   "by": "schranka"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1829,
+   "year_to": 1830,
+   "page": "fol. 3",
+   "by": "schranka"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1830,
+   "year_to": 1831,
+   "page": "fol. 5",
+   "by": "schranka"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1862,
+   "year_to": 1863,
+   "page": "fol. 30",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

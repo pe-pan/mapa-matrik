@@ -1,0 +1,28 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5150",
+ "url": "https://digi.ceskearchivy.cz/5150",
+ "signature": "Ledenice 11 1848-1870",
+ "parish": "Ledenice 11 1848-1870",
+ "records": {
+  "O": "1849"
+ },
+ "points": [
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1849,
+   "year_to": 1851,
+   "page": "fol. 48",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

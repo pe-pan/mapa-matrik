@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5147",
+ "url": "https://digi.ceskearchivy.cz/5147",
+ "signature": "Ledenice 8 1877-1895",
+ "parish": "Ledenice 8 1877-1895",
+ "records": {
+  "N": "1887–1888"
+ },
+ "points": [
+  {
+   "scan": 267,
+   "type": "N",
+   "year": 1887,
+   "year_to": 1888,
+   "by": "schranka"
+  },
+  {
+   "scan": 268,
+   "type": "N",
+   "year": 1888,
+   "by": "schranka"
+  },
+  {
+   "scan": 269,
+   "type": "N",
+   "year": 1888,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

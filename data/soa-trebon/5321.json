@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5321",
+ "url": "https://digi.ceskearchivy.cz/5321",
+ "signature": "Lomec 10 1800-1830",
+ "parish": "Lomec 10 1800-1830",
+ "records": {
+  "N": "1806–1820"
+ },
+ "points": [
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1820,
+   "year_to": 1829,
+   "by": "schranka"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1816,
+   "year_to": 1829,
+   "by": "schranka"
+  },
+  {
+   "scan": 169,
+   "type": "N",
+   "year": 1810,
+   "year_to": 1811,
+   "months": "VIII–VII",
+   "page": "fol. 138",
+   "by": "schranka"
+  },
+  {
+   "scan": 180,
+   "type": "N",
+   "year": 1819,
+   "year_to": 1820,
+   "months": "V–I",
+   "page": "fol. 149",
+   "by": "schranka"
+  },
+  {
+   "scan": 181,
+   "type": "N",
+   "year": 1820,
+   "year_to": 1821,
+   "months": "II–II",
+   "page": "fol. 150",
+   "by": "schranka"
+  },
+  {
+   "scan": 209,
+   "type": "N",
+   "year": 1806,
+   "year_to": 1807,
+   "months": "II–IV",
+   "page": "fol. 184",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

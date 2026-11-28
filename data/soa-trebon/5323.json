@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5323",
+ "url": "https://digi.ceskearchivy.cz/5323",
+ "signature": "5323",
+ "parish": "5323",
+ "records": {
+  "N": "1846–1848"
+ },
+ "points": [
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1846,
+   "year_to": 1847,
+   "by": "schranka"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1848,
+   "by": "schranka"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1848,
+   "year_to": 1849,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

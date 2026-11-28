@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5162",
+ "url": "https://digi.ceskearchivy.cz/5162",
+ "signature": "5162",
+ "parish": "5162",
+ "records": {
+  "N": "1858–1860"
+ },
+ "points": [
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1858,
+   "by": "schranka"
+  },
+  {
+   "scan": 198,
+   "type": "N",
+   "year": 1860,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5151",
+ "url": "https://digi.ceskearchivy.cz/5151",
+ "signature": "Ledenice 12 O 1871-1910",
+ "parish": "Ledenice 12 O 1871-1910",
+ "records": {
+  "O": "1871–1875"
+ },
+ "points": [
+  {
+   "scan": 148,
+   "type": "O",
+   "year": 1875,
+   "by": "schranka"
+  },
+  {
+   "scan": 149,
+   "type": "O",
+   "year": 1871,
+   "year_to": 1872,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

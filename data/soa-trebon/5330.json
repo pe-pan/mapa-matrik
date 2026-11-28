@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5330",
+ "url": "https://digi.ceskearchivy.cz/5330",
+ "signature": "5330",
+ "parish": "5330",
+ "records": {},
+ "points": [
+  {
+   "scan": 25,
+   "type": "iN",
+   "year": 1876,
+   "year_to": 1893,
+   "by": "schranka"
+  },
+  {
+   "scan": 26,
+   "type": "iN",
+   "year": 1882,
+   "year_to": 1887,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}
