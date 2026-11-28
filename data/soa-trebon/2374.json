@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2374",
+ "url": "https://digi.ceskearchivy.cz/2374",
+ "signature": "2374",
+ "parish": "2374",
+ "records": {
+  "O": "1665–1687",
+  "Z": "1665–1677"
+ },
+ "points": [
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1665,
+   "year_to": 1668,
+   "months": "I–XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1669,
+   "year_to": 1671,
+   "months": "I–XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1672,
+   "year_to": 1676,
+   "months": "I–IV",
+   "by": "schranka"
+  },
+  {
+   "scan": 49,
+   "type": "O",
+   "year": 1676,
+   "year_to": 1680,
+   "months": "VI–V",
+   "by": "schranka"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1680,
+   "year_to": 1682,
+   "months": "IX–XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1687,
+   "year_to": 1688,
+   "months": "IV–XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1665,
+   "by": "schranka"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1677,
+   "year_to": 1679,
+   "months": "XII–VIII",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

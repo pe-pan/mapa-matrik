@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2222",
+ "url": "https://digi.ceskearchivy.cz/2222",
+ "signature": "2222",
+ "parish": "2222",
+ "records": {
+  "N": "1743–1784"
+ },
+ "points": [
+  {
+   "scan": 174,
+   "type": "N",
+   "year": 1773,
+   "year_to": 1784,
+   "by": "schranka"
+  },
+  {
+   "scan": 199,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "by": "schranka"
+  },
+  {
+   "scan": 202,
+   "type": "N",
+   "year": 1782,
+   "by": "schranka"
+  },
+  {
+   "scan": 208,
+   "type": "N",
+   "year": 1783,
+   "year_to": 1784,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2200",
+ "url": "https://digi.ceskearchivy.cz/2200",
+ "signature": "2200",
+ "parish": "2200",
+ "records": {
+  "Z": "1786"
+ },
+ "points": [
+  {
+   "scan": 1,
+   "type": "Z",
+   "year": 1786,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

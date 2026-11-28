@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2223",
+ "url": "https://digi.ceskearchivy.cz/2223",
+ "signature": "2223",
+ "parish": "2223",
+ "records": {
+  "Z": "1780–1781",
+  "O": "1754–1784"
+ },
+ "points": [
+  {
+   "scan": 136,
+   "type": "Z",
+   "year": 1780,
+   "by": "schranka"
+  },
+  {
+   "scan": 137,
+   "type": "Z",
+   "year": 1781,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

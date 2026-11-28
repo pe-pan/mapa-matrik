@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2382",
+ "url": "https://digi.ceskearchivy.cz/2382",
+ "signature": "Borovany 9 1868-1893",
+ "parish": "Borovany 9 1868-1893",
+ "records": {
+  "N": "1883–1887"
+ },
+ "points": [
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1883,
+   "year_to": 1884,
+   "page": "fol. 34",
+   "by": "schranka"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1884,
+   "page": "fol. 35",
+   "by": "schranka"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1884,
+   "year_to": 1886,
+   "page": "fol. 36",
+   "by": "schranka"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1887,
+   "page": "fol. 39",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

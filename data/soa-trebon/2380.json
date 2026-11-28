@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2380",
+ "url": "https://digi.ceskearchivy.cz/2380",
+ "signature": "Borovany 7 1784-1816",
+ "parish": "Borovany 7 1784-1816",
+ "records": {
+  "N": "1785–1811"
+ },
+ "points": [
+  {
+   "scan": 2,
+   "type": "N",
+   "year": 1785,
+   "year_to": 1786,
+   "by": "schranka"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1788,
+   "year_to": 1790,
+   "by": "schranka"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1808,
+   "by": "schranka"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1811,
+   "year_to": 1812,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

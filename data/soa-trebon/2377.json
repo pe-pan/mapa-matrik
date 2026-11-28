@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2377",
+ "url": "https://digi.ceskearchivy.cz/2377",
+ "signature": "Borovany 4 N 1784-1852",
+ "parish": "Borovany 4 N 1784-1852",
+ "records": {
+  "N": "1817"
+ },
+ "points": [
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1817,
+   "year_to": 1818,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

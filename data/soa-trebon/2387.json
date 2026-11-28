@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2387",
+ "url": "https://digi.ceskearchivy.cz/2387",
+ "signature": "Borovany 14 Z 1784-1879",
+ "parish": "Borovany 14 Z 1784-1879",
+ "records": {
+  "Z": "1811–1816"
+ },
+ "points": [
+  {
+   "scan": 47,
+   "type": "Z",
+   "year": 1811,
+   "by": "schranka"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1816,
+   "year_to": 1817,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

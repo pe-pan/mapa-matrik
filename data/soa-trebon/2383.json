@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2383",
+ "url": "https://digi.ceskearchivy.cz/2383",
+ "signature": "Borovany 10 O 1783-1898",
+ "parish": "Borovany 10 O 1783-1898",
+ "records": {
+  "O": "1784–1816"
+ },
+ "points": [
+  {
+   "scan": 2,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1785,
+   "by": "schranka"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1797,
+   "year_to": 1798,
+   "by": "schranka"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1802,
+   "by": "schranka"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1806,
+   "by": "schranka"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1808,
+   "year_to": 1809,
+   "by": "schranka"
+  },
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1809,
+   "year_to": 1810,
+   "by": "schranka"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1811,
+   "year_to": 1812,
+   "by": "schranka"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1816,
+   "year_to": 1817,
+   "by": "schranka"
+  },
+  {
+   "scan": 266,
+   "type": "O",
+   "year": 1787,
+   "year_to": 1792,
+   "by": "schranka"
+  },
+  {
+   "scan": 269,
+   "type": "O",
+   "year": 1805,
+   "year_to": 1808,
+   "by": "schranka"
+  },
+  {
+   "scan": 270,
+   "type": "O",
+   "year": 1810,
+   "year_to": 1812,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

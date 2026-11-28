@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2384",
+ "url": "https://digi.ceskearchivy.cz/2384",
+ "signature": "Borovany 11 O 1846-1898",
+ "parish": "Borovany 11 O 1846-1898",
+ "records": {
+  "O": "1850–1877"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1850,
+   "page": "fol. 4",
+   "by": "schranka"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1851,
+   "year_to": 1854,
+   "page": "fol. 6",
+   "by": "schranka"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1877,
+   "year_to": 1879,
+   "page": "fol. 15",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}
