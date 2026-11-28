@@ -36,6 +36,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 3,
+   "type": "O",
+   "year": 1788,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
    "scan": 8,
    "type": "O",
    "year": 1803,
@@ -88,6 +95,13 @@
    "months": "IV–II",
    "page": "29",
    "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1791,
+   "months": "II",
+   "by": "matriky-index"
   },
   {
    "scan": 30,
@@ -171,6 +185,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

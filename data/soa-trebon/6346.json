@@ -26,6 +26,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 74,
+   "type": "O",
+   "year": 1864,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 75,
    "type": "O",
    "place": "Vlásenice",
@@ -59,6 +66,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

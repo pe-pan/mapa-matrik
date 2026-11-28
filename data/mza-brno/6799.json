@@ -99,11 +99,29 @@
    "year": 1887,
    "year_to": 1888,
    "by": "kosarlukascz"
+  },
+  {
+   "scan": 147,
+   "type": "O",
+   "year": 1888,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 160,
+   "type": "O",
+   "year": 1883,
+   "months": "XI",
+   "by": "matriky-index"
   }
  ],
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

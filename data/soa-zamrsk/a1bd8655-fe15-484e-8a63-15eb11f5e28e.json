@@ -89,6 +89,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 17,
+   "type": "O",
+   "year": 1796,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 18,
    "type": "O",
    "place": "Hroška",
@@ -131,6 +138,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

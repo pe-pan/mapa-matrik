@@ -35,6 +35,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 4,
+   "type": "N",
+   "year": 1791,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 11,
    "type": "N",
    "place": "Vlásenice",
@@ -61,6 +68,13 @@
    "page": "86–87",
    "note": "do VIII/1840",
    "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1840,
+   "months": "VII",
+   "by": "matriky-index"
   },
   {
    "scan": 48,
@@ -191,6 +205,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

@@ -145,6 +145,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 112,
+   "type": "N",
+   "year": 1768,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 116,
    "type": "N",
    "page": "220–221",
@@ -228,6 +235,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

@@ -74,11 +74,22 @@
    "year_to": 1786,
    "months": "IV–V",
    "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1786,
+   "months": "I",
+   "by": "matriky-index"
   }
  ],
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

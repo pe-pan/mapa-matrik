@@ -69,6 +69,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 104,
+   "type": "N",
+   "year": 1839,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
    "scan": 271,
    "type": "iN",
    "letters": "L–M",
@@ -79,6 +86,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

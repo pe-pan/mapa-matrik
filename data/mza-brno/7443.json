@@ -98,6 +98,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 6,
+   "type": "O",
+   "year": 1773,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 57,
    "type": "O",
    "place": "Slavkovice",
@@ -109,6 +116,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

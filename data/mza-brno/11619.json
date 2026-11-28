@@ -33,6 +33,13 @@
  },
  "points": [
   {
+   "scan": 84,
+   "type": "N",
+   "year": 1886,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
    "scan": 116,
    "type": "N",
    "year": 1890,
@@ -52,11 +59,22 @@
    "year": 1903,
    "months": "V",
    "by": "kosarlukascz"
+  },
+  {
+   "scan": 233,
+   "type": "N",
+   "year": 1906,
+   "months": "V",
+   "by": "matriky-index"
   }
  ],
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

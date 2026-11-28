@@ -86,6 +86,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 92,
+   "type": "O",
+   "year": 1834,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 110,
    "type": "O",
    "place": "Radňovice",
@@ -183,6 +190,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

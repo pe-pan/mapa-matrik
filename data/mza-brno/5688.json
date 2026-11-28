@@ -49,6 +49,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 42,
+   "type": "N",
+   "year": 1792,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
    "scan": 43,
    "type": "N",
    "place": "Slavkovice",
@@ -65,6 +72,13 @@
    "year_to": 1795,
    "page": "XIV–XV",
    "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1794,
+   "months": "V",
+   "by": "matriky-index"
   },
   {
    "scan": 45,
@@ -89,6 +103,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

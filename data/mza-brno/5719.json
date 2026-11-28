@@ -50,6 +50,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 29,
+   "type": "O",
+   "year": 1816,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 30,
    "type": "O",
    "year": 1818,
@@ -60,6 +67,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

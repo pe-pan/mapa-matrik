@@ -250,6 +250,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 56,
+   "type": "O",
+   "year": 1791,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
    "scan": 60,
    "type": "O",
    "place": "Řitka",
@@ -372,6 +379,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

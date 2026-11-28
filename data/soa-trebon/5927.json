@@ -284,6 +284,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 372,
+   "type": "O",
+   "year": 1801,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
    "scan": 380,
    "type": "O",
    "year": 1808,
@@ -291,11 +298,22 @@
    "months": "XI–II",
    "page": "186–187",
    "by": "kosarlukascz"
+  },
+  {
+   "scan": 380,
+   "type": "O",
+   "year": 1809,
+   "months": "I",
+   "by": "matriky-index"
   }
  ],
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

@@ -65,6 +65,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 394,
+   "type": "N",
+   "year": 1799,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
    "scan": 395,
    "type": "N",
    "place": "Stanovice",
@@ -96,6 +103,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

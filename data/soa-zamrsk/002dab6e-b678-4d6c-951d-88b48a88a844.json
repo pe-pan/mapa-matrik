@@ -653,6 +653,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 292,
+   "type": "O",
+   "year": 1744,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
    "scan": 293,
    "type": "O",
    "year": 1744,
@@ -767,6 +774,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]

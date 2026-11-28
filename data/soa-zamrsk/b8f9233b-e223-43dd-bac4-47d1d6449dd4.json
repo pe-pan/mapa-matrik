@@ -145,19 +145,19 @@
   {
    "scan": 233,
    "type": "N",
-   "year": 1794,
-   "months": "VII",
-   "by": "pe-pan"
-  },
-  {
-   "scan": 233,
-   "type": "N",
    "place": "Vršovka",
    "year": 1792,
    "year_to": 1794,
    "months": "X–VII",
    "page": "12–13",
    "by": "kosarlukascz"
+  },
+  {
+   "scan": 233,
+   "type": "N",
+   "year": 1794,
+   "months": "VII",
+   "by": "pe-pan"
   },
   {
    "scan": 234,

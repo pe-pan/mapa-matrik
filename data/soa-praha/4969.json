@@ -62,6 +62,13 @@
    "by": "kosarlukascz"
   },
   {
+   "scan": 21,
+   "type": "N",
+   "year": 1834,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
    "scan": 22,
    "type": "N",
    "year": 1835,
@@ -97,6 +104,10 @@
  "sources": [
   {
    "by": "kosarlukascz",
+   "date": "2026-11-28"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-28"
   }
  ]
