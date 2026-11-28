@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4758",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4758",
+ "signature": "Valašské Klobouky, kn. 4826, N 1806–1857",
+ "parish": "Valašské Klobouky",
+ "district": "Zlín",
+ "places": [
+  "Lačnov",
+  "Poteč",
+  "Študlov",
+  "Tichov",
+  "Lipina",
+  "Mirošov",
+  "Smolina",
+  "Valašské Příkazy"
+ ],
+ "place_codes": {
+  "Lačnov": 78867
+ },
+ "records": {
+  "N": "1806–1857",
+  "iN": "1806–1857"
+ },
+ "order": "by_village",
+ "notes": [
+  "Oddíly po obcích s rejstříky – rozpis v „Části matriky“ na portálu (Příkazy 1806–38 sn. 324–339, rejstřík 339–343)."
+ ],
+ "points": [
+  {
+   "scan": 325,
+   "type": "N",
+   "year": 1807,
+   "year_to": 1808,
+   "place": "Valašské Příkazy",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 334,
+   "type": "N",
+   "year": 1828,
+   "year_to": 1829,
+   "place": "Valašské Příkazy",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 340,
+   "type": "iN",
+   "letters": "D, F, G, J, H",
+   "place": "Valašské Příkazy",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-28"
+  }
+ ]
+}

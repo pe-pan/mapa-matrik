@@ -42,6 +42,30 @@
    "letters": "M",
    "place": "Lačnov",
    "by": "FiikCz"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1824,
+   "year_to": 1829,
+   "place": "Valašské Příkazy",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 88,
+   "type": "O",
+   "year": 1830,
+   "year_to": 1835,
+   "place": "Valašské Příkazy",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 95,
+   "type": "O",
+   "year": 1850,
+   "year_to": 1852,
+   "place": "Valašské Příkazy",
+   "by": "FiikCz"
   }
  ],
  "sources": [
