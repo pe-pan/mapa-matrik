@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6668",
+ "url": "https://digi.ceskearchivy.cz/6668",
+ "signature": "6668",
+ "parish": "6668",
+ "records": {
+  "N": "1786–1795"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1786,
+   "year_to": 1787,
+   "by": "schranka"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1787,
+   "year_to": 1788,
+   "by": "schranka"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1788,
+   "year_to": 1789,
+   "by": "schranka"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1789,
+   "year_to": 1790,
+   "by": "schranka"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1790,
+   "year_to": 1791,
+   "by": "schranka"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1791,
+   "year_to": 1792,
+   "by": "schranka"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1792,
+   "year_to": 1793,
+   "by": "schranka"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1793,
+   "year_to": 1794,
+   "by": "schranka"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1794,
+   "by": "schranka"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1794,
+   "year_to": 1795,
+   "by": "schranka"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1795,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

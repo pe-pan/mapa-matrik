@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7632",
+ "url": "https://digi.ceskearchivy.cz/7632",
+ "signature": "7632",
+ "parish": "7632",
+ "records": {
+  "N": "1852–1890"
+ },
+ "points": [
+  {
+   "scan": 2,
+   "type": "N",
+   "year": 1852,
+   "by": "schranka"
+  },
+  {
+   "scan": 252,
+   "type": "N",
+   "year": 1867,
+   "months": "XI–XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 258,
+   "type": "N",
+   "year": 1868,
+   "months": "V–VI",
+   "page": "fol. 251",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

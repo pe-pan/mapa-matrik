@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7635",
+ "url": "https://digi.ceskearchivy.cz/7635",
+ "signature": "Střížov 21 O 1852-1925",
+ "parish": "Střížov 21 O 1852-1925",
+ "records": {
+  "O": "1887–1888"
+ },
+ "points": [
+  {
+   "scan": 1,
+   "type": "O",
+   "by": "schranka"
+  },
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1887,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 198,
+   "type": "O",
+   "year": 1887,
+   "months": "XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 199,
+   "type": "O",
+   "year": 1887,
+   "months": "XI–I",
+   "by": "schranka"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "year": 1888,
+   "months": "I",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

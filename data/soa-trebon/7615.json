@@ -1,0 +1,312 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7615",
+ "url": "https://digi.ceskearchivy.cz/7615",
+ "signature": "Střížov 1 1656-1749",
+ "parish": "Střížov 1 1656-1749",
+ "records": {
+  "N": "1686–1747"
+ },
+ "points": [
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1686,
+   "months": "VI",
+   "page": "fol. 133",
+   "by": "schranka"
+  },
+  {
+   "scan": 143,
+   "type": "N",
+   "year": 1686,
+   "months": "VII–VIII",
+   "page": "fol. 136",
+   "by": "schranka"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "year": 1686,
+   "months": "VIII–X",
+   "page": "fol. 137",
+   "by": "schranka"
+  },
+  {
+   "scan": 145,
+   "type": "N",
+   "year": 1686,
+   "months": "X–XII",
+   "page": "fol. 138",
+   "by": "schranka"
+  },
+  {
+   "scan": 159,
+   "type": "N",
+   "year": 1689,
+   "months": "VI–X",
+   "page": "fol. 152",
+   "by": "schranka"
+  },
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1689,
+   "months": "X–XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 161,
+   "type": "N",
+   "year": 1690,
+   "months": "III–V",
+   "by": "schranka"
+  },
+  {
+   "scan": 162,
+   "type": "N",
+   "year": 1690,
+   "months": "V–VIII",
+   "by": "schranka"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1690,
+   "months": "VIII–XII",
+   "page": "fol. 156",
+   "by": "schranka"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1691,
+   "months": "IV–VIII",
+   "page": "fol. 157",
+   "by": "schranka"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1691,
+   "months": "VIII–XII",
+   "page": "fol. 158",
+   "by": "schranka"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1692,
+   "months": "I–VI",
+   "page": "fol. 159",
+   "by": "schranka"
+  },
+  {
+   "scan": 167,
+   "type": "N",
+   "year": 1692,
+   "months": "VI–XI",
+   "page": "fol. 160",
+   "by": "schranka"
+  },
+  {
+   "scan": 168,
+   "type": "N",
+   "year": 1693,
+   "months": "I–XI",
+   "page": "fol. 161",
+   "by": "schranka"
+  },
+  {
+   "scan": 169,
+   "type": "N",
+   "year": 1693,
+   "months": "XI–XII",
+   "page": "fol. 162",
+   "by": "schranka"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "year": 1694,
+   "months": "V–XI",
+   "page": "fol. 163",
+   "by": "schranka"
+  },
+  {
+   "scan": 171,
+   "type": "N",
+   "year": 1694,
+   "months": "XII",
+   "page": "fol. 164",
+   "by": "schranka"
+  },
+  {
+   "scan": 172,
+   "type": "N",
+   "year": 1695,
+   "months": "VII–XII",
+   "page": "fol. 165",
+   "by": "schranka"
+  },
+  {
+   "scan": 173,
+   "type": "N",
+   "year": 1696,
+   "months": "I–IV",
+   "page": "fol. 166",
+   "by": "schranka"
+  },
+  {
+   "scan": 174,
+   "type": "N",
+   "year": 1696,
+   "months": "IV–VIII",
+   "page": "fol. 167",
+   "by": "schranka"
+  },
+  {
+   "scan": 175,
+   "type": "N",
+   "year": 1696,
+   "months": "IX–XII",
+   "page": "fol. 168",
+   "by": "schranka"
+  },
+  {
+   "scan": 176,
+   "type": "N",
+   "year": 1697,
+   "months": "I–V",
+   "page": "fol. 169",
+   "by": "schranka"
+  },
+  {
+   "scan": 177,
+   "type": "N",
+   "year": 1697,
+   "months": "IV–X",
+   "page": "fol. 170",
+   "by": "schranka"
+  },
+  {
+   "scan": 178,
+   "type": "N",
+   "year": 1697,
+   "months": "X–XII",
+   "page": "fol. 171",
+   "by": "schranka"
+  },
+  {
+   "scan": 179,
+   "type": "N",
+   "year": 1698,
+   "months": "II–V",
+   "page": "fol. 172",
+   "by": "schranka"
+  },
+  {
+   "scan": 180,
+   "type": "N",
+   "year": 1698,
+   "months": "V–IX",
+   "page": "fol. 173",
+   "by": "schranka"
+  },
+  {
+   "scan": 181,
+   "type": "N",
+   "year": 1698,
+   "months": "X–XII",
+   "page": "fol. 174",
+   "by": "schranka"
+  },
+  {
+   "scan": 182,
+   "type": "N",
+   "year": 1699,
+   "months": "IV–IX",
+   "page": "fol. 175",
+   "by": "schranka"
+  },
+  {
+   "scan": 183,
+   "type": "N",
+   "year": 1699,
+   "months": "IX–XII",
+   "page": "fol. 176",
+   "by": "schranka"
+  },
+  {
+   "scan": 357,
+   "type": "N",
+   "year": 1739,
+   "months": "X–XI",
+   "page": "fol. 350",
+   "by": "schranka"
+  },
+  {
+   "scan": 363,
+   "type": "N",
+   "year": 1740,
+   "months": "VIII–IX",
+   "page": "fol. 350",
+   "by": "schranka"
+  },
+  {
+   "scan": 364,
+   "type": "N",
+   "year": 1740,
+   "months": "IX–XI",
+   "page": "fol. 351",
+   "by": "schranka"
+  },
+  {
+   "scan": 365,
+   "type": "N",
+   "year": 1740,
+   "months": "XI–XII",
+   "page": "fol. 352",
+   "by": "schranka"
+  },
+  {
+   "scan": 396,
+   "type": "N",
+   "year": 1745,
+   "months": "VI–VIII",
+   "page": "fol. 388",
+   "by": "schranka"
+  },
+  {
+   "scan": 397,
+   "type": "N",
+   "year": 1745,
+   "months": "VIII–XI",
+   "page": "fol. 389",
+   "by": "schranka"
+  },
+  {
+   "scan": 398,
+   "type": "N",
+   "year": 1745,
+   "page": "fol. 390",
+   "by": "schranka"
+  },
+  {
+   "scan": 410,
+   "type": "N",
+   "year": 1747,
+   "months": "XI",
+   "page": "fol. 402",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

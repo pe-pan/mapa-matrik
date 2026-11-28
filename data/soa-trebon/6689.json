@@ -1,0 +1,89 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6689",
+ "url": "https://digi.ceskearchivy.cz/6689",
+ "signature": "6689",
+ "parish": "6689",
+ "records": {},
+ "points": [
+  {
+   "scan": 40,
+   "year": 1785,
+   "year_to": 1795,
+   "letters": "H",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 55,
+   "year": 1795,
+   "year_to": 1806,
+   "letters": "J",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 63,
+   "year": 1785,
+   "year_to": 1795,
+   "letters": "K",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 65,
+   "year": 1795,
+   "year_to": 1807,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 68,
+   "year": 1796,
+   "year_to": 1806,
+   "letters": "R",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 70,
+   "year": 1795,
+   "year_to": 1806,
+   "letters": "R",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 72,
+   "year": 1795,
+   "year_to": 1806,
+   "letters": "K",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 74,
+   "year": 1785,
+   "year_to": 1795,
+   "letters": "L",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 75,
+   "year": 1785,
+   "year_to": 1795,
+   "letters": "L",
+   "note": "rejstřík",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

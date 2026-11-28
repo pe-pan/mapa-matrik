@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7633",
+ "url": "https://digi.ceskearchivy.cz/7633",
+ "signature": "7633",
+ "parish": "7633",
+ "records": {
+  "O": "1784–1805"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1794,
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1793,
+   "by": "schranka"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1793,
+   "year_to": 1805,
+   "by": "schranka"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1805,
+   "year_to": 1823,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

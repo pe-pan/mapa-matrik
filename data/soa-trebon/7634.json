@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7634",
+ "url": "https://digi.ceskearchivy.cz/7634",
+ "signature": "Střížov 20 O 1826-1851",
+ "parish": "Střížov 20 O 1826-1851",
+ "records": {
+  "O": "1825–1847"
+ },
+ "points": [
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1847,
+   "year_to": 1849,
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1825,
+   "year_to": 1832,
+   "by": "schranka"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1831,
+   "year_to": 1837,
+   "by": "schranka"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1845,
+   "year_to": 1847,
+   "by": "schranka"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1825,
+   "year_to": 1829,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7616",
+ "url": "https://digi.ceskearchivy.cz/7616",
+ "signature": "7616",
+ "parish": "7616",
+ "records": {
+  "O": "1662–1728"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1662,
+   "year_to": 1663,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1664,
+   "year_to": 1665,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1666,
+   "year_to": 1667,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1668,
+   "year_to": 1669,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1669,
+   "year_to": 1670,
+   "months": "X",
+   "by": "schranka"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1670,
+   "months": "V",
+   "by": "schranka"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1671,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1673,
+   "year_to": 1674,
+   "months": "XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1677,
+   "year_to": 1678,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1678,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1679,
+   "year_to": 1680,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1681,
+   "months": "I–II",
+   "by": "schranka"
+  },
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1681,
+   "months": "IV–X",
+   "by": "schranka"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1681,
+   "months": "XI–XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1682,
+   "year_to": 1683,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1683,
+   "year_to": 1684,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1684,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1685,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1685,
+   "year_to": 1686,
+   "months": "IX",
+   "by": "schranka"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "year": 1686,
+   "year_to": 1687,
+   "months": "VII",
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1687,
+   "year_to": 1688,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1688,
+   "year_to": 1689,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1689,
+   "year_to": 1690,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1690,
+   "year_to": 1691,
+   "months": "V",
+   "by": "schranka"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1691,
+   "year_to": 1692,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1693,
+   "year_to": 1695,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1706,
+   "year_to": 1707,
+   "months": "V",
+   "by": "schranka"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1707,
+   "year_to": 1708,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1712,
+   "months": "II–XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1713,
+   "months": "XI–XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1714,
+   "months": "XI–XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 64,
+   "type": "O",
+   "year": 1724,
+   "year_to": 1726,
+   "months": "XI–II",
+   "by": "schranka"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1726,
+   "year_to": 1727,
+   "months": "X–VIII",
+   "by": "schranka"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "year": 1727,
+   "year_to": 1728,
+   "months": "IX–I",
+   "by": "schranka"
+  },
+  {
+   "scan": 67,
+   "type": "O",
+   "year": 1728,
+   "months": "I–VI",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}
