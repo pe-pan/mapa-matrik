@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2716",
+ "url": "https://digi.ceskearchivy.cz/2716",
+ "signature": "2716",
+ "parish": "2716",
+ "records": {
+  "N": "1673"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1673,
+   "year_to": 1695,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

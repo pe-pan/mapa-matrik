@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2730",
+ "url": "https://digi.ceskearchivy.cz/2730",
+ "signature": "2730",
+ "parish": "2730",
+ "records": {
+  "N": "1835"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1835,
+   "year_to": 1844,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

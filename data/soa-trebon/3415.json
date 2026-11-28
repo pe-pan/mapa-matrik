@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3415",
+ "url": "https://digi.ceskearchivy.cz/3415",
+ "signature": "3415",
+ "parish": "3415",
+ "records": {
+  "O": "1866–1870"
+ },
+ "points": [
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1866,
+   "year_to": 1867,
+   "by": "schranka"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1870,
+   "by": "schranka"
+  },
+  {
+   "scan": 47,
+   "type": "iO",
+   "by": "schranka"
+  },
+  {
+   "scan": 48,
+   "type": "iO",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

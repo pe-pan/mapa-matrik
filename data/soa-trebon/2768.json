@@ -11,9 +11,294 @@
  },
  "points": [
   {
+   "scan": 5,
+   "type": "O",
+   "year": 1722,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1724,
+   "months": "XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1727,
+   "months": "VI",
+   "by": "schranka"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1728,
+   "months": "IX",
+   "by": "schranka"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1728,
+   "months": "IX",
+   "by": "schranka"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1728,
+   "months": "X",
+   "by": "schranka"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1728,
+   "months": "XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 80,
+   "type": "O",
+   "year": 1728,
+   "months": "XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1729,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 84,
+   "type": "O",
+   "year": 1729,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 86,
+   "type": "O",
+   "year": 1729,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 88,
+   "type": "O",
+   "year": 1729,
+   "months": "V",
+   "by": "schranka"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "year": 1729,
+   "months": "VII",
+   "by": "schranka"
+  },
+  {
+   "scan": 92,
+   "type": "O",
+   "year": 1729,
+   "months": "IX",
+   "by": "schranka"
+  },
+  {
+   "scan": 93,
+   "type": "O",
+   "year": 1729,
+   "months": "IX",
+   "by": "schranka"
+  },
+  {
+   "scan": 95,
+   "type": "O",
+   "year": 1729,
+   "months": "X",
+   "by": "schranka"
+  },
+  {
+   "scan": 108,
+   "type": "O",
+   "year": 1730,
+   "by": "schranka"
+  },
+  {
+   "scan": 109,
+   "type": "O",
+   "year": 1731,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 110,
+   "type": "O",
+   "year": 1731,
+   "by": "schranka"
+  },
+  {
+   "scan": 165,
+   "type": "O",
+   "year": 1734,
+   "months": "XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 167,
+   "type": "O",
+   "year": 1734,
+   "months": "XI",
+   "by": "schranka"
+  },
+  {
    "scan": 170,
    "type": "O",
    "year": 1735,
+   "by": "schranka"
+  },
+  {
+   "scan": 183,
+   "type": "O",
+   "year": 1735,
+   "months": "XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 184,
+   "type": "O",
+   "year": 1736,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 187,
+   "type": "O",
+   "year": 1736,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 190,
+   "type": "O",
+   "year": 1736,
+   "months": "IV",
+   "by": "schranka"
+  },
+  {
+   "scan": 191,
+   "type": "O",
+   "year": 1736,
+   "months": "V",
+   "by": "schranka"
+  },
+  {
+   "scan": 192,
+   "type": "O",
+   "year": 1736,
+   "months": "V",
+   "by": "schranka"
+  },
+  {
+   "scan": 193,
+   "type": "O",
+   "year": 1736,
+   "months": "VI",
+   "by": "schranka"
+  },
+  {
+   "scan": 194,
+   "type": "O",
+   "year": 1736,
+   "months": "VII",
+   "by": "schranka"
+  },
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1736,
+   "months": "VIII",
+   "by": "schranka"
+  },
+  {
+   "scan": 196,
+   "type": "O",
+   "year": 1736,
+   "months": "IX",
+   "by": "schranka"
+  },
+  {
+   "scan": 197,
+   "type": "O",
+   "year": 1736,
+   "months": "X",
+   "by": "schranka"
+  },
+  {
+   "scan": 198,
+   "type": "O",
+   "year": 1736,
+   "months": "XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 199,
+   "type": "O",
+   "year": 1737,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "year": 1737,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 201,
+   "type": "O",
+   "year": 1737,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 202,
+   "type": "O",
+   "year": 1737,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 203,
+   "type": "O",
+   "year": 1737,
+   "months": "II",
+   "by": "schranka"
+  },
+  {
+   "scan": 204,
+   "type": "O",
+   "year": 1737,
+   "months": "III",
+   "by": "schranka"
+  },
+  {
+   "scan": 205,
+   "type": "O",
+   "year": 1737,
+   "months": "VI",
+   "by": "schranka"
+  },
+  {
+   "scan": 206,
+   "type": "O",
+   "year": 1737,
+   "months": "VII",
    "by": "schranka"
   },
   {
@@ -27,6 +312,10 @@
   {
    "by": "schranka",
    "date": "2026-11-19"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
   }
  ]
 }

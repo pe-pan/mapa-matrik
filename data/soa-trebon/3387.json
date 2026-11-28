@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3387",
+ "url": "https://digi.ceskearchivy.cz/3387",
+ "signature": "3387",
+ "parish": "3387",
+ "records": {
+  "N": "1856–1857"
+ },
+ "points": [
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1856,
+   "year_to": 1857,
+   "by": "schranka"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1857,
+   "by": "schranka"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1857,
+   "by": "schranka"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1817,
+   "year_to": 1859,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

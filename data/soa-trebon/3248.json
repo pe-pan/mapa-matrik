@@ -1,0 +1,108 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3248",
+ "url": "https://digi.ceskearchivy.cz/3248",
+ "signature": "3248",
+ "parish": "3248",
+ "records": {
+  "N": "1717",
+  "O": "1723–1739",
+  "Z": "1776–1787"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1717,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 153,
+   "type": "O",
+   "year": 1723,
+   "year_to": 1726,
+   "months": "VIII–III",
+   "page": "fol. 152",
+   "by": "schranka"
+  },
+  {
+   "scan": 154,
+   "type": "O",
+   "year": 1727,
+   "year_to": 1729,
+   "months": "II",
+   "page": "fol. 152–153",
+   "by": "schranka"
+  },
+  {
+   "scan": 155,
+   "type": "O",
+   "year": 1729,
+   "year_to": 1732,
+   "months": "XI–VI",
+   "page": "fol. 154",
+   "by": "schranka"
+  },
+  {
+   "scan": 156,
+   "type": "O",
+   "year": 1732,
+   "year_to": 1735,
+   "months": "VI–I",
+   "page": "fol. 155",
+   "by": "schranka"
+  },
+  {
+   "scan": 157,
+   "type": "O",
+   "year": 1735,
+   "year_to": 1737,
+   "months": "I–II",
+   "page": "fol. 156",
+   "by": "schranka"
+  },
+  {
+   "scan": 158,
+   "type": "O",
+   "year": 1737,
+   "year_to": 1739,
+   "page": "fol. 157",
+   "by": "schranka"
+  },
+  {
+   "scan": 159,
+   "type": "O",
+   "year": 1739,
+   "year_to": 1741,
+   "months": "II–III",
+   "page": "fol. 158",
+   "by": "schranka"
+  },
+  {
+   "scan": 220,
+   "type": "Z",
+   "by": "schranka"
+  },
+  {
+   "scan": 260,
+   "type": "Z",
+   "year": 1776,
+   "by": "schranka"
+  },
+  {
+   "scan": 266,
+   "type": "Z",
+   "year": 1787,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

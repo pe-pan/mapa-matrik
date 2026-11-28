@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3452",
+ "url": "https://digi.ceskearchivy.cz/3452",
+ "signature": "3452",
+ "parish": "3452",
+ "records": {
+  "N": "1782–1796"
+ },
+ "points": [
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1782,
+   "year_to": 1783,
+   "by": "schranka"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1787,
+   "year_to": 1791,
+   "by": "schranka"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1796,
+   "year_to": 1797,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

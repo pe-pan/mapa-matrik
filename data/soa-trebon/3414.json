@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3414",
+ "url": "https://digi.ceskearchivy.cz/3414",
+ "signature": "3414",
+ "parish": "3414",
+ "records": {
+  "N": "1863–1864"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1863,
+   "by": "schranka"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1864,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}
