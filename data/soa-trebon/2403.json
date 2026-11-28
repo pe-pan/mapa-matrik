@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2403",
+ "url": "https://digi.ceskearchivy.cz/2403",
+ "signature": "Boršov nad Vltavou 12 1825-1869",
+ "parish": "Boršov nad Vltavou 12 1825-1869",
+ "records": {
+  "N": "1825–1869"
+ },
+ "points": [
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1837,
+   "months": "VII–IX",
+   "by": "schranka"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1867,
+   "months": "III–VI",
+   "by": "schranka"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1868,
+   "year_to": 1869,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

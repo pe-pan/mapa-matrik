@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2468",
+ "url": "https://digi.ceskearchivy.cz/2468",
+ "signature": "Brloh 5 1767-1800",
+ "parish": "Brloh 5 1767-1800",
+ "records": {
+  "N": "1768–1799",
+  "O": "1770–1785"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1768,
+   "months": "VII–XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1769,
+   "months": "I–V",
+   "by": "schranka"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1769,
+   "months": "V–VIII",
+   "by": "schranka"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1769,
+   "months": "IX–XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1770,
+   "months": "II–IV",
+   "by": "schranka"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1770,
+   "months": "V–VII",
+   "by": "schranka"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1770,
+   "months": "VII–XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1796,
+   "year_to": 1797,
+   "page": "fol. 16",
+   "by": "schranka"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "year": 1797,
+   "year_to": 1798,
+   "page": "fol. 17",
+   "by": "schranka"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1799,
+   "page": "fol. 49",
+   "by": "schranka"
+  },
+  {
+   "scan": 166,
+   "type": "O",
+   "year": 1770,
+   "year_to": 1771,
+   "page": "fol. 2",
+   "by": "schranka"
+  },
+  {
+   "scan": 184,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1787,
+   "page": "fol. 1",
+   "by": "schranka"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "year": 1785,
+   "year_to": 1787,
+   "page": "fol. 1",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

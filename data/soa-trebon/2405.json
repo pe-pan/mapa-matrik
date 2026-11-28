@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2405",
+ "url": "https://digi.ceskearchivy.cz/2405",
+ "signature": "2405",
+ "parish": "2405",
+ "records": {
+  "N": "1891–1894"
+ },
+ "points": [
+  {
+   "scan": 371,
+   "type": "N",
+   "year": 1891,
+   "months": "XI",
+   "by": "schranka"
+  },
+  {
+   "scan": 372,
+   "type": "N",
+   "year": 1891,
+   "months": "XI",
+   "page": "fol. 371",
+   "by": "schranka"
+  },
+  {
+   "scan": 373,
+   "type": "N",
+   "year": 1891,
+   "months": "XII",
+   "by": "schranka"
+  },
+  {
+   "scan": 375,
+   "type": "N",
+   "year": 1892,
+   "months": "I",
+   "by": "schranka"
+  },
+  {
+   "scan": 418,
+   "type": "N",
+   "year": 1894,
+   "months": "VI–VII",
+   "page": "fol. 415",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2390",
+ "url": "https://digi.ceskearchivy.cz/2390",
+ "signature": "2390",
+ "parish": "2390",
+ "records": {},
+ "points": [
+  {
+   "scan": 10,
+   "year": 1784,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 11,
+   "year": 1784,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 17,
+   "year": 1784,
+   "year_to": 1803,
+   "page": "39",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 26,
+   "page": "58–59",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 32,
+   "page": "74–75",
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 64,
+   "year": 1784,
+   "year_to": 1798,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 65,
+   "year": 1816,
+   "year_to": 1820,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 67,
+   "year": 1849,
+   "year_to": 1870,
+   "note": "rejstřík",
+   "by": "schranka"
+  },
+  {
+   "scan": 161,
+   "year": 1810,
+   "year_to": 1823,
+   "page": "386–387",
+   "note": "rejstřík",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

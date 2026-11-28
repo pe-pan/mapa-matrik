@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2389",
+ "url": "https://digi.ceskearchivy.cz/2389",
+ "signature": "Borovany 16 Z 1819-1904",
+ "parish": "Borovany 16 Z 1819-1904",
+ "records": {
+  "Z": "1856–1904"
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "Z",
+   "year": 1856,
+   "year_to": 1861,
+   "page": "fol. 17",
+   "by": "schranka"
+  },
+  {
+   "scan": 19,
+   "type": "Z",
+   "year": 1862,
+   "year_to": 1863,
+   "page": "fol. 18",
+   "by": "schranka"
+  },
+  {
+   "scan": 41,
+   "type": "Z",
+   "year": 1893,
+   "year_to": 1894,
+   "by": "schranka"
+  },
+  {
+   "scan": 45,
+   "type": "Z",
+   "year": 1904,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

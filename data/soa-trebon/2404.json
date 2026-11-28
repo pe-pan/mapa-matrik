@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2404",
+ "url": "https://digi.ceskearchivy.cz/2404",
+ "signature": "2404",
+ "parish": "2404",
+ "records": {
+  "N": "1850"
+ },
+ "points": [
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1850,
+   "year_to": 1851,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

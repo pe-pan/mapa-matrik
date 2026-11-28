@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2416",
+ "url": "https://digi.ceskearchivy.cz/2416",
+ "signature": "Boršov nad Vltavou 25 1701-1949",
+ "parish": "Boršov nad Vltavou 25 1701-1949",
+ "records": {},
+ "points": [
+  {
+   "scan": 20,
+   "type": "iN",
+   "year": 1800,
+   "year_to": 1938,
+   "page": "46–47",
+   "by": "schranka"
+  },
+  {
+   "scan": 33,
+   "type": "iN",
+   "year": 1866,
+   "year_to": 1900,
+   "page": "88–89",
+   "by": "schranka"
+  },
+  {
+   "scan": 35,
+   "type": "iN",
+   "year": 1701,
+   "page": "94",
+   "by": "schranka"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1740,
+   "year_to": 1790,
+   "page": "154–155",
+   "by": "schranka"
+  },
+  {
+   "scan": 63,
+   "type": "iN",
+   "year": 1880,
+   "year_to": 1949,
+   "page": "684–685",
+   "by": "schranka"
+  },
+  {
+   "scan": 64,
+   "type": "iN",
+   "year": 1720,
+   "year_to": 1945,
+   "by": "schranka"
+  },
+  {
+   "scan": 73,
+   "type": "iN",
+   "year": 1817,
+   "year_to": 1883,
+   "page": "fol. 111–123",
+   "by": "schranka"
+  },
+  {
+   "scan": 74,
+   "type": "iN",
+   "year": 1883,
+   "year_to": 1914,
+   "page": "194",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}

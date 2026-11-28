@@ -11,6 +11,12 @@
  },
  "points": [
   {
+   "scan": 1,
+   "type": "O",
+   "year": 1801,
+   "by": "schranka"
+  },
+  {
    "scan": 15,
    "type": "O",
    "year": 1829,
@@ -39,6 +45,20 @@
    "by": "matriky-index"
   },
   {
+   "scan": 137,
+   "type": "O",
+   "year": 1817,
+   "year_to": 1821,
+   "by": "schranka"
+  },
+  {
+   "scan": 138,
+   "type": "O",
+   "year": 1821,
+   "year_to": 1827,
+   "by": "schranka"
+  },
+  {
    "scan": 139,
    "type": "O",
    "year": 1830,
@@ -46,17 +66,106 @@
    "by": "matriky-index"
   },
   {
+   "scan": 139,
+   "type": "O",
+   "year": 1828,
+   "year_to": 1832,
+   "by": "schranka"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1832,
+   "year_to": 1834,
+   "by": "schranka"
+  },
+  {
+   "scan": 146,
+   "type": "O",
+   "year": 1853,
+   "year_to": 1857,
+   "by": "schranka"
+  },
+  {
    "scan": 152,
    "type": "O",
    "year": 1869,
    "months": "IX",
    "by": "matriky-index"
+  },
+  {
+   "scan": 168,
+   "type": "O",
+   "year": 1822,
+   "year_to": 1823,
+   "by": "schranka"
+  },
+  {
+   "scan": 169,
+   "type": "O",
+   "year": 1824,
+   "year_to": 1826,
+   "by": "schranka"
+  },
+  {
+   "scan": 170,
+   "type": "O",
+   "year": 1826,
+   "year_to": 1828,
+   "by": "schranka"
+  },
+  {
+   "scan": 171,
+   "type": "O",
+   "year": 1831,
+   "year_to": 1837,
+   "by": "schranka"
+  },
+  {
+   "scan": 172,
+   "type": "O",
+   "year": 1838,
+   "year_to": 1842,
+   "by": "schranka"
+  },
+  {
+   "scan": 173,
+   "type": "O",
+   "year": 1842,
+   "year_to": 1849,
+   "by": "schranka"
+  },
+  {
+   "scan": 174,
+   "type": "O",
+   "year": 1849,
+   "year_to": 1852,
+   "by": "schranka"
+  },
+  {
+   "scan": 179,
+   "type": "O",
+   "year": 1869,
+   "year_to": 1871,
+   "page": "fol. 13",
+   "by": "schranka"
+  },
+  {
+   "scan": 180,
+   "type": "O",
+   "year": 1872,
+   "year_to": 1874,
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
   }
  ]
 }

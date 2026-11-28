@@ -60,6 +60,34 @@
    "by": "matriky-index"
   },
   {
+   "scan": 294,
+   "type": "N",
+   "year": 1824,
+   "year_to": 1825,
+   "by": "schranka"
+  },
+  {
+   "scan": 295,
+   "type": "N",
+   "year": 1825,
+   "year_to": 1827,
+   "by": "schranka"
+  },
+  {
+   "scan": 296,
+   "type": "N",
+   "year": 1827,
+   "year_to": 1828,
+   "by": "schranka"
+  },
+  {
+   "scan": 302,
+   "type": "N",
+   "year": 1832,
+   "year_to": 1833,
+   "by": "schranka"
+  },
+  {
    "scan": 303,
    "type": "N",
    "year": 1835,
@@ -95,17 +123,48 @@
    "by": "matriky-index"
   },
   {
+   "scan": 324,
+   "type": "N",
+   "year": 1804,
+   "year_to": 1805,
+   "by": "schranka"
+  },
+  {
+   "scan": 334,
+   "type": "N",
+   "year": 1819,
+   "year_to": 1821,
+   "by": "schranka"
+  },
+  {
+   "scan": 335,
+   "type": "N",
+   "year": 1821,
+   "year_to": 1822,
+   "by": "schranka"
+  },
+  {
    "scan": 348,
    "type": "N",
    "year": 1838,
    "months": "I",
    "by": "matriky-index"
+  },
+  {
+   "scan": 355,
+   "type": "N",
+   "year": 1845,
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
   }
  ]
 }

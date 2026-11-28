@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2474",
+ "url": "https://digi.ceskearchivy.cz/2474",
+ "signature": "Brloh 11 Z 1801-1888",
+ "parish": "Brloh 11 Z 1801-1888",
+ "records": {
+  "Z": "1826–1870"
+ },
+ "points": [
+  {
+   "scan": 318,
+   "type": "Z",
+   "year": 1826,
+   "year_to": 1828,
+   "by": "schranka"
+  },
+  {
+   "scan": 319,
+   "type": "Z",
+   "year": 1829,
+   "year_to": 1831,
+   "by": "schranka"
+  },
+  {
+   "scan": 324,
+   "type": "Z",
+   "year": 1847,
+   "year_to": 1850,
+   "by": "schranka"
+  },
+  {
+   "scan": 325,
+   "type": "Z",
+   "year": 1851,
+   "year_to": 1854,
+   "by": "schranka"
+  },
+  {
+   "scan": 326,
+   "type": "Z",
+   "year": 1854,
+   "year_to": 1858,
+   "by": "schranka"
+  },
+  {
+   "scan": 328,
+   "type": "Z",
+   "year": 1861,
+   "year_to": 1865,
+   "by": "schranka"
+  },
+  {
+   "scan": 329,
+   "type": "Z",
+   "year": 1865,
+   "year_to": 1866,
+   "by": "schranka"
+  },
+  {
+   "scan": 330,
+   "type": "Z",
+   "year": 1866,
+   "year_to": 1868,
+   "by": "schranka"
+  },
+  {
+   "scan": 332,
+   "type": "Z",
+   "year": 1870,
+   "year_to": 1873,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-28"
+  }
+ ]
+}
