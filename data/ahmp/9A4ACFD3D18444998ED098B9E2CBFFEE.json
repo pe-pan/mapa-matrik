@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "9A4ACFD3D18444998ED098B9E2CBFFEE",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=9A4ACFD3D18444998ED098B9E2CBFFEE",
+ "signature": "BBČ i1",
+ "parish": "Bubeneč",
+ "records": {
+  "iN": "1668–1792"
+ },
+ "places": [
+  "Bubeneč"
+ ],
+ "place_codes": {
+  "Bubeneč": 490024
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 8,
+   "type": "iN",
+   "year": 1765,
+   "year_to": 1770,
+   "letters": "B",
+   "note": "vložky 1826",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "iN",
+   "year": 1771,
+   "year_to": 1782,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "iN",
+   "year": 1782,
+   "year_to": 1792,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "iN",
+   "year": 1736,
+   "year_to": 1749,
+   "letters": "C/Č",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "iN",
+   "year": 1764,
+   "year_to": 1773,
+   "letters": "C/Č",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "iN",
+   "year": 1773,
+   "year_to": 1781,
+   "letters": "C/Č",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

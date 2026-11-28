@@ -1,0 +1,254 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "76BC74D77AF24520BC94C42ED7C4848B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=76BC74D77AF24520BC94C42ED7C4848B",
+ "signature": "BŘV O4",
+ "records": {
+  "O": "1784–1836",
+  "iO": "1826–1836"
+ },
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "index": {
+  "scans": "84–92",
+  "note": "lístkový rejstřík"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "points": [
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1802,
+   "year_to": 1803,
+   "months": "XI–II",
+   "page": "20",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1803,
+   "months": "III–VIII",
+   "page": "21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1804,
+   "months": "I–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "year": 1804,
+   "months": "V–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1804,
+   "year_to": 1805,
+   "months": "XI–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1806,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1806,
+   "year_to": 1807,
+   "months": "XII–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1807,
+   "months": "II–XI",
+   "page": "26",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1808,
+   "page": "27",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1809,
+   "year_to": 1810,
+   "months": "I–IV",
+   "page": "28",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1810,
+   "year_to": 1811,
+   "months": "IV–II",
+   "page": "29",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1811,
+   "months": "II–IX",
+   "page": "30",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1811,
+   "year_to": 1812,
+   "months": "IX–IV",
+   "page": "31",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1813,
+   "months": "IV–V",
+   "page": "32",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1814,
+   "year_to": 1815,
+   "months": "VI–X",
+   "page": "33",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1822,
+   "months": "VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1827,
+   "note": "vizitace 5. 7. 1827",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "year": 1828,
+   "note": "vizitace 30. 6. 1828",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1829,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "O",
+   "year": 1830,
+   "note": "vizitace 7. 6. 1830",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "O",
+   "year": 1831,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1832,
+   "months": "VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1833,
+   "months": "VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1834,
+   "months": "VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1835,
+   "note": "vizitace 10. 5. 1835",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1835,
+   "months": "XI",
+   "page": "71",
+   "note": "razítko 72",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1836,
+   "note": "poslední zápisy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 82,
+   "type": "blank",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 85,
+   "type": "iO",
+   "year": 1826,
+   "year_to": 1836,
+   "note": "lístkový rejstřík podle písmen",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

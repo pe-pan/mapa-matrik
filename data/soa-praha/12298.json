@@ -1,0 +1,74 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12298",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12298",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12298/{scan}",
+ "parish": "Solopysky",
+ "signature": "Solopysky 21",
+ "records": {
+  "iO": "1771–1831"
+ },
+ "places": [
+  "Solopysky"
+ ],
+ "points": [
+  {
+   "scan": 49,
+   "type": "iO",
+   "letters": "S–T",
+   "note": "vlevo S 1734–1740, vpravo T 1771–1827 + dopis 1757–1770",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iO",
+   "year": 1734,
+   "year_to": 1755,
+   "letters": "T",
+   "note": "pozdější dopis",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iO",
+   "year": 1772,
+   "year_to": 1809,
+   "letters": "U",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "iO",
+   "year": 1771,
+   "year_to": 1788,
+   "letters": "W",
+   "note": "vlevo prázdno",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "iO",
+   "year": 1788,
+   "year_to": 1829,
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "iO",
+   "year": 1739,
+   "year_to": 1769,
+   "letters": "W",
+   "note": "nahoře i 1830–1831",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-07",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-07",
+ "scans": 140,
+ "signature": "Kožlany 07",
+ "parish": "Kožlany",
+ "records": {
+  "N": "1801–1866",
+  "O": "1801–1873",
+  "Z": "1802–1874",
+  "iN": "1801–1874",
+  "iO": "1801–1873",
+  "iZ": "1802–1874"
+ },
+ "places": [
+  "Milíčov"
+ ],
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "place": "Milíčov",
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 138,
+   "type": "iN",
+   "letters": "R–S",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 139,
+   "type": "iN",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

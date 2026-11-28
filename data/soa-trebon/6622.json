@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6622",
+ "url": "https://digi.ceskearchivy.cz/6622",
+ "signature": "O Pošná 1788–1813, kniha 8",
+ "parish": "Pošná",
+ "records": {
+  "O": "1788–1813"
+ },
+ "places": [
+  "Pošná",
+  "Zlátenka"
+ ],
+ "place_codes": {
+  "Pošná": 126322,
+  "Zlátenka": 193208
+ },
+ "district": "Pelhřimov",
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "place": "Zlátenka",
+   "year": 1788,
+   "months": "XI",
+   "page": "97",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

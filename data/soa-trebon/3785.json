@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3785",
+ "url": "https://digi.ceskearchivy.cz/3785",
+ "signature": "Hořepník 5",
+ "parish": "Hořepník",
+ "records": {
+  "O": "1825–1836",
+  "N": "1805–1813"
+ },
+ "scans": 184,
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "places": [
+  "Hořepník"
+ ],
+ "place_codes": {
+  "Hořepník": 45071
+ },
+ "points": [
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1805,
+   "year_to": 1806,
+   "months": "X–V",
+   "page": "11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1813,
+   "months": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 86,
+   "type": "O",
+   "year": 1827,
+   "months": "VII–XI",
+   "page": "5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1827,
+   "year_to": 1828,
+   "months": "XI–I",
+   "page": "6",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "year": 1828,
+   "months": "XI",
+   "page": "9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "O",
+   "year": 1829,
+   "page": "11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "O",
+   "year": 1829,
+   "months": "VI–XI",
+   "page": "12",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 94,
+   "type": "O",
+   "year": 1830,
+   "months": "I–II",
+   "page": "13",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

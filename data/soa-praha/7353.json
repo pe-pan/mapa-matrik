@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7353",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7353",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/7353/{scan}",
+ "signature": "Křivsoudov 06",
+ "parish": "Křivsoudov",
+ "records": {
+  "N": "1802–1835"
+ },
+ "order": "by_village",
+ "places": [
+  "Křivsoudov",
+  "Strojetice"
+ ],
+ "place_codes": {
+  "Křivsoudov": 76414,
+  "Strojetice": 156973
+ },
+ "district": "Benešov",
+ "points": [
+  {
+   "scan": 188,
+   "type": "N",
+   "year": 1802,
+   "year_to": 1803,
+   "page": "181",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 193,
+   "type": "N",
+   "year": 1809,
+   "year_to": 1810,
+   "page": "186",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 195,
+   "type": "N",
+   "place": "Děkanovice",
+   "year": 1812,
+   "year_to": 1813,
+   "page": "188",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 214,
+   "type": "N",
+   "place": "Strojetice",
+   "year": 1804,
+   "year_to": 1805,
+   "page": "214",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 215,
+   "type": "N",
+   "place": "Strojetice",
+   "year": 1805,
+   "months": "I–XII",
+   "page": "215",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 216,
+   "type": "N",
+   "place": "Strojetice",
+   "year": 1805,
+   "year_to": 1806,
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

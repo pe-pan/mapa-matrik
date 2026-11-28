@@ -1,0 +1,243 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4952",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4952",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4952/{scan}",
+ "signature": "Dobrovice 06",
+ "parish": "Dobrovice",
+ "records": {
+  "N": "1788–1813"
+ },
+ "order": "by_village",
+ "places": [
+  "Dobrovice",
+  "Vinařice",
+  "Ctiměřice",
+  "Úherce",
+  "Pečice"
+ ],
+ "place_codes": {
+  "Dobrovice": 27472,
+  "Vinařice": 182290,
+  "Ctiměřice": 18058,
+  "Úherce": 172782,
+  "Pečice": 118745
+ },
+ "district": "Mladá Boleslav",
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1788,
+   "months": "I–V",
+   "page": "1",
+   "note": "začátek oddílu vsi (Ctiměřice přimíšeny)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1789,
+   "months": "XI–XII",
+   "page": "6",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1790,
+   "months": "I–VI",
+   "page": "7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1790,
+   "year_to": 1791,
+   "months": "X–I",
+   "page": "8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1791,
+   "months": "III–XI",
+   "page": "9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1791,
+   "year_to": 1792,
+   "months": "XI–IV",
+   "page": "10",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1792,
+   "months": "VI–VII",
+   "page": "11",
+   "note": "začíná VI/1792, V/1792 bez zápisu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1792,
+   "year_to": 1793,
+   "months": "VIII–I",
+   "page": "12",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1793,
+   "months": "I–IX",
+   "page": "13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1793,
+   "months": "IX–XI",
+   "page": "14",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1793,
+   "year_to": 1794,
+   "months": "XI–III",
+   "page": "15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "place": "Vinařice",
+   "year": 1806,
+   "year_to": 1807,
+   "page": "43",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "blank",
+   "page": "58",
+   "note": "prázdná předtištěná strana na konci oddílu Vinařice",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "place": "Úherce",
+   "year": 1788,
+   "months": "I–VII",
+   "page": "60",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "place": "Úherce",
+   "year": 1790,
+   "year_to": 1791,
+   "months": "II–IV",
+   "page": "64",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "place": "Úherce",
+   "year": 1791,
+   "months": "VII–XI",
+   "page": "65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "place": "Úherce",
+   "year": 1791,
+   "year_to": 1792,
+   "months": "XII–III",
+   "page": "66",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "place": "Úherce",
+   "year": 1792,
+   "months": "III–X",
+   "page": "67",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "place": "Úherce",
+   "year": 1792,
+   "year_to": 1793,
+   "months": "X–VI",
+   "page": "68",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "place": "Úherce",
+   "year": 1793,
+   "year_to": 1794,
+   "months": "VII–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "place": "Pečice",
+   "year": 1792,
+   "months": "V–VII",
+   "page": "110",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "place": "Pečice",
+   "year": 1792,
+   "year_to": 1793,
+   "months": "VIII–III",
+   "page": "111",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

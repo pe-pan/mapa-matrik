@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "8A2A16DB1ACA43DCB5B1D7EF1D753C98",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=8A2A16DB1ACA43DCB5B1D7EF1D753C98",
+ "signature": "MGLBŇ Z10",
+ "records": {
+  "Z": "1938"
+ },
+ "parish": "Matriční úřad Praha VIII – Libeň (civilní matrika)",
+ "places": [
+  "Libeň"
+ ],
+ "place_codes": {
+  "Libeň": 490105
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 122,
+   "type": "Z",
+   "year": 1938,
+   "months": "IX",
+   "page": "119",
+   "note": "č. 237–238",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 123,
+   "type": "Z",
+   "year": 1938,
+   "page": "120",
+   "note": "č. 239–240",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 124,
+   "type": "Z",
+   "year": 1938,
+   "months": "IX",
+   "page": "121",
+   "note": "č. 241–242",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 127,
+   "type": "Z",
+   "year": 1938,
+   "months": "X",
+   "page": "124",
+   "note": "č. 247–248",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "Z",
+   "year": 1938,
+   "months": "XI",
+   "page": "147",
+   "note": "č. 293–294",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

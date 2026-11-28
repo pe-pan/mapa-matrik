@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "DC119E6DBDC211E9B56EB46D835D9129",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=DC119E6DBDC211E9B56EB46D835D9129",
+ "signature": "UP-IZ 56a",
+ "parish": "Úmrtní protokoly (rejstřík)",
+ "records": {
+  "iZ": "1924–1939"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 3,
+   "type": "iZ",
+   "letters": "Zg–Zh",
+   "note": "Muži; záložky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 124,
+   "type": "iZ",
+   "year": 1924,
+   "year_to": 1939,
+   "page": "209",
+   "letters": "Zv",
+   "note": "Muži",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 125,
+   "type": "iZ",
+   "year": 1924,
+   "year_to": 1939,
+   "page": "210",
+   "letters": "Zv",
+   "note": "Ženy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 128,
+   "type": "iZ",
+   "page": "217",
+   "letters": "Zv",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 135,
+   "type": "iZ",
+   "page": "228",
+   "letters": "Ža",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "iZ",
+   "page": "247",
+   "letters": "Žá",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 170,
+   "type": "iZ",
+   "page": "274",
+   "letters": "Že",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

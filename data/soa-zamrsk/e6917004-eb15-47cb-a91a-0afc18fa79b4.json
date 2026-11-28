@@ -51,12 +51,93 @@
    "year": 1807,
    "year_to": 1808,
    "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "place": "Osečnice",
+   "year": 1784,
+   "year_to": 1786,
+   "months": "V–III",
+   "page": "fol. 1",
+   "note": "vpravo začátek oddílu Osečnice",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "place": "Osečnice",
+   "year": 1786,
+   "year_to": 1787,
+   "months": "IV–XI",
+   "page": "fol. 2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "Z",
+   "place": "Osečnice",
+   "year": 1788,
+   "year_to": 1790,
+   "months": "I–XI",
+   "page": "fol. 4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "Z",
+   "place": "Osečnice",
+   "year": 1790,
+   "year_to": 1794,
+   "page": "fol. 6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "place": "Osečnice",
+   "year": 1795,
+   "year_to": 1798,
+   "page": "fol. 8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "Z",
+   "place": "Osečnice",
+   "year": 1798,
+   "year_to": 1804,
+   "months": "IV–IX",
+   "page": "fol. 10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "place": "Osečnice",
+   "year": 1804,
+   "year_to": 1807,
+   "months": "X–XII",
+   "page": "fol. 12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "place": "Osečnice",
+   "year": 1808,
+   "note": "konec oddílu Osečnice, vpravo prázdná strana",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

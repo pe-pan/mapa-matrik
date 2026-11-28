@@ -35,6 +35,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ],
  "points": [
@@ -404,6 +408,32 @@
    "months": "X 1767 – XI 1768",
    "page": "47–48",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "X–XI",
+   "page": "49–50",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 196,
+   "type": "O",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "XI–XI",
+   "page": "51–52",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 198,
+   "type": "O",
+   "year": 1772,
+   "months": "II–VIII",
+   "page": "55–56",
+   "by": "kosarlukascz"
   },
   {
    "scan": 199,

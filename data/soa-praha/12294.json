@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12294",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12294",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12294/{scan}",
+ "signature": "Solopysky 02",
+ "parish": "Solopysky",
+ "records": {
+  "N": "1691–1743"
+ },
+ "places": [
+  "Solopysky",
+  "Miletín",
+  "Jindice",
+  "Drahobudice"
+ ],
+ "place_codes": {
+  "Solopysky": 159077,
+  "Miletín": 111317,
+  "Jindice": 60291
+ },
+ "district": "Kutná Hora",
+ "points": [
+  {
+   "scan": 242,
+   "type": "N",
+   "year": 1736,
+   "year_to": 1737,
+   "months": "XI–I",
+   "page": "476–477",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 244,
+   "type": "N",
+   "year": 1737,
+   "months": "II",
+   "page": "480–481",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

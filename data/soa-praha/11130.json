@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11130",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11130",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11130/{scan}",
+ "signature": "Rejšice 11",
+ "parish": "Rejšice",
+ "records": {
+  "iO": "1736–1830"
+ },
+ "scans": 30,
+ "places": [
+  "Rejšice"
+ ],
+ "place_codes": {
+  "Rejšice": 140058
+ },
+ "points": [
+  {
+   "scan": 28,
+   "type": "iO",
+   "letters": "X",
+   "note": "prázdná strana písmene X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "iO",
+   "letters": "Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

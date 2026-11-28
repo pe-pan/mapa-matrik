@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "29345971-58eb-4adb-adeb-a18a4d1ada76",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/29345971-58eb-4adb-adeb-a18a4d1ada76",
+ "signature": "6-5",
+ "parish": "Bílý Újezd",
+ "records": {
+  "N": "1791–1805",
+  "iN": "1791–1805"
+ },
+ "scans": 240,
+ "places": [
+  "Bílý Újezd",
+  "Chábory",
+  "Milenka",
+  "Hroška",
+  "Ještětice",
+  "Lhota u Dobrušky",
+  "Masty",
+  "Netřeba",
+  "Polom",
+  "Roudné",
+  "Vitenžovský mlýn",
+  "Podbřezí",
+  "Skalka",
+  "Studánka",
+  "Brocná",
+  "Víska",
+  "Ostrov"
+ ],
+ "place_codes": {
+  "Bílý Újezd": 4715,
+  "Chábory": 123374,
+  "Hroška": 4723,
+  "Ještětice": 152412,
+  "Masty": 4731,
+  "Roudné": 4740,
+  "Podbřezí": 123391,
+  "Brocná": 12602
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 4,
+   "type": "title",
+   "place": "Bílý Újezd",
+   "note": "titul oddílu vsi Újezd a soupis domů 1804",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "place": "Hroška",
+   "year": 1796,
+   "page": "17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "place": "Hroška",
+   "year": 1799,
+   "year_to": 1800,
+   "months": "XII–III",
+   "page": "27",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "page": "5",
+   "note": "oddíl jiné vsi (vlastní stránkování)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 234,
+   "type": "N",
+   "year": 1805,
+   "page": "7",
+   "note": "oddíl jiné vsi (vlastní stránkování)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 238,
+   "type": "N",
+   "year": 1796,
+   "year_to": 1800,
+   "page": "2",
+   "note": "oddíl jiné vsi (vlastní stránkování)",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

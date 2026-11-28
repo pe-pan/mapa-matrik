@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3830",
+ "url": "https://digi.ceskearchivy.cz/3830",
+ "signature": "Hořepník 50",
+ "parish": "Hořepník",
+ "records": {
+  "iN": "1780–1804",
+  "iO": "1780–1797",
+  "iZ": "1780–1797"
+ },
+ "scans": 73,
+ "places": [
+  "Hořepník"
+ ],
+ "place_codes": {
+  "Hořepník": 45071
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "iN",
+   "year": 1783,
+   "year_to": 1804,
+   "letters": "F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iO",
+   "letters": "A",
+   "note": "začátek indexu oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iZ",
+   "year": 1795,
+   "year_to": 1797,
+   "note": "konec indexu zemřelých",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "iO",
+   "letters": "E",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "iO",
+   "year": 1780,
+   "year_to": 1797,
+   "letters": "F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "iO",
+   "year": 1782,
+   "year_to": 1796,
+   "letters": "M",
+   "note": "levá strana prázdná",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

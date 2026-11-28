@@ -1,0 +1,262 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "2CA8AE0384B94825806779A25891C7A6",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=2CA8AE0384B94825806779A25891C7A6",
+ "signature": "KUN N4O4Z4",
+ "records": {
+  "N": "1784–1806",
+  "O": "1784–1806",
+  "Z": "1784–1806"
+ },
+ "parish": "Kunratice",
+ "places": [
+  "Kunratice",
+  "Šeberov"
+ ],
+ "place_codes": {
+  "Kunratice": 400262,
+  "Šeberov": 162132
+ },
+ "district": "území Hlavního města Prahy",
+ "order": "by_village",
+ "sections": [
+  {
+   "scans": "12–19",
+   "type": "O",
+   "place": "Šeberov"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "blank",
+   "note": "prázdný list (desky)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1785,
+   "year_to": 1787,
+   "page": "1–3",
+   "note": "oddíl první obce knihy (název nejistý)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1805,
+   "year_to": 1806,
+   "note": "oddíl první obce knihy (název nejistý)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "place": "Šeberov",
+   "year": 1784,
+   "year_to": 1790,
+   "months": "XI–II",
+   "page": "11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "place": "Šeberov",
+   "year": 1790,
+   "year_to": 1793,
+   "months": "VII–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "place": "Šeberov",
+   "year": 1794,
+   "year_to": 1796,
+   "months": "I–I",
+   "page": "12",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "place": "Šeberov",
+   "year": 1796,
+   "year_to": 1799,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "place": "Šeberov",
+   "year": 1799,
+   "year_to": 1801,
+   "months": "VII–X",
+   "page": "13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "O",
+   "place": "Šeberov",
+   "year": 1802,
+   "year_to": 1803,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "place": "Šeberov",
+   "year": 1804,
+   "year_to": 1805,
+   "months": "I–I",
+   "page": "14",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "place": "Šeberov",
+   "year": 1805,
+   "months": "II",
+   "note": "poslední zápis oddílu, zbytek strany prázdný",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "place": "Vestec",
+   "year": 1784,
+   "year_to": 1789,
+   "page": "21–26",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "place": "Kateřinky",
+   "year": 1799,
+   "year_to": 1801,
+   "page": "60",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "place": "Kateřinky",
+   "year": 1805,
+   "year_to": 1806,
+   "months": "I–VIII",
+   "note": "konec oddílu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1784,
+   "note": "začátek oddílu (záhlaví [17]84)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1784,
+   "year_to": 1785,
+   "months": "V–IV",
+   "page": "62",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1785,
+   "year_to": 1786,
+   "months": "IV–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1786,
+   "months": "V–IX",
+   "page": "63",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1793,
+   "year_to": 1794,
+   "page": "68",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1799,
+   "year_to": 1800,
+   "page": "74",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1804,
+   "year_to": 1805,
+   "page": "98",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 139,
+   "type": "Z",
+   "place": "Šeberov",
+   "year": 1787,
+   "year_to": 1788,
+   "months": "VII–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "Z",
+   "place": "Šeberov",
+   "year": 1789,
+   "months": "I",
+   "page": "131",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 141,
+   "type": "Z",
+   "place": "Šeberov",
+   "year": 1789,
+   "months": "II–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 142,
+   "type": "Z",
+   "place": "Šeberov",
+   "year": 1790,
+   "months": "II–XI",
+   "page": "132",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

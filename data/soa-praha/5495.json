@@ -1,0 +1,105 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5495",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5495",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5495/{scan}",
+ "signature": "Horní Mokropsy 10",
+ "parish": "Horní Mokropsy",
+ "records": {
+  "Z": "1821–1853"
+ },
+ "order": "by_village",
+ "places": [
+  "Horní Mokropsy"
+ ],
+ "district": "Praha-západ",
+ "points": [
+  {
+   "scan": 2,
+   "type": "blank",
+   "note": "prázdný list se štítkem knihy, jazýčky vsí na okraji",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 3,
+   "type": "Z",
+   "place": "Horní Mokropsy",
+   "year": 1821,
+   "year_to": 1822,
+   "months": "IX–I",
+   "page": "1 (fol. 1)",
+   "note": "začátek oddílu vsi, vlevo předsádka se štítkem",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "Z",
+   "place": "Horní Mokropsy",
+   "year": 1822,
+   "year_to": 1824,
+   "page": "2–3 (fol. 2–3)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "Z",
+   "place": "Horní Mokropsy",
+   "year": 1824,
+   "months": "III–IX",
+   "page": "4 (fol. 4)",
+   "note": "vpravo fol. 5 přeškrtnutá prázdná strana jiného formuláře",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
+   "place": "Horní Mokropsy",
+   "year": 1825,
+   "year_to": 1826,
+   "page": "5 (fol. 7)",
+   "note": "vlevo fol. 6 jiný formulář, přeškrtnutý zápis",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "Z",
+   "place": "Horní Mokropsy",
+   "year": 1827,
+   "year_to": 1828,
+   "page": "6–7 (fol. 8–9)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "place": "Horní Mokropsy",
+   "year": 1828,
+   "year_to": 1829,
+   "months": "XI–V",
+   "page": "8 (fol. 10)",
+   "note": "vpravo fol. 11 přeškrtnutá prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "blank",
+   "page": "196 (fol. 197)",
+   "note": "prázdná tištěná strana vlevo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "iZ",
+   "note": "rejstřík téměř prázdný (2 zápisy)",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

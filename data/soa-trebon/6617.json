@@ -1,0 +1,96 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6617",
+ "url": "https://digi.ceskearchivy.cz/6617",
+ "signature": "Pošná 3",
+ "parish": "Pošná",
+ "order": "chronological",
+ "records": {
+  "N": "1717–1777",
+  "O": "1717–1777",
+  "Z": "1717–1777"
+ },
+ "district": "Pelhřimov",
+ "places": [
+  "Pošná"
+ ],
+ "place_codes": {
+  "Pošná": 126322
+ },
+ "points": [
+  {
+   "scan": 172,
+   "type": "N",
+   "year": 1768,
+   "months": "V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 173,
+   "type": "N",
+   "year": 1768,
+   "months": "VIII–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 174,
+   "type": "N",
+   "year": 1768,
+   "year_to": 1769,
+   "note": "zápisy jistě XII/1768 – II/1769, začátek nejistý",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 175,
+   "type": "N",
+   "year": 1769,
+   "months": "II–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 176,
+   "type": "N",
+   "year": 1769,
+   "months": "IV–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 177,
+   "type": "N",
+   "year": 1769,
+   "months": "VII–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 178,
+   "type": "N",
+   "year": 1769,
+   "months": "IX–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 179,
+   "type": "N",
+   "year": 1769,
+   "year_to": 1770,
+   "note": "začíná koncem XII/1769, pak 1770",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 188,
+   "type": "N",
+   "year": 1771,
+   "year_to": 1772,
+   "months": "XII–I",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "05DDD640EBD246BABCA1934C49E9DCC4",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=05DDD640EBD246BABCA1934C49E9DCC4",
+ "signature": "BBČ N5O5Z5",
+ "parish": "Bubeneč",
+ "records": {
+  "N": "1799–1841",
+  "O": "1799–1841",
+  "Z": "1799–1841"
+ },
+ "places": [
+  "Bubeneč"
+ ],
+ "place_codes": {
+  "Bubeneč": 490024
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1810,
+   "year_to": 1811,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1802,
+   "year_to": 1803,
+   "months": "VI–VI",
+   "page": "12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "page": "14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1804,
+   "year_to": 1805,
+   "page": "16–17",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

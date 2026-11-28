@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "427658CD2B4D4B1088BD1B81E7525BB1",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=427658CD2B4D4B1088BD1B81E7525BB1",
+ "signature": "LBŇ Z12",
+ "parish": "Libeň",
+ "records": {
+  "Z": "1920–1926",
+  "iZ": "1920–1926"
+ },
+ "places": [
+  "Libeň"
+ ],
+ "place_codes": {
+  "Libeň": 490105
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 227,
+   "type": "iZ",
+   "year": 1920,
+   "year_to": 1926,
+   "letters": "J–K",
+   "note": "vlevo J 1924–1926, vpravo K VIII/1920–V/1921 (str. 223)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 228,
+   "type": "iZ",
+   "year": 1921,
+   "year_to": 1923,
+   "months": "V–XI",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 229,
+   "type": "iZ",
+   "year": 1923,
+   "year_to": 1926,
+   "months": "XI–II",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 230,
+   "type": "iZ",
+   "year": 1926,
+   "months": "II–V",
+   "letters": "K",
+   "note": "vlevo konec K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 246,
+   "type": "iZ",
+   "letters": "Z/Ž",
+   "note": "záložky",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

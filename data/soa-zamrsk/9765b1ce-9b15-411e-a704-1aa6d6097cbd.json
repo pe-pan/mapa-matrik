@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "9765b1ce-9b15-411e-a704-1aa6d6097cbd",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/9765b1ce-9b15-411e-a704-1aa6d6097cbd",
+ "signature": "170-1",
+ "parish": "Velká Jesenice",
+ "records": {
+  "N": "1689–1701",
+  "O": "1689–1701"
+ },
+ "scans": 70,
+ "places": [
+  "Městec",
+  "Nový Dvůr",
+  "Rohenice",
+  "Roztoky",
+  "Rychnovek",
+  "Slavětín nad Metují",
+  "Šestajovice",
+  "Velká Jesenice",
+  "Veselice",
+  "Zvole",
+  "Bohuslavice",
+  "Černčice",
+  "České Meziříčí",
+  "Dobré",
+  "Dolany",
+  "Dolsko",
+  "Domkov",
+  "Doubravice u České Skalice",
+  "Houdkovice",
+  "Hubíles",
+  "Jeníkovice",
+  "Klášter nad Dědinou",
+  "Králova Lhota",
+  "Krčín",
+  "Lhota",
+  "Mokré",
+  "Nahořany",
+  "Německá Čermná",
+  "Nepasice",
+  "Pohoří",
+  "Polánky nad Dědinou",
+  "Přepychy",
+  "Říkov",
+  "Slatina nad Úpou",
+  "Spyta",
+  "Třebechovice pod Orebem",
+  "Vršovka"
+ ],
+ "place_codes": {
+  "Městec": 101222,
+  "Nový Dvůr": 45314,
+  "Roztoky": 162396,
+  "Rychnovek": 144380,
+  "Slavětín nad Metují": 150029,
+  "Šestajovice": 162400,
+  "Velká Jesenice": 178411,
+  "Veselice": 178420,
+  "Zvole": 144398,
+  "Bohuslavice": 6467,
+  "Černčice": 20061,
+  "Dolany": 28410,
+  "Dolsko": 101192,
+  "Doubravice u České Skalice": 144371,
+  "Krčín": 106437,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Říkov": 21717,
+  "Slatina nad Úpou": 149764,
+  "Spyta": 21725,
+  "Vršovka": 186635
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 3,
+   "type": "title",
+   "year": 1689,
+   "note": "titulní list matriky; titulní list, matrika od 20. 2. 1689",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1689,
+   "months": "II–IV",
+   "page": "fol. 1v–2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1689,
+   "months": "IV–VI",
+   "page": "fol. 2v–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1689,
+   "months": "VI–IX",
+   "page": "fol. 3v–4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1689,
+   "months": "IX–XI",
+   "page": "fol. 4v–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1689,
+   "year_to": 1690,
+   "months": "XI–I",
+   "page": "fol. 5v–6",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1690,
+   "months": "I–III",
+   "page": "fol. 6v–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1690,
+   "months": "III–IV",
+   "page": "fol. 7v–8",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

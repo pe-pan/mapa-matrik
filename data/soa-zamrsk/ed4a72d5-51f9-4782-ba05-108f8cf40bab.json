@@ -1,0 +1,145 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ed4a72d5-51f9-4782-ba05-108f8cf40bab",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ed4a72d5-51f9-4782-ba05-108f8cf40bab",
+ "signature": "114-6",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "N": "1774–1784",
+  "Z": "1774–1784",
+  "O": "1774–1784"
+ },
+ "scans": 118,
+ "places": [
+  "Nové Město nad Metují",
+  "Dolsko",
+  "Domkov",
+  "Doubravice",
+  "Dupačka",
+  "Horské Předměstí",
+  "Krajské Předměstí",
+  "Krčín",
+  "Lhota",
+  "Nahořany",
+  "Provodov",
+  "Přibyslav",
+  "Spy",
+  "Starkoč",
+  "Šeřeč",
+  "Vrchoviny"
+ ],
+ "place_codes": {
+  "Nové Město nad Metují": 410420,
+  "Dolsko": 101192,
+  "Doubravice": 101206,
+  "Krčín": 106437,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Provodov": 133884,
+  "Přibyslav": 135712,
+  "Spy": 106488,
+  "Starkoč": 188387,
+  "Šeřeč": 133892,
+  "Vrchoviny": 186520
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1775,
+   "months": "VIII–X",
+   "page": "14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1775,
+   "year_to": 1776,
+   "months": "X–I",
+   "page": "16–17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1776,
+   "year_to": 1777,
+   "months": "XI–I",
+   "page": "24–25",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1779,
+   "months": "VII–IX",
+   "page": "58–59",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1780,
+   "months": "III–IV",
+   "page": "64–65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1782,
+   "months": "IV",
+   "page": "98–99",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1782,
+   "months": "V",
+   "page": "101",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1782,
+   "months": "V–VI",
+   "page": "102–103",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1775,
+   "year_to": 1776,
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1776,
+   "year_to": 1777,
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "O",
+   "year": 1777,
+   "page": "8–9",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

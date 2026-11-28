@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11049",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11049",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11049/{scan}",
+ "signature": "Rakovník 05",
+ "parish": "Rakovník",
+ "records": {
+  "N": "1785–1804",
+  "iN": "1785–1800"
+ },
+ "places": [
+  "Rakovník"
+ ],
+ "district": "Rakovník",
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "points": [
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1787,
+   "months": "V–VI",
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1788,
+   "months": "VII–X",
+   "page": "29",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1790,
+   "months": "I–III",
+   "page": "38",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1794,
+   "months": "II–IV",
+   "page": "62",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 205,
+   "type": "iN",
+   "letters": "N–P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 208,
+   "type": "iN",
+   "year": 1785,
+   "year_to": 1800,
+   "letters": "R–S",
+   "note": "konec R 1794–1800, S 1785–1794",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

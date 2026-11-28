@@ -13,6 +13,52 @@
  },
  "points": [
   {
+   "scan": 8,
+   "type": "iO",
+   "year": 1787,
+   "year_to": 1839,
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iO",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "iO",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iO",
+   "year": 1807,
+   "year_to": 1838,
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "iN",
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 55,
    "type": "N",
    "year": 1787,
@@ -25,6 +71,63 @@
    "year": 1787,
    "year_to": 1817,
    "by": "pe-pan"
+  },
+  {
+   "scan": 60,
+   "type": "iZ",
+   "letters": "Č/Ch",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "iZ",
+   "year": 1787,
+   "year_to": 1806,
+   "letters": "D",
+   "note": "písmeno D vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "iZ",
+   "year": 1806,
+   "year_to": 1817,
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "iZ",
+   "letters": "H/J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "iZ",
+   "year": 1787,
+   "year_to": 1806,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "iZ",
+   "year": 1806,
+   "year_to": 1817,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "iZ",
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "iZ",
+   "letters": "P",
+   "by": "kosarlukascz"
   },
   {
    "scan": 77,
@@ -52,6 +155,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

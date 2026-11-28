@@ -1,0 +1,104 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9724",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9724",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/9724/{scan}",
+ "signature": "Neveklov 05",
+ "parish": "Neveklov",
+ "records": {
+  "N": "1748–1772",
+  "O": "1748–1772",
+  "Z": "1748–1772"
+ },
+ "places": [
+  "Neveklov",
+  "Křečovice",
+  "Zádolí",
+  "Osečany",
+  "Břišejov",
+  "Velběhy"
+ ],
+ "place_codes": {
+  "Neveklov": 104281,
+  "Křečovice": 75540,
+  "Zádolí": 189642
+ },
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 272,
+   "type": "N",
+   "year": 1770,
+   "months": "X–XI",
+   "page": "569",
+   "note": "vlevo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 273,
+   "type": "N",
+   "year": 1770,
+   "months": "XI–XII",
+   "page": "570–571",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 274,
+   "type": "N",
+   "year": 1771,
+   "months": "I–II",
+   "page": "572–573",
+   "note": "od 1771 tabulkový formulář",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 275,
+   "type": "N",
+   "year": 1771,
+   "months": "II–III",
+   "page": "574–575",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 276,
+   "type": "N",
+   "year": 1771,
+   "months": "IV–V",
+   "page": "576–577",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 277,
+   "type": "N",
+   "year": 1771,
+   "months": "V–VII",
+   "page": "578–579",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 278,
+   "type": "N",
+   "year": 1771,
+   "months": "VII–X",
+   "page": "580–581",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 279,
+   "type": "N",
+   "year": 1771,
+   "year_to": 1772,
+   "months": "X–II",
+   "page": "582–583",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "2fff2743-08c6-45f3-8b55-ca0f0161bf22",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/2fff2743-08c6-45f3-8b55-ca0f0161bf22",
+ "signature": "4811",
+ "parish": "Zahrádka",
+ "records": {
+  "iN": "1784–1801"
+ },
+ "scans": 16,
+ "district": "Benešov",
+ "places": [
+  "Zahrádka"
+ ],
+ "points": [
+  {
+   "scan": 8,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "iN",
+   "year": 1784,
+   "year_to": 1790,
+   "letters": "L–M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "iN",
+   "year": 1790,
+   "year_to": 1801,
+   "letters": "M",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

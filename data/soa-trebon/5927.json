@@ -1,0 +1,302 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5927",
+ "url": "https://digi.ceskearchivy.cz/5927",
+ "signature": "NOZ Nová Cerekev 1758–1820, kniha 2",
+ "parish": "Nová Cerekev",
+ "records": {
+  "N": "1758–1820",
+  "O": "1758–1820",
+  "Z": "1758–1820"
+ },
+ "places": [
+  "Nová Cerekev",
+  "Útěchovičky"
+ ],
+ "place_codes": {
+  "Nová Cerekev": 105015
+ },
+ "district": "Pelhřimov",
+ "points": [
+  {
+   "scan": 1,
+   "type": "title",
+   "note": "titulní snímek knihy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1776,
+   "months": "III–V",
+   "page": "220–221",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1776,
+   "months": "V–VI",
+   "page": "222–223",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1776,
+   "months": "VII–IX",
+   "page": "224–225",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1776,
+   "months": "IX–X",
+   "page": "226–227",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1776,
+   "months": "X–XII",
+   "page": "228–229",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1776,
+   "year_to": 1777,
+   "months": "XII–II",
+   "page": "230–231",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1777,
+   "months": "II–IV",
+   "page": "232–233",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1777,
+   "months": "IV–VI",
+   "page": "234–235",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1777,
+   "months": "VI–VIII",
+   "page": "236–237",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 124,
+   "type": "N",
+   "year": 1777,
+   "months": "VIII–X",
+   "page": "238–239",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 125,
+   "type": "N",
+   "year": 1777,
+   "months": "X–XII",
+   "page": "240–241",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 126,
+   "type": "N",
+   "year": 1777,
+   "year_to": 1778,
+   "months": "XII–I",
+   "page": "242–243",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 149,
+   "type": "N",
+   "year": 1783,
+   "months": "IV–VII",
+   "page": "288–289",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1783,
+   "months": "VII–IX",
+   "page": "290–291",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 173,
+   "type": "N",
+   "year": 1787,
+   "months": "IV–V",
+   "page": "fol. 336",
+   "note": "číslo 336 vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 181,
+   "type": "N",
+   "year": 1788,
+   "months": "IX–XI",
+   "page": "351–352",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 201,
+   "type": "N",
+   "year": 1792,
+   "months": "II–IV",
+   "page": "390–391",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 258,
+   "type": "N",
+   "year": 1799,
+   "year_to": 1800,
+   "note": "vlevo nemanželští 1799, vpravo pokračování od IX/1800",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 260,
+   "type": "N",
+   "year": 1800,
+   "year_to": 1801,
+   "months": "XI–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 261,
+   "type": "N",
+   "year": 1801,
+   "months": "I–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 262,
+   "type": "N",
+   "year": 1801,
+   "months": "III–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 263,
+   "type": "N",
+   "year": 1801,
+   "months": "VI–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 264,
+   "type": "N",
+   "year": 1801,
+   "months": "IX–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 265,
+   "type": "N",
+   "year": 1801,
+   "year_to": 1802,
+   "months": "XI–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 266,
+   "type": "N",
+   "year": 1802,
+   "months": "III–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 267,
+   "type": "N",
+   "year": 1802,
+   "months": "V–VII",
+   "page": "477",
+   "note": "číslo 477 vpravo nahoře, vlevo číslo 40",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 288,
+   "type": "O",
+   "year": 1758,
+   "months": "X–XI",
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 311,
+   "type": "O",
+   "year": 1766,
+   "months": "VII–XI",
+   "page": "48–49",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 328,
+   "type": "O",
+   "year": 1773,
+   "months": "VII–XI",
+   "page": "82–83",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 331,
+   "type": "O",
+   "year": 1775,
+   "months": "II–VI",
+   "page": "fol. 89",
+   "note": "údaje pravé strany (str. 89)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 345,
+   "type": "O",
+   "year": 1782,
+   "months": "VII",
+   "page": "116–117",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 372,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1801,
+   "page": "171",
+   "note": "vpravo (str. 171) XI/1800 – V/1801",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 380,
+   "type": "O",
+   "year": 1808,
+   "year_to": 1809,
+   "months": "XI–II",
+   "page": "186–187",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

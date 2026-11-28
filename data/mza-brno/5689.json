@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5689",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5689",
+ "signature": "Jámy, kn. 15654, N 1822–1836",
+ "parish": "Jámy",
+ "records": {
+  "N": "1822–1836"
+ },
+ "places": [
+  "Jámy",
+  "Slavkovice"
+ ],
+ "place_codes": {
+  "Jámy": 56685,
+  "Slavkovice": 150312
+ },
+ "district": "Žďár nad Sázavou",
+ "order": "by_village",
+ "sections": [
+  {
+   "scans": "24–38",
+   "type": "N",
+   "place": "Slavkovice"
+  }
+ ],
+ "points": [
+  {
+   "scan": 25,
+   "type": "N",
+   "place": "Slavkovice",
+   "year": 1823,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "place": "Slavkovice",
+   "year": 1827,
+   "months": "VI–VII",
+   "page": "12–13",
+   "note": "uprostřed levé strany nadpis roku 1827",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1830,
+   "months": "IV",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

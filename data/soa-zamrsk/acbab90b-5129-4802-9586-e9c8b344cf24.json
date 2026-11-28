@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "acbab90b-5129-4802-9586-e9c8b344cf24",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/acbab90b-5129-4802-9586-e9c8b344cf24",
+ "signature": "6-2774",
+ "parish": "Bílý Újezd",
+ "records": {
+  "N": "1670–1695",
+  "Z": "1670–1695",
+  "O": "1670–1695"
+ },
+ "scans": 74,
+ "places": [
+  "Dobré",
+  "Bačetín",
+  "Hlinné",
+  "Kamenice",
+  "Lomy",
+  "Netřeba",
+  "Osečnice",
+  "Rovné",
+  "Spáleniště",
+  "Sudín",
+  "Žákovec"
+ ],
+ "place_codes": {
+  "Dobré": 27197,
+  "Bačetín": 744,
+  "Hlinné": 27201,
+  "Kamenice": 27227,
+  "Lomy": 112801,
+  "Osečnice": 112810,
+  "Rovné": 27243,
+  "Spáleniště": 30783,
+  "Sudín": 752
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1686,
+   "year_to": 1687,
+   "page": "124–125",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1694,
+   "note": "oddaní vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1695,
+   "note": "oddaní vpravo",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

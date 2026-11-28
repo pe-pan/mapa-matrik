@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "d88d4b90-a67a-4353-ad7a-6f2b4d0d2230",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/d88d4b90-a67a-4353-ad7a-6f2b4d0d2230",
+ "signature": "114-7334",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "iZ": "1835–1905"
+ },
+ "scans": 151,
+ "places": [
+  "Dolsko",
+  "Domkov",
+  "Doubravice",
+  "Dupačka",
+  "Horské Předměstí",
+  "Krajské Předměstí",
+  "Krčín",
+  "Lhota",
+  "Nahořany",
+  "Nové Město nad Metují",
+  "Obora",
+  "Osma",
+  "Peklo",
+  "Provodov",
+  "Přibyslav",
+  "Spy",
+  "Seřeč",
+  "Václavice",
+  "Vrchoviny"
+ ],
+ "place_codes": {
+  "Dolsko": 101192,
+  "Doubravice": 101206,
+  "Krčín": 106437,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Nové Město nad Metují": 410420,
+  "Provodov": 133884,
+  "Přibyslav": 135712,
+  "Spy": 106488,
+  "Seřeč": 133892,
+  "Václavice": 133906,
+  "Vrchoviny": 186520
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 60,
+   "type": "iZ",
+   "year": 1873,
+   "year_to": 1879,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "iZ",
+   "year": 1896,
+   "year_to": 1901,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "iZ",
+   "year": 1902,
+   "year_to": 1905,
+   "letters": "K",
+   "note": "konec rejstříku",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

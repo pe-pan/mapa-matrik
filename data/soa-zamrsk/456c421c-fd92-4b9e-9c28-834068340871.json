@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "456c421c-fd92-4b9e-9c28-834068340871",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/456c421c-fd92-4b9e-9c28-834068340871",
+ "signature": "22-3845",
+ "parish": "České Meziříčí",
+ "records": {
+  "N": "1836–1872"
+ },
+ "scans": 246,
+ "places": [
+  "České Meziříčí",
+  "Mochov",
+  "Ostrov"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1854,
+   "months": "I",
+   "page": "112",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

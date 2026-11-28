@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10559",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10559",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10559/{scan}",
+ "signature": "Odolena Voda 16",
+ "parish": "Odolena Voda",
+ "records": {
+  "iN": "1784–1879",
+  "iO": "1784–1879",
+  "iZ": "1784–1879"
+ },
+ "places": [
+  "Odolena Voda"
+ ],
+ "place_codes": {
+  "Odolena Voda": 108995
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "iN",
+   "year": 1794,
+   "year_to": 1805,
+   "letters": "C/Č",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "iN",
+   "year": 1806,
+   "year_to": 1817,
+   "letters": "C",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "iN",
+   "year": 1784,
+   "year_to": 1790,
+   "letters": "H",
+   "note": "vlevo prázdno; společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

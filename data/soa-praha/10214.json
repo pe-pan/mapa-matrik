@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10214",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10214",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10214/{scan}",
+ "signature": "Tachlovice 04",
+ "parish": "Tachlovice",
+ "records": {
+  "N": "1719–1754",
+  "O": "1719–1754",
+  "Z": "1719–1754"
+ },
+ "places": [
+  "Tachlovice",
+  "Vysoký Újezd"
+ ],
+ "place_codes": {
+  "Tachlovice": 164828
+ },
+ "district": "Praha-západ",
+ "index": {
+  "volume": "soa-praha/10222"
+ },
+ "points": [
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1748,
+   "months": "III–V",
+   "page": "fol. 88v–89r",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

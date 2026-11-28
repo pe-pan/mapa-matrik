@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4954",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4954",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4954/{scan}",
+ "signature": "Dobrovice 08",
+ "parish": "Dobrovice",
+ "records": {
+  "O": "1789–1817"
+ },
+ "order": "by_village",
+ "places": [
+  "Dobrovice",
+  "Vinařice"
+ ],
+ "place_codes": {
+  "Dobrovice": 27472,
+  "Vinařice": 182290
+ },
+ "district": "Mladá Boleslav",
+ "index": {
+  "volume": "soa-praha/4973"
+ },
+ "points": [
+  {
+   "scan": 34,
+   "type": "O",
+   "place": "Vinařice",
+   "year": 1789,
+   "year_to": 1791,
+   "months": "I–V",
+   "page": "fol. 37",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1793,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "place": "Vinařice",
+   "year": 1804,
+   "year_to": 1806,
+   "months": "VII–XI",
+   "page": "fol. 42",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

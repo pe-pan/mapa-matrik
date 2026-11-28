@@ -16,6 +16,24 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/11959/{scan}",
  "points": [
   {
+   "scan": 17,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "iN",
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "iN",
+   "letters": "S–Sch",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 34,
    "type": "iN",
    "year": 1784,
@@ -117,6 +135,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

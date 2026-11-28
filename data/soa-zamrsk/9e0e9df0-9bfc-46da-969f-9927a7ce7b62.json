@@ -1,0 +1,107 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "9e0e9df0-9bfc-46da-969f-9927a7ce7b62",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/9e0e9df0-9bfc-46da-969f-9927a7ce7b62",
+ "signature": "176-2",
+ "parish": "Voděrady",
+ "records": {
+  "O": "1784–1848",
+  "iO": "1784–1848"
+ },
+ "scans": 188,
+ "places": [
+  "Uhřínovice",
+  "Ježkovice",
+  "Houdkovice",
+  "Nová Ves",
+  "Panská Ves",
+  "Radostovice",
+  "Vyhnanice",
+  "Voděrady",
+  "Vojenice"
+ ],
+ "place_codes": {
+  "Uhřínovice": 184217,
+  "Ježkovice": 59471,
+  "Houdkovice": 168335,
+  "Nová Ves": 105627,
+  "Panská Ves": 102172,
+  "Radostovice": 83615,
+  "Vyhnanice": 187542,
+  "Voděrady": 184225,
+  "Vojenice": 105635
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "title",
+   "note": "desky (obal)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "place": "Ježkovice",
+   "year": 1838,
+   "year_to": 1840,
+   "page": "63",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "place": "Houdkovice",
+   "year": 1811,
+   "year_to": 1814,
+   "page": "82–83",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "place": "Houdkovice",
+   "year": 1835,
+   "year_to": 1836,
+   "page": "98",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 174,
+   "type": "iO",
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 175,
+   "type": "iO",
+   "letters": "C/Č",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 177,
+   "type": "iO",
+   "letters": "F, G/J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 183,
+   "type": "iO",
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 185,
+   "type": "iO",
+   "letters": "S",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

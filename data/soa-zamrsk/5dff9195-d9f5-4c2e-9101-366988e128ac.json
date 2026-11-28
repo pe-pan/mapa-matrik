@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "5dff9195-d9f5-4c2e-9101-366988e128ac",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/5dff9195-d9f5-4c2e-9101-366988e128ac",
+ "signature": "114-14",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "Z": "1784–1853"
+ },
+ "scans": 241,
+ "places": [
+  "Nové Město nad Metují",
+  "Horské Předměstí",
+  "Krajské Předměstí"
+ ],
+ "place_codes": {
+  "Nové Město nad Metují": 410420
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 25,
+   "type": "Z",
+   "year": 1787,
+   "months": "III–V",
+   "page": "40–41",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

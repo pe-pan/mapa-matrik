@@ -1,0 +1,121 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "4A762CA9326A498690DFEB4E614AAFE8",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=4A762CA9326A498690DFEB4E614AAFE8",
+ "signature": "KUN N3O3Z3",
+ "parish": "Kunratice",
+ "scans": 223,
+ "places": [
+  "Hrnčíře",
+  "Šeberov",
+  "Vestec"
+ ],
+ "place_codes": {
+  "Šeberov": 162132
+ },
+ "order": "chronological",
+ "records": {
+  "N": "1780–1784",
+  "O": "1778–1779"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1780,
+   "months": "IX–XII",
+   "page": "fol. 104",
+   "note": "dole záhlaví A° 1781",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1781,
+   "months": "I–VI",
+   "page": "fol. 105",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1781,
+   "months": "VII–XII",
+   "page": "fol. 106",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "XII–III",
+   "page": "fol. 107",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1782,
+   "months": "IV–X",
+   "page": "fol. 108",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1782,
+   "year_to": 1783,
+   "months": "XI–VI",
+   "page": "fol. 109",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "year": 1783,
+   "months": "VI–X",
+   "page": "fol. 110",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1783,
+   "year_to": 1784,
+   "months": "XI–IV",
+   "page": "fol. 111",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 114,
+   "type": "N",
+   "year": 1784,
+   "months": "IV–IX",
+   "page": "fol. 112",
+   "note": "konec oddílu narozených („1784 Finis“)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "O",
+   "year": 1778,
+   "year_to": 1779,
+   "months": "VI–VIII",
+   "page": "fol. 147",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

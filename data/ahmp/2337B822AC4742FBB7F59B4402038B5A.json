@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "2337B822AC4742FBB7F59B4402038B5A",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=2337B822AC4742FBB7F59B4402038B5A",
+ "signature": "KUN N2O2Z2",
+ "parish": "Kunratice",
+ "scans": 184,
+ "places": [
+  "Kunratice",
+  "Libuš",
+  "Písnice"
+ ],
+ "place_codes": {
+  "Kunratice": 400262,
+  "Libuš": 400254,
+  "Písnice": 120987
+ },
+ "order": "mixed",
+ "records": {
+  "N": "1778–1789",
+  "O": "1755–1756",
+  "Z": "1756–1789"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1778,
+   "year_to": 1779,
+   "months": "XII–II",
+   "page": "114–115",
+   "note": "latinsky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1781,
+   "months": "VII–X",
+   "page": "126–127",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "XI–V",
+   "page": "128–129",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1782,
+   "months": "VI–XI",
+   "page": "130–131",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "place": "Libuš",
+   "year": 1788,
+   "year_to": 1789,
+   "note": "levá strana prázdná; konec oddílu, josefínský formulář",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1755,
+   "year_to": 1756,
+   "page": "120",
+   "note": "česky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "Z",
+   "year": 1756,
+   "year_to": 1757,
+   "months": "XI–III",
+   "page": "164",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 178,
+   "type": "Z",
+   "place": "Kunratice",
+   "year": 1787,
+   "year_to": 1789,
+   "note": "josefínský formulář, konec knihy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

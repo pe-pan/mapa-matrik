@@ -1,0 +1,106 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "826d4385-6472-4c9c-b176-e73e4f240ef1",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/826d4385-6472-4c9c-b176-e73e4f240ef1",
+ "signature": "114-4308",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "iN": "1754–1834"
+ },
+ "scans": 69,
+ "district": "Náchod",
+ "places": [
+  "Nové Město nad Metují"
+ ],
+ "place_codes": {
+  "Nové Město nad Metují": 410420
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "iN",
+   "year": 1754,
+   "year_to": 1766,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "iN",
+   "year": 1781,
+   "year_to": 1800,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "year": 1814,
+   "year_to": 1826,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "iN",
+   "year": 1782,
+   "year_to": 1798,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "iN",
+   "year": 1771,
+   "year_to": 1783,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "iN",
+   "year": 1761,
+   "year_to": 1777,
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "iN",
+   "year": 1777,
+   "year_to": 1790,
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "iN",
+   "year": 1781,
+   "year_to": 1795,
+   "letters": "Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "iN",
+   "year": 1795,
+   "year_to": 1808,
+   "letters": "Š",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

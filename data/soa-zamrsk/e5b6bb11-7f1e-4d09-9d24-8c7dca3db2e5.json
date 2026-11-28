@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "e5b6bb11-7f1e-4d09-9d24-8c7dca3db2e5",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/e5b6bb11-7f1e-4d09-9d24-8c7dca3db2e5",
+ "signature": "150-4",
+ "parish": "Solnice",
+ "records": {
+  "N": "1784–1816"
+ },
+ "scans": 155,
+ "places": [
+  "Solnice",
+  "Ještětice",
+  "Kvasiny",
+  "Litohrady",
+  "Skuhrov nad Bělou",
+  "Brocná",
+  "Debřece",
+  "Hamernice",
+  "Hraštice",
+  "Nová Ves",
+  "Pičberk",
+  "Proloh",
+  "Svinná"
+ ],
+ "place_codes": {
+  "Solnice": 152421,
+  "Ještětice": 152412,
+  "Kvasiny": 78191,
+  "Litohrady": 84735,
+  "Skuhrov nad Bělou": 149101,
+  "Brocná": 12602,
+  "Debřece": 149055,
+  "Hraštice": 149063,
+  "Nová Ves": 149071,
+  "Proloh": 112828,
+  "Svinná": 12629
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 88,
+   "type": "N",
+   "place": "Solnice",
+   "year": 1813,
+   "page": "155–156",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "place": "Solnice",
+   "year": 1814,
+   "page": "163–164",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "N",
+   "place": "Kvasiny",
+   "year": 1793,
+   "year_to": 1794,
+   "months": "XI–V",
+   "page": "fol. 137",
+   "note": "začátek oddílu Kvasiny",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

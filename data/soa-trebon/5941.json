@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5941",
+ "url": "https://digi.ceskearchivy.cz/5941",
+ "signature": "Nová Cerekev 16",
+ "parish": "Nová Cerekev",
+ "records": {
+  "iO": "1672–1820"
+ },
+ "places": [
+  "Nová Cerekev"
+ ],
+ "place_codes": {
+  "Nová Cerekev": 105015
+ },
+ "points": [
+  {
+   "scan": 46,
+   "type": "iO",
+   "letters": "A",
+   "note": "A na pravé straně",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "iO",
+   "year": 1758,
+   "year_to": 1820,
+   "letters": "Ch–K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iO",
+   "letters": "S/Š",
+   "note": "S/Š od 2. sloupce pravé strany",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iO",
+   "year": 1758,
+   "year_to": 1820,
+   "letters": "S–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iO",
+   "letters": "V",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5942",
+ "url": "https://digi.ceskearchivy.cz/5942",
+ "signature": "Nová Cerekev 17",
+ "parish": "Nová Cerekev",
+ "records": {
+  "iN": "1758–1844"
+ },
+ "scans": 58,
+ "order": "mixed",
+ "places": [
+  "Nová Cerekev"
+ ],
+ "place_codes": {
+  "Nová Cerekev": 105015
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "iN",
+   "letters": "A, K",
+   "note": "vpravo A, K nemanželští a začátek K (1760–1770)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "iN",
+   "year": 1758,
+   "year_to": 1811,
+   "letters": "B, K",
+   "note": "B 1758–1811, vpravo dole K 1807–1810",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "iN",
+   "year": 1781,
+   "year_to": 1805,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "iN",
+   "year": 1758,
+   "year_to": 1786,
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "iN",
+   "year": 1788,
+   "year_to": 1811,
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "year": 1758,
+   "year_to": 1811,
+   "letters": "T–W",
+   "note": "vlevo T a U, vpravo W 1758–1780",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "iN",
+   "place": "Nová Cerekev",
+   "year": 1784,
+   "year_to": 1835,
+   "note": "začátek indexu 1784–1835 po vsích",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "iN",
+   "place": "Útěchovičky",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "iN",
+   "place": "Útěchovičky",
+   "letters": "W–Z",
+   "note": "konec oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "iN",
+   "place": "Částkovice",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "iN",
+   "place": "Moraveč",
+   "note": "na snímku i oddíl další vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iN",
+   "place": "Moraveč",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iN",
+   "place": "Moraveč",
+   "note": "konec oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iN",
+   "place": "Pejškov",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "iN",
+   "place": "Proseč",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "iN",
+   "place": "Proseč",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iN",
+   "place": "Stanovice",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "iN",
+   "place": "Stanovice",
+   "note": "vložený přípis z r. 1911",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "iN",
+   "place": "Stanovice",
+   "note": "pravou stranu zakrývá vložený přípis z r. 1911",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "iN",
+   "year": 1836,
+   "year_to": 1844,
+   "letters": "A",
+   "note": "začátek indexu 1836–1844",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "iN",
+   "year": 1836,
+   "year_to": 1844,
+   "letters": "V/W–Z",
+   "note": "poslední snímek knihy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

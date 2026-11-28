@@ -1,0 +1,351 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "19661472-8576-4036-98e0-e771f1a878cb",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/19661472-8576-4036-98e0-e771f1a878cb",
+ "signature": "22-2",
+ "parish": "České Meziříčí",
+ "records": {
+  "N": "1713–1744",
+  "Z": "1713–1744",
+  "O": "1713–1744"
+ },
+ "scans": 155,
+ "places": [
+  "České Meziříčí",
+  "Králova Lhota",
+  "Mochov",
+  "Rohenice",
+  "Skršice",
+  "Slavětín nad Metují",
+  "Tošov",
+  "Vranov",
+  "Jílovice"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Králova Lhota": 72613,
+  "Rohenice": 22691,
+  "Skršice": 148661,
+  "Tošov": 148679
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1716,
+   "months": "I",
+   "page": "10",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1721,
+   "months": "VII",
+   "page": "31",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1722,
+   "months": "IX–XI",
+   "page": "36–37",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1725,
+   "months": "V–VIII",
+   "page": "52–53",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1728,
+   "months": "X",
+   "page": "71",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1728,
+   "months": "XII",
+   "page": "72",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1729,
+   "year_to": 1730,
+   "months": "XII–IV",
+   "page": "78–79",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1730,
+   "year_to": 1731,
+   "months": "X–I",
+   "page": "82–83",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1731,
+   "months": "II–VI",
+   "page": "84–85",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1731,
+   "months": "VI–X",
+   "page": "86–87",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1731,
+   "year_to": 1732,
+   "months": "X–I",
+   "page": "88–89",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1732,
+   "months": "I–V",
+   "page": "90–91",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1732,
+   "months": "V–IX",
+   "page": "92–93",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1732,
+   "year_to": 1733,
+   "months": "IX–I",
+   "page": "94–95",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1733,
+   "months": "I–V",
+   "page": "96–97",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1733,
+   "months": "V–IX",
+   "page": "98–99",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1733,
+   "year_to": 1734,
+   "months": "IX–II",
+   "page": "100–101",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1734,
+   "months": "II",
+   "page": "102",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1734,
+   "year_to": 1735,
+   "months": "XI–III",
+   "page": "106–107",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1735,
+   "months": "III–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1735,
+   "months": "VI–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1735,
+   "months": "VIII–XI",
+   "page": "112",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1735,
+   "year_to": 1736,
+   "months": "XII–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1736,
+   "months": "V–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1736,
+   "year_to": 1737,
+   "months": "X–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1737,
+   "months": "I–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1737,
+   "months": "V–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1737,
+   "year_to": 1738,
+   "months": "IX–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1738,
+   "months": "I–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1738,
+   "months": "VIII–XI",
+   "page": "128–129",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1738,
+   "year_to": 1739,
+   "months": "XI–I",
+   "page": "130–131",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 109,
+   "type": "Z",
+   "year": 1734,
+   "year_to": 1735,
+   "page": "208–209",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "Z",
+   "year": 1735,
+   "year_to": 1736,
+   "months": "XII–VI",
+   "page": "211",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 128,
+   "type": "O",
+   "year": 1723,
+   "year_to": 1724,
+   "months": "VIII–V",
+   "page": "246–247",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 129,
+   "type": "O",
+   "year": 1724,
+   "year_to": 1725,
+   "months": "VI–II",
+   "page": "248–249",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "year": 1727,
+   "months": "II–XII",
+   "page": "254–255",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 133,
+   "type": "O",
+   "year": 1728,
+   "months": "I–X",
+   "page": "256–257",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 134,
+   "type": "O",
+   "year": 1728,
+   "year_to": 1729,
+   "months": "XI–X",
+   "page": "258–259",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

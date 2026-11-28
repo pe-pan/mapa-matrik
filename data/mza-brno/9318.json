@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "9318",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/9318",
+ "signature": "Nové Město na Moravě, evangelický sbor h. v., kn. 16717, O 1858–1932",
+ "parish": "Nové Město na Moravě (evangelický sbor h. v.)",
+ "records": {
+  "O": "1858–1932",
+  "iO": "1858–1932"
+ },
+ "district": "Žďár nad Sázavou",
+ "places": [
+  "Nové Město na Moravě",
+  "Pohledec",
+  "Rokytno",
+  "Fryšava",
+  "Petrovice",
+  "Studnice"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Pohledec": 106429,
+  "Rokytno": 141089,
+  "Petrovice": 120189,
+  "Studnice": 141097
+ },
+ "index": {
+  "scans": "2–25",
+  "by": "groom"
+ },
+ "points": [
+  {
+   "scan": 105,
+   "type": "O",
+   "year": 1896,
+   "months": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 155,
+   "type": "O",
+   "year": 1920,
+   "months": "II",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

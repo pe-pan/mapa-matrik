@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4951",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4951",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4951/{scan}",
+ "signature": "Dobrovice 05",
+ "parish": "Dobrovice",
+ "records": {
+  "N": "1788–1817"
+ },
+ "scans": 164,
+ "places": [
+  "Dolánky",
+  "Holé Vrchy",
+  "Chlomek",
+  "Libichov",
+  "Němčice",
+  "Semčice",
+  "Sýčina",
+  "Týnec"
+ ],
+ "place_codes": {
+  "Holé Vrchy": 40908,
+  "Libichov": 82791,
+  "Němčice": 102946,
+  "Semčice": 147168,
+  "Sýčina": 161632,
+  "Týnec": 172260
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 113,
+   "type": "N",
+   "place": "Libichov",
+   "year": 1792,
+   "page": "111",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "place": "Chlomek",
+   "year": 1788,
+   "year_to": 1790,
+   "page": "138",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

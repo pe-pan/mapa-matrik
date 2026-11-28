@@ -284,6 +284,13 @@
    "type": "iN",
    "letters": "N–P",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 104,
+   "type": "iN",
+   "page": "221–222",
+   "letters": "R",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
@@ -298,6 +305,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-25"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ],
  "notes": [

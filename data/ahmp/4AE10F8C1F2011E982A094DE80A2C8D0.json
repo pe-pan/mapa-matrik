@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "4AE10F8C1F2011E982A094DE80A2C8D0",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=4AE10F8C1F2011E982A094DE80A2C8D0",
+ "signature": "UP-IZ 1a",
+ "parish": "Úmrtní protokoly (rejstřík)",
+ "records": {
+  "iZ": "1924–1939"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 5,
+   "type": "iZ",
+   "letters": "Aa–Ab",
+   "note": "Ženy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5931",
+ "url": "https://digi.ceskearchivy.cz/5931",
+ "signature": "N Nová Cerekev 1864–1881, kniha 6",
+ "parish": "Nová Cerekev",
+ "records": {
+  "N": "1864–1881"
+ },
+ "places": [
+  "Nová Cerekev",
+  "Útěchovičky"
+ ],
+ "place_codes": {
+  "Nová Cerekev": 105015
+ },
+ "district": "Pelhřimov",
+ "points": [
+  {
+   "scan": 331,
+   "type": "N",
+   "year": 1878,
+   "months": "II",
+   "page": "320",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 339,
+   "type": "N",
+   "year": 1878,
+   "months": "VI",
+   "page": "328",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

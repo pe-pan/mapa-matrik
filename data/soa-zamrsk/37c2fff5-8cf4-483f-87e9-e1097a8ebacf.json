@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "37c2fff5-8cf4-483f-87e9-e1097a8ebacf",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/37c2fff5-8cf4-483f-87e9-e1097a8ebacf",
+ "signature": "25-8621",
+ "parish": "Dobré",
+ "records": {
+  "iO": "1839–1928"
+ },
+ "scans": 42,
+ "places": [
+  "Beranec",
+  "Dobré",
+  "Dolní Spáleniště",
+  "Hlinné",
+  "Chmeliště",
+  "Kamenice",
+  "Lomy",
+  "Netřeba",
+  "Osečnice",
+  "Petrovice",
+  "Rovenské Šediviny",
+  "Rovné",
+  "Sekyrka",
+  "Skutina",
+  "Žákovec",
+  "Živina"
+ ],
+ "place_codes": {
+  "Dobré": 27197,
+  "Hlinné": 27201,
+  "Chmeliště": 27219,
+  "Kamenice": 27227,
+  "Lomy": 112801,
+  "Osečnice": 112810,
+  "Petrovice": 120138,
+  "Rovné": 27243,
+  "Sekyrka": 112836
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 17,
+   "type": "iO",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "iO",
+   "letters": "K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

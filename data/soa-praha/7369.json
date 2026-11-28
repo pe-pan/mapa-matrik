@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7369",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7369",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/7369/{scan}",
+ "signature": "Křivsoudov 20",
+ "parish": "Křivsoudov",
+ "records": {
+  "O": "1831–1887",
+  "iO": "1831–1887"
+ },
+ "scans": 256,
+ "order": "by_village",
+ "places": [
+  "Křivsoudov"
+ ],
+ "place_codes": {
+  "Křivsoudov": 76414
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "place": "Křivsoudov",
+   "year": 1831,
+   "year_to": 1832,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "place": "Křivsoudov",
+   "year": 1850,
+   "year_to": 1851,
+   "page": "98",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "place": "Alberovice",
+   "year": 1839,
+   "months": "I–IV",
+   "page": "106",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 177,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1831,
+   "year_to": 1833,
+   "page": "189",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 178,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1833,
+   "year_to": 1834,
+   "page": "190",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 179,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1834,
+   "year_to": 1835,
+   "months": "IX–III",
+   "page": "191",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 180,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1836,
+   "months": "V–X",
+   "page": "192",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 189,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1842,
+   "year_to": 1843,
+   "page": "201",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1854,
+   "year_to": 1855,
+   "page": "212",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 236,
+   "type": "iO",
+   "year": 1831,
+   "year_to": 1849,
+   "page": "22–23",
+   "letters": "K",
+   "note": "rejstřík ženichů, str. 22 prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 237,
+   "type": "iO",
+   "year": 1849,
+   "year_to": 1885,
+   "page": "24–25",
+   "letters": "K",
+   "note": "rejstřík ženichů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 238,
+   "type": "iO",
+   "year": 1834,
+   "year_to": 1888,
+   "page": "26–27",
+   "letters": "L",
+   "note": "rejstřík ženichů, str. 26 prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 254,
+   "type": "iO",
+   "page": "60–61",
+   "letters": "Z",
+   "note": "konec rejstříku ženichů, str. 61 prázdná",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

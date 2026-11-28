@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10545",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10545",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10545/{scan}",
+ "signature": "Odolena Voda 09",
+ "parish": "Odolena Voda",
+ "records": {
+  "O": "1784–1846"
+ },
+ "places": [
+  "Dolínek"
+ ],
+ "place_codes": {
+  "Dolínek": 108987
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 115,
+   "type": "O",
+   "place": "Dolínek",
+   "year": 1798,
+   "year_to": 1802,
+   "months": "I–IX",
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 116,
+   "type": "O",
+   "place": "Dolínek",
+   "year": 1803,
+   "year_to": 1807,
+   "page": "6–7",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12297",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12297",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12297/{scan}",
+ "signature": "Solopysky 20",
+ "parish": "Solopysky",
+ "records": {
+  "iN": "1771–1815"
+ },
+ "places": [
+  "Solopysky"
+ ],
+ "points": [
+  {
+   "scan": 52,
+   "type": "iN",
+   "year": 1771,
+   "year_to": 1802,
+   "letters": "T",
+   "note": "vlevo prázdno",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "iN",
+   "year": 1786,
+   "year_to": 1808,
+   "letters": "U",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "iN",
+   "year": 1781,
+   "year_to": 1800,
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "iN",
+   "year": 1800,
+   "year_to": 1812,
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1812,
+   "year_to": 1815,
+   "letters": "W",
+   "note": "pravá strana prázdná",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

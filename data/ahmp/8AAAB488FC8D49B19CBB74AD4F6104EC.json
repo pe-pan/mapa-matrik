@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "8AAAB488FC8D49B19CBB74AD4F6104EC",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=8AAAB488FC8D49B19CBB74AD4F6104EC",
+ "signature": "MAG Z25",
+ "parish": "Magistrát hl. m. Prahy (civilní matrika)",
+ "records": {
+  "Z": "1945",
+  "iZ": "1945"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 268,
+   "type": "iZ",
+   "year": 1945,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 269,
+   "type": "iZ",
+   "year": 1945,
+   "letters": "K",
+   "note": "vlevo pokračování K, vpravo prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 271,
+   "type": "iZ",
+   "year": 1945,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 280,
+   "type": "iZ",
+   "year": 1945,
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

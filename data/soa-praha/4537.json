@@ -1,0 +1,127 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4537",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4537",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4537/{scan}",
+ "signature": "Bystřice 21",
+ "parish": "Bystřice",
+ "records": {
+  "iN": "1688–1786"
+ },
+ "scans": 109,
+ "district": "Benešov",
+ "places": [
+  "Bystřice"
+ ],
+ "place_codes": {
+  "Bystřice": 16772
+ },
+ "points": [
+  {
+   "scan": 30,
+   "type": "iN",
+   "year": 1769,
+   "year_to": 1785,
+   "letters": "G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "iN",
+   "year": 1736,
+   "year_to": 1752,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "iN",
+   "year": 1752,
+   "year_to": 1764,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "iN",
+   "year": 1764,
+   "year_to": 1778,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "iN",
+   "year": 1778,
+   "year_to": 1785,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iN",
+   "year": 1718,
+   "year_to": 1726,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "iN",
+   "year": 1763,
+   "year_to": 1768,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iN",
+   "year": 1769,
+   "year_to": 1777,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iN",
+   "year": 1777,
+   "year_to": 1785,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "iN",
+   "year": 1779,
+   "year_to": 1785,
+   "letters": "T",
+   "note": "vpravo prázdno; data posunutá o řádek proti jménům",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "iN",
+   "year": 1688,
+   "year_to": 1699,
+   "letters": "W",
+   "note": "vlevo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 99,
+   "type": "iN",
+   "year": 1765,
+   "year_to": 1776,
+   "letters": "W",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

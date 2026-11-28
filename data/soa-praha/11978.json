@@ -464,6 +464,31 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 193,
+   "type": "iO",
+   "page": "fol. 219",
+   "letters": "R",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 194,
+   "type": "iO",
+   "page": "fol. 220",
+   "letters": "Ř/W",
+   "note": "vlevo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 195,
+   "type": "iO",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 221",
+   "letters": "S",
+   "note": "jen ženichové",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 196,
    "type": "iO",
    "page": "fol. 222",
@@ -579,6 +604,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

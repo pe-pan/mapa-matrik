@@ -1,0 +1,106 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kralovice-24",
+ "url": "https://www.portafontium.eu/register/soap-pn/kralovice-24",
+ "scans": 136,
+ "signature": "Kralovice 24",
+ "parish": "Kralovice",
+ "places": [
+  "Buček",
+  "Dolní Hradiště",
+  "Dřevec",
+  "Hodyně",
+  "Hradecko",
+  "Kočín",
+  "Kralovice",
+  "Lednice",
+  "Výrov"
+ ],
+ "place_codes": {
+  "Buček": 32964,
+  "Dolní Hradiště": 29149,
+  "Dřevec": 32981,
+  "Hodyně": 33006,
+  "Hradecko": 47244,
+  "Kočín": 67652,
+  "Kralovice": 406538,
+  "Lednice": 79812,
+  "Výrov": 187691
+ },
+ "aliases": {
+  "Buček": [
+   "Butschek",
+   "Budček"
+  ],
+  "Dolní Hradiště": [
+   "Unter-Hradischt",
+   "Unter-Radisch",
+   "Hradišťko",
+   "Hradiště Dolejší"
+  ],
+  "Dřevec": [
+   "Dřewetz"
+  ],
+  "Hodyně": [
+   "Hodina"
+  ],
+  "Hradecko": [
+   "Hradetzko"
+  ],
+  "Kočín": [
+   "Kočin",
+   "Kotschin"
+  ],
+  "Kralovice": [
+   "Kralowitz"
+  ],
+  "Lednice": [
+   "Lednitz"
+  ],
+  "Výrov": [
+   "Weirow",
+   "Weirau"
+  ]
+ },
+ "records": {
+  "iN": "1713–1764",
+  "iO": "1713–1764",
+  "iZ": "1713–1764"
+ },
+ "points": [
+  {
+   "scan": 50,
+   "type": "iN",
+   "year": 1741,
+   "year_to": 1746,
+   "letters": "K",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iN",
+   "year": 1746,
+   "year_to": 1749,
+   "letters": "K",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "iN",
+   "year": 1764,
+   "letters": "K",
+   "note": "konec K, nemanželští 1736–1759; dodatek O a Z 1764–1786 zapsán jen za 1764",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

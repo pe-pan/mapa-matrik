@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "CAD42C53857845DD87C1B9210F22A480",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=CAD42C53857845DD87C1B9210F22A480",
+ "signature": "HŠ O5Z3",
+ "parish": "sv. Haštal (Praha)",
+ "scans": 317,
+ "records": {
+  "Z": "1756–1771"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "places": [
+  "Staré Město"
+ ],
+ "place_codes": {
+  "Staré Město": 400017
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 200,
+   "type": "Z",
+   "year": 1756,
+   "year_to": 1757,
+   "months": "XII–I",
+   "page": "fol. 110",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 220,
+   "type": "Z",
+   "year": 1757,
+   "months": "VII–VIII",
+   "page": "fol. 120",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 310,
+   "type": "Z",
+   "year": 1771,
+   "months": "I–II",
+   "page": "fol. 154–165",
+   "note": "latinsky; dvojí foliace",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

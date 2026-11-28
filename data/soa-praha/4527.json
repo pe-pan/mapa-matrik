@@ -1,0 +1,136 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4527",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4527",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4527/{scan}",
+ "signature": "Bystřice 11",
+ "parish": "Bystřice",
+ "records": {
+  "O": "1784–1812"
+ },
+ "order": "by_village",
+ "places": [
+  "Bystřice",
+  "Nesvačily"
+ ],
+ "place_codes": {
+  "Bystřice": 16772,
+  "Nesvačily": 16861
+ },
+ "district": "Benešov",
+ "index": {
+  "volume": "soa-praha/4540"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "O",
+   "place": "Bystřice",
+   "year": 1794,
+   "year_to": 1797,
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "place": "Bystřice",
+   "year": 1797,
+   "year_to": 1799,
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "place": "Bystřice",
+   "year": 1800,
+   "year_to": 1803,
+   "months": "IX–V",
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "place": "Líšno",
+   "year": 1812,
+   "page": "30–31",
+   "note": "společný oddíl Líšno a Obora",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "place": "Líštěnec",
+   "year": 1789,
+   "year_to": 1810,
+   "page": "30–31",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "place": "Obora",
+   "year": 1812,
+   "page": "30–31",
+   "note": "společný oddíl Líšno a Obora",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "place": "Hutě",
+   "year": 1786,
+   "year_to": 1802,
+   "page": "32",
+   "note": "společný oddíl Hutě a Vrbětín",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "place": "Nesvačily",
+   "year": 1786,
+   "year_to": 1793,
+   "page": "33",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "place": "Vrbětín",
+   "year": 1786,
+   "year_to": 1802,
+   "page": "32",
+   "note": "společný oddíl Hutě a Vrbětín",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "place": "Nesvačily",
+   "year": 1794,
+   "year_to": 1799,
+   "page": "34–35",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "O",
+   "place": "Nesvačily",
+   "year": 1800,
+   "year_to": 1807,
+   "page": "36–37",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12731",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12731",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12731/{scan}",
+ "signature": "Svatý Jan pod Skalou 05",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "N": "1816–1833",
+  "iN": "1816–1833"
+ },
+ "places": [
+  "Svatý Jan pod Skalou",
+  "Bubovice",
+  "Hostim",
+  "Kozolupy",
+  "Lužce",
+  "Sedlec",
+  "Srbsko"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261,
+  "Bubovice": 15130,
+  "Kozolupy": 71960,
+  "Lužce": 89249,
+  "Sedlec": 160253,
+  "Srbsko": 152986
+ },
+ "district": "Beroun",
+ "points": [
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1818,
+   "months": "X–XI",
+   "page": "62–63",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1818,
+   "months": "XII",
+   "page": "64–65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1821,
+   "months": "I",
+   "page": "118–119",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1822,
+   "months": "II",
+   "page": "148",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1823,
+   "page": "187",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 224,
+   "type": "N",
+   "year": 1832,
+   "months": "X–XI",
+   "page": "444–445",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 225,
+   "type": "N",
+   "year": 1832,
+   "months": "XI",
+   "page": "446–447",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 240,
+   "type": "iN",
+   "letters": "L–M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 242,
+   "type": "iN",
+   "letters": "N",
+   "note": "levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 243,
+   "type": "iN",
+   "letters": "O–P",
+   "note": "P 1816–1833",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 245,
+   "type": "iN",
+   "year": 1816,
+   "year_to": 1821,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 246,
+   "type": "iN",
+   "year": 1822,
+   "year_to": 1832,
+   "letters": "S",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

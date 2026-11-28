@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "2221B04F5C354B33A840433B249CCE7B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=2221B04F5C354B33A840433B249CCE7B",
+ "signature": "MAG O128",
+ "parish": "Magistrát hl. m. Prahy (civilní sňatky)",
+ "records": {
+  "O": "1946",
+  "iO": "1946"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 266,
+   "type": "iO",
+   "year": 1946,
+   "letters": "K",
+   "note": "K vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 267,
+   "type": "iO",
+   "year": 1946,
+   "letters": "K",
+   "note": "vlevo pokračování K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 268,
+   "type": "iO",
+   "year": 1946,
+   "letters": "K",
+   "note": "samostatný list s pokračováním ženichů K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 281,
+   "type": "iO",
+   "year": 1946,
+   "letters": "Z",
+   "note": "Z vpravo",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

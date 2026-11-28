@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4972",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4972",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4972/{scan}",
+ "signature": "Dobrovice 26",
+ "parish": "Dobrovice",
+ "records": {
+  "N": "1810–1836",
+  "O": "1810–1836",
+  "Z": "1810–1836"
+ },
+ "places": [
+  "Vinařice"
+ ],
+ "place_codes": {
+  "Vinařice": 182290
+ },
+ "district": "Mladá Boleslav",
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1814,
+   "year_to": 1817,
+   "page": "1",
+   "note": "začátek knihy, oddaní",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1822,
+   "year_to": 1823,
+   "page": "34–35",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1836,
+   "page": "66–67",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1836,
+   "page": "68",
+   "note": "poslední zápis N, dál v nové knize",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1810,
+   "year_to": 1811,
+   "page": "69",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "Z",
+   "year": 1811,
+   "year_to": 1814,
+   "page": "70–71",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1830,
+   "year_to": 1833,
+   "page": "82–83",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "blank",
+   "page": "124",
+   "note": "konec knihy, pečeť",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

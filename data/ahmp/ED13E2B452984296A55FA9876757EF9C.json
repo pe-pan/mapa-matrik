@@ -1,0 +1,250 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "ED13E2B452984296A55FA9876757EF9C",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=ED13E2B452984296A55FA9876757EF9C",
+ "signature": "BBČ N3 O3 Z3",
+ "records": {
+  "N": "1784–1826",
+  "O": "1784–1826",
+  "Z": "1784–1826"
+ },
+ "parish": "Bubeneč",
+ "places": [
+  "Bubeneč",
+  "Holešovice"
+ ],
+ "place_codes": {
+  "Bubeneč": 490024,
+  "Holešovice": 490067
+ },
+ "district": "území Hlavního města Prahy",
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 30,
+   "type": "N",
+   "place": "Bubny",
+   "year": 1796,
+   "page": "fol. 13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "place": "Bubny",
+   "year": 1798,
+   "year_to": 1799,
+   "page": "fol. 15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "place": "Bubny",
+   "year": 1803,
+   "year_to": 1804,
+   "page": "fol. 19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "place": "Vinice",
+   "year": 1800,
+   "year_to": 1801,
+   "page": "fol. 42",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "N",
+   "place": "Vinice",
+   "year": 1802,
+   "year_to": 1803,
+   "page": "fol. 43",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "place": "Vinice",
+   "year": 1803,
+   "year_to": 1804,
+   "months": "III–VII",
+   "page": "fol. 43",
+   "note": "razítko 44",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "place": "Vinice",
+   "year": 1806,
+   "year_to": 1807,
+   "months": "XII–V",
+   "page": "fol. 45",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 148,
+   "type": "O",
+   "place": "Vinice",
+   "year": 1794,
+   "year_to": 1795,
+   "months": "II–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 149,
+   "type": "O",
+   "place": "Vinice",
+   "year": 1795,
+   "year_to": 1797,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "O",
+   "place": "Vinice",
+   "year": 1798,
+   "year_to": 1800,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 151,
+   "type": "O",
+   "place": "Vinice",
+   "year": 1800,
+   "year_to": 1803,
+   "months": "IX–IX",
+   "page": "fol. 13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 189,
+   "type": "Z",
+   "place": "Bubny",
+   "year": 1816,
+   "year_to": 1817,
+   "page": "fol. 13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 196,
+   "type": "Z",
+   "place": "Vinice",
+   "year": 1797,
+   "year_to": 1798,
+   "note": "razítko 113'",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 197,
+   "type": "Z",
+   "place": "Vinice",
+   "year": 1799,
+   "year_to": 1800,
+   "page": "fol. 12",
+   "note": "razítko 114",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "Z",
+   "place": "Vinice",
+   "year": 1804,
+   "year_to": 1805,
+   "note": "razítko 115",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 207,
+   "type": "N",
+   "place": "Vinice",
+   "year": 1816,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 207,
+   "type": "Z",
+   "place": "Vinice",
+   "year": 1816,
+   "year_to": 1818,
+   "months": "VIII–III",
+   "page": "fol. 22",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 208,
+   "type": "Z",
+   "place": "Vinice",
+   "year": 1818,
+   "year_to": 1819,
+   "page": "fol. 22'",
+   "note": "razítko 119'",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 209,
+   "type": "Z",
+   "place": "Vinice",
+   "year": 1819,
+   "year_to": 1821,
+   "months": "VII–II",
+   "page": "fol. 23",
+   "note": "razítko 120",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 211,
+   "type": "Z",
+   "place": "Vinice",
+   "year": 1822,
+   "year_to": 1824,
+   "page": "fol. 24",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 212,
+   "type": "Z",
+   "place": "Vinice",
+   "year": 1824,
+   "year_to": 1825,
+   "page": "fol. 24'",
+   "note": "razítko 121'",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 213,
+   "type": "Z",
+   "place": "Vinice",
+   "year": 1825,
+   "year_to": 1826,
+   "page": "fol. 25",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 226,
+   "type": "Z",
+   "place": "Ostrov",
+   "year": 1809,
+   "year_to": 1812,
+   "page": "fol. 35",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 230,
+   "type": "blank",
+   "page": "fol. 146",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

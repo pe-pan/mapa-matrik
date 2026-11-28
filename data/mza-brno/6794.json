@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6794",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6794",
+ "signature": "Nové Město na Moravě, kn. 15930, O 1674–1759",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "O": "1674–1759"
+ },
+ "places": [
+  "Nové Město na Moravě",
+  "Radňovice",
+  "Slavkovice"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Radňovice": 138185,
+  "Slavkovice": 150312
+ },
+ "district": "Žďár nad Sázavou",
+ "points": [
+  {
+   "scan": 124,
+   "type": "O",
+   "year": 1732,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1739,
+   "months": "II",
+   "page": "fol. 274",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

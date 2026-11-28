@@ -1,0 +1,96 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12734",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12734",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12734/{scan}",
+ "signature": "Svatý Jan pod Skalou 02",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "N": "1750–1788"
+ },
+ "places": [
+  "Svatý Jan pod Skalou",
+  "Bubovice",
+  "Hostim",
+  "Kozolupy",
+  "Lužce",
+  "Sedlec",
+  "Srbsko"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261,
+  "Bubovice": 15130,
+  "Kozolupy": 71960,
+  "Lužce": 89249,
+  "Sedlec": 160253,
+  "Srbsko": 152986
+ },
+ "district": "Beroun",
+ "index": {
+  "volume": "soa-praha/12741"
+ },
+ "points": [
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1755,
+   "months": "I–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1755,
+   "months": "VII–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1757,
+   "months": "I–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1768,
+   "months": "X–XII",
+   "note": "roční souhrn 1768",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "XII–IV",
+   "note": "roční souhrn 1769",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1770,
+   "months": "V–X",
+   "note": "nahoře dokončení zápisu z předchozího snímku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1771,
+   "months": "VIII–XII",
+   "note": "tabulkový formulář; roční souhrn 1771",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

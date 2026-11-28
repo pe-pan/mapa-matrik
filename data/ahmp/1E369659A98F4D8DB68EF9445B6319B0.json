@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "1E369659A98F4D8DB68EF9445B6319B0",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=1E369659A98F4D8DB68EF9445B6319B0",
+ "signature": "BŘV N4",
+ "parish": "Břevnov",
+ "records": {
+  "N": "1784–1813"
+ },
+ "scans": 136,
+ "places": [
+  "Břevnov"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1784,
+   "page": "1",
+   "note": "předsádka + str. 1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1784,
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1785,
+   "months": "IV–VIII",
+   "page": "3",
+   "note": "sudá strana uříznutá",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1786,
+   "months": "I–II",
+   "page": "5",
+   "note": "sudá strana uříznutá",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1786,
+   "months": "VIII–IX",
+   "page": "7",
+   "note": "sudá strana uříznutá",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1787,
+   "months": "I–IV",
+   "page": "9",
+   "note": "sudá strana uříznutá",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

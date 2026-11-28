@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "14603",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/14603",
+ "signature": "Radešínská Svratka, kn. 16107, N 1868–1924",
+ "parish": "Radešínská Svratka",
+ "records": {
+  "N": "1868–1924"
+ },
+ "places": [
+  "Nová Ves"
+ ],
+ "place_codes": {
+  "Nová Ves": 105694
+ },
+ "district": "Žďár nad Sázavou",
+ "notes": [
+  "Jen obec Nová Ves u Nového Města na Moravě."
+ ],
+ "points": [
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1872,
+   "months": "V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1882,
+   "months": "IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1910,
+   "months": "IX",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5928",
+ "url": "https://digi.ceskearchivy.cz/5928",
+ "signature": "N Nová Cerekev 1784–1835, kniha 3",
+ "parish": "Nová Cerekev",
+ "records": {
+  "N": "1784–1835"
+ },
+ "order": "by_village",
+ "places": [
+  "Nová Cerekev",
+  "Útěchovičky",
+  "Stanovice"
+ ],
+ "place_codes": {
+  "Nová Cerekev": 105015,
+  "Stanovice": 105023
+ },
+ "district": "Pelhřimov",
+ "index": {
+  "volume": "soa-trebon/5942"
+ },
+ "points": [
+  {
+   "scan": 101,
+   "type": "N",
+   "place": "Útěchovičky",
+   "year": 1786,
+   "year_to": 1790,
+   "months": "X–I",
+   "page": "2",
+   "note": "obě strany číslované 2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "place": "Útěchovičky",
+   "year": 1801,
+   "year_to": 1804,
+   "page": "10–11",
+   "note": "do I/1804",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "place": "Útěchovičky",
+   "year": 1819,
+   "months": "III–X",
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 394,
+   "type": "N",
+   "place": "Stanovice",
+   "year": 1796,
+   "year_to": 1800,
+   "months": "III–XI",
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 395,
+   "type": "N",
+   "place": "Stanovice",
+   "year": 1804,
+   "year_to": 1808,
+   "page": "10–11",
+   "note": "od I/1804",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 397,
+   "type": "N",
+   "place": "Stanovice",
+   "year": 1811,
+   "year_to": 1815,
+   "page": "14–15",
+   "note": "od X/1811",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 415,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1786,
+   "note": "poslední snímek knihy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "b8af87aa-9ba1-4572-aba4-040e85013303",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/b8af87aa-9ba1-4572-aba4-040e85013303",
+ "signature": "22-14",
+ "parish": "České Meziříčí",
+ "records": {
+  "iZ": "1793–1864"
+ },
+ "scans": 77,
+ "places": [
+  "České Meziříčí",
+  "Králova Lhota",
+  "Mochov",
+  "Ostrov",
+  "Rohenice",
+  "Roheničky",
+  "Skršice",
+  "Slavětín nad Metují",
+  "Tošov"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Králova Lhota": 72613,
+  "Rohenice": 22691,
+  "Skršice": 148661,
+  "Tošov": 148679
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 7,
+   "type": "iZ",
+   "year": 1793,
+   "year_to": 1801,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "iZ",
+   "year": 1801,
+   "year_to": 1815,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "iZ",
+   "year": 1815,
+   "year_to": 1836,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "iZ",
+   "year": 1836,
+   "year_to": 1853,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "blank",
+   "note": "prázdný předtištěný list rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "iZ",
+   "year": 1850,
+   "year_to": 1864,
+   "letters": "Č",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "blank",
+   "note": "prázdný předtištěný list rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "iZ",
+   "year": 1808,
+   "year_to": 1842,
+   "letters": "J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "iZ",
+   "letters": "J",
+   "note": "konec písmene J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "iZ",
+   "year": 1793,
+   "year_to": 1799,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "iZ",
+   "year": 1800,
+   "year_to": 1817,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "blank",
+   "note": "prázdný předtištěný list rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "iZ",
+   "year": 1818,
+   "year_to": 1836,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "blank",
+   "note": "prázdný předtištěný list rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "blank",
+   "note": "prázdný předtištěný list rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "blank",
+   "note": "prázdný předtištěný list rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "iZ",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "iZ",
+   "year": 1798,
+   "year_to": 1811,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "iZ",
+   "year": 1811,
+   "year_to": 1825,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "iZ",
+   "year": 1825,
+   "year_to": 1837,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "blank",
+   "note": "prázdný předtištěný list rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "blank",
+   "note": "prázdný předtištěný list rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iZ",
+   "year": 1862,
+   "year_to": 1864,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iZ",
+   "year": 1793,
+   "year_to": 1798,
+   "letters": "S/Š",
+   "note": "písmeno S vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "iZ",
+   "year": 1798,
+   "year_to": 1808,
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12736",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12736",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12736/{scan}",
+ "parish": "Svatý Jan pod Skalou",
+ "signature": "Svatý Jan pod Skalou 15",
+ "records": {
+  "iO": "1750–1803"
+ },
+ "scans": 11,
+ "places": [
+  "Svatý Jan pod Skalou"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261
+ },
+ "points": [
+  {
+   "scan": 2,
+   "type": "iO",
+   "letters": "A–B",
+   "note": "na začátku titul rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 3,
+   "type": "iO",
+   "letters": "B–Č",
+   "note": "rejstřík obou snoubenců",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "iO",
+   "letters": "Č–F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "iO",
+   "letters": "K–M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "iO",
+   "letters": "M–P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "iO",
+   "letters": "P–S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "iO",
+   "letters": "S–Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

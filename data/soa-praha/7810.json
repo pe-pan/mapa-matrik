@@ -1,0 +1,240 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7810",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7810",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/7810/{scan}",
+ "signature": "Líšnice 04",
+ "parish": "Líšnice",
+ "records": {
+  "N": "1757–1805",
+  "O": "1763–1776"
+ },
+ "order": "by_village",
+ "places": [
+  "Líšnice",
+  "Horní Mokropsy",
+  "Dolní Mokropsy"
+ ],
+ "place_codes": {
+  "Líšnice": 85057
+ },
+ "district": "Praha-západ",
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "points": [
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1767,
+   "months": "VI–IX",
+   "page": "fol. 46v–47r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1767,
+   "months": "IX–XI",
+   "page": "fol. 47v–48r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1767,
+   "months": "XII",
+   "page": "fol. 48v–49r",
+   "note": "týž list jako sn. 52, vlepený lístek odklopený",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1767,
+   "year_to": 1768,
+   "months": "XI–I",
+   "page": "fol. 48v–49r",
+   "note": "vlepený lístek zakrývá část levé strany",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1768,
+   "months": "I–IV",
+   "page": "fol. 49v–50r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1768,
+   "months": "IV–VI",
+   "page": "fol. 50v–51r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1768,
+   "months": "VII–VIII",
+   "page": "fol. 51v–52r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1768,
+   "months": "VIII–XI",
+   "page": "fol. 52v–53r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "XI–II",
+   "page": "fol. 53v–54r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1769,
+   "months": "III–V",
+   "page": "fol. 54v–55r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1769,
+   "months": "V–VII",
+   "page": "fol. 55v–56r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1769,
+   "months": "VIII–XI",
+   "page": "fol. 56v–57r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "XI–II",
+   "page": "fol. 57v–58r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1770,
+   "months": "II–IV",
+   "page": "fol. 58v–59r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 235,
+   "type": "N",
+   "place": "Černolice",
+   "year": 1793,
+   "year_to": 1795,
+   "page": "fol. 243",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 247,
+   "type": "N",
+   "place": "Horní Mokropsy",
+   "year": 1786,
+   "year_to": 1787,
+   "page": "6–7 (fol. 257)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 248,
+   "type": "N",
+   "place": "Horní Mokropsy",
+   "year": 1787,
+   "page": "8–9 (fol. 258)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 249,
+   "type": "N",
+   "place": "Horní Mokropsy",
+   "year": 1788,
+   "months": "VIII",
+   "page": "10–11 (fol. 259)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 250,
+   "type": "N",
+   "place": "Horní Mokropsy",
+   "year": 1788,
+   "year_to": 1790,
+   "page": "12–13 (fol. 260)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 251,
+   "type": "N",
+   "place": "Horní Mokropsy",
+   "year": 1790,
+   "year_to": 1791,
+   "page": "14–15 (fol. 261)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 252,
+   "type": "N",
+   "place": "Horní Mokropsy",
+   "year": 1791,
+   "year_to": 1792,
+   "page": "16–17 (fol. 262)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 253,
+   "type": "N",
+   "place": "Horní Mokropsy",
+   "year": 1792,
+   "year_to": 1793,
+   "page": "18–19 (fol. 263)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 276,
+   "type": "O",
+   "year": 1763,
+   "months": "I–VII",
+   "note": "oddíl O psaný od konce knihy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 300,
+   "type": "O",
+   "year": 1776,
+   "months": "IX–XI",
+   "page": "50–51",
+   "note": "oddíl O psaný od konce knihy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

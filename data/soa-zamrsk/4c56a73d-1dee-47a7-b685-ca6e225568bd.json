@@ -1,0 +1,74 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "4c56a73d-1dee-47a7-b685-ca6e225568bd",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/4c56a73d-1dee-47a7-b685-ca6e225568bd",
+ "signature": "22-8",
+ "parish": "České Meziříčí",
+ "records": {
+  "O": "1793–1856"
+ },
+ "scans": 202,
+ "places": [
+  "České Meziříčí",
+  "Mochov",
+  "Ostrov",
+  "Skršice",
+  "Tošov",
+  "Králova Lhota",
+  "Rohenice",
+  "Roheničky",
+  "Slavětín nad Metují"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Skršice": 148661,
+  "Tošov": 148679,
+  "Králova Lhota": 72613,
+  "Rohenice": 22691
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1817,
+   "months": "XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1819,
+   "year_to": 1820,
+   "months": "VII–I",
+   "page": "fol. 36–37",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "place": "České Meziříčí",
+   "year": 1820,
+   "months": "II–X",
+   "page": "fol. 38–39",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 113,
+   "type": "O",
+   "place": "Králova Lhota",
+   "year": 1819,
+   "months": "II",
+   "page": "fol. 15",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

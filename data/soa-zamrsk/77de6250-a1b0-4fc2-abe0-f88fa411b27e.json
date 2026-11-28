@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "77de6250-a1b0-4fc2-abe0-f88fa411b27e",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/77de6250-a1b0-4fc2-abe0-f88fa411b27e",
+ "signature": "114-4312",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "iZ": "1654–1834"
+ },
+ "scans": 115,
+ "places": [
+  "Nové Město nad Metují",
+  "Bohuslavice",
+  "Černčice",
+  "Vršovka"
+ ],
+ "place_codes": {
+  "Nové Město nad Metují": 410420,
+  "Bohuslavice": 6467,
+  "Černčice": 20061,
+  "Vršovka": 186635
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 32,
+   "type": "iZ",
+   "year": 1741,
+   "year_to": 1759,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "iZ",
+   "year": 1759,
+   "year_to": 1765,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "iZ",
+   "year": 1776,
+   "year_to": 1794,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iZ",
+   "year": 1654,
+   "year_to": 1682,
+   "letters": "K",
+   "note": "odkazy na knihy A (s. 1–20) a B (s. 1–14); písmeno K od 1654",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iZ",
+   "year": 1682,
+   "year_to": 1695,
+   "letters": "K",
+   "note": "odkazy na knihy B (s. 14–46) a C (s. 1–4)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "iZ",
+   "year": 1695,
+   "year_to": 1713,
+   "letters": "K",
+   "note": "odkazy na knihu C, s. 4–95",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "iZ",
+   "year": 1713,
+   "year_to": 1721,
+   "letters": "K",
+   "note": "odkazy na knihu C, s. 96–165",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iZ",
+   "year": 1724,
+   "year_to": 1735,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "iZ",
+   "year": 1736,
+   "year_to": 1747,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iZ",
+   "year": 1806,
+   "year_to": 1817,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iZ",
+   "year": 1817,
+   "year_to": 1828,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iZ",
+   "year": 1828,
+   "year_to": 1834,
+   "letters": "K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

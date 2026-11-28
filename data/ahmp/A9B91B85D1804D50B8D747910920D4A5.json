@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "A9B91B85D1804D50B8D747910920D4A5",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=A9B91B85D1804D50B8D747910920D4A5",
+ "signature": "TO i2",
+ "parish": "sv. Tomáš (Malá Strana)",
+ "records": {
+  "iN": "1632–1768"
+ },
+ "places": [
+  "Malá Strana"
+ ],
+ "place_codes": {
+  "Malá Strana": 490121
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 40,
+   "type": "iN",
+   "year": 1750,
+   "year_to": 1759,
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iN",
+   "year": 1760,
+   "year_to": 1766,
+   "letters": "C",
+   "note": "konec písmene C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1645,
+   "year_to": 1669,
+   "letters": "F",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

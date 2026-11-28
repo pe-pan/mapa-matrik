@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12735",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12735",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12735/{scan}",
+ "signature": "Svatý Jan pod Skalou 10",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "O": "1760–1788"
+ },
+ "places": [
+  "Svatý Jan pod Skalou",
+  "Bubovice",
+  "Hostim",
+  "Kozolupy",
+  "Lužce",
+  "Sedlec",
+  "Srbsko"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261,
+  "Bubovice": 15130,
+  "Kozolupy": 71960,
+  "Lužce": 89249,
+  "Sedlec": 160253,
+  "Srbsko": 152986
+ },
+ "district": "Beroun",
+ "points": [
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1763,
+   "months": "VIII–X",
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1768,
+   "months": "IX",
+   "page": "44–45",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1768,
+   "months": "X",
+   "page": "46–47",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1773,
+   "months": "V–X",
+   "page": "70–71",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1774,
+   "year_to": 1775,
+   "months": "XI–XI",
+   "page": "76–77",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

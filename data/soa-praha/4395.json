@@ -1,0 +1,144 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4395",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4395",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4395/{scan}",
+ "signature": "Budňany-Karlštejn 06",
+ "parish": "Budňany (Karlštejn)",
+ "records": {
+  "N": "1784–1802",
+  "O": "1784–1808",
+  "Z": "1784–1808"
+ },
+ "scans": 229,
+ "places": [
+  "Karlštejn",
+  "Budňany",
+  "Poučník",
+  "Klučice",
+  "Velká Mořina",
+  "Malá Mořina",
+  "Roblín"
+ ],
+ "place_codes": {
+  "Roblín": 140198
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 23,
+   "type": "O",
+   "place": "Velká Mořina",
+   "year": 1785,
+   "year_to": 1787,
+   "months": "I–XI",
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "place": "Velká Mořina",
+   "year": 1788,
+   "year_to": 1789,
+   "page": "1–2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "place": "Velká Mořina",
+   "year": 1792,
+   "year_to": 1797,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "place": "Velká Mořina",
+   "year": 1800,
+   "year_to": 1803,
+   "page": "5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "place": "Velká Mořina",
+   "year": 1803,
+   "year_to": 1806,
+   "months": "VII–II",
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "place": "Malá Mořina",
+   "year": 1806,
+   "year_to": 1808,
+   "page": "8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "place": "Velká Mořina",
+   "year": 1795,
+   "months": "V–VI",
+   "page": "15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "place": "Velká Mořina",
+   "year": 1800,
+   "year_to": 1801,
+   "page": "22",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "place": "Roblín",
+   "year": 1789,
+   "year_to": 1791,
+   "page": "5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 154,
+   "type": "Z",
+   "place": "Karlštejn",
+   "year": 1785,
+   "year_to": 1793,
+   "page": "1",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "Z",
+   "year": 1808,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 180,
+   "type": "Z",
+   "place": "Poučník",
+   "year": 1788,
+   "year_to": 1792,
+   "page": "2",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

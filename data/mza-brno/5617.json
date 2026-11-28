@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5617",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5617",
+ "signature": "Horní Bobrová, kn. 15601, NOZ 1690–1744",
+ "parish": "Horní Bobrová",
+ "records": {
+  "N": "1690–1744",
+  "O": "1690–1744",
+  "Z": "1690–1744"
+ },
+ "places": [
+  "Horní Bobrová",
+  "Slavkovice"
+ ],
+ "place_codes": {
+  "Slavkovice": 150312
+ },
+ "district": "Žďár nad Sázavou",
+ "sections": [
+  {
+   "scans": "299–380",
+   "type": "O"
+  }
+ ],
+ "points": [
+  {
+   "scan": 379,
+   "type": "O",
+   "year": 1744,
+   "months": "IV–VIII",
+   "note": "údaje z pravé strany",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 380,
+   "type": "O",
+   "year": 1744,
+   "months": "XI",
+   "note": "konec oddílu oddaných",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

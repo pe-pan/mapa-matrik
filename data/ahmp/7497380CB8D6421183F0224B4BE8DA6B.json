@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "7497380CB8D6421183F0224B4BE8DA6B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=7497380CB8D6421183F0224B4BE8DA6B",
+ "signature": "BŘV Z6",
+ "records": {
+  "Z": "1816–1829"
+ },
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 31,
+   "type": "Z",
+   "year": 1825,
+   "year_to": 1826,
+   "months": "X–II",
+   "page": "54–55",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "Z",
+   "year": 1826,
+   "months": "II–V",
+   "page": "56–57",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1829,
+   "months": "VII",
+   "page": "80",
+   "note": "konec knihy, ověřovací doložka",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

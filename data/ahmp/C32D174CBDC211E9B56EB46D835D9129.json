@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "C32D174CBDC211E9B56EB46D835D9129",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=C32D174CBDC211E9B56EB46D835D9129",
+ "signature": "UP-IZ 47a",
+ "parish": "Úmrtní protokoly hl. m. Prahy",
+ "records": {
+  "iZ": "1924–1939"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "notes": [
+  "Abecední rejstřík zemřelých celé Prahy."
+ ],
+ "points": [
+  {
+   "scan": 128,
+   "type": "iZ",
+   "page": "176",
+   "letters": "Ší",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 129,
+   "type": "iZ",
+   "year": 1924,
+   "year_to": 1930,
+   "page": "177",
+   "letters": "Ší",
+   "note": "Muži; rejstřík úmrtních protokolů 1924–1939",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 130,
+   "type": "iZ",
+   "year": 1924,
+   "year_to": 1930,
+   "page": "178",
+   "letters": "Ší",
+   "note": "Ženy; rejstřík úmrtních protokolů 1924–1939",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 132,
+   "type": "iZ",
+   "year": 1931,
+   "year_to": 1935,
+   "page": "180",
+   "letters": "Ší",
+   "note": "Ženy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 134,
+   "type": "iZ",
+   "year": 1935,
+   "year_to": 1939,
+   "page": "182",
+   "letters": "Ší",
+   "note": "Ženy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 142,
+   "type": "iZ",
+   "letters": "Ška",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "iZ",
+   "page": "227",
+   "letters": "Šk",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 190,
+   "type": "iZ",
+   "page": "257",
+   "letters": "Šl",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

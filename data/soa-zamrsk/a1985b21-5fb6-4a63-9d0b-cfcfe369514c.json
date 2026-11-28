@@ -11,17 +11,47 @@
  },
  "points": [
   {
+   "scan": 6,
+   "type": "O",
+   "year": 1809,
+   "year_to": 1810,
+   "months": "XI–II",
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1810,
+   "year_to": 1811,
+   "months": "XI–II",
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 20,
    "type": "O",
    "year": 1822,
    "months": "VI",
    "by": "pe-pan"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1833,
+   "months": "II",
+   "page": "58–59",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

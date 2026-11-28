@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "8cafd00a-dd5e-4fdb-9b46-145dfe09e85d",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/8cafd00a-dd5e-4fdb-9b46-145dfe09e85d",
+ "signature": "145-1",
+ "parish": "Skuhrov nad Bělou",
+ "records": {
+  "N": "1787–1834"
+ },
+ "scans": 205,
+ "places": [
+  "Růženina Huť",
+  "Skuhrov nad Bělou",
+  "Brocná",
+  "Boroviny",
+  "Beranec",
+  "Debřece",
+  "Debřece Dvůr",
+  "Slavěnka",
+  "Hamernice",
+  "Hraštice",
+  "Nová Ves",
+  "Pičberk",
+  "Proloh",
+  "Kvasiny",
+  "Rybníčky",
+  "Svinecký Dvůr",
+  "Svinná"
+ ],
+ "place_codes": {
+  "Skuhrov nad Bělou": 149101,
+  "Brocná": 12602,
+  "Debřece": 149055,
+  "Hraštice": 149063,
+  "Nová Ves": 149071,
+  "Proloh": 112828,
+  "Kvasiny": 78191,
+  "Rybníčky": 149098,
+  "Svinná": 12629
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 125,
+   "type": "N",
+   "place": "Debřece",
+   "year": 1833,
+   "year_to": 1834,
+   "page": "231–232",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "place": "Proloh",
+   "year": 1789,
+   "year_to": 1793,
+   "months": "VIII–VIII",
+   "page": "241–242",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 131,
+   "type": "N",
+   "place": "Proloh",
+   "year": 1794,
+   "year_to": 1797,
+   "months": "V–VII",
+   "page": "243–244",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

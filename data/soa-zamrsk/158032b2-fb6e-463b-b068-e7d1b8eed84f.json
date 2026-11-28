@@ -1,0 +1,113 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "158032b2-fb6e-463b-b068-e7d1b8eed84f",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/158032b2-fb6e-463b-b068-e7d1b8eed84f",
+ "signature": "150-12",
+ "parish": "Solnice",
+ "records": {
+  "iN": "1685–1735"
+ },
+ "scans": 92,
+ "places": [
+  "Solnice",
+  "Ještětice",
+  "Kvasiny",
+  "Litohrady",
+  "Skuhrov nad Bělou",
+  "Brocná",
+  "Debřece",
+  "Hamernice",
+  "Hraštice",
+  "Nová Ves",
+  "Pičberk",
+  "Proloh",
+  "Rybníčky",
+  "Svinná",
+  "Benátky",
+  "Bukový",
+  "Jedlová v Orlických horách",
+  "Kačerov",
+  "Malý Uhřínov",
+  "Podolí",
+  "Velký Uhřínov"
+ ],
+ "place_codes": {
+  "Solnice": 152421,
+  "Ještětice": 152412,
+  "Kvasiny": 78191,
+  "Litohrady": 84735,
+  "Skuhrov nad Bělou": 149101,
+  "Brocná": 12602,
+  "Debřece": 149055,
+  "Hraštice": 149063,
+  "Nová Ves": 149071,
+  "Proloh": 112828,
+  "Rybníčky": 149098,
+  "Svinná": 12629
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 12,
+   "type": "iN",
+   "letters": "C–Č",
+   "note": "vlevo C 1728–1735, vpravo Č 1686–1716",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "letters": "Č–D",
+   "note": "vlevo Č 1717–1735, vpravo D 1685–1691",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iN",
+   "year": 1691,
+   "year_to": 1706,
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iN",
+   "year": 1716,
+   "year_to": 1720,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iN",
+   "year": 1720,
+   "year_to": 1726,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "iN",
+   "year": 1727,
+   "year_to": 1732,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iN",
+   "year": 1691,
+   "year_to": 1697,
+   "letters": "L",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10496",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10496",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10496/{scan}",
+ "signature": "Odolena Voda 05",
+ "parish": "Odolena Voda",
+ "records": {
+  "N": "1784–1827"
+ },
+ "places": [
+  "Dolínek"
+ ],
+ "place_codes": {
+  "Dolínek": 108987
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 219,
+   "type": "N",
+   "year": 1826,
+   "year_to": 1827,
+   "note": "levá strana, jiná ves (čtení nejisté)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 219,
+   "type": "N",
+   "place": "Dolínek",
+   "year": 1784,
+   "year_to": 1786,
+   "page": "1",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 220,
+   "type": "N",
+   "place": "Dolínek",
+   "year": 1787,
+   "year_to": 1789,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 221,
+   "type": "N",
+   "place": "Dolínek",
+   "year": 1789,
+   "year_to": 1792,
+   "months": "X–X",
+   "page": "4–5",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

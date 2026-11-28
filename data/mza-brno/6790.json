@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6790",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6790",
+ "signature": "Nové Město na Moravě, kn. 15922, N 1818–1833",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "N": "1818–1833"
+ },
+ "places": [
+  "Nové Město na Moravě",
+  "Petrovice",
+  "Radňovice",
+  "Jiříkovice",
+  "Vlachovice",
+  "Rokytno",
+  "Studnice",
+  "Maršovice",
+  "Pohledec"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Petrovice": 120189,
+  "Radňovice": 138185,
+  "Jiříkovice": 61107,
+  "Vlachovice": 141101,
+  "Rokytno": 141089,
+  "Studnice": 141097,
+  "Maršovice": 106402,
+  "Pohledec": 106429
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 97,
+   "type": "N",
+   "place": "Jiříkovice",
+   "year": 1829,
+   "year_to": 1830,
+   "page": "10–11",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

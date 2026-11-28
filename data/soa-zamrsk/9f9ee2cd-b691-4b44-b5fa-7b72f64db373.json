@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "9f9ee2cd-b691-4b44-b5fa-7b72f64db373",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/9f9ee2cd-b691-4b44-b5fa-7b72f64db373",
+ "signature": "25-6181",
+ "parish": "Dobré",
+ "records": {
+  "N": "1839–1902"
+ },
+ "scans": 96,
+ "places": [
+  "Lomy"
+ ],
+ "place_codes": {
+  "Lomy": 112801
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1839,
+   "months": "X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1842,
+   "months": "II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1844,
+   "months": "II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1846,
+   "months": "VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1875,
+   "months": "VI",
+   "page": "fol. 52",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

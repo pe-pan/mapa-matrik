@@ -59,6 +59,34 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 81,
+   "type": "O",
+   "place": "Šípy",
+   "year": 1805,
+   "year_to": 1806,
+   "page": "154–155",
+   "note": "s. 154 prázdná, s. 155 začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 82,
+   "type": "O",
+   "place": "Šípy",
+   "year": 1807,
+   "year_to": 1811,
+   "page": "156–157",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "O",
+   "place": "Křekovice",
+   "year": 1817,
+   "year_to": 1827,
+   "page": "182–183",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 105,
    "type": "O",
    "year": 1824,
@@ -108,6 +136,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-23"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

@@ -11,11 +11,214 @@
  },
  "points": [
   {
+   "scan": 14,
+   "type": "N",
+   "year": 1809,
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1810,
+   "page": "26–27",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1811,
+   "months": "I–III",
+   "page": "34–35",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1811,
+   "months": "III–V",
+   "page": "36–37",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1811,
+   "months": "VIII–X",
+   "page": "42–43",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1811,
+   "months": "X–XI",
+   "page": "44–45",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1811,
+   "year_to": 1812,
+   "months": "XII–I",
+   "page": "46–47",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1812,
+   "months": "I–II",
+   "page": "48–49",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1812,
+   "months": "VI–VIII",
+   "page": "54–55",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1813,
+   "page": "58",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1813,
+   "months": "V–VII",
+   "page": "62–63",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1813,
+   "months": "VII–IX",
+   "page": "64–65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1813,
+   "months": "IX–X",
+   "page": "66–67",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1813,
+   "months": "XI–XII",
+   "page": "68–69",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1814,
+   "months": "I–II",
+   "page": "70–71",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1814,
+   "months": "II–IV",
+   "page": "72–73",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1814,
+   "months": "IV–V",
+   "page": "74–75",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1814,
+   "months": "V–VIII",
+   "page": "76–77",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1814,
+   "months": "VIII–XI",
+   "page": "78–79",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1815,
+   "months": "I–II",
+   "page": "82–83",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1815,
+   "months": "II–IV",
+   "page": "84–85",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1815,
+   "months": "IV–VI",
+   "page": "86–87",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1815,
+   "months": "VI–VII",
+   "page": "88–89",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1816,
+   "page": "106",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 70,
    "type": "N",
    "year": 1819,
    "months": "V",
    "by": "matriky-index"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1821,
+   "page": "151",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1825,
+   "page": "199",
+   "by": "kosarlukascz"
   },
   {
    "scan": 111,
@@ -32,6 +235,13 @@
    "by": "pe-pan"
   },
   {
+   "scan": 130,
+   "type": "N",
+   "year": 1829,
+   "page": "247",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 152,
    "type": "N",
    "year": 1833,
@@ -39,17 +249,49 @@
    "by": "pe-pan"
   },
   {
+   "scan": 154,
+   "type": "N",
+   "year": 1832,
+   "page": "295",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 166,
    "type": "N",
    "year": 1834,
    "months": "VIII",
    "by": "pe-pan"
+  },
+  {
+   "scan": 178,
+   "type": "N",
+   "year": 1835,
+   "page": "333",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 202,
+   "type": "N",
+   "year": 1837,
+   "page": "381",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 226,
+   "type": "N",
+   "year": 1838,
+   "page": "399",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

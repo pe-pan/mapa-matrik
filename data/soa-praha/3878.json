@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3878",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3878",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/3878/{scan}",
+ "signature": "Benešov 34",
+ "parish": "Benešov",
+ "places": [
+  "Václavice",
+  "Chvojen",
+  "Benešov"
+ ],
+ "place_codes": {
+  "Václavice": 175951,
+  "Chvojen": 2313,
+  "Benešov": 400947
+ },
+ "district": "Benešov",
+ "records": {
+  "iN": "1708–1779"
+ },
+ "notes": [
+  "Novodobý rejstřík N po farních obvodech; roky jen podle viděných oddílů."
+ ],
+ "points": [
+  {
+   "scan": 14,
+   "type": "iN",
+   "letters": "H",
+   "note": "Václavice a Chvojen 1755–1779; vpravo Benešov 1708–1718",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "letters": "M",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

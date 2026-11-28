@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12727",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12727",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12727/{scan}",
+ "signature": "Svatý Jan pod Skalou 13",
+ "parish": "Svatý Jan pod Skalou",
+ "places": [
+  "Svatý Jan pod Skalou",
+  "Bubovice",
+  "Hostim",
+  "Kozolupy",
+  "Lužce",
+  "Sedlec",
+  "Srbsko"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261,
+  "Bubovice": 15130,
+  "Kozolupy": 71960,
+  "Lužce": 89249,
+  "Sedlec": 160253,
+  "Srbsko": 152986
+ },
+ "district": "Beroun",
+ "index": {
+  "scans": "165–177"
+ },
+ "records": {
+  "O": "1816–1825",
+  "iO": "1816–1844"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1816,
+   "months": "I–II",
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1816,
+   "months": "VI–VII",
+   "page": "3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1817,
+   "months": "I",
+   "page": "5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1825,
+   "months": "V–VII",
+   "page": "42",
+   "note": "jedna strana přes celou dvoustranu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 171,
+   "type": "iO",
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 172,
+   "type": "iO",
+   "year": 1817,
+   "year_to": 1844,
+   "letters": "R",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 173,
+   "type": "iO",
+   "year": 1816,
+   "year_to": 1829,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 174,
+   "type": "iO",
+   "letters": "S–T",
+   "note": "S 1830–1844",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 175,
+   "type": "iO",
+   "letters": "U/W–Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

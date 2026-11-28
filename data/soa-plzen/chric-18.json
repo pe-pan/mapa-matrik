@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-18",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-18",
+ "scans": 44,
+ "signature": "Chříč 18",
+ "parish": "Chříč",
+ "records": {
+  "Z": "1834–1944",
+  "iZ": "1834–1944"
+ },
+ "places": [
+  "Holovousy"
+ ],
+ "place_codes": {
+  "Holovousy": 54542
+ },
+ "aliases": {
+  "Holovousy": [
+   "Holofous",
+   "Holofaus"
+  ]
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1844,
+   "year_to": 1849,
+   "months": "VII–II",
+   "page": "6–7",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

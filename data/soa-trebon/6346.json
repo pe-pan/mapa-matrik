@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6346",
+ "url": "https://digi.ceskearchivy.cz/6346",
+ "signature": "NOZ Vlásenice 1862–1915, fara Pelhřimov, kniha 38",
+ "parish": "Pelhřimov",
+ "records": {
+  "N": "1862–1915",
+  "O": "1863–1913",
+  "Z": "1862–1915"
+ },
+ "places": [
+  "Vlásenice"
+ ],
+ "district": "Pelhřimov",
+ "points": [
+  {
+   "scan": 74,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1863,
+   "year_to": 1866,
+   "note": "oddíl O, do II/1866",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1866,
+   "year_to": 1870,
+   "page": "161",
+   "note": "od I/1866",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1870,
+   "year_to": 1875,
+   "page": "162",
+   "note": "do XI/1875",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1876,
+   "year_to": 1879,
+   "months": "XI–VI",
+   "page": "163",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "FAF6C2DD6C63472D8000D13CFC7E5D40",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=FAF6C2DD6C63472D8000D13CFC7E5D40",
+ "signature": "MAG Z14",
+ "parish": "Magistrát hl. m. Prahy (civilní matrika)",
+ "records": {
+  "Z": "1937",
+  "iZ": "1937"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 147,
+   "type": "iZ",
+   "year": 1937,
+   "letters": "G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 151,
+   "type": "iZ",
+   "year": 1937,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 152,
+   "type": "iZ",
+   "year": 1937,
+   "letters": "K",
+   "note": "vlevo pokračování K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

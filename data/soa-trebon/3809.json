@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3809",
+ "url": "https://digi.ceskearchivy.cz/3809",
+ "signature": "O Kyjov 1838–1913, fara Hořepník, kniha 29",
+ "parish": "Hořepník",
+ "records": {
+  "O": "1838–1913"
+ },
+ "places": [
+  "Kyjov"
+ ],
+ "place_codes": {
+  "Kyjov": 16233
+ },
+ "district": "Pelhřimov",
+ "points": [
+  {
+   "scan": 1,
+   "type": "O",
+   "place": "Kyjov",
+   "year": 1842,
+   "months": "VII",
+   "page": "1",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

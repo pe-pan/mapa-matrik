@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12293",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12293",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12293/{scan}",
+ "signature": "Solopysky 03",
+ "parish": "Solopysky",
+ "records": {
+  "N": "1744–1767"
+ },
+ "places": [
+  "Solopysky"
+ ],
+ "points": [
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1757,
+   "months": "III",
+   "page": "238–239",
+   "note": "tabulkový formulář",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 125,
+   "type": "N",
+   "year": 1757,
+   "months": "V",
+   "page": "242–243",
+   "note": "tabulkový formulář",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

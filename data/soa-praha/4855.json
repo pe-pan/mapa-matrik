@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4855",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4855",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4855/{scan}",
+ "signature": "Čestlice 11",
+ "parish": "Čestlice",
+ "records": {
+  "iN": "1740–1843",
+  "iO": "1740–1843",
+  "iZ": "1740–1843"
+ },
+ "places": [
+  "Průhonice",
+  "Petrovice"
+ ],
+ "points": [
+  {
+   "scan": 26,
+   "type": "iN",
+   "letters": "H",
+   "note": "sloupec Lib. = číslo knihy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "iN",
+   "letters": "H",
+   "note": "sloupec Lib. = číslo knihy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "iO",
+   "letters": "H/Ch",
+   "note": "H knihy 2 (1813–1840) a H/Ch knihy 1",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,558 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "84ecd836-1ef3-4c96-a73c-ba7a8428aac4",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/84ecd836-1ef3-4c96-a73c-ba7a8428aac4",
+ "signature": "22-11",
+ "parish": "České Meziříčí",
+ "records": {
+  "iN": "1636–1792",
+  "iZ": "1636–1792",
+  "iO": "1636–1792"
+ },
+ "scans": 191,
+ "places": [
+  "České Meziříčí",
+  "Králova Lhota",
+  "Mochov",
+  "Ostrov",
+  "Rohenice",
+  "Roheničky",
+  "Skršice",
+  "Slavětín nad Metují",
+  "Tošov",
+  "Vranov"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Králova Lhota": 72613,
+  "Rohenice": 22691,
+  "Skršice": 148661,
+  "Tošov": 148679
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 4,
+   "type": "iN",
+   "letters": "A",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "iN",
+   "letters": "A",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "iN",
+   "year": 1714,
+   "year_to": 1731,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "iN",
+   "year": 1732,
+   "year_to": 1750,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 11,
+   "type": "iN",
+   "year": 1764,
+   "year_to": 1777,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "year": 1789,
+   "year_to": 1792,
+   "letters": "B",
+   "note": "konec písmene B, pravá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iN",
+   "year": 1642,
+   "year_to": 1710,
+   "letters": "Č/Ch",
+   "note": "začátek písmene",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "iN",
+   "year": 1740,
+   "year_to": 1760,
+   "letters": "Č/Ch",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "iN",
+   "year": 1715,
+   "year_to": 1731,
+   "letters": "G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "iN",
+   "year": 1732,
+   "year_to": 1766,
+   "letters": "G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "iN",
+   "year": 1758,
+   "year_to": 1768,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "iN",
+   "year": 1768,
+   "year_to": 1780,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "iN",
+   "year": 1780,
+   "year_to": 1792,
+   "letters": "H",
+   "note": "konec písmene H; sloupce po vsích fary",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iN",
+   "year": 1700,
+   "year_to": 1712,
+   "letters": "J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "iN",
+   "year": 1743,
+   "year_to": 1778,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "iN",
+   "year": 1720,
+   "year_to": 1768,
+   "letters": "L",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iN",
+   "year": 1641,
+   "year_to": 1711,
+   "letters": "M",
+   "note": "písmeno M vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iN",
+   "year": 1714,
+   "year_to": 1719,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "iN",
+   "year": 1641,
+   "year_to": 1700,
+   "letters": "P",
+   "note": "písmeno P vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "iN",
+   "year": 1700,
+   "year_to": 1724,
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "iN",
+   "year": 1678,
+   "year_to": 1702,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "iN",
+   "year": 1702,
+   "year_to": 1718,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 76,
+   "type": "iN",
+   "year": 1715,
+   "year_to": 1728,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "iN",
+   "year": 1728,
+   "year_to": 1740,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 79,
+   "type": "iN",
+   "year": 1752,
+   "year_to": 1759,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "iN",
+   "year": 1759,
+   "year_to": 1767,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "iN",
+   "year": 1767,
+   "year_to": 1775,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "iN",
+   "year": 1652,
+   "year_to": 1688,
+   "letters": "V/W",
+   "note": "levá strana prázdná, začátek písmene",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "iN",
+   "year": 1689,
+   "year_to": 1727,
+   "letters": "V/W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 97,
+   "type": "iO",
+   "year": 1725,
+   "year_to": 1783,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "iO",
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 102,
+   "type": "iO",
+   "year": 1773,
+   "year_to": 1778,
+   "letters": "E",
+   "note": "jen 2 zápisy; levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "iO",
+   "year": 1652,
+   "year_to": 1736,
+   "letters": "J/G",
+   "note": "pravá strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 106,
+   "type": "iO",
+   "year": 1639,
+   "year_to": 1730,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 107,
+   "type": "iO",
+   "year": 1731,
+   "year_to": 1781,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 108,
+   "type": "iO",
+   "year": 1783,
+   "letters": "H",
+   "note": "jediný zápis, jinak prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "iO",
+   "year": 1725,
+   "year_to": 1773,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 111,
+   "type": "iO",
+   "year": 1773,
+   "year_to": 1783,
+   "letters": "K",
+   "note": "pravá strana prázdná; konec písmene K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "iO",
+   "year": 1675,
+   "year_to": 1783,
+   "letters": "L",
+   "note": "celé písmeno na pravé straně",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 113,
+   "type": "iO",
+   "year": 1664,
+   "year_to": 1750,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 115,
+   "type": "iO",
+   "letters": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 117,
+   "type": "iO",
+   "year": 1658,
+   "year_to": 1741,
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 119,
+   "type": "iO",
+   "year": 1652,
+   "letters": "R",
+   "note": "písmeno R od 1652",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 120,
+   "type": "iO",
+   "year": 1745,
+   "year_to": 1758,
+   "letters": "R",
+   "note": "konec R, pravá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 121,
+   "type": "iO",
+   "year": 1639,
+   "year_to": 1718,
+   "letters": "S",
+   "note": "levá strana prázdná; písmeno S vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "iO",
+   "year": 1717,
+   "year_to": 1752,
+   "letters": "S",
+   "note": "pokračuje i po 1733",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 123,
+   "type": "iO",
+   "year": 1753,
+   "year_to": 1792,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 124,
+   "type": "iO",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 130,
+   "type": "iZ",
+   "year": 1673,
+   "year_to": 1755,
+   "letters": "A",
+   "note": "písmeno A vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 135,
+   "type": "iZ",
+   "year": 1752,
+   "year_to": 1779,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 136,
+   "type": "iZ",
+   "year": 1780,
+   "year_to": 1792,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "iZ",
+   "year": 1672,
+   "year_to": 1723,
+   "note": "začátek písmene (nejisté)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 147,
+   "type": "iZ",
+   "year": 1722,
+   "year_to": 1770,
+   "letters": "G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 148,
+   "type": "iZ",
+   "year": 1772,
+   "year_to": 1792,
+   "note": "písmeno G vlevo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "iZ",
+   "year": 1717,
+   "year_to": 1747,
+   "note": "písmeno nejisté",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "iZ",
+   "year": 1673,
+   "year_to": 1752,
+   "letters": "L",
+   "note": "písmeno L vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 161,
+   "type": "iZ",
+   "year": 1757,
+   "year_to": 1792,
+   "letters": "L",
+   "note": "písmeno L vlevo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 170,
+   "type": "iZ",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 178,
+   "type": "iZ",
+   "year": 1732,
+   "year_to": 1740,
+   "letters": "S",
+   "note": "písmeno S vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 179,
+   "type": "iZ",
+   "year": 1740,
+   "year_to": 1753,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 180,
+   "type": "iZ",
+   "year": 1753,
+   "year_to": 1767,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 181,
+   "type": "iZ",
+   "year": 1768,
+   "year_to": 1780,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 182,
+   "type": "iZ",
+   "year": 1780,
+   "year_to": 1792,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 184,
+   "type": "iZ",
+   "year": 1745,
+   "year_to": 1792,
+   "letters": "T",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10554",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10554",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10554/{scan}",
+ "signature": "Odolena Voda 11",
+ "parish": "Odolena Voda",
+ "records": {
+  "Z": "1784–1847"
+ },
+ "places": [
+  "Dolínek",
+  "Máslovice"
+ ],
+ "place_codes": {
+  "Dolínek": 108987,
+  "Máslovice": 92223
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 154,
+   "type": "Z",
+   "place": "Dolínek",
+   "year": 1787,
+   "year_to": 1792,
+   "months": "VII–II",
+   "page": "2–3",
+   "note": "na snímku i oddíl Máslovice",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

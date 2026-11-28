@@ -1,0 +1,115 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7443",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7443",
+ "signature": "Žďár – město, kn. 16614, O 1771–1794",
+ "parish": "Žďár nad Sázavou",
+ "records": {
+  "O": "1771–1794"
+ },
+ "order": "mixed",
+ "district": "Žďár nad Sázavou",
+ "places": [
+  "Žďár nad Sázavou",
+  "Jámy",
+  "Obyčtov",
+  "Lhotka",
+  "Počítky",
+  "Vysoké",
+  "Slavkovice",
+  "Sklené",
+  "Hodíškov",
+  "Najdek"
+ ],
+ "place_codes": {
+  "Jámy": 56685,
+  "Obyčtov": 108847,
+  "Počítky": 123196,
+  "Vysoké": 123200,
+  "Slavkovice": 150312,
+  "Sklené": 148253,
+  "Hodíškov": 40282,
+  "Najdek": 37117
+ },
+ "sections": [
+  {
+   "scans": "1–33",
+   "type": "O"
+  },
+  {
+   "scans": "34–38",
+   "type": "O",
+   "place": "Jámy"
+  },
+  {
+   "scans": "39–42",
+   "type": "O",
+   "place": "Obyčtov"
+  },
+  {
+   "scans": "43–45",
+   "type": "O",
+   "place": "Lhotka"
+  },
+  {
+   "scans": "46–50",
+   "type": "O",
+   "place": "Počítky"
+  },
+  {
+   "scans": "51–55",
+   "type": "O",
+   "place": "Vysoké"
+  },
+  {
+   "scans": "56–58",
+   "type": "O",
+   "place": "Slavkovice",
+   "years": "1773–1784"
+  },
+  {
+   "scans": "59–62",
+   "type": "O",
+   "place": "Sklené"
+  },
+  {
+   "scans": "63–66",
+   "type": "O",
+   "place": "Hodíškov"
+  },
+  {
+   "scans": "67–71",
+   "type": "O",
+   "place": "Najdek"
+  }
+ ],
+ "index": {
+  "volume": "mza-brno/7445 (kn. 16621, N + O 1720–1794)"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1772,
+   "months": "V",
+   "page": "41–42",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "place": "Slavkovice",
+   "year": 1776,
+   "year_to": 1777,
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

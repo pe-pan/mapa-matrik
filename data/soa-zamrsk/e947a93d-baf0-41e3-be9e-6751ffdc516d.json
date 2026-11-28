@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "e947a93d-baf0-41e3-be9e-6751ffdc516d",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/e947a93d-baf0-41e3-be9e-6751ffdc516d",
+ "signature": "22-4",
+ "parish": "České Meziříčí",
+ "records": {
+  "N": "1784–1792"
+ },
+ "scans": 57,
+ "places": [
+  "České Meziříčí",
+  "Králova Lhota",
+  "Rohenice",
+  "Roheničky",
+  "Skršice",
+  "Slavětín nad Metují",
+  "Tošov",
+  "Vranov",
+  "Mochov",
+  "Ostrov"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Králova Lhota": 72613,
+  "Rohenice": 22691,
+  "Skršice": 148661,
+  "Tošov": 148679
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1784,
+   "months": "I",
+   "page": "1",
+   "note": "tabulkový formulář",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "place": "České Meziříčí",
+   "year": 1791,
+   "page": "32–33",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "place": "Skršice",
+   "year": 1785,
+   "year_to": 1786,
+   "months": "VII–II",
+   "page": "36–37",
+   "note": "vpravo začátek oddílu Skršice, vlevo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "place": "Skršice",
+   "year": 1786,
+   "year_to": 1788,
+   "months": "VI–XI",
+   "page": "40–41",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "place": "Skršice",
+   "year": 1788,
+   "year_to": 1792,
+   "page": "42–43",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "place": "Králova Lhota",
+   "year": 1788,
+   "months": "XII",
+   "page": "69",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "place": "Králova Lhota",
+   "year": 1791,
+   "page": "72",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "place": "Králova Lhota",
+   "year": 1792,
+   "months": "VII",
+   "page": "74",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "80023C26557A4D36AE14EAA4D4F12014",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=80023C26557A4D36AE14EAA4D4F12014",
+ "signature": "BŘV i1",
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "records": {
+  "iN": "1652–1800"
+ },
+ "notes": [
+  "Rodinný rejstřík (Liber familiarum) po písmenech, „1652–1800“."
+ ],
+ "points": [
+  {
+   "scan": 3,
+   "type": "iN",
+   "letters": "A–B",
+   "note": "titul Index I (1652–1750); rodinný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "iN",
+   "letters": "B",
+   "note": "rodinný rejstřík N/O/Z, Index I; strana bez čísla",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "iN",
+   "page": "4",
+   "letters": "B",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "iN",
+   "letters": "B",
+   "note": "rodinný rejstřík N/O/Z, Index I; strana bez čísla",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "iN",
+   "page": "5",
+   "letters": "B",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "iN",
+   "letters": "B",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "iN",
+   "page": "6",
+   "letters": "B",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "iN",
+   "letters": "B",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "iN",
+   "page": "36",
+   "letters": "K",
+   "note": "rodinný rejstřík N/O/Z, Index I; Ka–Kl",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iN",
+   "page": "38",
+   "letters": "K",
+   "note": "rodinný rejstřík N/O/Z, Index I; Ko",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "iN",
+   "page": "42",
+   "letters": "K",
+   "note": "rodinný rejstřík N/O/Z, Index I; Kř",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iN",
+   "page": "45",
+   "letters": "K",
+   "note": "rodinný rejstřík N/O/Z, Index I; konec K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iN",
+   "page": "46",
+   "letters": "L",
+   "note": "rodinný rejstřík N/O/Z, Index I; začátek L",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "iN",
+   "page": "53",
+   "letters": "M",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "page": "54",
+   "letters": "M",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "iN",
+   "page": "104",
+   "letters": "T",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 111,
+   "type": "iN",
+   "page": "105",
+   "letters": "T",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "iN",
+   "page": "106",
+   "letters": "T",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "iN",
+   "page": "112",
+   "letters": "W",
+   "note": "rodinný rejstřík N/O/Z, Index I; Wa",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "iN",
+   "page": "116",
+   "letters": "W",
+   "note": "rodinný rejstřík N/O/Z, Index I; We–Wl",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 124,
+   "type": "iN",
+   "page": "118",
+   "letters": "W",
+   "note": "rodinný rejstřík N/O/Z, Index I; Wo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 125,
+   "type": "iN",
+   "page": "119",
+   "letters": "W",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 127,
+   "type": "iN",
+   "page": "121",
+   "letters": "W",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 129,
+   "type": "iN",
+   "page": "123",
+   "letters": "Z",
+   "note": "rodinný rejstřík N/O/Z, Index I; začátek Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 131,
+   "type": "iN",
+   "page": "125",
+   "letters": "Z",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 133,
+   "type": "iN",
+   "page": "127",
+   "letters": "Z",
+   "note": "rodinný rejstřík N/O/Z, Index I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 135,
+   "type": "iN",
+   "page": "129",
+   "letters": "Z",
+   "note": "rodinný rejstřík N/O/Z, Index I; konec Index I (Finis Indicis I)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "iN",
+   "page": "fol. 78",
+   "letters": "C",
+   "note": "rodinný rejstřík (N/O/Z); rodinný rejstřík N/O/Z, Index II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 165,
+   "type": "iN",
+   "page": "fol. 85v",
+   "letters": "H",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 166,
+   "type": "iN",
+   "page": "fol. 86",
+   "letters": "H",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 167,
+   "type": "iN",
+   "page": "fol. 86v",
+   "letters": "H",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 168,
+   "type": "iN",
+   "page": "fol. 87",
+   "letters": "H",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 169,
+   "type": "iN",
+   "page": "fol. 87v",
+   "letters": "H",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 170,
+   "type": "iN",
+   "page": "fol. 88",
+   "letters": "H",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 172,
+   "type": "iN",
+   "page": "fol. 89",
+   "letters": "H",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 182,
+   "type": "iN",
+   "page": "fol. 94",
+   "letters": "K",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 183,
+   "type": "iN",
+   "page": "fol. 94v",
+   "letters": "K",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 184,
+   "type": "iN",
+   "page": "fol. 95",
+   "letters": "K",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 185,
+   "type": "iN",
+   "page": "fol. 95v",
+   "letters": "K",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 186,
+   "type": "iN",
+   "page": "fol. 96",
+   "letters": "K",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "iN",
+   "page": "fol. 103",
+   "letters": "K–L",
+   "note": "rodinný rejstřík (N/O/Z)",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

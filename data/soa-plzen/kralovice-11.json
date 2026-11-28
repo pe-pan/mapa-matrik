@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kralovice-11",
+ "url": "https://www.portafontium.eu/register/soap-pn/kralovice-11",
+ "scans": 101,
+ "signature": "Kralovice 11",
+ "parish": "Kralovice",
+ "places": [
+  "Kralovice",
+  "Mariánský Týnec"
+ ],
+ "place_codes": {
+  "Kralovice": 406538,
+  "Mariánský Týnec": 302350
+ },
+ "aliases": {
+  "Kralovice": [
+   "Kralowitz"
+  ]
+ },
+ "district": "Plzeň-sever",
+ "records": {
+  "N": "1830–1848"
+ },
+ "points": [
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1844,
+   "months": "IV–VI",
+   "note": "zápis na pravé straně s. 113",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1844,
+   "months": "VI–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1847,
+   "months": "V–VII",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

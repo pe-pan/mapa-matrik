@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "B59EBA3F11BE4D229E997B40368B9F49",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=B59EBA3F11BE4D229E997B40368B9F49",
+ "signature": "VAL O7",
+ "parish": "sv. Valentin (Praha)",
+ "records": {
+  "O": "1771–1793",
+  "iO": "1750–1833"
+ },
+ "scans": 153,
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "places": [
+  "Staré Město"
+ ],
+ "place_codes": {
+  "Staré Město": 400017
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 80,
+   "type": "iO",
+   "letters": "A",
+   "note": "titul rejstříku ženichů (Elenchus Copulatorum ab Anno 1760)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "iO",
+   "year": 1820,
+   "year_to": 1833,
+   "letters": "E",
+   "note": "doplňky 1820–1833",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "iO",
+   "year": 1750,
+   "year_to": 1802,
+   "letters": "L",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 114,
+   "type": "iO",
+   "year": 1820,
+   "year_to": 1833,
+   "letters": "L",
+   "note": "doplňky 1820–1833",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 115,
+   "type": "iO",
+   "year": 1750,
+   "year_to": 1787,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 116,
+   "type": "iO",
+   "year": 1787,
+   "year_to": 1810,
+   "letters": "M",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

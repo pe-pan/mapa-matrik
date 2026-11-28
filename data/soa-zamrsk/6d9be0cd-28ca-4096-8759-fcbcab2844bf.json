@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "6d9be0cd-28ca-4096-8759-fcbcab2844bf",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/6d9be0cd-28ca-4096-8759-fcbcab2844bf",
+ "signature": "120-15",
+ "parish": "Opočno",
+ "records": {
+  "iO": "1723–1797"
+ },
+ "scans": 35,
+ "places": [
+  "Opočno",
+  "Podchlumí",
+  "Pohoří",
+  "Puličky",
+  "Semechnice",
+  "Trnov"
+ ],
+ "place_codes": {
+  "Opočno": 111953,
+  "Podchlumí": 147176,
+  "Pohoří": 124931,
+  "Semechnice": 147184,
+  "Trnov": 168351
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 13,
+   "type": "iO",
+   "year": 1724,
+   "year_to": 1748,
+   "letters": "H",
+   "note": "písmeno H vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iO",
+   "year": 1748,
+   "year_to": 1766,
+   "letters": "H",
+   "note": "písmeno H vlevo",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

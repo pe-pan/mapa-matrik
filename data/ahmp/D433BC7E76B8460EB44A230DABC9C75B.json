@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "D433BC7E76B8460EB44A230DABC9C75B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=D433BC7E76B8460EB44A230DABC9C75B",
+ "signature": "BŘV O10",
+ "records": {
+  "O": "1916–1928"
+ },
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka",
+  "Střešovice"
+ ],
+ "place_codes": {
+  "Břevnov": 490032,
+  "Střešovice": 400424
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 135,
+   "type": "O",
+   "year": 1921,
+   "months": "III",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

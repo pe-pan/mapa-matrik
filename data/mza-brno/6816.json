@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6816",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6816",
+ "signature": "Nové Město na Moravě, kn. 15945, iN 1713–1759",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "iN": "1713–1759"
+ },
+ "places": [
+  "Nové Město na Moravě"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996
+ },
+ "points": [
+  {
+   "scan": 60,
+   "type": "iN",
+   "page": "60",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "iN",
+   "page": "61",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "iN",
+   "page": "88",
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "iN",
+   "page": "89",
+   "letters": "P",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12730",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12730",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12730/{scan}",
+ "signature": "Svatý Jan pod Skalou 04",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "N": "1800–1816",
+  "iN": "1800–1815"
+ },
+ "scans": 79,
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "places": [
+  "Svatý Jan pod Skalou"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261
+ },
+ "points": [
+  {
+   "scan": 1,
+   "type": "title",
+   "note": "obálka knihy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1799,
+   "page": "1",
+   "note": "začátek knihy (od 31. 12. 1799)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 73,
+   "type": "iN",
+   "letters": "L–M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "iN",
+   "letters": "N–P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "iN",
+   "letters": "R",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "iN",
+   "year": 1800,
+   "year_to": 1815,
+   "letters": "Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

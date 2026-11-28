@@ -32,6 +32,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ],
  "points": [
@@ -43,11 +47,39 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 5,
+   "type": "N",
+   "place": "Kožlany",
+   "year": 1784,
+   "months": "VIII–IX",
+   "page": "4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "place": "Kožlany",
+   "year": 1784,
+   "months": "IX–X",
+   "page": "5",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 11,
    "type": "N",
    "year": 1785,
    "page": "11",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "place": "Kožlany",
+   "year": 1785,
+   "year_to": 1786,
+   "months": "VIII–I",
+   "page": "12",
+   "by": "kosarlukascz"
   },
   {
    "scan": 17,
@@ -171,6 +203,25 @@
    "year": 1784,
    "note": "začíná další řada od 1784 (jiná ves)",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "place": "Chříč",
+   "year": 1784,
+   "year_to": 1785,
+   "page": "169",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "N",
+   "place": "Chříč",
+   "year": 1785,
+   "year_to": 1786,
+   "months": "IX–I",
+   "page": "170",
+   "by": "kosarlukascz"
   },
   {
    "scan": 131,

@@ -11,6 +11,55 @@
  },
  "points": [
   {
+   "scan": 78,
+   "type": "N",
+   "year": 1761,
+   "page": "144–145",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1761,
+   "months": "XII",
+   "page": "150–151",
+   "note": "konec roku 1761",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1765,
+   "months": "XII",
+   "page": "230–231",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1765,
+   "year_to": 1766,
+   "months": "XII–II",
+   "page": "232–233",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "O",
+   "year": 1755,
+   "months": "XI",
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 151,
+   "type": "O",
+   "year": 1755,
+   "months": "XI",
+   "page": "8",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 184,
    "type": "O",
    "year": 1763,
@@ -21,6 +70,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

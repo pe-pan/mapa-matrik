@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12292",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12292",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12292/{scan}",
+ "signature": "Solopysky 04",
+ "parish": "Solopysky",
+ "records": {
+  "N": "1767–1787"
+ },
+ "places": [
+  "Solopysky",
+  "Jindice"
+ ],
+ "place_codes": {
+  "Solopysky": 159077,
+  "Jindice": 60291
+ },
+ "district": "Kutná Hora",
+ "index": {
+  "volume": "soa-praha/12297"
+ },
+ "points": [
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1783,
+   "months": "IX–XI",
+   "page": "209–210",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1784,
+   "months": "II–IV",
+   "page": "213–214",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3821",
+ "url": "https://digi.ceskearchivy.cz/3821",
+ "signature": "O Přáslavice 1836–1914, fara Hořepník, kniha 41",
+ "parish": "Hořepník",
+ "records": {
+  "O": "1836–1914"
+ },
+ "places": [
+  "Přáslavice"
+ ],
+ "place_codes": {
+  "Přáslavice": 134091
+ },
+ "district": "Pelhřimov",
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "place": "Přáslavice",
+   "year": 1842,
+   "year_to": 1843,
+   "note": "XI/1842 a zápis z 1843",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "place": "Přáslavice",
+   "year": 1857,
+   "year_to": 1861,
+   "months": "V–I",
+   "page": "6",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "place": "Přáslavice",
+   "year": 1870,
+   "months": "V",
+   "page": "5",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

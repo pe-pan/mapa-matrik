@@ -87,18 +87,52 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 92,
+   "type": "iN",
+   "place": "Vysoký Újezd",
+   "year": 1875,
+   "year_to": 1885,
+   "page": "fol. 97",
+   "letters": "S–Š",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 93,
    "type": "iN",
    "page": "str. 98",
    "place": "Vysoký Újezd",
    "letters": "V (W)",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 94,
+   "type": "iN",
+   "place": "Vysoký Újezd",
+   "year": 1807,
+   "year_to": 1843,
+   "page": "fol. 98v–99r",
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "iN",
+   "place": "Vysoký Újezd",
+   "year": 1844,
+   "year_to": 1883,
+   "page": "fol. 99v–100r",
+   "letters": "W",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

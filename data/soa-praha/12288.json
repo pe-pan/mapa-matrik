@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12288",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12288",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12288/{scan}",
+ "signature": "Solopysky 06",
+ "parish": "Solopysky",
+ "records": {
+  "N": "1816–1834"
+ },
+ "order": "by_village",
+ "places": [
+  "Solopysky",
+  "Jindice"
+ ],
+ "place_codes": {
+  "Solopysky": 159077,
+  "Jindice": 60291
+ },
+ "district": "Kutná Hora",
+ "index": {
+  "volume": "soa-praha/12301"
+ },
+ "points": [
+  {
+   "scan": 339,
+   "type": "N",
+   "place": "Jindice",
+   "year": 1820,
+   "months": "I",
+   "page": "fol. 11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 360,
+   "type": "N",
+   "place": "Jindice",
+   "year": 1826,
+   "months": "IV–IX",
+   "page": "fol. 32",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

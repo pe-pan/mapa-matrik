@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6788",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6788",
+ "signature": "Nové Město na Moravě, kn. 15920, N 1784–1795",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "N": "1784–1795"
+ },
+ "places": [
+  "Nové Město na Moravě",
+  "Petrovice",
+  "Jiříkovice",
+  "Maršovice",
+  "Pohledec",
+  "Radňovice",
+  "Rokytno",
+  "Studnice",
+  "Vlachovice"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Petrovice": 120189,
+  "Jiříkovice": 61107,
+  "Maršovice": 106402,
+  "Pohledec": 106429,
+  "Radňovice": 138185,
+  "Rokytno": 141089,
+  "Studnice": 141097,
+  "Vlachovice": 141101
+ },
+ "district": "Žďár nad Sázavou",
+ "order": "by_village",
+ "sections": [
+  {
+   "scans": "1–67",
+   "type": "N",
+   "place": "Nové Město na Moravě"
+  },
+  {
+   "scans": "68–77",
+   "type": "N",
+   "place": "Petrovice"
+  },
+  {
+   "scans": "77–86",
+   "type": "N",
+   "place": "Radňovice"
+  },
+  {
+   "scans": "87–95",
+   "type": "N",
+   "place": "Jiříkovice"
+  },
+  {
+   "scans": "96–104",
+   "type": "N",
+   "place": "Vlachovice"
+  },
+  {
+   "scans": "104–112",
+   "type": "N",
+   "place": "Rokytno"
+  }
+ ],
+ "points": [
+  {
+   "scan": 69,
+   "type": "N",
+   "place": "Petrovice",
+   "year": 1785,
+   "year_to": 1786,
+   "months": "IV–V",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

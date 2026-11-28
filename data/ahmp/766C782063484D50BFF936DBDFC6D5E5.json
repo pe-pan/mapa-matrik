@@ -1,0 +1,176 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "766C782063484D50BFF936DBDFC6D5E5",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=766C782063484D50BFF936DBDFC6D5E5",
+ "signature": "STR N8",
+ "records": {
+  "N": "1860–1872"
+ },
+ "parish": "Strahov – kostel Nanebevzetí P. Marie",
+ "places": [
+  "Hradčany"
+ ],
+ "place_codes": {
+  "Hradčany": 490075
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1864,
+   "year_to": 1865,
+   "months": "XII–I",
+   "page": "118",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "page": "119",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 127,
+   "type": "N",
+   "year": 1865,
+   "months": "IV",
+   "page": "125",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 136,
+   "type": "N",
+   "page": "134",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1865,
+   "months": "X",
+   "note": "kanonická vizitace 30. 10. 1865",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "page": "144",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 161,
+   "type": "N",
+   "page": "159",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "note": "od tohoto snímku česky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 167,
+   "type": "N",
+   "year": 1867,
+   "months": "II–III",
+   "page": "165",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 168,
+   "type": "N",
+   "page": "166",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 182,
+   "type": "N",
+   "year": 1867,
+   "months": "XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 185,
+   "type": "N",
+   "year": 1868,
+   "months": "II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 194,
+   "type": "N",
+   "year": 1868,
+   "months": "VI–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 218,
+   "type": "N",
+   "year": 1869,
+   "months": "VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 231,
+   "type": "N",
+   "year": 1870,
+   "note": "začátek roku 1870",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 238,
+   "type": "N",
+   "year": 1870,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 239,
+   "type": "N",
+   "year": 1870,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 259,
+   "type": "N",
+   "year": 1871,
+   "months": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 281,
+   "type": "N",
+   "year": 1871,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 312,
+   "type": "N",
+   "year": 1872,
+   "months": "X–XI",
+   "page": "308",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 317,
+   "type": "N",
+   "year": 1872,
+   "note": "poslední zápisy knihy, vedle prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 318,
+   "type": "blank",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

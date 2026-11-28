@@ -1,0 +1,174 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-20",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-20",
+ "scans": 130,
+ "signature": "Kožlany 20",
+ "parish": "Kožlany",
+ "records": {
+  "N": "1801–1869",
+  "O": "1806–1935",
+  "Z": "1801–1938",
+  "iN": "1801–1894",
+  "iO": "1801–1894",
+  "iZ": "1801–1894"
+ },
+ "places": [
+  "Hedčany",
+  "Strachovice"
+ ],
+ "place_codes": {
+  "Hedčany": 32999
+ },
+ "aliases": {
+  "Hedčany": [
+   "Hedčan",
+   "Hetzan"
+  ],
+  "Strachovice": [
+   "Strachowitz"
+  ]
+ },
+ "district": "Plzeň-sever",
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "place": "Hedčany",
+   "year": 1806,
+   "year_to": 1810,
+   "months": "XII–III",
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "place": "Hedčany",
+   "year": 1810,
+   "year_to": 1812,
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "place": "Strachovice",
+   "year": 1801,
+   "year_to": 1811,
+   "page": "94–95",
+   "note": "s. 94 prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "place": "Strachovice",
+   "year": 1812,
+   "year_to": 1821,
+   "page": "96–97",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "place": "Strachovice",
+   "year": 1823,
+   "year_to": 1826,
+   "page": "98–99",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "place": "Strachovice",
+   "year": 1856,
+   "year_to": 1858,
+   "page": "112",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "place": "Strachovice",
+   "year": 1806,
+   "year_to": 1822,
+   "page": "113",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "place": "Hedčany",
+   "year": 1802,
+   "year_to": 1809,
+   "page": "164–165",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "place": "Hedčany",
+   "year": 1816,
+   "year_to": 1822,
+   "months": "XI–I",
+   "page": "236–237",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "Z",
+   "place": "Hedčany",
+   "year": 1823,
+   "year_to": 1828,
+   "months": "I–IX",
+   "page": "238–239",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "place": "Hedčany",
+   "year": 1835,
+   "year_to": 1840,
+   "page": "242–243",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 113,
+   "type": "Z",
+   "place": "Strachovice",
+   "year": 1821,
+   "year_to": 1847,
+   "page": "302–303",
+   "note": "s. 302 1821–1829, s. 303 1831–1847",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "Z",
+   "place": "Strachovice",
+   "year": 1932,
+   "year_to": 1938,
+   "page": "312–313",
+   "note": "s. 313 prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 128,
+   "type": "iN",
+   "page": "334–335",
+   "letters": "K–N, P–T",
+   "note": "společný rejstřík N/O/Z, skoro prázdný",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

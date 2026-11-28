@@ -1,0 +1,113 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12725",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12725",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12725/{scan}",
+ "signature": "Svatý Jan pod Skalou 11",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "O": "1784–1805"
+ },
+ "order": "by_village",
+ "places": [
+  "Svatý Jan pod Skalou",
+  "Bubovice",
+  "Hostim",
+  "Kozolupy",
+  "Lužce",
+  "Sedlec",
+  "Srbsko"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261,
+  "Bubovice": 15130,
+  "Kozolupy": 71960,
+  "Lužce": 89249,
+  "Sedlec": 160253,
+  "Srbsko": 152986
+ },
+ "district": "Beroun",
+ "points": [
+  {
+   "scan": 14,
+   "type": "O",
+   "place": "Hostim",
+   "year": 1797,
+   "year_to": 1800,
+   "months": "XI–VI",
+   "page": "4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "place": "Hostim",
+   "year": 1802,
+   "year_to": 1803,
+   "page": "6",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "place": "Srbsko",
+   "year": 1785,
+   "year_to": 1791,
+   "page": "1",
+   "note": "začátek oddílu vsi; jazýčky vsí na okraji",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "place": "Srbsko",
+   "year": 1801,
+   "year_to": 1803,
+   "page": "6",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "place": "Kozolupy",
+   "year": 1784,
+   "year_to": 1788,
+   "page": "1",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "place": "Kozolupy",
+   "year": 1788,
+   "page": "2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "place": "Kozolupy",
+   "year": 1791,
+   "year_to": 1796,
+   "page": "3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "place": "Kozolupy",
+   "year": 1796,
+   "page": "4",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

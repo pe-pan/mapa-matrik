@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3847",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3847",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/3847/{scan}",
+ "signature": "Benešov 07",
+ "parish": "Benešov",
+ "records": {
+  "N": "1757–1771",
+  "O": "1763–1787",
+  "Z": "1762–1779",
+  "iN": "1757–1778",
+  "iO": "1763–1789",
+  "iZ": "1762–1779"
+ },
+ "scans": 712,
+ "district": "Benešov",
+ "places": [
+  "Benešov"
+ ],
+ "place_codes": {
+  "Benešov": 400947
+ },
+ "points": [
+  {
+   "scan": 309,
+   "type": "iN",
+   "year": 1757,
+   "year_to": 1778,
+   "letters": "F–H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 310,
+   "type": "iN",
+   "year": 1757,
+   "year_to": 1778,
+   "letters": "H–K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 325,
+   "type": "iO",
+   "letters": "B–C",
+   "note": "jen ženichové",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 328,
+   "type": "iO",
+   "year": 1763,
+   "year_to": 1789,
+   "letters": "H",
+   "note": "jen ženichové",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 336,
+   "type": "iO",
+   "year": 1763,
+   "year_to": 1789,
+   "letters": "S",
+   "note": "jen ženichové",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 345,
+   "type": "O",
+   "year": 1763,
+   "months": "I–V",
+   "page": "fol. 2",
+   "note": "začátek oddílu oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 400,
+   "type": "O",
+   "year": 1768,
+   "months": "II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 700,
+   "type": "iZ",
+   "year": 1762,
+   "year_to": 1779,
+   "letters": "R–S",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11096",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11096",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11096/{scan}",
+ "signature": "Rataje nad Sázavou 16",
+ "parish": "Rataje nad Sázavou",
+ "records": {
+  "iO": "1651–1800"
+ },
+ "places": [
+  "Rataje nad Sázavou"
+ ],
+ "place_codes": {
+  "Rataje nad Sázavou": 139670
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "iO",
+   "year": 1653,
+   "year_to": 1783,
+   "letters": "T",
+   "note": "jen ženichové",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "iO",
+   "year": 1698,
+   "year_to": 1796,
+   "letters": "U",
+   "note": "jen ženichové",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "iO",
+   "letters": "W–Z",
+   "note": "jen ženichové; W 1756–1800, Z 1666–1785",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

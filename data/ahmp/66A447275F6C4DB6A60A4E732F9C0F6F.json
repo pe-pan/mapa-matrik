@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "66A447275F6C4DB6A60A4E732F9C0F6F",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=66A447275F6C4DB6A60A4E732F9C0F6F",
+ "signature": "LBŇ Z22",
+ "records": {
+  "Z": "1948"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "parish": "Libeň – kostel Neposkvrněného početí P. Marie",
+ "places": [
+  "Libeň"
+ ],
+ "place_codes": {
+  "Libeň": 490105
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 310,
+   "type": "Z",
+   "year": 1948,
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "9cc5dd1f-6b90-4cfc-bbd0-69ef3fb4fd45",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/9cc5dd1f-6b90-4cfc-bbd0-69ef3fb4fd45",
+ "signature": "150-3",
+ "parish": "Solnice",
+ "records": {
+  "N": "1771–1793",
+  "Z": "1771–1793",
+  "O": "1771–1793",
+  "iN": "1771–1793",
+  "iZ": "1771–1793",
+  "iO": "1771–1793"
+ },
+ "scans": 303,
+ "places": [
+  "Beranec",
+  "Brocná",
+  "Debřece",
+  "Hamernice",
+  "Hraštice",
+  "Ještětice",
+  "Kvasiny",
+  "Litohrady",
+  "Nová Ves",
+  "Pičberk",
+  "Proloh",
+  "Rybníčky",
+  "Skuhrov nad Bělou",
+  "Solnice",
+  "Svinná",
+  "Vyhnanice"
+ ],
+ "place_codes": {
+  "Brocná": 12602,
+  "Debřece": 149055,
+  "Hraštice": 149063,
+  "Ještětice": 152412,
+  "Kvasiny": 78191,
+  "Litohrady": 84735,
+  "Nová Ves": 149071,
+  "Proloh": 112828,
+  "Rybníčky": 149098,
+  "Skuhrov nad Bělou": 149101,
+  "Solnice": 152421,
+  "Svinná": 12629,
+  "Vyhnanice": 187542
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1774,
+   "months": "II",
+   "page": "40–41",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1784,
+   "months": "VII–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 111,
+   "type": "iN",
+   "year": 1771,
+   "letters": "A–F",
+   "note": "rejstřík křtů od 1771",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "iN",
+   "year": 1771,
+   "letters": "G–J",
+   "note": "rejstřík křtů od 1771",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "iN",
+   "year": 1779,
+   "year_to": 1780,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 178,
+   "type": "O",
+   "year": 1771,
+   "year_to": 1772,
+   "months": "X–II",
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 189,
+   "type": "O",
+   "year": 1776,
+   "months": "II",
+   "page": "24–25",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 245,
+   "type": "Z",
+   "year": 1776,
+   "months": "X–XII",
+   "page": "44–45",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 255,
+   "type": "Z",
+   "year": 1779,
+   "months": "III–V",
+   "page": "64–65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 260,
+   "type": "Z",
+   "page": "74–75",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 262,
+   "type": "Z",
+   "year": 1781,
+   "months": "III–IV",
+   "page": "78–79",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 267,
+   "type": "Z",
+   "year": 1782,
+   "months": "X–XII",
+   "page": "88–89",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

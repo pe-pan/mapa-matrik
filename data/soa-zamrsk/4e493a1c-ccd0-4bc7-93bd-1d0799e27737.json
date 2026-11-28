@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "4e493a1c-ccd0-4bc7-93bd-1d0799e27737",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/4e493a1c-ccd0-4bc7-93bd-1d0799e27737",
+ "signature": "22-9",
+ "parish": "České Meziříčí",
+ "records": {
+  "Z": "1784–1792"
+ },
+ "scans": 33,
+ "places": [
+  "České Meziříčí",
+  "Králova Lhota",
+  "Mochov",
+  "Rohenice",
+  "Roheničky",
+  "Slavětín nad Metují",
+  "Skršice",
+  "Tošov",
+  "Ostrov"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Králova Lhota": 72613,
+  "Rohenice": 22691,
+  "Skršice": 148661,
+  "Tošov": 148679
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 23,
+   "type": "Z",
+   "place": "Králova Lhota",
+   "year": 1792,
+   "page": "48–49",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "Z",
+   "place": "Rohenice",
+   "year": 1784,
+   "year_to": 1787,
+   "months": "XII–V",
+   "page": "54–55",
+   "note": "s. 54 prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "Z",
+   "place": "Rohenice",
+   "year": 1790,
+   "year_to": 1792,
+   "page": "58–59",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

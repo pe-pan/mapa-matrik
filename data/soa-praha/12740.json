@@ -1,0 +1,424 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12740",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12740",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12740/{scan}",
+ "signature": "Svatý Jan pod Skalou 22",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "iN": "1647–1749",
+  "iO": "1669–1759"
+ },
+ "places": [
+  "Svatý Jan pod Skalou",
+  "Bubovice",
+  "Hostim",
+  "Kozolupy",
+  "Lužce",
+  "Sedlec",
+  "Srbsko"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261,
+  "Bubovice": 15130,
+  "Kozolupy": 71960,
+  "Lužce": 89249,
+  "Sedlec": 160253,
+  "Srbsko": 152986
+ },
+ "district": "Beroun",
+ "notes": [
+  "Ruční rejstřík z r. 1944 po písmenech; pro sňatky 1710–1759 jediný pramen online."
+ ],
+ "points": [
+  {
+   "scan": 2,
+   "type": "title",
+   "note": "desky s tabulkou písmen, bez zápisů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 3,
+   "type": "title",
+   "note": "poznámka o pořízení rejstříku (1944)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "iN",
+   "year": 1648,
+   "year_to": 1684,
+   "letters": "A",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "iO",
+   "year": 1679,
+   "year_to": 1747,
+   "letters": "A",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "iN",
+   "year": 1687,
+   "year_to": 1748,
+   "letters": "A",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "iN",
+   "year": 1693,
+   "year_to": 1709,
+   "letters": "B",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "iN",
+   "year": 1709,
+   "year_to": 1726,
+   "letters": "B",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "iO",
+   "letters": "C",
+   "note": "vlevo prázdno; moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "year": 1670,
+   "year_to": 1714,
+   "letters": "C",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iO",
+   "year": 1733,
+   "year_to": 1759,
+   "letters": "C",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iN",
+   "year": 1714,
+   "year_to": 1748,
+   "letters": "C",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "iO",
+   "year": 1674,
+   "year_to": 1719,
+   "letters": "Č",
+   "note": "vlevo prázdno; moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "iN",
+   "year": 1648,
+   "year_to": 1678,
+   "letters": "Č",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "iO",
+   "year": 1721,
+   "year_to": 1758,
+   "letters": "Č",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "iN",
+   "year": 1681,
+   "year_to": 1708,
+   "letters": "Č",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "iN",
+   "year": 1708,
+   "year_to": 1731,
+   "letters": "Č",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "iN",
+   "year": 1731,
+   "year_to": 1747,
+   "letters": "Č",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "letters": "Č",
+   "note": "konec písmene Č (do 1749); moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iO",
+   "year": 1669,
+   "year_to": 1721,
+   "letters": "D",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "iN",
+   "year": 1647,
+   "year_to": 1683,
+   "letters": "D",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "iO",
+   "year": 1721,
+   "year_to": 1759,
+   "letters": "D",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "iN",
+   "year": 1684,
+   "year_to": 1719,
+   "letters": "D",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iN",
+   "letters": "J",
+   "note": "konec písmene J (do 1749); moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iO",
+   "year": 1674,
+   "year_to": 1689,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iO",
+   "year": 1689,
+   "year_to": 1712,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "iO",
+   "year": 1714,
+   "year_to": 1733,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "iO",
+   "year": 1733,
+   "year_to": 1751,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iN",
+   "year": 1649,
+   "year_to": 1671,
+   "letters": "K",
+   "note": "v rejstříku N chybí roky 1650–1667; moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iO",
+   "year": 1751,
+   "year_to": 1759,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "iN",
+   "year": 1671,
+   "year_to": 1685,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "iN",
+   "year": 1685,
+   "year_to": 1694,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "iN",
+   "year": 1694,
+   "year_to": 1702,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "iN",
+   "year": 1709,
+   "year_to": 1719,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iN",
+   "year": 1719,
+   "year_to": 1724,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iN",
+   "year": 1724,
+   "year_to": 1732,
+   "letters": "K",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "iN",
+   "year": 1712,
+   "year_to": 1748,
+   "letters": "L",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "iO",
+   "year": 1669,
+   "year_to": 1695,
+   "letters": "M",
+   "note": "vpravo; moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "iO",
+   "letters": "M",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1649,
+   "year_to": 1689,
+   "letters": "M",
+   "note": "v rejstříku N chybí roky 1650–1667; moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "iN",
+   "year": 1690,
+   "year_to": 1706,
+   "letters": "M",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "iN",
+   "year": 1707,
+   "year_to": 1722,
+   "letters": "M",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "iN",
+   "year": 1723,
+   "year_to": 1733,
+   "letters": "M",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "iN",
+   "year": 1725,
+   "year_to": 1745,
+   "letters": "Ř",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "iO",
+   "year": 1677,
+   "year_to": 1715,
+   "letters": "S",
+   "note": "moderní rejstřík (1944), u písmene O, pak N",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

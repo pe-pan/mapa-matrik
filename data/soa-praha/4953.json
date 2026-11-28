@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4953",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4953",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4953/{scan}",
+ "signature": "Dobrovice 07",
+ "parish": "Dobrovice",
+ "records": {
+  "O": "1744–1788"
+ },
+ "places": [
+  "Dobrovice"
+ ],
+ "place_codes": {
+  "Dobrovice": 27472
+ },
+ "points": [
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1758,
+   "months": "V–VI",
+   "page": "109–110",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

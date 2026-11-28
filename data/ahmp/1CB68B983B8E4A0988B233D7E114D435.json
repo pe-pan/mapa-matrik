@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "1CB68B983B8E4A0988B233D7E114D435",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=1CB68B983B8E4A0988B233D7E114D435",
+ "signature": "LBC N3O3Z2",
+ "parish": "Liboc",
+ "scans": 103,
+ "places": [
+  "Stodůlky",
+  "Zličín",
+  "Řepy",
+  "Ruzyně"
+ ],
+ "place_codes": {
+  "Stodůlky": 490172,
+  "Zličín": 400351,
+  "Řepy": 400483,
+  "Ruzyně": 400394
+ },
+ "records": {
+  "N": "1688–1689"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1688,
+   "months": "III–VII",
+   "page": "fol. 1v–2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1688,
+   "year_to": 1689,
+   "months": "VIII–I",
+   "page": "fol. 2v–3",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

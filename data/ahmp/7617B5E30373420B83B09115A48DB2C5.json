@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "7617B5E30373420B83B09115A48DB2C5",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=7617B5E30373420B83B09115A48DB2C5",
+ "signature": "MGLBŇ Z5",
+ "parish": "Libeň (civilní matrika)",
+ "records": {
+  "Z": "1932–1933"
+ },
+ "places": [
+  "Libeň"
+ ],
+ "place_codes": {
+  "Libeň": 490105
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 226,
+   "type": "Z",
+   "year": 1933,
+   "months": "IX",
+   "note": "č. 181–182",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 227,
+   "type": "Z",
+   "year": 1933,
+   "note": "č. 183–184",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 228,
+   "type": "Z",
+   "year": 1933,
+   "months": "IX",
+   "note": "č. 185–186",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 229,
+   "type": "Z",
+   "year": 1933,
+   "note": "č. 187–188",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 230,
+   "type": "Z",
+   "year": 1933,
+   "note": "č. 189–190",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 231,
+   "type": "Z",
+   "year": 1933,
+   "months": "X",
+   "note": "č. 191–192",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 250,
+   "type": "Z",
+   "year": 1933,
+   "months": "XI",
+   "note": "č. 229–230",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

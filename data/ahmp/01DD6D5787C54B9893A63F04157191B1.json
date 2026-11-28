@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "01DD6D5787C54B9893A63F04157191B1",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=01DD6D5787C54B9893A63F04157191B1",
+ "signature": "BBČ i3",
+ "records": {
+  "iO": "1670–1784"
+ },
+ "parish": "Bubeneč",
+ "places": [
+  "Bubeneč",
+  "Holešovice"
+ ],
+ "place_codes": {
+  "Bubeneč": 490024,
+  "Holešovice": 490067
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 5,
+   "type": "iO",
+   "year": 1749,
+   "year_to": 1783,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "iO",
+   "year": 1669,
+   "year_to": 1722,
+   "letters": "C/Č",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "iO",
+   "year": 1723,
+   "year_to": 1777,
+   "letters": "C/Č",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

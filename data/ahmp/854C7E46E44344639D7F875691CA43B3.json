@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "854C7E46E44344639D7F875691CA43B3",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=854C7E46E44344639D7F875691CA43B3",
+ "signature": "LBC N4O4Z3",
+ "records": {
+  "N": "1726–1763",
+  "O": "1726–1763",
+  "Z": "1726–1763"
+ },
+ "parish": "Liboc",
+ "places": [
+  "Liboc",
+  "Vokovice",
+  "Nebušice"
+ ],
+ "place_codes": {
+  "Liboc": 400408,
+  "Vokovice": 400441,
+  "Nebušice": 400513
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 4,
+   "type": "title",
+   "note": "titul knihy (Matricula … fary Libocké, 1726)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1726,
+   "months": "IV–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1726,
+   "months": "VII–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1726,
+   "year_to": 1727,
+   "months": "XI–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1735,
+   "months": "I–VII",
+   "page": "fol. 7v–8",
+   "note": "vlastní foliace oddílu oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 143,
+   "type": "O",
+   "year": 1737,
+   "months": "VII–XI",
+   "page": "fol. 10v–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "O",
+   "year": 1741,
+   "year_to": 1742,
+   "months": "XI–VIII",
+   "page": "fol. 17v–18",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

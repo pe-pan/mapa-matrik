@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8467",
+ "url": "https://digi.ceskearchivy.cz/8467",
+ "signature": "Vojslavice 12",
+ "parish": "Vojslavice",
+ "records": {
+  "O": "1784–1834"
+ },
+ "places": [
+  "Vojslavice",
+  "Hojanovice"
+ ],
+ "place_codes": {
+  "Vojslavice": 184624,
+  "Hojanovice": 40631
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "place": "Vojslavice",
+   "year": 1788,
+   "year_to": 1791,
+   "page": "2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "place": "Hojanovice",
+   "year": 1794,
+   "months": "II",
+   "page": "1",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

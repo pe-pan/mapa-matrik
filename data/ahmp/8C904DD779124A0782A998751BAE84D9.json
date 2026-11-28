@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "8C904DD779124A0782A998751BAE84D9",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=8C904DD779124A0782A998751BAE84D9",
+ "signature": "DEJ O2",
+ "parish": "Dejvice",
+ "records": {
+  "O": "1784–1800",
+  "iO": "1784–1800"
+ },
+ "scans": 33,
+ "places": [
+  "Dejvice"
+ ],
+ "place_codes": {
+  "Dejvice": 400459
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1785,
+   "year_to": 1786,
+   "months": "IV–I",
+   "page": "1–2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1786,
+   "year_to": 1787,
+   "page": "2v–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1787,
+   "months": "I–X",
+   "page": "3v–4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1787,
+   "year_to": 1788,
+   "months": "X–VIII",
+   "page": "4v–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "iO",
+   "letters": "C–H",
+   "note": "rejstřík ženichů",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "86686D4CEE6F44B8B1AE147DBC85DDC1",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=86686D4CEE6F44B8B1AE147DBC85DDC1",
+ "signature": "BŘV N12",
+ "records": {
+  "N": "1868–1877"
+ },
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 134,
+   "type": "N",
+   "year": 1874,
+   "months": "III",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,719 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ec956979-2a84-44af-94c0-0a8ab722dcae",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ec956979-2a84-44af-94c0-0a8ab722dcae",
+ "signature": "25-2770",
+ "parish": "Bílý Újezd",
+ "records": {
+  "iN": "1663–1770",
+  "iZ": "1663–1770",
+  "iO": "1663–1770"
+ },
+ "scans": 240,
+ "places": [
+  "Bílý Újezd",
+  "Boroviny",
+  "Brocná",
+  "Bucký mlýn",
+  "Hroška",
+  "Chábory",
+  "Lhota u Dobrušky",
+  "Masty",
+  "Netřeba",
+  "Ostrov",
+  "Paseky",
+  "Podbřezí",
+  "Polom",
+  "Roudné",
+  "Skalka",
+  "Víska",
+  "Vitenžovský mlýn",
+  "Černíkovice",
+  "Byzhradec",
+  "Domašín",
+  "Habrová",
+  "Obora",
+  "Třebešov",
+  "Dobré",
+  "Bačetín",
+  "Hlinné",
+  "Kamenice",
+  "Lomy",
+  "Osečnice",
+  "Rovné",
+  "Spáleniště",
+  "Sudín",
+  "Žákovec"
+ ],
+ "place_codes": {
+  "Bílý Újezd": 4715,
+  "Brocná": 12602,
+  "Hroška": 4723,
+  "Masty": 4731,
+  "Paseky": 18651,
+  "Podbřezí": 123391,
+  "Roudné": 4740,
+  "Černíkovice": 20206,
+  "Byzhradec": 17264,
+  "Domašín": 20214,
+  "Třebešov": 169676,
+  "Dobré": 27197,
+  "Bačetín": 744,
+  "Hlinné": 27201,
+  "Kamenice": 27227,
+  "Lomy": 112801,
+  "Osečnice": 112810,
+  "Rovné": 27243,
+  "Spáleniště": 30783,
+  "Sudín": 752
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 18,
+   "type": "iN",
+   "letters": "D",
+   "note": "písmeno D vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "iN",
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "iN",
+   "letters": "D",
+   "note": "písmeno D vlevo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "iN",
+   "year": 1734,
+   "year_to": 1741,
+   "letters": "D",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "iN",
+   "letters": "D–F",
+   "note": "vlevo D 1741–1745, vpravo F 1661–1682",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "iN",
+   "letters": "F–G",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "iN",
+   "year": 1665,
+   "year_to": 1671,
+   "letters": "K",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "iN",
+   "year": 1671,
+   "year_to": 1680,
+   "letters": "K",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "iN",
+   "year": 1680,
+   "year_to": 1690,
+   "letters": "K",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "iN",
+   "year": 1690,
+   "year_to": 1702,
+   "letters": "K",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "iN",
+   "year": 1702,
+   "year_to": 1707,
+   "letters": "K",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iN",
+   "year": 1707,
+   "year_to": 1713,
+   "letters": "K",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iN",
+   "year": 1714,
+   "year_to": 1719,
+   "letters": "K",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iN",
+   "year": 1719,
+   "year_to": 1724,
+   "letters": "K",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "iN",
+   "year": 1724,
+   "year_to": 1729,
+   "letters": "K",
+   "note": "písmeno K vlevo; tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "iN",
+   "year": 1729,
+   "year_to": 1733,
+   "letters": "K",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "iN",
+   "year": 1734,
+   "year_to": 1739,
+   "letters": "K",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "iN",
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "iN",
+   "letters": "M",
+   "note": "písmeno M vlevo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "iN",
+   "letters": "N",
+   "note": "tištěný rejstřík",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "iN",
+   "letters": "P",
+   "note": "tištěný rejstřík",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 79,
+   "type": "iN",
+   "letters": "P",
+   "note": "tištěný rejstřík",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "iN",
+   "letters": "P",
+   "note": "tištěný rejstřík; levá strana končí r. 1709",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 82,
+   "type": "iO",
+   "year": 1717,
+   "year_to": 1727,
+   "letters": "P",
+   "note": "tištěný rejstřík oddaných (vpravo)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "iN",
+   "year": 1709,
+   "year_to": 1713,
+   "letters": "P",
+   "note": "tištěný rejstřík křtů vpravo; vlevo rejstřík oddaných P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "iO",
+   "year": 1728,
+   "year_to": 1738,
+   "letters": "P",
+   "note": "vlevo tištěný rejstřík oddaných; vpravo rejstřík křtů P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 84,
+   "type": "iN",
+   "year": 1713,
+   "year_to": 1722,
+   "letters": "P",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "iN",
+   "letters": "R",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "iN",
+   "year": 1724,
+   "year_to": 1727,
+   "letters": "Š",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "iN",
+   "year": 1727,
+   "year_to": 1730,
+   "letters": "Š",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 105,
+   "type": "iN",
+   "letters": "Š",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 106,
+   "type": "iN",
+   "letters": "Š",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 108,
+   "type": "iN",
+   "year": 1743,
+   "year_to": 1746,
+   "letters": "Š",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "iN",
+   "letters": "T",
+   "note": "tištěný rejstřík křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 130,
+   "type": "iO",
+   "letters": "E",
+   "note": "tištěný rejstřík oddaných; tištěný formulář",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 139,
+   "type": "iO",
+   "year": 1682,
+   "year_to": 1712,
+   "letters": "K",
+   "note": "tištěný rejstřík oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "iO",
+   "year": 1712,
+   "year_to": 1730,
+   "letters": "K",
+   "note": "tištěný rejstřík oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 141,
+   "type": "iO",
+   "year": 1731,
+   "year_to": 1746,
+   "letters": "K",
+   "note": "tištěný rejstřík oddaných; tištěný formulář",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 143,
+   "type": "iO",
+   "year": 1729,
+   "year_to": 1744,
+   "letters": "L",
+   "note": "konec písmene L; pravá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 144,
+   "type": "iO",
+   "year": 1664,
+   "year_to": 1693,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 145,
+   "type": "iO",
+   "year": 1699,
+   "year_to": 1738,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 146,
+   "type": "iO",
+   "letters": "M–N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 147,
+   "type": "iO",
+   "year": 1710,
+   "year_to": 1746,
+   "letters": "N",
+   "note": "tištěný rejstřík oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 148,
+   "type": "iO",
+   "letters": "O",
+   "note": "levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 149,
+   "type": "iO",
+   "year": 1739,
+   "year_to": 1746,
+   "letters": "P",
+   "note": "levá strana prázdná; P 1664–1738 v rejstříku chybí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "iO",
+   "year": 1665,
+   "year_to": 1707,
+   "letters": "R",
+   "note": "tištěný rejstřík oddaných; tištěný formulář",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 155,
+   "type": "iO",
+   "year": 1724,
+   "year_to": 1739,
+   "letters": "Š",
+   "note": "tištěný rejstřík oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 156,
+   "type": "iO",
+   "year": 1739,
+   "year_to": 1746,
+   "letters": "S/Š, T",
+   "note": "vlevo S/Š 1739–1746, vpravo T 1663–1745; tištěný rejstřík oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "iO",
+   "letters": "V–Z",
+   "note": "tištěný rejstřík oddaných, do 1746; konec tištěného rejstříku (oddaní); zemřelí v něm nejsou",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 166,
+   "type": "iN",
+   "year": 1746,
+   "year_to": 1757,
+   "letters": "D",
+   "note": "ručně psaný rejstřík křtů k 6-2; jen pravá strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 168,
+   "type": "iN",
+   "letters": "E",
+   "note": "ručně psaný rejstřík ke knize 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 174,
+   "type": "iN",
+   "letters": "K",
+   "note": "ručně psaný rejstřík k 6-2; ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 175,
+   "type": "iN",
+   "letters": "K",
+   "note": "ručně psaný rejstřík k 6-2; ručně psaný rejstřík ke knize 6-2; ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 176,
+   "type": "iN",
+   "year": 1763,
+   "year_to": 1767,
+   "letters": "K",
+   "note": "ručně psaný rejstřík k 6-2; ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 180,
+   "type": "iN",
+   "year": 1759,
+   "year_to": 1768,
+   "letters": "M",
+   "note": "ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 181,
+   "type": "iN",
+   "year": 1746,
+   "year_to": 1759,
+   "letters": "N",
+   "note": "ručně psaný rejstřík křtů k 6-2; jen pravá strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 182,
+   "type": "iN",
+   "year": 1760,
+   "year_to": 1768,
+   "letters": "N",
+   "note": "ručně psaný rejstřík křtů k 6-2; jen pravá strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 184,
+   "type": "iN",
+   "letters": "P",
+   "note": "P začíná na pravé straně; ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 185,
+   "type": "iN",
+   "letters": "P",
+   "note": "ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 186,
+   "type": "iN",
+   "letters": "P",
+   "note": "konec písmene P (1768); ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 187,
+   "type": "iN",
+   "year": 1746,
+   "year_to": 1768,
+   "note": "ručně psaný rejstřík ke knize 6-2; ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 188,
+   "type": "iN",
+   "year": 1746,
+   "year_to": 1750,
+   "letters": "S/Š",
+   "note": "ručně psaný rejstřík křtů k 6-2; jen pravá strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 189,
+   "type": "iN",
+   "year": 1750,
+   "year_to": 1757,
+   "letters": "S/Š",
+   "note": "ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 190,
+   "type": "iN",
+   "year": 1757,
+   "year_to": 1763,
+   "letters": "S/Š",
+   "note": "ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 192,
+   "type": "iN",
+   "year": 1746,
+   "year_to": 1767,
+   "letters": "T",
+   "note": "ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 194,
+   "type": "iN",
+   "letters": "V/W",
+   "note": "ručně psaný rejstřík křtů k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 198,
+   "type": "iN",
+   "letters": "Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "iN",
+   "note": "konec rejstříku narozených k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 204,
+   "type": "iO",
+   "year": 1746,
+   "year_to": 1767,
+   "letters": "K",
+   "note": "ženichové; rejstřík ke knize 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 205,
+   "type": "iO",
+   "letters": "L",
+   "note": "ručně psaný rejstřík oddavek k 6-2; jen pravá strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 207,
+   "type": "iO",
+   "letters": "N",
+   "note": "ručně psaný rejstřík oddavek k 6-2; jen pravá strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 209,
+   "type": "iO",
+   "year": 1747,
+   "year_to": 1767,
+   "letters": "P",
+   "note": "ženichové; rejstřík ke knize 6-2; ručně psaný rejstřík oddavek k 6-2; jen pravá strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 210,
+   "type": "iO",
+   "year": 1747,
+   "year_to": 1767,
+   "letters": "R",
+   "note": "ženichové; rejstřík ke knize 6-2; ručně psaný rejstřík oddavek k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 211,
+   "type": "iO",
+   "year": 1746,
+   "year_to": 1767,
+   "letters": "S/Š",
+   "note": "ručně psaný rejstřík oddavek k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 225,
+   "type": "iZ",
+   "year": 1746,
+   "year_to": 1759,
+   "letters": "K",
+   "note": "písmeno K vpravo; rejstřík ke knize 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 226,
+   "type": "iZ",
+   "year": 1759,
+   "year_to": 1770,
+   "letters": "K",
+   "note": "rejstřík ke knize 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 229,
+   "type": "iZ",
+   "year": 1746,
+   "year_to": 1770,
+   "letters": "N",
+   "note": "ručně psaný rejstřík zemřelých k 6-2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 230,
+   "type": "iZ",
+   "letters": "O",
+   "note": "písmeno O vpravo; rejstřík ke knize 6-2; ručně psaný rejstřík zemřelých k 6-2",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

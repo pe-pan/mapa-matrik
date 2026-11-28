@@ -1,0 +1,133 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "10884",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/10884",
+ "signature": "Nové Město na Moravě, kn. 15948a, rejstřík O 1674–1824",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "iO": "1674–1824"
+ },
+ "places": [
+  "Nové Město na Moravě"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996
+ },
+ "district": "Žďár nad Sázavou",
+ "notes": [
+  "Strojopisný rejstřík ženichů po písmenech, uvnitř chronologicky; poslední sloupec = folio knihy oddaných."
+ ],
+ "points": [
+  {
+   "scan": 34,
+   "type": "blank",
+   "note": "prázdná strana před písmenem K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "iO",
+   "letters": "K",
+   "note": "přečtena dolní polovina 1690–1700",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "iO",
+   "year": 1701,
+   "year_to": 1714,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "iO",
+   "letters": "K",
+   "note": "přečtena horní polovina 1714–1721",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "iO",
+   "letters": "K",
+   "note": "přečtena dolní polovina 1730–1737",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iO",
+   "letters": "K",
+   "note": "přečten střed 1740–1745",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iO",
+   "year": 1734,
+   "year_to": 1745,
+   "page": "37",
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "iO",
+   "page": "42",
+   "letters": "M–N",
+   "note": "M 1802–1824, pak N 1674–1710",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "iO",
+   "year": 1685,
+   "year_to": 1712,
+   "page": "46",
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "iO",
+   "page": "47",
+   "letters": "P",
+   "note": "od 1714; přečteno 1714–1720",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "iO",
+   "year": 1732,
+   "year_to": 1747,
+   "page": "48",
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "iO",
+   "year": 1748,
+   "year_to": 1769,
+   "page": "49",
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "iO",
+   "year": 1770,
+   "year_to": 1791,
+   "page": "50",
+   "letters": "P",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

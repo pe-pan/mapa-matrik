@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "B3EC2DB6BB1A4F04A1A91BD73284F91B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=B3EC2DB6BB1A4F04A1A91BD73284F91B",
+ "signature": "MAG Z16",
+ "parish": "Magistrát hl. m. Prahy (civilní matrika)",
+ "records": {
+  "Z": "1939",
+  "iZ": "1939"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 155,
+   "type": "iZ",
+   "year": 1939,
+   "letters": "K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

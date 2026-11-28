@@ -1,0 +1,188 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "54b6de91-ffb2-4b8d-822c-5aad039ba6b4",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/54b6de91-ffb2-4b8d-822c-5aad039ba6b4",
+ "signature": "22-1",
+ "parish": "České Meziříčí",
+ "records": {
+  "N": "1636–1718",
+  "Z": "1636–1718",
+  "O": "1636–1718"
+ },
+ "scans": 160,
+ "places": [
+  "České Meziříčí",
+  "Jeníkovice",
+  "Jílovice",
+  "Klášter nad Dědinou",
+  "Králova Lhota",
+  "Městec",
+  "Polánky nad Dědinou",
+  "Rohenice",
+  "Skršice",
+  "Slavětín nad Metují",
+  "Tošov",
+  "Vranov",
+  "Vysoký Újezd"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Králova Lhota": 72613,
+  "Městec": 108898,
+  "Rohenice": 22691,
+  "Skršice": 148661,
+  "Tošov": 148679
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1686,
+   "months": "I–IV",
+   "page": "107–108",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1686,
+   "months": "IV–XI",
+   "page": "109–110",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1686,
+   "year_to": 1687,
+   "months": "XI–II",
+   "page": "111–112",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1687,
+   "months": "III–VIII",
+   "page": "113–114",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1687,
+   "year_to": 1688,
+   "months": "VIII–I",
+   "page": "115–116",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1688,
+   "months": "I–IV",
+   "page": "117–118",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1688,
+   "months": "IV–IX",
+   "page": "119–120",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1688,
+   "year_to": 1689,
+   "months": "IX–I",
+   "page": "121–122",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1689,
+   "months": "I–III",
+   "page": "123–124",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1689,
+   "year_to": 1690,
+   "months": "IV–III",
+   "page": "125–126",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1690,
+   "months": "III–XII",
+   "page": "127–128",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1691,
+   "months": "I–VIII",
+   "page": "129–130",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1691,
+   "year_to": 1692,
+   "months": "VIII–III",
+   "page": "131–132",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1692,
+   "months": "V–XII",
+   "page": "133–134",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1693,
+   "months": "I–XII",
+   "page": "135–136",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 99,
+   "type": "N",
+   "year": 1714,
+   "months": "IV–IX",
+   "page": "189–190",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1714,
+   "months": "IX–XII",
+   "page": "191–192",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

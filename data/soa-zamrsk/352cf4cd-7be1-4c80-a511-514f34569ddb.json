@@ -1,0 +1,91 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "352cf4cd-7be1-4c80-a511-514f34569ddb",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/352cf4cd-7be1-4c80-a511-514f34569ddb",
+ "signature": "4790",
+ "parish": "Zahrádka",
+ "records": {
+  "iN": "1836–1904"
+ },
+ "scans": 98,
+ "places": [
+  "Blažejovice",
+  "Dolní Paseka",
+  "Dolní Rápotice",
+  "Horní Paseka",
+  "Ježov",
+  "Kobylí Důl",
+  "Martinice u Dolních Kralovic",
+  "Pecký Mlýn",
+  "Píšť",
+  "Snět",
+  "Staré Hamry",
+  "Šetějovice",
+  "Vítonice",
+  "Vranice",
+  "Zahrádka",
+  "Žibřidovice"
+ ],
+ "place_codes": {
+  "Blažejovice": 5517,
+  "Dolní Rápotice": 162418,
+  "Martinice u Dolních Kralovic": 92126,
+  "Snět": 151378,
+  "Šetějovice": 162426,
+  "Vítonice": 5525,
+  "Žibřidovice": 162434
+ },
+ "district": "Benešov",
+ "points": [
+  {
+   "scan": 22,
+   "type": "iN",
+   "letters": "F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "iN",
+   "letters": "F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "iN",
+   "letters": "F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

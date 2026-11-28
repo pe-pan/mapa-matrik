@@ -1,0 +1,90 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "38454cec-062c-43f3-bdca-0ee97c067ddc",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/38454cec-062c-43f3-bdca-0ee97c067ddc",
+ "signature": "6-12",
+ "parish": "Bílý Újezd",
+ "records": {
+  "Z": "1784–1790",
+  "iZ": "1784–1790"
+ },
+ "scans": 64,
+ "places": [
+  "Bílý Újezd",
+  "Byzhradec",
+  "Chábory",
+  "Černíkovice",
+  "Ještětice",
+  "Hlinné",
+  "Hroška",
+  "Kamenice",
+  "Lhota u Dobrušky",
+  "Lomy",
+  "Masty",
+  "Netřeba",
+  "Polom",
+  "Roudné",
+  "Domašín",
+  "Skalka",
+  "Spáleniště",
+  "Víska",
+  "Ostrov",
+  "Osečnice"
+ ],
+ "place_codes": {
+  "Bílý Újezd": 4715,
+  "Byzhradec": 17264,
+  "Chábory": 27596,
+  "Černíkovice": 20206,
+  "Ještětice": 152412,
+  "Hlinné": 27201,
+  "Hroška": 4723,
+  "Kamenice": 27227,
+  "Lomy": 112801,
+  "Masty": 4731,
+  "Roudné": 4740,
+  "Domašín": 20214,
+  "Spáleniště": 30783,
+  "Osečnice": 112810
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 3,
+   "type": "title",
+   "note": "obálka",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1785,
+   "year_to": 1786,
+   "page": "2–3",
+   "note": "první oddíl vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1785,
+   "year_to": 1788,
+   "note": "konec oddílu malé vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "iZ",
+   "note": "krátký rejstřík (7 jmen), ne celé knihy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

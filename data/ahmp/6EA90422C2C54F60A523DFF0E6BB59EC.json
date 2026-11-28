@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "6EA90422C2C54F60A523DFF0E6BB59EC",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=6EA90422C2C54F60A523DFF0E6BB59EC",
+ "signature": "VRŠ Z10",
+ "records": {
+  "Z": "1948"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "parish": "Vršovice – kostel sv. Mikuláše",
+ "places": [
+  "Vršovice"
+ ],
+ "place_codes": {
+  "Vršovice": 490237
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 285,
+   "type": "Z",
+   "year": 1948,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 299,
+   "type": "Z",
+   "year": 1948,
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

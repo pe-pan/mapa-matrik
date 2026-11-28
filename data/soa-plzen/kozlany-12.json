@@ -29,6 +29,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ],
  "points": [
@@ -41,12 +45,91 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 3,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1784,
+   "months": "X–XI",
+   "page": "2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1784,
+   "year_to": 1785,
+   "months": "VI–I",
+   "page": "3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1785,
+   "year_to": 1786,
+   "months": "I–I",
+   "page": "4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1786,
+   "year_to": 1787,
+   "months": "I–XI",
+   "page": "5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1787,
+   "year_to": 1789,
+   "months": "XI–VI",
+   "page": "6",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 8,
    "type": "O",
    "year": 1789,
    "place": "Kožlany",
    "note": "česky, tištěný formulář „Knjha Wodawagjcých“, dvojstrana na snímek",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1790,
+   "year_to": 1791,
+   "months": "I–I",
+   "page": "8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1791,
+   "year_to": 1792,
+   "months": "II–I",
+   "page": "9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1792,
+   "year_to": 1793,
+   "months": "II–II",
+   "page": "10",
+   "by": "kosarlukascz"
   },
   {
    "scan": 12,
@@ -57,6 +140,35 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 13,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1794,
+   "year_to": 1795,
+   "months": "XI–VII",
+   "page": "12",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1795,
+   "year_to": 1796,
+   "months": "VII–VI",
+   "page": "13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1796,
+   "months": "X–XI",
+   "page": "14",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 16,
    "type": "O",
    "year": 1796,
@@ -65,12 +177,95 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 17,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1797,
+   "year_to": 1798,
+   "months": "X–V",
+   "page": "16",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1798,
+   "year_to": 1799,
+   "months": "V–VI",
+   "page": "17",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 19,
    "type": "O",
    "year": 1800,
    "place": "Kožlany",
    "note": "poslední strana Kožlan; dál ostatní vsi (Milíčov aj.)",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "place": "Kožlany",
+   "year": 1800,
+   "year_to": 1801,
+   "months": "XI–XI",
+   "page": "19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "O",
+   "place": "Bělbožice",
+   "year": 1799,
+   "year_to": 1801,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "place": "Hedčany",
+   "year": 1784,
+   "year_to": 1789,
+   "months": "X–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "place": "Hedčany",
+   "year": 1792,
+   "year_to": 1796,
+   "months": "VII–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "place": "Hedčany",
+   "year": 1800,
+   "year_to": 1801,
+   "months": "VII–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "place": "Lhota",
+   "year": 1784,
+   "months": "V",
+   "note": "jediný zápis",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "place": "Milíčov",
+   "year": 1799,
+   "year_to": 1801,
+   "note": "roky 1799 a 1800 bez zápisu",
+   "by": "kosarlukascz"
   }
  ],
  "aliases": {

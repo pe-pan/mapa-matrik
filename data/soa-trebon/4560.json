@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4560",
+ "url": "https://digi.ceskearchivy.cz/4560",
+ "signature": "Kadov 18",
+ "parish": "Kadov",
+ "records": {
+  "iN": "1784–1803",
+  "iO": "1784–1803",
+  "iZ": "1784–1803"
+ },
+ "places": [
+  "Kadov"
+ ],
+ "place_codes": {
+  "Kadov": 61921
+ },
+ "district": "Strakonice",
+ "points": [
+  {
+   "scan": 37,
+   "type": "iN",
+   "letters": "N–O",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

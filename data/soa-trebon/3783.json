@@ -1,0 +1,223 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3783",
+ "url": "https://digi.ceskearchivy.cz/3783",
+ "signature": "Hořepník 3",
+ "parish": "Hořepník",
+ "records": {
+  "N": "1744–1779",
+  "O": "1744–1779",
+  "Z": "1744–1779",
+  "iN": "1744–1779"
+ },
+ "scans": 470,
+ "order": "chronological",
+ "district": "Pelhřimov",
+ "places": [
+  "Hořepník"
+ ],
+ "place_codes": {
+  "Hořepník": 45071
+ },
+ "points": [
+  {
+   "scan": 181,
+   "type": "N",
+   "year": 1769,
+   "months": "IV–VI",
+   "page": "355–356",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 182,
+   "type": "N",
+   "year": 1769,
+   "months": "VI–VII",
+   "page": "357–358",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 183,
+   "type": "N",
+   "year": 1769,
+   "months": "VII–IX",
+   "page": "359–360",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 184,
+   "type": "N",
+   "year": 1769,
+   "months": "IX–X",
+   "page": "361–362",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 185,
+   "type": "N",
+   "year": 1769,
+   "months": "X",
+   "page": "363–364",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 186,
+   "type": "N",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "X–I",
+   "page": "365–366",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 187,
+   "type": "N",
+   "year": 1770,
+   "months": "II–IV",
+   "page": "367–368",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 188,
+   "type": "N",
+   "year": 1770,
+   "months": "IV–V",
+   "page": "369–370",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 189,
+   "type": "N",
+   "year": 1770,
+   "months": "V–VII",
+   "page": "371–372",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 190,
+   "type": "N",
+   "year": 1770,
+   "months": "VIII–IX",
+   "page": "373–374",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 191,
+   "type": "N",
+   "year": 1770,
+   "months": "IX–XI",
+   "page": "375–376",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 192,
+   "type": "N",
+   "year": 1770,
+   "months": "XI–XII",
+   "page": "377–378",
+   "note": "str. 378 prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 193,
+   "type": "N",
+   "year": 1771,
+   "months": "I–II",
+   "page": "379–380",
+   "note": "str. 379 prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 194,
+   "type": "N",
+   "year": 1771,
+   "months": "II–VI",
+   "page": "381–382",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 195,
+   "type": "N",
+   "year": 1771,
+   "months": "VI–IX",
+   "page": "383–384",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 196,
+   "type": "N",
+   "year": 1771,
+   "year_to": 1772,
+   "months": "IX–II",
+   "page": "385–386",
+   "note": "XII/1771 a I/1772 bez zápisů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 197,
+   "type": "N",
+   "year": 1772,
+   "months": "IV–VIII",
+   "page": "387–388",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 198,
+   "type": "N",
+   "year": 1772,
+   "year_to": 1773,
+   "months": "IX–I",
+   "page": "389–390",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 199,
+   "type": "N",
+   "year": 1773,
+   "months": "I–IV",
+   "page": "391–392",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1773,
+   "months": "V–VII",
+   "page": "393–394",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 201,
+   "type": "N",
+   "year": 1773,
+   "months": "VII–IX",
+   "page": "395–396",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 245,
+   "type": "iN",
+   "year": 1744,
+   "year_to": 1779,
+   "page": "485–486",
+   "note": "konec D, celé F a G, začátek H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 246,
+   "type": "iN",
+   "year": 1744,
+   "year_to": 1779,
+   "letters": "H–K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

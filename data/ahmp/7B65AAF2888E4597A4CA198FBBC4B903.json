@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "7B65AAF2888E4597A4CA198FBBC4B903",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=7B65AAF2888E4597A4CA198FBBC4B903",
+ "signature": "BŘV O7",
+ "records": {
+  "O": "1867–1890"
+ },
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1869,
+   "months": "XI",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

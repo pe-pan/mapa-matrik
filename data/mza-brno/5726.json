@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5726",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5726",
+ "signature": "Jámy, kn. 15672, iN 1784–1870",
+ "parish": "Jámy",
+ "records": {
+  "iN": "1784–1870"
+ },
+ "scans": 70,
+ "places": [
+  "Jámy",
+  "Slavkovice",
+  "Hlinné",
+  "Veselíčko"
+ ],
+ "points": [
+  {
+   "scan": 1,
+   "type": "iN",
+   "letters": "A",
+   "note": "vlevo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "iN",
+   "year": 1826,
+   "year_to": 1858,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "iN",
+   "year": 1784,
+   "year_to": 1802,
+   "letters": "J",
+   "note": "vlevo prázdný list",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "year": 1803,
+   "year_to": 1828,
+   "letters": "J",
+   "note": "vlevo tištěný formulář, vpravo ručně psané pokračování",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "iN",
+   "year": 1859,
+   "year_to": 1870,
+   "letters": "J",
+   "note": "konec J; vpravo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "iN",
+   "letters": "L",
+   "note": "vlevo prázdná strana; vpravo jen 3 řádky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "iN",
+   "letters": "K–L",
+   "note": "vlevo prázdná; vpravo strana L s dodatky K 1868–1870",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "iN",
+   "letters": "K",
+   "note": "vlevo přenesené dodatky K 1866–1869",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "iN",
+   "letters": "K",
+   "note": "vlevo K Slavkovice, vpravo Slavkovice a Hlinné",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "iN",
+   "letters": "K",
+   "note": "vlevo tištěná strana K, vpravo ručně psané K 1798–1804",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "iN",
+   "year": 1811,
+   "year_to": 1820,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "iN",
+   "year": 1820,
+   "year_to": 1827,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "iN",
+   "year": 1827,
+   "year_to": 1835,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "iN",
+   "letters": "O",
+   "note": "vlevo prázdná strana; vpravo jen 2 zápisy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

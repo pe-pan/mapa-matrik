@@ -1,0 +1,228 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12739",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12739",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12739/{scan}",
+ "signature": "Svatý Jan pod Skalou 01",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "N": "1647–1749",
+  "O": "1669–1710"
+ },
+ "places": [
+  "Svatý Jan pod Skalou",
+  "Bubovice",
+  "Hostim",
+  "Kozolupy",
+  "Lužce",
+  "Sedlec",
+  "Srbsko"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261,
+  "Bubovice": 15130,
+  "Kozolupy": 71960,
+  "Lužce": 89249,
+  "Sedlec": 160253,
+  "Srbsko": 152986
+ },
+ "district": "Beroun",
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1678,
+   "months": "VIII–XI",
+   "page": "29",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1685,
+   "months": "I–V",
+   "page": "43",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1685,
+   "year_to": 1686,
+   "page": "44",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1690,
+   "months": "I",
+   "page": "62",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1695,
+   "months": "II–IV",
+   "page": "82",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1695,
+   "months": "V",
+   "page": "83",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1704,
+   "months": "II–III",
+   "page": "113",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1704,
+   "months": "IV–VI",
+   "page": "114",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 171,
+   "type": "N",
+   "year": 1719,
+   "year_to": 1720,
+   "months": "X–I",
+   "page": "168",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 172,
+   "type": "N",
+   "year": 1720,
+   "months": "I–IV",
+   "page": "169",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 174,
+   "type": "N",
+   "year": 1720,
+   "months": "VI–VIII",
+   "page": "171",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 178,
+   "type": "N",
+   "year": 1721,
+   "months": "IV–VI",
+   "page": "175",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 224,
+   "type": "N",
+   "year": 1729,
+   "months": "V–VII",
+   "page": "219",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 233,
+   "type": "N",
+   "year": 1730,
+   "year_to": 1731,
+   "months": "XII–II",
+   "page": "228",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 234,
+   "type": "N",
+   "year": 1731,
+   "months": "II–IV",
+   "page": "229",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 253,
+   "type": "N",
+   "year": 1734,
+   "months": "II–III",
+   "page": "248",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 299,
+   "type": "N",
+   "year": 1744,
+   "months": "VIII–XI",
+   "page": "294",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 300,
+   "type": "N",
+   "year": 1745,
+   "months": "I",
+   "page": "295",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 376,
+   "type": "O",
+   "year": 1675,
+   "year_to": 1676,
+   "page": "55",
+   "note": "oddaní, vlastní stránkování oddílu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 377,
+   "type": "O",
+   "year": 1676,
+   "months": "XI",
+   "page": "56",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 379,
+   "type": "O",
+   "year": 1680,
+   "months": "XI",
+   "page": "58",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 381,
+   "type": "O",
+   "year": 1682,
+   "months": "XI",
+   "page": "60",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 393,
+   "type": "O",
+   "year": 1701,
+   "year_to": 1702,
+   "page": "72",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

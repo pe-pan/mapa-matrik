@@ -1,0 +1,290 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "ADA857B00D754F1A90D0DE4A125F8A15",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=ADA857B00D754F1A90D0DE4A125F8A15",
+ "signature": "LBC N2O2Z1",
+ "records": {
+  "N": "1688–1726",
+  "O": "1688–1726",
+  "Z": "1688–1726"
+ },
+ "parish": "Liboc",
+ "places": [
+  "Liboc",
+  "Vokovice",
+  "Nebušice"
+ ],
+ "place_codes": {
+  "Liboc": 400408,
+  "Vokovice": 400441,
+  "Nebušice": 400513
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1688,
+   "year_to": 1689,
+   "months": "IV–III",
+   "page": "fol. 1v–2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1689,
+   "months": "III–X",
+   "page": "fol. 2v–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1689,
+   "year_to": 1690,
+   "months": "XII–V",
+   "page": "fol. 3v–4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1690,
+   "months": "V–XI",
+   "page": "fol. 4v–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1690,
+   "year_to": 1691,
+   "months": "XII–III",
+   "page": "fol. 5v–6",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1691,
+   "months": "III–IV",
+   "page": "fol. 6v–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1691,
+   "months": "V–X",
+   "page": "fol. 7v–8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1691,
+   "year_to": 1692,
+   "months": "XI–II",
+   "page": "fol. 8v–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1692,
+   "months": "II–VI",
+   "page": "fol. 9v–10",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1692,
+   "months": "VI–VIII",
+   "page": "fol. 10v–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1694,
+   "months": "I–VIII",
+   "page": "fol. 14v–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1694,
+   "months": "VIII–XI",
+   "page": "fol. 15v–16",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1694,
+   "year_to": 1695,
+   "months": "XI–VIII",
+   "page": "fol. 16v–17",
+   "note": "od III/1695 latinsky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1695,
+   "year_to": 1696,
+   "months": "IX–IV",
+   "page": "fol. 17v–18",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1696,
+   "year_to": 1697,
+   "months": "XII–V",
+   "page": "fol. 19v–20",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1697,
+   "year_to": 1698,
+   "months": "VII–I",
+   "page": "fol. 20v–21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1705,
+   "year_to": 1706,
+   "months": "XII–II",
+   "page": "fol. 51",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1706,
+   "months": "II–VIII",
+   "page": "fol. 51v–52",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1706,
+   "months": "IX–XII",
+   "note": "vložený lístek (XII/1706)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1707,
+   "months": "V–X",
+   "page": "fol. 55",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1714,
+   "months": "IV–VIII",
+   "page": "fol. 72v–73",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1715,
+   "months": "VI–VII",
+   "page": "fol. 75v–76",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1715,
+   "months": "VIII–X",
+   "page": "fol. 76v–77",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 130,
+   "type": "O",
+   "year": 1704,
+   "year_to": 1705,
+   "months": "X–XI",
+   "page": "fol. 10v–11",
+   "note": "foliace oddílu oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 131,
+   "type": "O",
+   "year": 1705,
+   "year_to": 1707,
+   "months": "XI–VII",
+   "page": "fol. 11v–12",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "year": 1707,
+   "months": "IX–XI",
+   "page": "fol. 12v–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 141,
+   "type": "O",
+   "year": 1714,
+   "months": "II–VII",
+   "page": "fol. 21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 142,
+   "type": "O",
+   "year": 1714,
+   "year_to": 1715,
+   "page": "fol. 22",
+   "note": "vlevo IX–XI/1714, vpravo 1715",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "O",
+   "year": 1722,
+   "year_to": 1723,
+   "months": "X–VIII",
+   "page": "fol. 30",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "Z",
+   "year": 1705,
+   "year_to": 1706,
+   "months": "V–VIII",
+   "page": "fol. 6v–7",
+   "note": "foliace oddílu zemřelých",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

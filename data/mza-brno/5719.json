@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5719",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5719",
+ "signature": "Jámy, kn. 15663, O 1772–1836",
+ "parish": "Jámy",
+ "records": {
+  "O": "1772–1836"
+ },
+ "order": "by_village",
+ "places": [
+  "Jámy",
+  "Hlinné",
+  "Slavkovice",
+  "Veselíčko"
+ ],
+ "place_codes": {
+  "Jámy": 56685,
+  "Hlinné": 39292,
+  "Slavkovice": 150312,
+  "Veselíčko": 180840
+ },
+ "district": "Žďár nad Sázavou",
+ "sections": [
+  {
+   "scans": "24–36",
+   "type": "O",
+   "place": "Slavkovice"
+  }
+ ],
+ "points": [
+  {
+   "scan": 24,
+   "type": "O",
+   "place": "Slavkovice",
+   "year": 1784,
+   "year_to": 1787,
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "place": "Slavkovice",
+   "year": 1812,
+   "year_to": 1817,
+   "page": "10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1818,
+   "months": "II",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

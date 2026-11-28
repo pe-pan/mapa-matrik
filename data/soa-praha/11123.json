@@ -1,0 +1,128 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11123",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11123",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11123/{scan}",
+ "signature": "Rejšice 04",
+ "parish": "Rejšice",
+ "records": {
+  "O": "1792–1830",
+  "iO": "1792–1830"
+ },
+ "scans": 104,
+ "places": [
+  "Rejšice",
+  "Kosořice",
+  "Velký Újezd",
+  "Smilovice",
+  "Bratronice",
+  "Charvatce",
+  "Jabkenice"
+ ],
+ "place_codes": {
+  "Rejšice": 140058,
+  "Kosořice": 69981,
+  "Smilovice": 151017,
+  "Bratronice": 9628,
+  "Charvatce": 50644,
+  "Jabkenice": 55867
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 66,
+   "type": "O",
+   "place": "Bratronice",
+   "year": 1806,
+   "year_to": 1811,
+   "page": "218",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "place": "Charvatce",
+   "year": 1792,
+   "year_to": 1794,
+   "page": "262",
+   "note": "začátek oddílu vsi; jedna tabulka přes dvojstranu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "place": "Charvatce",
+   "year": 1795,
+   "year_to": 1796,
+   "page": "263",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "place": "Charvatce",
+   "year": 1798,
+   "year_to": 1801,
+   "page": "265",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 82,
+   "type": "blank",
+   "page": "273",
+   "note": "prázdná předtištěná tabulka za oddílem Charvatce",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 101,
+   "type": "iO",
+   "letters": "P–W",
+   "note": "ves nejistá (Rejšice?)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 101,
+   "type": "iO",
+   "place": "Charvatce",
+   "letters": "A–Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 101,
+   "type": "iO",
+   "place": "Smilovice",
+   "letters": "A–W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 102,
+   "type": "iO",
+   "place": "Bratronice",
+   "letters": "B–Z",
+   "note": "rejstřík podle vsí (ženich, nevěsta, fol., rok)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 102,
+   "type": "iO",
+   "place": "Velký Újezd",
+   "letters": "B–R",
+   "note": "rejstřík podle vsí (ženich, nevěsta, fol., rok)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "blank",
+   "note": "zadní deska knihy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "FB6817F66924486BAB62D0B042E811E7",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=FB6817F66924486BAB62D0B042E811E7",
+ "signature": "LBC i1",
+ "parish": "Liboc",
+ "records": {
+  "iN": "1720–1794"
+ },
+ "scans": 88,
+ "places": [
+  "Liboc"
+ ],
+ "place_codes": {
+  "Liboc": 400408
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 41,
+   "type": "iN",
+   "year": 1726,
+   "year_to": 1764,
+   "page": "42",
+   "letters": "L",
+   "note": "oddíly knih Liboc/Ruzyně a Stodůlky od 1726",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "iN",
+   "year": 1763,
+   "year_to": 1794,
+   "page": "43",
+   "letters": "L",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "iN",
+   "page": "44",
+   "letters": "L",
+   "note": "konec L",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "iN",
+   "page": "47",
+   "letters": "M",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

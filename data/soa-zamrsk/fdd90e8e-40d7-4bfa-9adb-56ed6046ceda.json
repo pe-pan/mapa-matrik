@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "fdd90e8e-40d7-4bfa-9adb-56ed6046ceda",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/fdd90e8e-40d7-4bfa-9adb-56ed6046ceda",
+ "signature": "165-12",
+ "parish": "Týniště nad Orlicí",
+ "records": {
+  "iN": "1754–1833"
+ },
+ "scans": 63,
+ "places": [
+  "Týniště nad Orlicí",
+  "Voděrady",
+  "Houdkovice",
+  "Ježkovice",
+  "Nová Ves",
+  "Panská Ves",
+  "Radostovice",
+  "Uhřínovice",
+  "Vojenice",
+  "Vyhnanice",
+  "Albrechtice nad Orlicí",
+  "Suté Břehy",
+  "Štěpánovsko"
+ ],
+ "place_codes": {
+  "Týniště nad Orlicí": 172421,
+  "Voděrady": 184225,
+  "Houdkovice": 168335,
+  "Ježkovice": 59471,
+  "Nová Ves": 105627,
+  "Radostovice": 83615,
+  "Uhřínovice": 184217,
+  "Vojenice": 105635,
+  "Vyhnanice": 187542,
+  "Albrechtice nad Orlicí": 175,
+  "Štěpánovsko": 205
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 6,
+   "type": "iN",
+   "year": 1754,
+   "year_to": 1763,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "iN",
+   "year": 1763,
+   "year_to": 1777,
+   "letters": "B",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "76108015-aed3-46ac-8baf-79b129766a33",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/76108015-aed3-46ac-8baf-79b129766a33",
+ "signature": "170-18",
+ "parish": "Velká Jesenice",
+ "records": {
+  "iN": "1689–1752"
+ },
+ "scans": 37,
+ "places": [
+  "Městec",
+  "Nový Dvůr",
+  "Ovčárna",
+  "Rohenice",
+  "Roztoky",
+  "Rychnovek",
+  "Slavětín nad Metují",
+  "Šestajovice",
+  "Velká Jesenice",
+  "Veselice",
+  "Zvole"
+ ],
+ "place_codes": {
+  "Městec": 101222,
+  "Nový Dvůr": 45314,
+  "Roztoky": 162396,
+  "Rychnovek": 144380,
+  "Slavětín nad Metují": 150029,
+  "Šestajovice": 162400,
+  "Velká Jesenice": 178411,
+  "Veselice": 178420,
+  "Zvole": 144398
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 26,
+   "type": "iN",
+   "year": 1716,
+   "letters": "K",
+   "note": "písmeno K od 1716",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "iN",
+   "year": 1718,
+   "year_to": 1741,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "iN",
+   "year": 1716,
+   "letters": "R",
+   "note": "písmeno R od 1716",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "iN",
+   "year": 1716,
+   "year_to": 1724,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "iN",
+   "year": 1724,
+   "year_to": 1739,
+   "letters": "S",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

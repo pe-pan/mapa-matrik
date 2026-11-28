@@ -1,0 +1,118 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "1739b54e-ac4c-4f4b-8571-a3686f1a9e48",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/1739b54e-ac4c-4f4b-8571-a3686f1a9e48",
+ "signature": "22-7",
+ "parish": "České Meziříčí",
+ "records": {
+  "O": "1784–1792"
+ },
+ "scans": 27,
+ "places": [
+  "České Meziříčí",
+  "Králova Lhota",
+  "Slavětín nad Metují",
+  "Tošov",
+  "Skršice",
+  "Rohenice",
+  "Roheničky"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Králova Lhota": 72613,
+  "Tošov": 148679,
+  "Skršice": 148661,
+  "Rohenice": 22691
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1784,
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "place": "České Meziříčí",
+   "year": 1784,
+   "year_to": 1785,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "place": "České Meziříčí",
+   "year": 1785,
+   "year_to": 1787,
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "place": "České Meziříčí",
+   "year": 1787,
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "place": "České Meziříčí",
+   "year": 1788,
+   "year_to": 1789,
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "place": "České Meziříčí",
+   "year": 1789,
+   "year_to": 1790,
+   "months": "VI–II",
+   "page": "10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "place": "České Meziříčí",
+   "year": 1792,
+   "months": "X–XI",
+   "page": "14–15",
+   "note": "konec knihy, pokračuje nová matrika 1793",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1786,
+   "year_to": 1790,
+   "page": "34–35",
+   "note": "oddíl jiné (filiální) vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "place": "Králova Lhota",
+   "year": 1787,
+   "months": "IX",
+   "page": "fol. 45",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

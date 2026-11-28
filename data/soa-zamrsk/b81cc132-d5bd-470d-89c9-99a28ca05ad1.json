@@ -1,0 +1,160 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "b81cc132-d5bd-470d-89c9-99a28ca05ad1",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/b81cc132-d5bd-470d-89c9-99a28ca05ad1",
+ "signature": "150-2",
+ "parish": "Solnice",
+ "records": {
+  "N": "1735–1771",
+  "Z": "1735–1771",
+  "O": "1735–1771",
+  "iN": "1768–1772"
+ },
+ "scans": 438,
+ "places": [
+  "Solnice",
+  "Ještětice",
+  "Kvasiny",
+  "Litohrady",
+  "Skuhrov nad Bělou",
+  "Beranec",
+  "Brocná",
+  "Debřece",
+  "Hamernice",
+  "Hraštice",
+  "Nová Ves",
+  "Proloh",
+  "Rybníčky",
+  "Svinná",
+  "Hlinné"
+ ],
+ "place_codes": {
+  "Solnice": 152421,
+  "Ještětice": 152412,
+  "Kvasiny": 78191,
+  "Litohrady": 84735,
+  "Skuhrov nad Bělou": 149101,
+  "Brocná": 12602,
+  "Debřece": 149055,
+  "Hraštice": 149063,
+  "Nová Ves": 149071,
+  "Proloh": 112828,
+  "Rybníčky": 149098,
+  "Svinná": 12629,
+  "Hlinné": 27201
+ },
+ "district": "Rychnov nad Kněžnou",
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "points": [
+  {
+   "scan": 193,
+   "type": "N",
+   "year": 1765,
+   "months": "VII",
+   "page": "376",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 199,
+   "type": "N",
+   "year": 1766,
+   "months": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 212,
+   "type": "N",
+   "year": 1767,
+   "months": "IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 214,
+   "type": "N",
+   "year": 1767,
+   "months": "VII",
+   "page": "419",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 216,
+   "type": "N",
+   "year": 1767,
+   "year_to": 1768,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 226,
+   "type": "N",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "XII–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 228,
+   "type": "N",
+   "year": 1769,
+   "months": "III–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 237,
+   "type": "N",
+   "year": 1770,
+   "months": "II–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 238,
+   "type": "N",
+   "year": 1770,
+   "months": "III–IV",
+   "page": "466",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 243,
+   "type": "N",
+   "year": 1770,
+   "months": "XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 260,
+   "type": "O",
+   "year": 1743,
+   "page": "30–31",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 430,
+   "type": "Z",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "X–I",
+   "page": "186–187",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 436,
+   "type": "iN",
+   "year": 1768,
+   "year_to": 1772,
+   "page": "fol. 421",
+   "letters": "K",
+   "note": "zlomek rejstříku křtů na konci knihy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

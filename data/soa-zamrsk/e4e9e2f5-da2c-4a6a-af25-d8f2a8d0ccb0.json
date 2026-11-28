@@ -19,6 +19,13 @@
    "by": "pe-pan"
   },
   {
+   "scan": 62,
+   "type": "N",
+   "year": 1801,
+   "page": "fol. 64",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 71,
    "type": "N",
    "year": 1801,
@@ -26,11 +33,41 @@
    "by": "pe-pan"
   },
   {
+   "scan": 76,
+   "type": "N",
+   "year": 1802,
+   "months": "I",
+   "page": "fol. 78",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 106,
    "type": "N",
    "year": 1803,
    "months": "VIII",
    "by": "pe-pan"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1803,
+   "months": "IX",
+   "page": "fol. 111",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1804,
+   "months": "I",
+   "page": "fol. 116",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 114,
+   "type": "N",
+   "year": 1804,
+   "by": "kosarlukascz"
   },
   {
    "scan": 116,
@@ -114,6 +151,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

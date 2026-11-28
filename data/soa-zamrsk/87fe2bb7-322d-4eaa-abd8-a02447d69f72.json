@@ -1,0 +1,317 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "87fe2bb7-322d-4eaa-abd8-a02447d69f72",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/87fe2bb7-322d-4eaa-abd8-a02447d69f72",
+ "signature": "130-1",
+ "parish": "Police nad Metují",
+ "records": {
+  "N": "1640–1664",
+  "Z": "1640–1664",
+  "O": "1640–1664"
+ },
+ "scans": 281,
+ "places": [
+  "Bukovice",
+  "Česká Metuje",
+  "Dědov",
+  "Hlavňov",
+  "Hony",
+  "Malá Ledhuje",
+  "Maršov nad Metují",
+  "Nízký Dřevíč",
+  "Ostaš",
+  "Pěkov",
+  "Petrovice",
+  "Petrovičky",
+  "Police nad Metují",
+  "Radešov",
+  "Slavný",
+  "Suchý Důl",
+  "Velká Ledhuje",
+  "Žďár nad Metují",
+  "Horní Dřevíč",
+  "Javor",
+  "Stárkov",
+  "Skalka",
+  "Chlívce",
+  "Bystré",
+  "Bělý",
+  "Machov",
+  "Nouzín",
+  "Machovská Lhota",
+  "Nízká Srbská",
+  "Řeřišný",
+  "Hronov",
+  "Malá Čermná",
+  "Rokytník",
+  "Střezina",
+  "Velký Dřevíč",
+  "Vysoká Srbská",
+  "Zbečník",
+  "Žabokrky",
+  "Žďárky",
+  "Jakubovice",
+  "Jakubowice",
+  "Jakubowitz",
+  "Stroužné",
+  "Strážné",
+  "Pstražna",
+  "Lachov",
+  "Bezděkov nad Metují",
+  "Pavlišov",
+  "Česká Skalice",
+  "Hrádek",
+  "Radków",
+  "Wünschelburg",
+  "Pasterkov",
+  "Pasterka"
+ ],
+ "place_codes": {
+  "Bukovice": 50121,
+  "Česká Metuje": 21628,
+  "Dědov": 166316,
+  "Hlavňov": 50130,
+  "Hony": 118893,
+  "Maršov nad Metují": 179256,
+  "Pěkov": 118907,
+  "Petrovice": 179264,
+  "Petrovičky": 179272,
+  "Police nad Metují": 125326,
+  "Radešov": 125334,
+  "Slavný": 159328,
+  "Suchý Důl": 159336,
+  "Velká Ledhuje": 125342,
+  "Žďár nad Metují": 195189,
+  "Horní Dřevíč": 154814,
+  "Javor": 166341,
+  "Stárkov": 154831,
+  "Skalka": 21636,
+  "Chlívce": 154822,
+  "Bystré": 154806,
+  "Bělý": 89834,
+  "Machov": 89842,
+  "Machovská Lhota": 89851,
+  "Nízká Srbská": 89869,
+  "Hronov": 48372,
+  "Malá Čermná": 48453,
+  "Rokytník": 48437,
+  "Velký Dřevíč": 48402,
+  "Vysoká Srbská": 188123,
+  "Zbečník": 48399,
+  "Žabokrky": 48411,
+  "Žďárky": 195529,
+  "Lachov": 166359,
+  "Bezděkov nad Metují": 3590,
+  "Pavlišov": 118346,
+  "Česká Skalice": 21687
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1648,
+   "months": "VII",
+   "page": "108–109",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1649,
+   "months": "VI",
+   "page": "122",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "page": "188–189",
+   "note": "zemřelí po vsích",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 124,
+   "type": "N",
+   "year": 1652,
+   "months": "VIII",
+   "page": "237",
+   "note": "oddíl více vsí (Machov, Nová Srbská, Bezděkov, Radešov)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "title",
+   "year": 1650,
+   "page": "288–289",
+   "note": "titul oddílu oddaných (vpravo p. 289)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 151,
+   "type": "blank",
+   "page": "290–291",
+   "note": "prázdné strany oddílu oddaných; p. 291 nadpis Wes Machow",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 152,
+   "type": "title",
+   "year": 1650,
+   "page": "293",
+   "note": "titul oddílu zemřelých 1650",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 152,
+   "type": "O",
+   "place": "Pěkov",
+   "year": 1652,
+   "page": "292",
+   "note": "oddíl Pěkov a Hutberk; 2 zápisy bez data",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 153,
+   "type": "Z",
+   "place": "Police nad Metují",
+   "year": 1650,
+   "year_to": 1652,
+   "page": "294–295",
+   "note": "vlevo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 154,
+   "type": "O",
+   "year": 1651,
+   "year_to": 1652,
+   "page": "297",
+   "note": "oddíl Bukovice, Hlavňov, Žďár",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 154,
+   "type": "Z",
+   "place": "Police nad Metují",
+   "year": 1650,
+   "year_to": 1652,
+   "page": "296",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 155,
+   "type": "O",
+   "place": "Police nad Metují",
+   "year": 1653,
+   "year_to": 1654,
+   "page": "298–299",
+   "note": "vlevo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 156,
+   "type": "O",
+   "year": 1654,
+   "page": "299–300",
+   "note": "oddíl Ledhuje, Suchý Důl, Hony a Machov",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 157,
+   "type": "O",
+   "year": 1657,
+   "months": "VII–XI",
+   "page": "300–301",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 158,
+   "type": "O",
+   "year": 1657,
+   "year_to": 1658,
+   "months": "XI–I",
+   "page": "302–303",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 165,
+   "type": "O",
+   "year": 1662,
+   "page": "316–317",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 166,
+   "type": "O",
+   "year": 1662,
+   "page": "318–319",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 167,
+   "type": "O",
+   "year": 1662,
+   "year_to": 1663,
+   "months": "XII–XI",
+   "page": "320–321",
+   "note": "konec oddílu oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 185,
+   "type": "N",
+   "note": "křty po vsích",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 194,
+   "type": "N",
+   "page": "376–377",
+   "note": "křty po vsích",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "place": "Police nad Metují",
+   "year": 1652,
+   "page": "388–389",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 240,
+   "type": "N",
+   "year": 1657,
+   "months": "IX",
+   "page": "468",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 250,
+   "type": "N",
+   "year": 1659,
+   "months": "III–IV",
+   "page": "488–489",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 277,
+   "type": "N",
+   "year": 1663,
+   "year_to": 1664,
+   "months": "XII–II",
+   "page": "542–543",
+   "note": "dál křty přeneseny do matriky č. III",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

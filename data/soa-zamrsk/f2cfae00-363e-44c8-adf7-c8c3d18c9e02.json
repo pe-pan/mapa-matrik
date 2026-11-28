@@ -1,0 +1,136 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "f2cfae00-363e-44c8-adf7-c8c3d18c9e02",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/f2cfae00-363e-44c8-adf7-c8c3d18c9e02",
+ "signature": "114-4304",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "N": "1856–1900"
+ },
+ "scans": 625,
+ "places": [
+  "Dolsko",
+  "Doubravice",
+  "Krčín",
+  "Dupačka",
+  "Osma",
+  "Lhota",
+  "Nahořany",
+  "Přibyslav",
+  "Peklo",
+  "Spy",
+  "Obora",
+  "Vrchoviny"
+ ],
+ "place_codes": {
+  "Dolsko": 101192,
+  "Doubravice": 101206,
+  "Krčín": 106437,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Přibyslav": 135712,
+  "Spy": 106488,
+  "Vrchoviny": 186520
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 76,
+   "type": "N",
+   "place": "Krčín",
+   "year": 1863,
+   "months": "V–IX",
+   "page": "fol. 17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1863,
+   "year_to": 1864,
+   "months": "XII–IV",
+   "page": "fol. 18",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1872,
+   "year_to": 1873,
+   "months": "XII–III",
+   "page": "fol. 40",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "N",
+   "place": "Krčín",
+   "year": 1890,
+   "months": "IV–IX",
+   "page": "fol. 99",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 188,
+   "type": "N",
+   "place": "Krčín",
+   "year": 1894,
+   "months": "VIII–IX",
+   "page": "fol. 121",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 209,
+   "type": "N",
+   "place": "Krčín",
+   "year": 1897,
+   "months": "II–V",
+   "page": "fol. 137",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 218,
+   "type": "N",
+   "place": "Krčín",
+   "year": 1898,
+   "months": "VII–VIII",
+   "page": "fol. 145",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 219,
+   "type": "N",
+   "place": "Krčín",
+   "year": 1898,
+   "months": "VIII–IX",
+   "page": "fol. 146",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 220,
+   "type": "N",
+   "place": "Krčín",
+   "year": 1898,
+   "months": "IX",
+   "page": "fol. 147",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 221,
+   "type": "N",
+   "place": "Krčín",
+   "year": 1898,
+   "months": "X–XI",
+   "page": "fol. 148",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

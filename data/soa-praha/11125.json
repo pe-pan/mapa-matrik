@@ -1,0 +1,157 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11125",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11125",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11125/{scan}",
+ "parish": "Rejšice",
+ "records": {
+  "Z": "1792–1831"
+ },
+ "scans": 260,
+ "places": [
+  "Bratronice",
+  "Velký Újezd",
+  "Jabkenice",
+  "Smilovice",
+  "Kosořice",
+  "Rejšice"
+ ],
+ "place_codes": {
+  "Bratronice": 9628,
+  "Jabkenice": 55867,
+  "Smilovice": 151017,
+  "Kosořice": 69981,
+  "Rejšice": 140058
+ },
+ "order": "by_village",
+ "signature": "Rejšice (Z 1792–1831)",
+ "points": [
+  {
+   "scan": 97,
+   "type": "Z",
+   "place": "Smilovice",
+   "year": 1797,
+   "year_to": 1798,
+   "months": "IX–IV",
+   "page": "99",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 114,
+   "type": "Z",
+   "place": "Smilovice",
+   "year": 1814,
+   "year_to": 1816,
+   "page": "116",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "Z",
+   "place": "Velký Újezd",
+   "year": 1811,
+   "year_to": 1813,
+   "page": "159",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "Z",
+   "place": "Velký Újezd",
+   "year": 1828,
+   "year_to": 1829,
+   "months": "VII–I",
+   "page": "169",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 155,
+   "type": "Z",
+   "place": "Bratronice",
+   "year": 1793,
+   "year_to": 1795,
+   "page": "185",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 156,
+   "type": "Z",
+   "place": "Bratronice",
+   "year": 1795,
+   "year_to": 1796,
+   "page": "186",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 157,
+   "type": "Z",
+   "place": "Bratronice",
+   "year": 1797,
+   "year_to": 1798,
+   "page": "187",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 158,
+   "type": "Z",
+   "place": "Bratronice",
+   "year": 1798,
+   "year_to": 1799,
+   "page": "188",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 159,
+   "type": "Z",
+   "place": "Bratronice",
+   "year": 1799,
+   "year_to": 1803,
+   "page": "189",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "Z",
+   "place": "Bratronice",
+   "year": 1803,
+   "year_to": 1804,
+   "page": "190",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 161,
+   "type": "Z",
+   "place": "Bratronice",
+   "year": 1805,
+   "year_to": 1808,
+   "page": "191",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 162,
+   "type": "Z",
+   "place": "Bratronice",
+   "year": 1808,
+   "year_to": 1810,
+   "page": "192",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 163,
+   "type": "Z",
+   "place": "Bratronice",
+   "year": 1810,
+   "year_to": 1814,
+   "page": "193",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

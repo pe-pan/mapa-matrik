@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chanovice-09",
+ "url": "https://www.portafontium.eu/register/soap-pn/chanovice-09",
+ "scans": 91,
+ "signature": "Chanovice 09",
+ "parish": "Chanovice",
+ "records": {
+  "iN": "1751–1881",
+  "iO": "1789–1881",
+  "iZ": "1751–1881"
+ },
+ "places": [
+  "Dobrotice",
+  "Chanovice",
+  "Nezdřev",
+  "Újezd u Chanovic"
+ ],
+ "place_codes": {
+  "Dobrotice": 50610,
+  "Chanovice": 50636,
+  "Újezd u Chanovic": 25364
+ },
+ "aliases": {
+  "Dobrotice": [
+   "Dobrotitz"
+  ],
+  "Chanovice": [
+   "Chanowitz"
+  ],
+  "Nezdřev": [
+   "Nedrew"
+  ],
+  "Újezd u Chanovic": [
+   "Aujezd bei Chanovic",
+   "Oujezd blíž Chanovic",
+   "Oujezd u Chanovic"
+  ]
+ },
+ "points": [
+  {
+   "scan": 55,
+   "type": "iO",
+   "year": 1797,
+   "year_to": 1876,
+   "page": "108–109",
+   "letters": "O",
+   "note": "s. 108 prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "iN",
+   "year": 1762,
+   "year_to": 1881,
+   "page": "110–111",
+   "letters": "O",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1879,
+   "page": "112–113",
+   "letters": "O",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

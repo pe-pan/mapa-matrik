@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5688",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5688",
+ "signature": "Jámy, kn. 15653, N 1784–1821",
+ "parish": "Jámy",
+ "records": {
+  "N": "1784–1821"
+ },
+ "places": [
+  "Jámy",
+  "Slavkovice"
+ ],
+ "place_codes": {
+  "Jámy": 56685,
+  "Slavkovice": 150312
+ },
+ "district": "Žďár nad Sázavou",
+ "order": "by_village",
+ "sections": [
+  {
+   "scans": "1–37",
+   "type": "N",
+   "place": "Jámy"
+  },
+  {
+   "scans": "37–69",
+   "type": "N",
+   "place": "Slavkovice"
+  }
+ ],
+ "points": [
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1790,
+   "months": "X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "place": "Slavkovice",
+   "year": 1791,
+   "year_to": 1792,
+   "months": "VII–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "place": "Slavkovice",
+   "year": 1792,
+   "year_to": 1793,
+   "page": "XII–XIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "place": "Slavkovice",
+   "year": 1793,
+   "year_to": 1795,
+   "page": "XIV–XV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "place": "Slavkovice",
+   "year": 1795,
+   "year_to": 1797,
+   "page": "XVI–XVII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "place": "Jámy",
+   "year": 1788,
+   "year_to": 1789,
+   "page": "VIII–IX",
+   "note": "přeházený list (kniha od sn. 50 špatně svázaná)",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

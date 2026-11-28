@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "f44fafb3-2bf7-4411-9693-4064c1d10839",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/f44fafb3-2bf7-4411-9693-4064c1d10839",
+ "signature": "121-4",
+ "parish": "Osenice",
+ "records": {
+  "N": "1762–1784",
+  "Z": "1762–1784",
+  "O": "1762–1784"
+ },
+ "scans": 211,
+ "places": [
+  "Bačalky",
+  "Brodek",
+  "Dětenice",
+  "Dolní Rokytňany",
+  "Horní Rokytňany",
+  "Lično",
+  "Mcely",
+  "Osenice",
+  "Prodašice",
+  "Ujkovice"
+ ],
+ "place_codes": {
+  "Bačalky": 94994,
+  "Brodek": 25917,
+  "Dětenice": 25925,
+  "Dolní Rokytňany": 140864,
+  "Horní Rokytňany": 140872,
+  "Lično": 95001,
+  "Osenice": 25933
+ },
+ "points": [
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1766,
+   "months": "VII–IX",
+   "page": "44–45",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1767,
+   "months": "II–IV",
+   "page": "52–53",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1767,
+   "year_to": 1768,
+   "months": "X–I",
+   "page": "58–59",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1768,
+   "months": "II–IV",
+   "page": "60–61",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1768,
+   "months": "IV–VIII",
+   "page": "62–63",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1768,
+   "months": "VIII–XI",
+   "page": "64–65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "XI–II",
+   "page": "66–67",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1769,
+   "months": "II–IV",
+   "page": "68–69",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1769,
+   "months": "IV–VII",
+   "page": "70–71",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1769,
+   "months": "VII–IX",
+   "page": "72–73",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1769,
+   "months": "X–XI",
+   "page": "74–75",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

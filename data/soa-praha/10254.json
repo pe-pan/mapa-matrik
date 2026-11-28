@@ -55,12 +55,44 @@
    "letters": "S–T",
    "note": "podle ženicha",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 64,
+   "type": "iO",
+   "letters": "G–H",
+   "note": "rejstřík podle ženicha",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "iO",
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "iO",
+   "letters": "T–W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "iO",
+   "year": 1787,
+   "year_to": 1890,
+   "letters": "Z",
+   "note": "konec rejstříku; druhá strana prázdná",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

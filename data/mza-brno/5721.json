@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5721",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5721",
+ "signature": "Jámy, kn. 15664, O 1836–1870",
+ "parish": "Jámy",
+ "records": {
+  "O": "1836–1870"
+ },
+ "order": "by_village",
+ "places": [
+  "Jámy",
+  "Hlinné",
+  "Slavkovice",
+  "Veselíčko"
+ ],
+ "place_codes": {
+  "Jámy": 56685,
+  "Hlinné": 39292,
+  "Slavkovice": 150312,
+  "Veselíčko": 180840
+ },
+ "district": "Žďár nad Sázavou",
+ "sections": [
+  {
+   "scans": "46–72",
+   "type": "O",
+   "place": "Slavkovice"
+  }
+ ],
+ "points": [
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1854,
+   "months": "I",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

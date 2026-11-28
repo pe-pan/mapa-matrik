@@ -1,0 +1,175 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8574",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8574",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/8574/{scan}",
+ "signature": "Bošín-ev 01",
+ "parish": "Bošín (evangelický)",
+ "records": {
+  "N": "1784–1799",
+  "O": "1784–1798",
+  "Z": "1784–1799"
+ },
+ "scans": 115,
+ "places": [
+  "Bošín",
+  "Sovenice",
+  "Mečíř",
+  "Jizbice",
+  "Úherce",
+  "Jabkenice",
+  "Dolánky",
+  "Libichov",
+  "Němčice",
+  "Týnec",
+  "Ledce",
+  "Vinec",
+  "Chudíř"
+ ],
+ "place_codes": {
+  "Bošín": 76287,
+  "Sovenice": 152609,
+  "Mečíř": 92517,
+  "Jizbice": 61425,
+  "Úherce": 172782,
+  "Jabkenice": 55867,
+  "Libichov": 82791,
+  "Němčice": 102946,
+  "Týnec": 172260,
+  "Ledce": 79626,
+  "Vinec": 182320,
+  "Chudíř": 54798
+ },
+ "points": [
+  {
+   "scan": 80,
+   "type": "Z",
+   "place": "Bošín",
+   "year": 1786,
+   "year_to": 1793,
+   "page": "fol. 1",
+   "note": "začátek oddílu zemřelých po vsích; vlevo prázdno",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "Z",
+   "place": "Mečíř",
+   "year": 1785,
+   "year_to": 1797,
+   "page": "fol. 8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "Z",
+   "place": "Sovenice",
+   "year": 1796,
+   "year_to": 1799,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "place": "Jizbice",
+   "year": 1785,
+   "year_to": 1796,
+   "page": "fol. 13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 94,
+   "type": "Z",
+   "place": "Jabkenice",
+   "year": 1785,
+   "year_to": 1798,
+   "page": "fol. 15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 94,
+   "type": "Z",
+   "place": "Úherce",
+   "year": 1793,
+   "year_to": 1799,
+   "page": "fol. 14v",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "place": "Dolánky",
+   "year": 1794,
+   "page": "fol. 16",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "place": "Jabkenice",
+   "year": 1799,
+   "page": "fol. 15v",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 96,
+   "type": "Z",
+   "place": "Libichov",
+   "page": "fol. 17–18",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 96,
+   "type": "Z",
+   "place": "Němčice",
+   "year": 1797,
+   "page": "fol. 17–18",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 97,
+   "type": "Z",
+   "place": "Týnec",
+   "year": 1785,
+   "year_to": 1795,
+   "page": "fol. 19",
+   "note": "vlevo prázdno",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 98,
+   "type": "Z",
+   "place": "Ledce",
+   "year": 1791,
+   "year_to": 1798,
+   "page": "fol. 20",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 99,
+   "type": "Z",
+   "place": "Vinec",
+   "year": 1788,
+   "year_to": 1795,
+   "page": "fol. 21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1785,
+   "year_to": 1799,
+   "page": "fol. 22–23",
+   "note": "ves nečitelná; vlevo prázdno",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

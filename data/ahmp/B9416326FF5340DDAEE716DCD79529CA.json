@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "B9416326FF5340DDAEE716DCD79529CA",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=B9416326FF5340DDAEE716DCD79529CA",
+ "signature": "BBČ O19",
+ "parish": "Bubeneč",
+ "records": {
+  "O": "1873–1884"
+ },
+ "places": [
+  "Bubeneč"
+ ],
+ "place_codes": {
+  "Bubeneč": 490024
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 192,
+   "type": "O",
+   "year": 1884,
+   "months": "V",
+   "page": "188",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

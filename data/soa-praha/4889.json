@@ -315,6 +315,22 @@
    "months": "XI–XII"
   },
   {
+   "scan": 68,
+   "type": "N",
+   "year": 1796,
+   "months": "III–V",
+   "page": "128–129",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1796,
+   "months": "V–VII",
+   "page": "130–131",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 87,
    "type": "N",
    "year": 1799,
@@ -331,6 +347,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 94,
+   "type": "N",
+   "year": 1801,
+   "months": "IV–VII",
+   "page": "176–177",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 100,
    "type": "N",
    "year": 1802,
@@ -338,6 +362,22 @@
    "page": "188–189",
    "note": "tištěný formulář, ~9 zápisů na stranu",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1802,
+   "months": "IX–XI",
+   "page": "190–191",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1803,
+   "months": "II–V",
+   "page": "194–195",
+   "by": "kosarlukascz"
   },
   {
    "scan": 105,
@@ -369,6 +409,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-25"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

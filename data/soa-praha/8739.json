@@ -1,0 +1,177 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8739",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8739",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/8739/{scan}",
+ "signature": "Mladá Boleslav 53",
+ "parish": "Mladá Boleslav",
+ "records": {
+  "N": "1786–1817",
+  "O": "1786–1817",
+  "Z": "1786–1817"
+ },
+ "places": [
+  "Podvinec",
+  "Vinec"
+ ],
+ "place_codes": {
+  "Vinec": 182320
+ },
+ "district": "Mladá Boleslav",
+ "index": {
+  "scans": "129–130",
+  "note": "společný rejstřík O/N/Z"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1786,
+   "year_to": 1791,
+   "months": "X–II",
+   "page": "1",
+   "note": "začátek oddílu oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1803,
+   "page": "6",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1788,
+   "months": "I–V",
+   "page": "25",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1788,
+   "months": "VII–XI",
+   "page": "26",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1789,
+   "months": "II–VII",
+   "page": "27",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1789,
+   "year_to": 1790,
+   "months": "VIII–IV",
+   "page": "28",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1790,
+   "year_to": 1791,
+   "months": "IV–II",
+   "page": "29",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1791,
+   "year_to": 1792,
+   "months": "III–II",
+   "page": "30",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1792,
+   "months": "II–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1792,
+   "year_to": 1793,
+   "months": "VII–V",
+   "page": "32",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1793,
+   "year_to": 1794,
+   "months": "VII–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1794,
+   "months": "III–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "place": "Podvinec",
+   "year": 1804,
+   "months": "VI–XI",
+   "page": "53",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "place": "Vinec",
+   "year": 1815,
+   "year_to": 1816,
+   "months": "XI–V",
+   "page": "83",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 129,
+   "type": "iN",
+   "letters": "W",
+   "note": "společný rejstřík O/N/Z; levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 130,
+   "type": "iN",
+   "letters": "Z",
+   "note": "společný rejstřík O/N/Z, konec; levá strana prázdná",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

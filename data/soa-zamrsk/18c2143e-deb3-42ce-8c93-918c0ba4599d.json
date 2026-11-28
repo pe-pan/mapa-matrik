@@ -1,0 +1,602 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "18c2143e-deb3-42ce-8c93-918c0ba4599d",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/18c2143e-deb3-42ce-8c93-918c0ba4599d",
+ "signature": "8-1",
+ "parish": "Bohuslavice",
+ "records": {
+  "N": "1742–1784",
+  "Z": "1742–1784",
+  "O": "1742–1784",
+  "iN": "1742–1784",
+  "iZ": "1742–1784",
+  "iO": "1742–1784"
+ },
+ "scans": 368,
+ "places": [
+  "Bohuslavice",
+  "Černčice",
+  "Dolsko",
+  "Opařiště",
+  "Osíček",
+  "Slavětín nad Metují",
+  "Vršovka",
+  "Nahořany"
+ ],
+ "place_codes": {
+  "Bohuslavice": 6467,
+  "Černčice": 20061,
+  "Dolsko": 101192,
+  "Slavětín nad Metují": 150029,
+  "Vršovka": 186635,
+  "Nahořany": 101231
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1749,
+   "months": "VIII",
+   "page": "fol. 54",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1751,
+   "year_to": 1752,
+   "months": "XII–I",
+   "page": "fol. 65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1755,
+   "months": "I–V",
+   "page": "85–86",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1755,
+   "year_to": 1756,
+   "months": "X–I",
+   "page": "89–90",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1756,
+   "months": "VI–IX",
+   "page": "93–94",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1756,
+   "months": "IX–X",
+   "page": "95",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1759,
+   "page": "109–110",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1775,
+   "months": "VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1777,
+   "months": "X",
+   "page": "230–231",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "page": "270–271",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1783,
+   "months": "I–III",
+   "page": "282–283",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 147,
+   "type": "N",
+   "year": 1783,
+   "months": "III–IV",
+   "page": "284–285",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 148,
+   "type": "N",
+   "year": 1783,
+   "months": "V–VII",
+   "page": "286–287",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 149,
+   "type": "N",
+   "year": 1783,
+   "months": "VIII–X",
+   "page": "288–289",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1783,
+   "months": "X–XII",
+   "page": "290–291",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 151,
+   "type": "N",
+   "year": 1783,
+   "year_to": 1784,
+   "months": "XII–II",
+   "page": "292–293",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 152,
+   "type": "N",
+   "year": 1784,
+   "months": "II–IV",
+   "page": "294–295",
+   "note": "poslední strana psaná latinsky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 153,
+   "type": "N",
+   "year": 1784,
+   "months": "V–VII",
+   "page": "296–297",
+   "note": "německý tabulkový formulář",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1784,
+   "months": "VII",
+   "page": "298",
+   "note": "konec oddílu narozených, pravá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "O",
+   "year": 1745,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 171,
+   "type": "O",
+   "year": 1755,
+   "months": "I–VI",
+   "page": "32–33",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 172,
+   "type": "O",
+   "year": 1755,
+   "year_to": 1756,
+   "months": "VIII–II",
+   "page": "34–35",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 180,
+   "type": "O",
+   "year": 1761,
+   "year_to": 1762,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 184,
+   "type": "O",
+   "year": 1764,
+   "months": "I–IX",
+   "page": "57–58",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 185,
+   "type": "O",
+   "year": 1764,
+   "year_to": 1766,
+   "months": "X–I",
+   "page": "59–60",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 196,
+   "type": "O",
+   "year": 1775,
+   "months": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 202,
+   "type": "O",
+   "year": 1779,
+   "months": "I",
+   "page": "95",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 214,
+   "type": "iO",
+   "year": 1742,
+   "year_to": 1774,
+   "letters": "F–H",
+   "note": "H vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 215,
+   "type": "iO",
+   "year": 1774,
+   "year_to": 1783,
+   "letters": "H",
+   "note": "zbytek prázdný",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 222,
+   "type": "iO",
+   "year": 1743,
+   "year_to": 1784,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 228,
+   "type": "Z",
+   "year": 1743,
+   "months": "II–VII",
+   "page": "2–3",
+   "note": "začátek oddílu zemřelých",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 229,
+   "type": "Z",
+   "year": 1743,
+   "months": "VII–XII",
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 230,
+   "type": "Z",
+   "year": 1744,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 231,
+   "type": "Z",
+   "year": 1744,
+   "months": "XI",
+   "page": "8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 232,
+   "type": "Z",
+   "year": 1745,
+   "page": "10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 233,
+   "type": "Z",
+   "year": 1745,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 234,
+   "type": "Z",
+   "year": 1745,
+   "months": "VIII",
+   "page": "15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 235,
+   "type": "Z",
+   "year": 1745,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 236,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 237,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 238,
+   "type": "Z",
+   "year": 1746,
+   "year_to": 1747,
+   "months": "VII–IV",
+   "page": "22–23",
+   "note": "tatáž dvoustrana jako sn. 239",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 239,
+   "type": "Z",
+   "year": 1746,
+   "year_to": 1747,
+   "months": "VII–IV",
+   "page": "22–23",
+   "note": "tatáž dvoustrana jako sn. 238, s vloženým lístkem",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 240,
+   "type": "Z",
+   "year": 1747,
+   "months": "IV–XI",
+   "page": "24–25",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 241,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 242,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 243,
+   "type": "Z",
+   "year": 1749,
+   "year_to": 1750,
+   "months": "IX–V",
+   "page": "40–41",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 244,
+   "type": "Z",
+   "year": 1750,
+   "months": "V–X",
+   "page": "42–43",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 245,
+   "type": "Z",
+   "year": 1750,
+   "year_to": 1751,
+   "months": "X–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 246,
+   "type": "Z",
+   "year": 1751,
+   "year_to": 1752,
+   "months": "V–II",
+   "page": "47–48",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 247,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 248,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 249,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 250,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 251,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 252,
+   "type": "Z",
+   "year": 1756,
+   "months": "XII",
+   "page": "59–60",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 300,
+   "type": "Z",
+   "year": 1779,
+   "page": "154",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 306,
+   "type": "Z",
+   "year": 1782,
+   "months": "IX–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 313,
+   "type": "iN",
+   "year": 1743,
+   "year_to": 1784,
+   "letters": "C/Č",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 317,
+   "type": "iN",
+   "year": 1743,
+   "year_to": 1784,
+   "letters": "G–H",
+   "note": "G vlevo, H vpravo (1743–1749)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 318,
+   "type": "iN",
+   "year": 1749,
+   "year_to": 1757,
+   "letters": "H",
+   "note": "levá strana 1749–1757",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 330,
+   "type": "iN",
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 330,
+   "type": "iO",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 340,
+   "type": "iN",
+   "letters": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 340,
+   "type": "iO",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 347,
+   "type": "iN",
+   "year": 1743,
+   "year_to": 1758,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 348,
+   "type": "iN",
+   "year": 1758,
+   "year_to": 1774,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 349,
+   "type": "iN",
+   "year": 1774,
+   "year_to": 1784,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 350,
+   "type": "iN",
+   "letters": "J–K",
+   "note": "konec J (1743–1779), K vpravo 1746–1757",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 350,
+   "type": "iO",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 351,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 352,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 357,
+   "type": "iN",
+   "letters": "P–R",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 360,
+   "type": "iN",
+   "year": 1766,
+   "year_to": 1784,
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 361,
+   "type": "iN",
+   "year": 1766,
+   "year_to": 1784,
+   "note": "S 1778–1784, T 1744–1758",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 366,
+   "type": "iN",
+   "year": 1761,
+   "year_to": 1784,
+   "letters": "Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

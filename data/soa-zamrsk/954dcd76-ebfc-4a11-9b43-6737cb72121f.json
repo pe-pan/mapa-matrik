@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "954dcd76-ebfc-4a11-9b43-6737cb72121f",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/954dcd76-ebfc-4a11-9b43-6737cb72121f",
+ "signature": "4803",
+ "parish": "Zahrádka",
+ "records": {
+  "N": "1784–1801"
+ },
+ "scans": 256,
+ "places": [
+  "Zahrádka",
+  "Kobylí Důl",
+  "Pecký Mlýn",
+  "Staré Hamry",
+  "Horní Paseka",
+  "Dolní Paseka",
+  "Podivice",
+  "Ježov",
+  "Píšť",
+  "Vranice",
+  "Vítonice",
+  "Kaliště",
+  "Staré Hutě",
+  "Horní Rápotice",
+  "Světlice",
+  "Snět",
+  "Blažejovice",
+  "Martinice u Dolních Kralovic",
+  "Šetějovice",
+  "Dolní Rápotice",
+  "Žibřidovice"
+ ],
+ "place_codes": {
+  "Vítonice": 5525,
+  "Kaliště": 15261,
+  "Snět": 151378,
+  "Blažejovice": 5517,
+  "Martinice u Dolních Kralovic": 92126,
+  "Šetějovice": 162426,
+  "Dolní Rápotice": 162418,
+  "Žibřidovice": 162434
+ },
+ "district": "Benešov",
+ "points": [
+  {
+   "scan": 245,
+   "type": "N",
+   "place": "Dolní Rápotice",
+   "year": 1799,
+   "year_to": 1801,
+   "page": "279",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 246,
+   "type": "N",
+   "place": "Dolní Rápotice",
+   "year": 1801,
+   "page": "280",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

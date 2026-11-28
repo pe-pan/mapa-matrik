@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5049",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5049",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5049/{scan}",
+ "signature": "Dobřichovice 14",
+ "parish": "Dobřichovice",
+ "records": {
+  "O": "1736–1770",
+  "Z": "1736–1770"
+ },
+ "scans": 130,
+ "order": "chronological",
+ "places": [
+  "Dobřichovice"
+ ],
+ "place_codes": {
+  "Dobřichovice": 27812
+ },
+ "points": [
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1749,
+   "year_to": 1750,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1755,
+   "months": "I–VIII",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

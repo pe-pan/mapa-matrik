@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "584b7cab-9632-4672-9d4a-6fc159f2cb0c",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/584b7cab-9632-4672-9d4a-6fc159f2cb0c",
+ "signature": "114-5",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "N": "1754–1773",
+  "Z": "1754–1773",
+  "O": "1754–1773"
+ },
+ "scans": 312,
+ "places": [
+  "Nové Město nad Metují",
+  "Dolsko",
+  "Domkov",
+  "Doubravice",
+  "Horské Předměstí",
+  "Krajské Předměstí",
+  "Krčín",
+  "Lhota",
+  "Nahořany",
+  "Provodov",
+  "Přibyslav",
+  "Spy",
+  "Starkoč",
+  "Šeřeč",
+  "Vrchoviny"
+ ],
+ "place_codes": {
+  "Nové Město nad Metují": 410420,
+  "Dolsko": 101192,
+  "Doubravice": 101206,
+  "Krčín": 106437,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Provodov": 133884,
+  "Přibyslav": 135712,
+  "Spy": 106488,
+  "Starkoč": 188387,
+  "Šeřeč": 133892,
+  "Vrchoviny": 186520
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 180,
+   "type": "O",
+   "year": 1764,
+   "months": "I",
+   "page": "64–65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 181,
+   "type": "O",
+   "year": 1764,
+   "months": "I–II",
+   "page": "66–67",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "year": 1769,
+   "months": "IV–VII",
+   "page": "104–105",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 205,
+   "type": "O",
+   "year": 1770,
+   "months": "XI",
+   "page": "114",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

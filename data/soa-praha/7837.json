@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7837",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7837",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/7837/{scan}",
+ "signature": "Líšnice 11",
+ "parish": "Líšnice",
+ "records": {
+  "O": "1696–1760"
+ },
+ "scans": 71,
+ "places": [
+  "Líšnice"
+ ],
+ "points": [
+  {
+   "scan": 62,
+   "type": "O",
+   "year": 1750,
+   "note": "silně poškozené stránky",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,431 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "9c36af23-802b-47cd-aeaf-25c669452f93",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/9c36af23-802b-47cd-aeaf-25c669452f93",
+ "signature": "8-6",
+ "parish": "Bohuslavice",
+ "records": {
+  "Z": "1784–1837",
+  "iZ": "1784–1837"
+ },
+ "scans": 153,
+ "places": [
+  "Bohuslavice",
+  "Opařiště",
+  "Zbytky",
+  "Černčice",
+  "Osíček",
+  "Vršovka"
+ ],
+ "place_codes": {
+  "Bohuslavice": 6467,
+  "Černčice": 20061,
+  "Vršovka": 186635
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 2,
+   "type": "title",
+   "note": "obálka se štítkem",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1786,
+   "months": "VI–XII",
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1787,
+   "year_to": 1788,
+   "months": "VIII–IV",
+   "page": "10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1789,
+   "year_to": 1790,
+   "months": "III–V",
+   "page": "14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1790,
+   "year_to": 1791,
+   "months": "VI–VI",
+   "page": "16–17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1791,
+   "year_to": 1792,
+   "months": "VII–VIII",
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1797,
+   "year_to": 1798,
+   "months": "IV–III",
+   "page": "30–31",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1801,
+   "months": "II–IX",
+   "page": "38–39",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1804,
+   "months": "II–XI",
+   "page": "46–47",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1806,
+   "months": "II–VIII",
+   "page": "52–53",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1807,
+   "months": "IV–XI",
+   "page": "56–57",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1810,
+   "months": "V–XII",
+   "page": "64–65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1820,
+   "year_to": 1822,
+   "months": "IX–III",
+   "page": "90–91",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1823,
+   "year_to": 1824,
+   "months": "V–VI",
+   "page": "94–95",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1824,
+   "year_to": 1825,
+   "months": "VII–V",
+   "page": "96–97",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1825,
+   "year_to": 1827,
+   "months": "X–I",
+   "page": "98–99",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1827,
+   "year_to": 1828,
+   "months": "IV–VIII",
+   "page": "100–101",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1828,
+   "year_to": 1830,
+   "months": "IX–I",
+   "page": "102–103",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1830,
+   "year_to": 1831,
+   "months": "I–I",
+   "page": "104–105",
+   "note": "nový formulář",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1831,
+   "year_to": 1832,
+   "months": "III–III",
+   "page": "106–107",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1832,
+   "year_to": 1833,
+   "months": "III–II",
+   "page": "108–109",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1833,
+   "year_to": 1834,
+   "months": "III–IV",
+   "page": "110–111",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1834,
+   "months": "V–XII",
+   "page": "112–113",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1835,
+   "months": "I–VI",
+   "page": "114–115",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1835,
+   "months": "VI–XII",
+   "page": "116–117",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1836,
+   "months": "I–X",
+   "page": "118–119",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1836,
+   "year_to": 1837,
+   "months": "XI–III",
+   "page": "120–121",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1837,
+   "months": "III–IX",
+   "page": "122–123",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "Z",
+   "place": "Bohuslavice",
+   "year": 1837,
+   "months": "X–XII",
+   "page": "124–125",
+   "note": "s. 125 prázdná, konec oddílu Bohuslavice",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "iZ",
+   "place": "Bohuslavice",
+   "year": 1789,
+   "year_to": 1821,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "iZ",
+   "place": "Bohuslavice",
+   "letters": "K, H",
+   "note": "vlevo dodatky písmene K 1822–1824, vpravo H; H 1784–1821",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 76,
+   "type": "iZ",
+   "place": "Bohuslavice",
+   "year": 1784,
+   "year_to": 1820,
+   "letters": "T",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "iZ",
+   "place": "Bohuslavice",
+   "letters": "G/J",
+   "note": "levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "iZ",
+   "place": "Bohuslavice",
+   "letters": "U, L",
+   "note": "vlevo U, vpravo L (písmena nejdou za sebou)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 79,
+   "type": "iZ",
+   "place": "Bohuslavice",
+   "letters": "Z/Ž, M",
+   "note": "vlevo Z/Ž, vpravo M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "iZ",
+   "place": "Bohuslavice",
+   "letters": "M–N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "iZ",
+   "place": "Bohuslavice",
+   "year": 1785,
+   "year_to": 1812,
+   "note": "písmeno nejisté",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 86,
+   "type": "iZ",
+   "place": "Bohuslavice",
+   "year": 1793,
+   "year_to": 1837,
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "place": "Černčice",
+   "year": 1802,
+   "year_to": 1803,
+   "page": "20–21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 139,
+   "type": "Z",
+   "place": "Vršovka",
+   "year": 1815,
+   "year_to": 1816,
+   "page": "14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 145,
+   "type": "Z",
+   "place": "Vršovka",
+   "year": 1837,
+   "page": "26–27",
+   "note": "konec oddílu Vršovka",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 149,
+   "type": "iZ",
+   "place": "Vršovka",
+   "note": "malý rejstřík oddílu Vršovka",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 152,
+   "type": "iZ",
+   "place": "Vršovka",
+   "year": 1784,
+   "year_to": 1822,
+   "letters": "S/Š",
+   "note": "rejstřík zemřelých jedné vsi",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

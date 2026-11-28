@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "8339",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/8339",
+ "signature": "Brno-Obřany, kn. 17659, O 1858–1913",
+ "parish": "Brno-Obřany",
+ "records": {
+  "O": "1858–1913"
+ },
+ "places": [
+  "Obřany",
+  "Bílovice nad Svitavou"
+ ],
+ "place_codes": {
+  "Obřany": 411841,
+  "Bílovice nad Svitavou": 4553
+ },
+ "points": [
+  {
+   "scan": 100,
+   "type": "O",
+   "place": "Obřany",
+   "year": 1895,
+   "months": "IX–X",
+   "page": "196–197",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 102,
+   "type": "O",
+   "place": "Obřany",
+   "year": 1896,
+   "months": "I",
+   "page": "200–201",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "place": "Bílovice nad Svitavou",
+   "year": 1885,
+   "page": "106–107",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

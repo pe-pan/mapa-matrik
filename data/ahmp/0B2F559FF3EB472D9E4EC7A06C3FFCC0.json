@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "0B2F559FF3EB472D9E4EC7A06C3FFCC0",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=0B2F559FF3EB472D9E4EC7A06C3FFCC0",
+ "signature": "MAG Z22",
+ "parish": "Magistrát hl. m. Prahy (civilní matrika)",
+ "records": {
+  "Z": "1943",
+  "iZ": "1943"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 204,
+   "type": "iZ",
+   "year": 1943,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 205,
+   "type": "iZ",
+   "year": 1943,
+   "letters": "K",
+   "note": "vlevo pokračování K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 206,
+   "type": "iZ",
+   "year": 1943,
+   "letters": "L",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

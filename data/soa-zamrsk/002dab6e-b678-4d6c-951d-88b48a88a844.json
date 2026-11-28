@@ -1,0 +1,773 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "002dab6e-b678-4d6c-951d-88b48a88a844",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/002dab6e-b678-4d6c-951d-88b48a88a844",
+ "signature": "6-1",
+ "parish": "Bílý Újezd",
+ "records": {
+  "N": "1703–1746",
+  "Z": "1703–1746",
+  "O": "1703–1746"
+ },
+ "scans": 312,
+ "places": [
+  "Bílý Újezd",
+  "Brocná",
+  "Bucký mlýn",
+  "Hroška",
+  "Chábory",
+  "Lhota u Dobrušky",
+  "Masty",
+  "Netřeba",
+  "Ostrov",
+  "Podbřezí",
+  "Polom",
+  "Roudné",
+  "Skalka",
+  "Víska",
+  "Vitenžovský mlýn",
+  "Černíkovice",
+  "Byzhradec",
+  "Domašín",
+  "Třebešov",
+  "Dobré",
+  "Hlinné",
+  "Kamenice",
+  "Lomy",
+  "Osečnice",
+  "Rovné",
+  "Spáleniště",
+  "Žákovec",
+  "Deštné v Orlických horách",
+  "Mnichová"
+ ],
+ "place_codes": {
+  "Bílý Újezd": 4715,
+  "Brocná": 12602,
+  "Hroška": 4723,
+  "Masty": 4731,
+  "Podbřezí": 123391,
+  "Roudné": 4740,
+  "Černíkovice": 20206,
+  "Byzhradec": 17264,
+  "Domašín": 20214,
+  "Třebešov": 169676,
+  "Dobré": 27197,
+  "Hlinné": 27201,
+  "Kamenice": 27227,
+  "Lomy": 112801,
+  "Osečnice": 112810,
+  "Rovné": 27243,
+  "Spáleniště": 30783,
+  "Deštné v Orlických horách": 410683
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1703,
+   "months": "VII–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1705,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1713,
+   "months": "I–IV",
+   "page": "98–99",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1713,
+   "months": "VIII–X",
+   "page": "102–103",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1714,
+   "months": "II",
+   "page": "106",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1723,
+   "months": "I",
+   "page": "177",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1723,
+   "months": "VIII–X",
+   "page": "182–183",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1732,
+   "months": "XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 143,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 145,
+   "type": "N",
+   "year": 1734,
+   "months": "III–V",
+   "page": "280–281",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 147,
+   "type": "N",
+   "year": 1734,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 148,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 149,
+   "type": "N",
+   "year": 1735,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 151,
+   "type": "N",
+   "year": 1735,
+   "months": "IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 152,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 153,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1736,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 155,
+   "type": "N",
+   "year": 1736,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 156,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 157,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 158,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 159,
+   "type": "N",
+   "year": 1737,
+   "months": "IX–XII",
+   "page": "308–309",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1737,
+   "year_to": 1738,
+   "months": "XII–IV",
+   "page": "310–311",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 161,
+   "type": "N",
+   "year": 1738,
+   "months": "IV–VIII",
+   "page": "312–313",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 162,
+   "type": "N",
+   "year": 1738,
+   "months": "VIII–XI",
+   "page": "314–315",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1738,
+   "year_to": 1739,
+   "months": "XI–II",
+   "page": "316–317",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1739,
+   "months": "II–V",
+   "page": "318–319",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1739,
+   "months": "V–VIII",
+   "page": "320–321",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1739,
+   "months": "VIII–XI",
+   "page": "322–323",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 167,
+   "type": "N",
+   "year": 1739,
+   "year_to": 1740,
+   "months": "XI–II",
+   "page": "324–325",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 168,
+   "type": "N",
+   "year": 1740,
+   "months": "III–V",
+   "page": "326–327",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 169,
+   "type": "N",
+   "year": 1740,
+   "months": "V–VI",
+   "page": "328",
+   "note": "konec 1. části křtů, pokračují za zemřelými",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 169,
+   "type": "O",
+   "year": 1708,
+   "page": "329",
+   "note": "české zápisy o sňatcích",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 170,
+   "type": "O",
+   "page": "330–331",
+   "note": "české zápisy o sňatcích",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 180,
+   "type": "O",
+   "note": "latinsky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 183,
+   "type": "O",
+   "year": 1712,
+   "months": "I",
+   "page": "356–357",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 190,
+   "type": "O",
+   "note": "latinsky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 193,
+   "type": "O",
+   "year": 1720,
+   "months": "X",
+   "page": "376–377",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1721,
+   "year_to": 1722,
+   "months": "XI–II",
+   "page": "380–381",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "year": 1725,
+   "page": "390–391",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 213,
+   "type": "O",
+   "year": 1736,
+   "months": "I–IX",
+   "page": "416–417",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 217,
+   "type": "Z",
+   "year": 1704,
+   "year_to": 1705,
+   "page": "424–425",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 218,
+   "type": "Z",
+   "year": 1705,
+   "year_to": 1706,
+   "months": "VIII–I",
+   "page": "426–427",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 219,
+   "type": "Z",
+   "year": 1706,
+   "months": "I–X",
+   "page": "428–429",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 220,
+   "type": "Z",
+   "year": 1706,
+   "year_to": 1707,
+   "page": "430–431",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 232,
+   "type": "Z",
+   "year": 1711,
+   "months": "I–IV",
+   "page": "454–455",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 240,
+   "type": "Z",
+   "year": 1721,
+   "year_to": 1722,
+   "page": "470–471",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 250,
+   "type": "Z",
+   "page": "490–491",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 260,
+   "type": "Z",
+   "year": 1736,
+   "year_to": 1737,
+   "months": "X–IV",
+   "page": "510–511",
+   "note": "tabulka, ves v okraji",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 262,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 263,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 264,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 265,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 266,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 267,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 268,
+   "type": "N",
+   "year": 1740,
+   "note": "pokračování křtů za zemřelými",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 269,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 270,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 271,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 272,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 273,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 274,
+   "type": "N",
+   "year": 1742,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 275,
+   "type": "N",
+   "year": 1742,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 276,
+   "type": "N",
+   "year": 1743,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 277,
+   "type": "N",
+   "year": 1743,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 278,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 279,
+   "type": "N",
+   "year": 1743,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 280,
+   "type": "N",
+   "year": 1744,
+   "months": "III–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 281,
+   "type": "N",
+   "year": 1744,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 282,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 283,
+   "type": "N",
+   "year": 1745,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 284,
+   "type": "N",
+   "year": 1745,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 285,
+   "type": "N",
+   "year": 1745,
+   "months": "VIII–X",
+   "page": "560–561",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 286,
+   "type": "N",
+   "year": 1745,
+   "months": "XI",
+   "page": "562",
+   "note": "pokračování křtů",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 286,
+   "type": "O",
+   "year": 1737,
+   "page": "563",
+   "note": "pokračování oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 287,
+   "type": "O",
+   "year": 1738,
+   "year_to": 1739,
+   "months": "I–I",
+   "page": "564–565",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 288,
+   "type": "O",
+   "year": 1739,
+   "page": "566–567",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 289,
+   "type": "O",
+   "year": 1740,
+   "year_to": 1741,
+   "months": "I–I",
+   "page": "568–569",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 290,
+   "type": "O",
+   "year": 1741,
+   "year_to": 1742,
+   "months": "VII–XI",
+   "page": "570–571",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 291,
+   "type": "O",
+   "year": 1742,
+   "year_to": 1743,
+   "months": "XI–XI",
+   "page": "572–573",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 292,
+   "type": "O",
+   "year": 1743,
+   "year_to": 1744,
+   "months": "XI–XI",
+   "page": "574–575",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 293,
+   "type": "O",
+   "year": 1744,
+   "year_to": 1745,
+   "months": "XI–XI",
+   "page": "576–577",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 294,
+   "type": "O",
+   "year": 1746,
+   "months": "I–V",
+   "page": "578–579",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 295,
+   "type": "O",
+   "year": 1746,
+   "months": "V–X",
+   "page": "580–581",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 296,
+   "type": "N",
+   "year": 1745,
+   "months": "XII",
+   "page": "583",
+   "note": "pokračování křtů 1745",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 296,
+   "type": "O",
+   "year": 1746,
+   "months": "X",
+   "page": "582",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 297,
+   "type": "N",
+   "year": 1745,
+   "year_to": 1746,
+   "months": "XII–I",
+   "page": "584–585",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 298,
+   "type": "N",
+   "year": 1746,
+   "months": "I–II",
+   "page": "586–587",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 299,
+   "type": "N",
+   "year": 1746,
+   "months": "IV",
+   "page": "588–589",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 300,
+   "type": "N",
+   "year": 1746,
+   "months": "IV–V",
+   "page": "590–591",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 301,
+   "type": "N",
+   "year": 1746,
+   "months": "VIII",
+   "page": "592–593",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 302,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 303,
+   "type": "N",
+   "year": 1746,
+   "months": "X",
+   "note": "poslední křty, zbytek prázdný",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 304,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 305,
+   "type": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 306,
+   "type": "Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

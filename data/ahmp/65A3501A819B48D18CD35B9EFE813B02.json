@@ -1,0 +1,113 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "65A3501A819B48D18CD35B9EFE813B02",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=65A3501A819B48D18CD35B9EFE813B02",
+ "signature": "MAG O28",
+ "records": {
+  "O": "1924–1925",
+  "iO": "1924–1925"
+ },
+ "parish": "Magistrát hl. m. Prahy (civilní sňatky)",
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "points": [
+  {
+   "scan": 244,
+   "type": "O",
+   "year": 1925,
+   "months": "IV",
+   "page": "223",
+   "note": "č. 445–446",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 280,
+   "type": "iO",
+   "year": 1924,
+   "year_to": 1925,
+   "page": "fol. 259",
+   "letters": "G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 281,
+   "type": "iO",
+   "year": 1924,
+   "year_to": 1925,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 282,
+   "type": "iO",
+   "year": 1924,
+   "year_to": 1925,
+   "letters": "Ch",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 283,
+   "type": "iO",
+   "year": 1924,
+   "year_to": 1925,
+   "letters": "Ch",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 284,
+   "type": "iO",
+   "year": 1924,
+   "year_to": 1925,
+   "letters": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 285,
+   "type": "iO",
+   "year": 1924,
+   "year_to": 1925,
+   "letters": "J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 286,
+   "type": "iO",
+   "year": 1924,
+   "year_to": 1925,
+   "page": "fol. 265",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 287,
+   "type": "iO",
+   "year": 1924,
+   "year_to": 1925,
+   "page": "fol. 266",
+   "letters": "K",
+   "note": "vlevo pokračování K, vpravo L (fol. 266) prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 288,
+   "type": "iO",
+   "year": 1924,
+   "year_to": 1925,
+   "letters": "L",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

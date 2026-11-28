@@ -1,0 +1,186 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11124",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11124",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11124/{scan}",
+ "parish": "Rejšice",
+ "signature": "Rejšice 05",
+ "records": {
+  "Z": "1736–1792",
+  "N": "1740–1783"
+ },
+ "scans": 141,
+ "order": "mixed",
+ "places": [
+  "Rejšice"
+ ],
+ "place_codes": {
+  "Rejšice": 140058
+ },
+ "points": [
+  {
+   "scan": 88,
+   "type": "Z",
+   "year": 1774,
+   "months": "II–VII",
+   "page": "fol. 90v–91r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "Z",
+   "year": 1774,
+   "year_to": 1775,
+   "months": "VII–I",
+   "page": "fol. 91v–92r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1775,
+   "months": "I–VIII",
+   "page": "fol. 92v–93r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 91,
+   "type": "Z",
+   "year": 1775,
+   "year_to": 1776,
+   "months": "VIII–I",
+   "page": "fol. 93v–94r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1776,
+   "year_to": 1777,
+   "page": "fol. 94v–95r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "Z",
+   "year": 1777,
+   "year_to": 1778,
+   "page": "fol. 95v–96r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 94,
+   "type": "Z",
+   "year": 1778,
+   "year_to": 1779,
+   "months": "VII–V",
+   "page": "fol. 96v–97r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1779,
+   "year_to": 1780,
+   "page": "fol. 97v–98r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 96,
+   "type": "Z",
+   "year": 1780,
+   "year_to": 1781,
+   "months": "VIII–VII",
+   "page": "fol. 98v–99r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 97,
+   "type": "Z",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "VII–III",
+   "page": "fol. 99v–100r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 98,
+   "type": "Z",
+   "year": 1782,
+   "year_to": 1783,
+   "months": "III–II",
+   "page": "fol. 100v–101r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 99,
+   "type": "Z",
+   "year": 1783,
+   "months": "III–XI",
+   "page": "fol. 101v–102r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 106,
+   "type": "Z",
+   "place": "Jabkenice",
+   "year": 1784,
+   "year_to": 1786,
+   "page": "fol. 110",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "Z",
+   "place": "Kosořice",
+   "year": 1786,
+   "year_to": 1788,
+   "page": "fol. 118",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 113,
+   "type": "Z",
+   "place": "Kosořice",
+   "year": 1788,
+   "year_to": 1790,
+   "page": "fol. 119",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 117,
+   "type": "Z",
+   "place": "Velký Újezd",
+   "year": 1785,
+   "year_to": 1791,
+   "page": "fol. 126",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "Z",
+   "place": "Smilovice",
+   "year": 1790,
+   "year_to": 1792,
+   "page": "fol. 133",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1741,
+   "year_to": 1742,
+   "page": "fol. 151",
+   "note": "oddíl nemanželských křtů v knize zemřelých",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

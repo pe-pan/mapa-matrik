@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "31421426A65C47D7ACFC5CB2EE6C834C",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=31421426A65C47D7ACFC5CB2EE6C834C",
+ "signature": "BŘV Z10",
+ "records": {
+  "Z": "1900–1911"
+ },
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 149,
+   "type": "Z",
+   "year": 1905,
+   "year_to": 1906,
+   "months": "XII–I",
+   "page": "146",
+   "note": "1 dvoustrana = 1 pagina",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 155,
+   "type": "Z",
+   "year": 1906,
+   "months": "IV",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

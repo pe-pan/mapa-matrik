@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6786",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6786",
+ "signature": "Nové Město na Moravě, kn. 15918, N 1713–1760",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "N": "1713–1760"
+ },
+ "places": [
+  "Nové Město na Moravě",
+  "Radňovice"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Radňovice": 138185
+ },
+ "district": "Žďár nad Sázavou",
+ "points": [
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1716,
+   "months": "X–XII",
+   "note": "na pravé straně nadpis A. 1717",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1717,
+   "months": "I–II",
+   "page": "46–47",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

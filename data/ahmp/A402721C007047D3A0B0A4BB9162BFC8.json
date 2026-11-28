@@ -1,0 +1,249 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "A402721C007047D3A0B0A4BB9162BFC8",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=A402721C007047D3A0B0A4BB9162BFC8",
+ "signature": "BBČ i5",
+ "parish": "Bubeneč",
+ "records": {
+  "iZ": "1784–1857"
+ },
+ "places": [
+  "Bubeneč"
+ ],
+ "place_codes": {
+  "Bubeneč": 490024
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 4,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1789,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "iZ",
+   "year": 1789,
+   "year_to": 1798,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "iZ",
+   "year": 1798,
+   "year_to": 1804,
+   "letters": "B",
+   "note": "bez sloupce strany",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "iZ",
+   "year": 1805,
+   "year_to": 1812,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "iZ",
+   "year": 1812,
+   "year_to": 1817,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "iZ",
+   "year": 1818,
+   "year_to": 1823,
+   "months": "VI–IX",
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "iZ",
+   "year": 1823,
+   "year_to": 1829,
+   "months": "IX–V",
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 11,
+   "type": "iZ",
+   "year": 1829,
+   "year_to": 1835,
+   "months": "VI–IX",
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "iZ",
+   "year": 1835,
+   "year_to": 1840,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iZ",
+   "year": 1841,
+   "year_to": 1846,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iZ",
+   "year": 1846,
+   "year_to": 1849,
+   "months": "VII–XI",
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1788,
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iZ",
+   "year": 1797,
+   "year_to": 1805,
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "iZ",
+   "year": 1805,
+   "year_to": 1811,
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "iZ",
+   "year": 1817,
+   "year_to": 1820,
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "iZ",
+   "year": 1822,
+   "year_to": 1831,
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "iZ",
+   "year": 1831,
+   "year_to": 1837,
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "iZ",
+   "year": 1837,
+   "year_to": 1842,
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "iZ",
+   "year": 1842,
+   "year_to": 1846,
+   "months": "X–IX",
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "iZ",
+   "year": 1846,
+   "year_to": 1850,
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1791,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "iZ",
+   "year": 1795,
+   "year_to": 1800,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "iZ",
+   "year": 1801,
+   "year_to": 1806,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "iZ",
+   "year": 1807,
+   "year_to": 1814,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "iZ",
+   "year": 1814,
+   "year_to": 1821,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "iZ",
+   "year": 1821,
+   "year_to": 1826,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "iZ",
+   "year": 1827,
+   "year_to": 1832,
+   "letters": "K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

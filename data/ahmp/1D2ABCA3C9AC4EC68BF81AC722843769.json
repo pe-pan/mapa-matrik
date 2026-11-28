@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "1D2ABCA3C9AC4EC68BF81AC722843769",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=1D2ABCA3C9AC4EC68BF81AC722843769",
+ "signature": "BŘV N15",
+ "records": {
+  "N": "1891–1898"
+ },
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka",
+  "Střešovice"
+ ],
+ "place_codes": {
+  "Břevnov": 490032,
+  "Střešovice": 400424
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1893,
+   "months": "IV",
+   "page": "66",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1893,
+   "months": "IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 255,
+   "type": "N",
+   "year": 1897,
+   "months": "VI",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

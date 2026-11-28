@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "8237",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/8237",
+ "signature": "Brno-Husovice, Nejsvětější Srdce Ježíšovo, kn. 17485, O 1919–1928",
+ "parish": "Brno-Husovice",
+ "records": {
+  "O": "1919–1928"
+ },
+ "places": [
+  "Husovice"
+ ],
+ "place_codes": {
+  "Husovice": 411701
+ },
+ "district": "Brno-město",
+ "points": [
+  {
+   "scan": 177,
+   "type": "O",
+   "year": 1925,
+   "months": "VII",
+   "page": "354–355",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

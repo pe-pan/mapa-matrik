@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "1038",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/1038",
+ "signature": "Nové Město na Moravě, evangelický sbor h. v., kn. 16720, Z 1858–1924",
+ "parish": "Nové Město na Moravě (evangelický sbor h. v.)",
+ "records": {
+  "Z": "1858–1924"
+ },
+ "district": "Žďár nad Sázavou",
+ "places": [
+  "Nové Město na Moravě",
+  "Pohledec",
+  "Olešná",
+  "Zubří",
+  "Rokytno"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Pohledec": 106429,
+  "Olešná": 110329,
+  "Zubří": 193739,
+  "Rokytno": 141089
+ },
+ "points": [
+  {
+   "scan": 123,
+   "type": "Z",
+   "year": 1883,
+   "months": "II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 175,
+   "type": "Z",
+   "year": 1904,
+   "months": "I",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

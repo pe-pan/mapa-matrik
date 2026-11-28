@@ -36,6 +36,14 @@
    "letters": "L–M"
   },
   {
+   "scan": 10,
+   "type": "iO",
+   "year": 1732,
+   "year_to": 1777,
+   "letters": "R",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 11,
    "type": "iO",
    "year": 1733,
@@ -57,6 +65,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-25"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

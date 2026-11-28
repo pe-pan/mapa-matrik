@@ -27,6 +27,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ],
  "points": [
@@ -36,6 +40,14 @@
    "year": 1834,
    "page": "4",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1838,
+   "year_to": 1841,
+   "page": "6–7",
+   "by": "kosarlukascz"
   },
   {
    "scan": 8,

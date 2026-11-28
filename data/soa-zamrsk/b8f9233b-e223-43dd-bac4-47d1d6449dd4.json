@@ -11,6 +11,138 @@
  },
  "points": [
   {
+   "scan": 7,
+   "type": "N",
+   "place": "Bohuslavice",
+   "year": 1784,
+   "months": "XI",
+   "page": "2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "place": "Bohuslavice",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "place": "Bohuslavice",
+   "year": 1786,
+   "months": "VIII",
+   "page": "13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "place": "Bohuslavice",
+   "year": 1787,
+   "page": "20–21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "place": "Bohuslavice",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "place": "Bohuslavice",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "place": "Bohuslavice",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 224,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 224,
+   "type": "N",
+   "place": "Černčice",
+   "year": 1841,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 227,
+   "type": "N",
+   "place": "Vršovka",
+   "year": 1784,
+   "year_to": 1785,
+   "months": "XII–VII",
+   "page": "0–1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 227,
+   "type": "title",
+   "place": "Vršovka",
+   "note": "titul oddílu narozených Vršovky (založeno 1. 8. 1784)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 228,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 228,
+   "type": "N",
+   "place": "Vršovka",
+   "year": 1785,
+   "year_to": 1786,
+   "months": "X–VII",
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 229,
+   "type": "N",
+   "place": "Vršovka",
+   "year": 1786,
+   "year_to": 1788,
+   "months": "IX–IV",
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 230,
+   "type": "N",
+   "place": "Vršovka",
+   "year": 1788,
+   "year_to": 1789,
+   "months": "III–IV",
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 231,
+   "type": "N",
+   "place": "Vršovka",
+   "year": 1789,
+   "year_to": 1791,
+   "months": "IV–III",
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 232,
+   "type": "N",
+   "place": "Vršovka",
+   "year": 1790,
+   "year_to": 1792,
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 233,
    "type": "N",
    "year": 1794,
@@ -18,17 +150,75 @@
    "by": "pe-pan"
   },
   {
+   "scan": 233,
+   "type": "N",
+   "place": "Vršovka",
+   "year": 1792,
+   "year_to": 1794,
+   "months": "X–VII",
+   "page": "12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 234,
+   "type": "N",
+   "place": "Vršovka",
+   "year": 1795,
+   "year_to": 1796,
+   "page": "14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 235,
+   "type": "N",
+   "place": "Vršovka",
+   "year": 1795,
+   "year_to": 1798,
+   "months": "I–IX",
+   "page": "14–15",
+   "note": "levá strana zakrytá vlepeným listem",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 236,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 252,
+   "type": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 253,
+   "type": "N",
+   "place": "Vršovka",
+   "year": 1820,
+   "months": "IV",
+   "page": "48",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 255,
    "type": "N",
    "year": 1823,
    "months": "VIII",
    "by": "pe-pan"
+  },
+  {
+   "scan": 256,
+   "type": "N",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

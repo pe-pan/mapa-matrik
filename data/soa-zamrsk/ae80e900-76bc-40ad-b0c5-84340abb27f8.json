@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ae80e900-76bc-40ad-b0c5-84340abb27f8",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ae80e900-76bc-40ad-b0c5-84340abb27f8",
+ "signature": "170-7315",
+ "parish": "Velká Jesenice",
+ "records": {
+  "O": "1871–1906",
+  "iO": "1871–1906"
+ },
+ "scans": 206,
+ "places": [
+  "Velká Jesenice",
+  "Nový Dvůr",
+  "Vinice",
+  "Volovka",
+  "Městec",
+  "Nouzín",
+  "Veselice",
+  "Šestajovice",
+  "Roztoky"
+ ],
+ "place_codes": {
+  "Velká Jesenice": 178411,
+  "Nový Dvůr": 45314,
+  "Volovka": 178446,
+  "Městec": 101222,
+  "Veselice": 178420,
+  "Šestajovice": 162400,
+  "Roztoky": 162396
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1876,
+   "months": "V",
+   "page": "10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1879,
+   "months": "V",
+   "page": "18",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 190,
+   "type": "iO",
+   "letters": "H",
+   "note": "konec písmene H; rejstřík oddaných na konci knihy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 192,
+   "type": "iO",
+   "letters": "K",
+   "note": "rejstřík oddaných na konci knihy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

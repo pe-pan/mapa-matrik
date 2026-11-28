@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12295",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12295",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12295/{scan}",
+ "signature": "Solopysky 13",
+ "parish": "Solopysky",
+ "records": {
+  "O": "1734–1784"
+ },
+ "places": [
+  "Solopysky",
+  "Jindice"
+ ],
+ "place_codes": {
+  "Solopysky": 159077,
+  "Jindice": 60291
+ },
+ "district": "Kutná Hora",
+ "index": {
+  "volume": "soa-praha/12298"
+ },
+ "points": [
+  {
+   "scan": 86,
+   "type": "O",
+   "year": 1757,
+   "months": "VIII–IX",
+   "page": "164–165",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1757,
+   "months": "IX–X",
+   "page": "166–167",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "O",
+   "year": 1757,
+   "months": "X",
+   "page": "168–169",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "year": 1757,
+   "months": "X–XI",
+   "page": "170–171",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 91,
+   "type": "O",
+   "year": 1758,
+   "months": "II–V",
+   "page": "174–175",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 99,
+   "type": "O",
+   "year": 1759,
+   "page": "190–191",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "O",
+   "year": 1759,
+   "year_to": 1760,
+   "months": "XI–I",
+   "page": "200–201",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 119,
+   "type": "O",
+   "year": 1762,
+   "months": "VI–VII",
+   "page": "230–231",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 142,
+   "type": "O",
+   "year": 1772,
+   "months": "I–V",
+   "page": "6–7",
+   "note": "nové stránkování od 1771, tabulky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 143,
+   "type": "O",
+   "year": 1772,
+   "months": "V–VII",
+   "page": "8–9",
+   "note": "nové stránkování od 1771, tabulky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "O",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "IX–I",
+   "page": "41–42",
+   "note": "nové stránkování od 1771, tabulky",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

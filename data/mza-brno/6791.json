@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6791",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6791",
+ "signature": "Nové Město na Moravě, kn. 15923, N 1834–1856",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "N": "1834–1856",
+  "iN": "1834–1856"
+ },
+ "order": "by_village",
+ "places": [
+  "Nové Město na Moravě",
+  "Petrovice",
+  "Jiříkovice",
+  "Maršovice",
+  "Pohledec",
+  "Radňovice",
+  "Rokytno",
+  "Studnice",
+  "Vlachovice"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Petrovice": 120189,
+  "Jiříkovice": 61107,
+  "Maršovice": 106402,
+  "Pohledec": 106429,
+  "Radňovice": 138185,
+  "Rokytno": 141089,
+  "Studnice": 141097,
+  "Vlachovice": 141101
+ },
+ "district": "Žďár nad Sázavou",
+ "index": {
+  "scans": "251–292"
+ },
+ "sections": [
+  {
+   "scans": "98–121",
+   "type": "N",
+   "place": "Petrovice"
+  },
+  {
+   "scans": "143–162",
+   "type": "N",
+   "place": "Jiříkovice"
+  }
+ ],
+ "points": [
+  {
+   "scan": 100,
+   "type": "N",
+   "place": "Petrovice",
+   "year": 1835,
+   "year_to": 1836,
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "N",
+   "place": "Petrovice",
+   "year": 1838,
+   "year_to": 1840,
+   "page": "12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 271,
+   "type": "iN",
+   "letters": "L–M",
+   "note": "přečteno M 1834–1839",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

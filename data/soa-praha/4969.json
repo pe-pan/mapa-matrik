@@ -1,0 +1,103 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4969",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4969",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4969/{scan}",
+ "signature": "Dobrovice 23",
+ "parish": "Dobrovice",
+ "records": {
+  "N": "1807–1846",
+  "O": "1807–1846",
+  "Z": "1807–1846"
+ },
+ "places": [
+  "Sýčina"
+ ],
+ "place_codes": {
+  "Sýčina": 161632
+ },
+ "district": "Mladá Boleslav",
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1814,
+   "year_to": 1818,
+   "page": "1",
+   "note": "začátek knihy, oddaní",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1818,
+   "year_to": 1823,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1828,
+   "year_to": 1832,
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1824,
+   "year_to": 1827,
+   "page": "42–43",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1833,
+   "year_to": 1835,
+   "page": "48–49",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1835,
+   "year_to": 1837,
+   "page": "50–51",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "Z",
+   "year": 1814,
+   "year_to": 1815,
+   "page": "64–65",
+   "note": "p. 64 prázdná, od p. 65 zemřelí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "Z",
+   "year": 1843,
+   "year_to": 1846,
+   "page": "74–75",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "blank",
+   "page": "100",
+   "note": "konec knihy, pečeť",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

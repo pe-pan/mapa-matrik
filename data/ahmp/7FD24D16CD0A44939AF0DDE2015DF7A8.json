@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "7FD24D16CD0A44939AF0DDE2015DF7A8",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=7FD24D16CD0A44939AF0DDE2015DF7A8",
+ "signature": "MAG O31",
+ "parish": "Magistrát hl. m. Prahy (civilní sňatky)",
+ "records": {
+  "O": "1925",
+  "iO": "1925"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 236,
+   "type": "iO",
+   "year": 1925,
+   "page": "fol. 226",
+   "letters": "J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 237,
+   "type": "iO",
+   "year": 1925,
+   "page": "fol. 227",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 238,
+   "type": "iO",
+   "year": 1925,
+   "page": "fol. 228",
+   "letters": "K–L",
+   "note": "vlevo pokračování K (1 řádek)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 239,
+   "type": "iO",
+   "year": 1925,
+   "letters": "L",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 240,
+   "type": "iO",
+   "year": 1925,
+   "letters": "M",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

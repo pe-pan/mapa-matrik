@@ -18,17 +18,98 @@
    "by": "pe-pan"
   },
   {
+   "scan": 10,
+   "type": "O",
+   "place": "Běstviny",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "place": "Chlístov",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 23,
    "type": "O",
    "year": 1822,
    "months": "VII",
    "by": "pe-pan"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "place": "Domašín",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "place": "Křovice",
+   "year": 1807,
+   "year_to": 1815,
+   "months": "X–I",
+   "page": "86–87",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "place": "Křovice",
+   "year": 1824,
+   "year_to": 1827,
+   "months": "VI–I",
+   "page": "90–91",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "place": "Miškov",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "O",
+   "place": "Paseky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "place": "Provoz",
+   "year": 1808,
+   "year_to": 1815,
+   "page": "172–173",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "place": "Provoz",
+   "year": 1815,
+   "year_to": 1825,
+   "page": "174–175",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "O",
+   "place": "Provoz",
+   "year": 1841,
+   "page": "186–187",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

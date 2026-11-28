@@ -37,6 +37,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ],
  "points": [
@@ -55,6 +59,23 @@
    "year": 1808,
    "page": "22",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1808,
+   "months": "V–XII",
+   "page": "24–25",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1809,
+   "year_to": 1810,
+   "months": "X–II",
+   "page": "28–29",
+   "by": "kosarlukascz"
   },
   {
    "scan": 24,
@@ -172,6 +193,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 91,
+   "type": "O",
+   "year": 1801,
+   "year_to": 1802,
+   "page": "176–177",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 92,
    "type": "O",
    "year": 1802,
@@ -250,11 +279,36 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 144,
+   "type": "Z",
+   "year": 1823,
+   "year_to": 1824,
+   "months": "VI–II",
+   "page": "280–281",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 145,
+   "type": "Z",
+   "year": 1824,
+   "months": "III–XII",
+   "page": "282–283",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 146,
    "type": "Z",
    "year": 1825,
    "page": "284",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 148,
+   "type": "Z",
+   "year": 1826,
+   "year_to": 1827,
+   "page": "288–289",
+   "by": "kosarlukascz"
   },
   {
    "scan": 150,

@@ -1,0 +1,306 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "52799e68-eed7-42f2-83d4-804d09f3c97c",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/52799e68-eed7-42f2-83d4-804d09f3c97c",
+ "signature": "130-2",
+ "parish": "Police nad Metují",
+ "records": {
+  "N": "1664–1709",
+  "O": "1664–1709"
+ },
+ "scans": 399,
+ "places": [
+  "Bukovice",
+  "Česká Metuje",
+  "Dědov",
+  "Hlavňov",
+  "Hony",
+  "Malá Ledhuje",
+  "Maršov nad Metují",
+  "Nízký Dřevíč",
+  "Ostaš",
+  "Pěkov",
+  "Petrovice",
+  "Petrovičky",
+  "Police nad Metují",
+  "Radešov",
+  "Slavný",
+  "Suchý Důl",
+  "Velká Ledhuje",
+  "Žďár nad Metují",
+  "Bělý",
+  "Nízká Srbská",
+  "Machovská Lhota",
+  "Machov",
+  "Řeřišný",
+  "Javor",
+  "Velký Dřevíč",
+  "Lachov",
+  "Bezděkov nad Metují"
+ ],
+ "place_codes": {
+  "Bukovice": 50121,
+  "Česká Metuje": 21628,
+  "Dědov": 166316,
+  "Hlavňov": 50130,
+  "Hony": 118893,
+  "Maršov nad Metují": 179256,
+  "Pěkov": 118907,
+  "Petrovice": 179264,
+  "Petrovičky": 179272,
+  "Police nad Metují": 125326,
+  "Radešov": 125334,
+  "Slavný": 159328,
+  "Suchý Důl": 159336,
+  "Velká Ledhuje": 125342,
+  "Žďár nad Metují": 195189,
+  "Bělý": 89834,
+  "Nízká Srbská": 89869,
+  "Machovská Lhota": 89851,
+  "Machov": 89842,
+  "Javor": 166341,
+  "Velký Dřevíč": 48402,
+  "Lachov": 166359,
+  "Bezděkov nad Metují": 3590
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1664,
+   "months": "I",
+   "page": "1",
+   "note": "začátek oddílu oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1664,
+   "months": "I–II",
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1664,
+   "year_to": 1665,
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1665,
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1665,
+   "months": "VII–XI",
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1665,
+   "year_to": 1666,
+   "page": "10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "year": 1692,
+   "year_to": 1693,
+   "months": "XI–I",
+   "page": "114–115",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1693,
+   "page": "116–117",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "O",
+   "year": 1696,
+   "page": "124–125",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "O",
+   "year": 1696,
+   "year_to": 1697,
+   "months": "XII–VII",
+   "page": "126–127",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "O",
+   "year": 1697,
+   "year_to": 1698,
+   "months": "VIII–I",
+   "page": "128–129",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "O",
+   "year": 1698,
+   "page": "130–131",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1698,
+   "year_to": 1699,
+   "months": "XII–II",
+   "page": "132–133",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1700,
+   "page": "136–137",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1701,
+   "page": "138–139",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1665,
+   "months": "XI",
+   "page": "26–27",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1666,
+   "months": "II–III",
+   "page": "31–32",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1668,
+   "months": "III",
+   "page": "61–62",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 126,
+   "type": "N",
+   "year": 1668,
+   "months": "IX–XI",
+   "page": "69–70",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 255,
+   "type": "N",
+   "page": "327–328",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 297,
+   "type": "N",
+   "year": 1693,
+   "months": "XII",
+   "page": "411–412",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 312,
+   "type": "N",
+   "year": 1696,
+   "months": "VIII–XI",
+   "page": "441–442",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 315,
+   "type": "N",
+   "year": 1697,
+   "months": "V–VII",
+   "page": "447–448",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 327,
+   "type": "N",
+   "year": 1699,
+   "months": "V–VIII",
+   "page": "471–472",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 329,
+   "type": "N",
+   "year": 1699,
+   "months": "X–XII",
+   "page": "475–476",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 340,
+   "type": "N",
+   "year": 1702,
+   "months": "I",
+   "page": "497–498",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 342,
+   "type": "N",
+   "year": 1702,
+   "months": "V–VI",
+   "page": "501–502",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 350,
+   "type": "N",
+   "year": 1703,
+   "months": "IX",
+   "page": "515–516",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 351,
+   "type": "N",
+   "year": 1703,
+   "months": "X",
+   "page": "517–518",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

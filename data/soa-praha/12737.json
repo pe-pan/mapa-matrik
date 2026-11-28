@@ -1,0 +1,650 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12737",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12737",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12737/{scan}",
+ "signature": "Svatý Jan pod Skalou 16",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "Z": "1727–1779"
+ },
+ "places": [
+  "Svatý Jan pod Skalou",
+  "Hostim",
+  "Kozolupy",
+  "Mořina"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261,
+  "Kozolupy": 71960,
+  "Mořina": 99309
+ },
+ "district": "Beroun",
+ "points": [
+  {
+   "scan": 30,
+   "type": "Z",
+   "year": 1741,
+   "year_to": 1742,
+   "months": "XII–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "Z",
+   "year": 1755,
+   "months": "I–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "Z",
+   "year": 1755,
+   "months": "VII–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 73,
+   "type": "Z",
+   "year": 1756,
+   "months": "I–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "Z",
+   "year": 1756,
+   "months": "VII–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "Z",
+   "year": 1757,
+   "months": "I–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 76,
+   "type": "Z",
+   "year": 1757,
+   "months": "V–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "Z",
+   "year": 1757,
+   "months": "IX–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "Z",
+   "year": 1757,
+   "year_to": 1758,
+   "months": "XII–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 79,
+   "type": "Z",
+   "year": 1758,
+   "months": "II–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "Z",
+   "year": 1758,
+   "months": "VII–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "Z",
+   "year": 1758,
+   "year_to": 1759,
+   "months": "XII–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 82,
+   "type": "Z",
+   "year": 1759,
+   "months": "II–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "year": 1759,
+   "months": "VII–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 84,
+   "type": "Z",
+   "year": 1759,
+   "months": "XI–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 85,
+   "type": "Z",
+   "year": 1760,
+   "months": "I–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 86,
+   "type": "Z",
+   "year": 1760,
+   "months": "VI–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 87,
+   "type": "Z",
+   "year": 1760,
+   "months": "X–XII",
+   "note": "vizitace 1760",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "Z",
+   "year": 1760,
+   "year_to": 1761,
+   "months": "XII–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "Z",
+   "year": 1761,
+   "months": "II–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1761,
+   "months": "IV–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 91,
+   "type": "Z",
+   "year": 1761,
+   "months": "V–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1761,
+   "months": "VI–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "Z",
+   "year": 1761,
+   "months": "VII–XI",
+   "note": "vizitace 19. 10. 1761",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 94,
+   "type": "Z",
+   "year": 1761,
+   "months": "XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1762,
+   "months": "I–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 96,
+   "type": "Z",
+   "year": 1762,
+   "months": "IV–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 97,
+   "type": "Z",
+   "year": 1762,
+   "months": "IX–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 98,
+   "type": "Z",
+   "year": 1763,
+   "months": "I–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 99,
+   "type": "Z",
+   "year": 1763,
+   "months": "III–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1763,
+   "months": "V–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 101,
+   "type": "Z",
+   "year": 1763,
+   "months": "IX–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 102,
+   "type": "Z",
+   "year": 1763,
+   "months": "X",
+   "note": "vizitace 18. 10. 1763",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "Z",
+   "year": 1763,
+   "months": "XI–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "Z",
+   "year": 1764,
+   "months": "I–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 105,
+   "type": "Z",
+   "year": 1764,
+   "months": "III–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 106,
+   "type": "Z",
+   "year": 1764,
+   "months": "V–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 107,
+   "type": "Z",
+   "year": 1764,
+   "months": "IX–XII",
+   "note": "vizitace 23. 10. 1764",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 108,
+   "type": "Z",
+   "year": 1764,
+   "year_to": 1765,
+   "months": "XII–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 109,
+   "type": "Z",
+   "year": 1765,
+   "months": "II–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "Z",
+   "year": 1765,
+   "months": "IV–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 111,
+   "type": "Z",
+   "year": 1765,
+   "months": "IX–XII",
+   "note": "vizitace 1. 10. 1765",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "Z",
+   "year": 1765,
+   "year_to": 1766,
+   "months": "XII–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 113,
+   "type": "Z",
+   "year": 1766,
+   "months": "II–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 114,
+   "type": "Z",
+   "year": 1766,
+   "months": "VII–IX",
+   "note": "vizitace 9. 10. 1766",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 115,
+   "type": "Z",
+   "year": 1766,
+   "months": "IX–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 116,
+   "type": "Z",
+   "year": 1766,
+   "year_to": 1767,
+   "months": "XII–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 117,
+   "type": "Z",
+   "year": 1767,
+   "months": "III–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "Z",
+   "year": 1767,
+   "months": "V–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 119,
+   "type": "Z",
+   "year": 1767,
+   "months": "IX–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 120,
+   "type": "Z",
+   "year": 1767,
+   "year_to": 1768,
+   "months": "XII–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 121,
+   "type": "Z",
+   "year": 1768,
+   "months": "II–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "Z",
+   "year": 1768,
+   "months": "III–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 123,
+   "type": "Z",
+   "year": 1768,
+   "months": "V–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 124,
+   "type": "Z",
+   "year": 1768,
+   "months": "VIII–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 125,
+   "type": "Z",
+   "year": 1768,
+   "months": "IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 126,
+   "type": "Z",
+   "year": 1768,
+   "months": "X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 127,
+   "type": "Z",
+   "year": 1768,
+   "months": "X–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 128,
+   "type": "Z",
+   "year": 1768,
+   "months": "XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 129,
+   "type": "Z",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "XII–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 130,
+   "type": "Z",
+   "year": 1769,
+   "months": "II–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 131,
+   "type": "Z",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "VI–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 132,
+   "type": "Z",
+   "year": 1770,
+   "year_to": 1771,
+   "months": "V–II",
+   "note": "od 1771 tabulkový formulář",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 133,
+   "type": "Z",
+   "year": 1771,
+   "months": "II–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 134,
+   "type": "Z",
+   "year": 1771,
+   "months": "VII–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 135,
+   "type": "Z",
+   "year": 1771,
+   "months": "IX–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 136,
+   "type": "Z",
+   "year": 1771,
+   "months": "XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 137,
+   "type": "Z",
+   "year": 1772,
+   "months": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 138,
+   "type": "Z",
+   "year": 1772,
+   "months": "I–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 139,
+   "type": "Z",
+   "year": 1772,
+   "months": "II–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "Z",
+   "year": 1772,
+   "months": "III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 141,
+   "type": "Z",
+   "year": 1772,
+   "months": "III–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 142,
+   "type": "Z",
+   "year": 1772,
+   "months": "IV–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 143,
+   "type": "Z",
+   "year": 1772,
+   "months": "V–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 144,
+   "type": "Z",
+   "year": 1772,
+   "months": "VII–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 145,
+   "type": "Z",
+   "year": 1772,
+   "year_to": 1773,
+   "months": "X–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 146,
+   "type": "Z",
+   "year": 1773,
+   "months": "II–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 147,
+   "type": "Z",
+   "year": 1773,
+   "months": "IV–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 148,
+   "type": "Z",
+   "year": 1773,
+   "year_to": 1774,
+   "months": "VIII–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 149,
+   "type": "Z",
+   "year": 1774,
+   "months": "I–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "Z",
+   "year": 1774,
+   "months": "VIII–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 151,
+   "type": "Z",
+   "year": 1774,
+   "year_to": 1775,
+   "months": "XII–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 152,
+   "type": "Z",
+   "year": 1775,
+   "months": "III–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 153,
+   "type": "Z",
+   "year": 1775,
+   "year_to": 1776,
+   "months": "VIII–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 157,
+   "type": "Z",
+   "year": 1777,
+   "months": "I–V",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

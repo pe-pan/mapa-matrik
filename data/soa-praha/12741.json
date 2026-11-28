@@ -1,0 +1,139 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12741",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12741",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12741/{scan}",
+ "parish": "Svatý Jan pod Skalou",
+ "places": [
+  "Hostim"
+ ],
+ "signature": "Svatý Jan pod Skalou 08",
+ "records": {
+  "iN": "1722–1845"
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 30,
+   "type": "iN",
+   "place": "Hostim",
+   "year": 1719,
+   "year_to": 1735,
+   "page": "56–57",
+   "note": "rejstřík narozených po rodinách; s. 56 prázdná; titul oddílu Hostim; rejstřík po rodinách",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "iN",
+   "note": "rodinný rejstřík (po rodinách)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "iN",
+   "place": "Hostim",
+   "year": 1722,
+   "year_to": 1747,
+   "page": "58–59",
+   "note": "rejstřík po rodinách 9–28",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "iN",
+   "place": "Hostim",
+   "year": 1734,
+   "year_to": 1749,
+   "page": "60–61",
+   "note": "rejstřík narozených po rodinách; rejstřík po rodinách 28–47",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "iN",
+   "place": "Hostim",
+   "year": 1742,
+   "year_to": 1758,
+   "page": "62–63",
+   "note": "rejstřík po rodinách 47–60",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "iN",
+   "place": "Hostim",
+   "year": 1750,
+   "year_to": 1757,
+   "page": "64–65",
+   "note": "rejstřík po rodinách 61–72",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "iN",
+   "place": "Hostim",
+   "page": "66–67",
+   "note": "rejstřík po rodinách 73–85",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "iN",
+   "place": "Srbsko",
+   "year": 1740,
+   "year_to": 1768,
+   "page": "96–97",
+   "note": "rejstřík po rodinách 54–71",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iN",
+   "place": "Srbsko",
+   "year": 1750,
+   "year_to": 1790,
+   "page": "98–99",
+   "note": "rejstřík po rodinách 72–88",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "iN",
+   "place": "Kozolupy",
+   "year": 1753,
+   "year_to": 1758,
+   "page": "164–165",
+   "note": "rejstřík po rodinách 105–119",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "iN",
+   "place": "Kozolupy",
+   "year": 1759,
+   "year_to": 1765,
+   "page": "166–167",
+   "note": "rejstřík po rodinách 120–136",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "iN",
+   "place": "Kozolupy",
+   "year": 1778,
+   "year_to": 1786,
+   "page": "170–171",
+   "note": "rejstřík po rodinách 155–176",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

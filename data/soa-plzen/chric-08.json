@@ -23,6 +23,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ],
  "points": [
@@ -55,11 +59,36 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 22,
+   "type": "N",
+   "year": 1826,
+   "months": "IV–VIII",
+   "page": "fol. 478v–479r",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 26,
    "type": "N",
    "year": 1828,
    "page": "483",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1828,
+   "year_to": 1829,
+   "months": "VIII–VIII",
+   "page": "fol. 484",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1829,
+   "year_to": 1830,
+   "page": "fol. 485",
+   "by": "kosarlukascz"
   },
   {
    "scan": 29,

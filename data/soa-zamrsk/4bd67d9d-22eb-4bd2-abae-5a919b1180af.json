@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "4bd67d9d-22eb-4bd2-abae-5a919b1180af",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/4bd67d9d-22eb-4bd2-abae-5a919b1180af",
+ "signature": "121-9957",
+ "parish": "Osenice",
+ "records": {
+  "N": "1784–1948",
+  "Z": "1784–1948",
+  "O": "1784–1948"
+ },
+ "scans": 127,
+ "places": [
+  "Prodašice"
+ ],
+ "points": [
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1785,
+   "year_to": 1787,
+   "page": "184–185",
+   "note": "začátek oddílu zemřelých (nadpis)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "Z",
+   "year": 1789,
+   "year_to": 1792,
+   "months": "VI–II",
+   "page": "186–187",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 94,
+   "type": "Z",
+   "year": 1792,
+   "year_to": 1797,
+   "page": "188–189",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1797,
+   "year_to": 1803,
+   "months": "VII–V",
+   "page": "190–191",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

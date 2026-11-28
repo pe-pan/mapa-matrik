@@ -1,0 +1,179 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-03",
+ "scans": 147,
+ "signature": "Chříč 03",
+ "parish": "Chříč",
+ "records": {
+  "Z": "1786–1845",
+  "iZ": "1786–1815"
+ },
+ "places": [
+  "Hlince",
+  "Holovousy",
+  "Chříč",
+  "Lhota",
+  "Slatina",
+  "Studená"
+ ],
+ "place_codes": {
+  "Hlince": 54534,
+  "Holovousy": 54542,
+  "Chříč": 54551,
+  "Lhota": 54569,
+  "Slatina": 54577,
+  "Studená": 54585
+ },
+ "aliases": {
+  "Hlince": [
+   "Hlintsch",
+   "Hlintz"
+  ],
+  "Holovousy": [
+   "Holofous",
+   "Holofaus"
+  ],
+  "Chříč": [
+   "Křitz",
+   "Kreitsch"
+  ],
+  "Studená": [
+   "Studena"
+  ]
+ },
+ "district": "Plzeň-sever",
+ "points": [
+  {
+   "scan": 36,
+   "type": "Z",
+   "place": "Holovousy",
+   "year": 1825,
+   "year_to": 1827,
+   "page": "33",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1788,
+   "year_to": 1790,
+   "page": "38",
+   "note": "poslední zápis přelepen proužkem papíru",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1790,
+   "year_to": 1792,
+   "page": "39",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1796,
+   "year_to": 1797,
+   "page": "42",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1804,
+   "year_to": 1805,
+   "months": "III–IV",
+   "page": "49",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1810,
+   "year_to": 1811,
+   "months": "II–VIII",
+   "page": "53",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1814,
+   "year_to": 1816,
+   "months": "IV–V",
+   "page": "57",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1823,
+   "year_to": 1824,
+   "months": "IX–IV",
+   "page": "69",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1836,
+   "year_to": 1837,
+   "months": "X–IV",
+   "page": "80",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 84,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1837,
+   "year_to": 1838,
+   "months": "V–II",
+   "page": "81",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "Z",
+   "place": "Slatina",
+   "year": 1786,
+   "year_to": 1790,
+   "page": "103",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 106,
+   "type": "Z",
+   "place": "Slatina",
+   "year": 1799,
+   "year_to": 1801,
+   "page": "106",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 145,
+   "type": "iZ",
+   "year": 1786,
+   "page": "145",
+   "note": "rejstřík zemřelých celé fary",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

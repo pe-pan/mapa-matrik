@@ -11,6 +11,40 @@
  },
  "points": [
   {
+   "scan": 5,
+   "type": "Z",
+   "year": 1808,
+   "months": "VI–IX",
+   "page": "1",
+   "note": "začátek knihy zemřelých (nadpis), všechny vsi fary",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1808,
+   "year_to": 1809,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "Z",
+   "year": 1808,
+   "year_to": 1809,
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1809,
+   "year_to": 1810,
+   "months": "VIII–I",
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 9,
    "type": "Z",
    "year": 1810,
@@ -23,6 +57,15 @@
    "year": 1810,
    "months": "IV",
    "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "place": "Dobré",
+   "year": 1810,
+   "year_to": 1811,
+   "page": "12–13",
+   "by": "kosarlukascz"
   },
   {
    "scan": 13,
@@ -84,6 +127,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

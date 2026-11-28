@@ -1,0 +1,266 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "A257BA1DA6D24E43976733286CDC1C7C",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=A257BA1DA6D24E43976733286CDC1C7C",
+ "signature": "KUN N7O7Z7",
+ "records": {
+  "N": "1800–1816",
+  "O": "1800–1816",
+  "Z": "1800–1816"
+ },
+ "parish": "Kunratice",
+ "places": [
+  "Kunratice",
+  "Šeberov"
+ ],
+ "place_codes": {
+  "Kunratice": 400262,
+  "Šeberov": 162132
+ },
+ "district": "území Hlavního města Prahy",
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "place": "Hrnčíře",
+   "year": 1800,
+   "page": "fol. 2",
+   "note": "začátek oddílu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "page": "fol. 11v–12",
+   "note": "začátek oddílu, latinsky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1805,
+   "year_to": 1806,
+   "months": "VII–XII",
+   "page": "fol. 12",
+   "note": "latinsky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1807,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1807,
+   "year_to": 1809,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1809,
+   "year_to": 1811,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1811,
+   "year_to": 1812,
+   "note": "pravá strana přeškrtnutá, prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1812,
+   "year_to": 1814,
+   "months": "XII–II",
+   "page": "fol. 16v–17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1814,
+   "year_to": 1815,
+   "months": "VI–I",
+   "page": "fol. 17v–18",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "place": "Šeberov",
+   "year": 1815,
+   "year_to": 1816,
+   "months": "V–II",
+   "page": "fol. 18v–19",
+   "note": "konec oddílu, pak prázdno",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "place": "Vestec",
+   "year": 1800,
+   "page": "fol. 20",
+   "note": "začátek oddílu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "place": "Vestec",
+   "year": 1804,
+   "year_to": 1806,
+   "page": "fol. 23v–24",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1813,
+   "page": "fol. 29",
+   "note": "vložený lístek",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "place": "Vestec",
+   "year": 1813,
+   "year_to": 1814,
+   "months": "VII–II",
+   "page": "fol. 30",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1813,
+   "year_to": 1815,
+   "page": "fol. 37v–38",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1815,
+   "year_to": 1816,
+   "page": "fol. 38v–39",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "place": "Kateřinky",
+   "year": 1800,
+   "page": "fol. 40",
+   "note": "začátek oddílu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "blank",
+   "page": "fol. 44v–45",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "place": "Šeberov",
+   "year": 1804,
+   "year_to": 1809,
+   "page": "fol. 7v–8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "O",
+   "place": "Šeberov",
+   "year": 1808,
+   "year_to": 1816,
+   "page": "fol. 8v–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "blank",
+   "note": "prázdný list se záložkou (fol. 18 oddílu O)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "place": "Vestec",
+   "year": 1800,
+   "year_to": 1806,
+   "page": "fol. 18v–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1808,
+   "page": "fol. 32v–33",
+   "note": "ves nejistá",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "place": "Štiměřice",
+   "year": 1813,
+   "year_to": 1815,
+   "page": "fol. 32v–33",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "blank",
+   "note": "prázdný list se záložkou (fol. 39 oddílu O)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "Z",
+   "place": "Šeberov",
+   "year": 1809,
+   "year_to": 1813,
+   "months": "I–III",
+   "page": "fol. 88–89",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "Z",
+   "place": "Šeberov",
+   "year": 1813,
+   "year_to": 1816,
+   "months": "III–I",
+   "page": "fol. 89v–90",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

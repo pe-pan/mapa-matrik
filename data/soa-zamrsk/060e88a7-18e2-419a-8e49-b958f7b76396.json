@@ -11,17 +11,236 @@
  },
  "points": [
   {
+   "scan": 28,
+   "type": "iO",
+   "letters": "G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "iO",
+   "year": 1829,
+   "year_to": 1900,
+   "letters": "G",
+   "note": "konec písmene G; pravá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "iO",
+   "letters": "H",
+   "note": "začátek písmene",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "iO",
+   "year": 1715,
+   "year_to": 1740,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "iO",
+   "year": 1740,
+   "year_to": 1773,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iO",
+   "letters": "H–J",
+   "note": "konec H (1898–1910), pak J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iO",
+   "year": 1725,
+   "year_to": 1818,
+   "letters": "J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iO",
+   "year": 1664,
+   "year_to": 1681,
+   "letters": "K",
+   "note": "odkazy na knihu B, s. 8–68",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "iO",
+   "year": 1681,
+   "year_to": 1699,
+   "letters": "K",
+   "note": "odkazy na knihy B (s. 69–123) a C (s. 1–24)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "iO",
+   "year": 1699,
+   "year_to": 1719,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "iO",
+   "year": 1719,
+   "year_to": 1739,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "iO",
+   "year": 1739,
+   "year_to": 1766,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "iO",
+   "year": 1766,
+   "year_to": 1798,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iO",
+   "year": 1798,
+   "year_to": 1810,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iO",
+   "year": 1810,
+   "year_to": 1845,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iO",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "iO",
+   "year": 1869,
+   "year_to": 1886,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "iO",
+   "year": 1886,
+   "year_to": 1901,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "iO",
+   "year": 1901,
+   "year_to": 1905,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iO",
+   "year": 1668,
+   "year_to": 1695,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "iO",
+   "year": 1896,
+   "year_to": 1905,
+   "letters": "N",
+   "note": "konec písmene N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 87,
+   "type": "iO",
+   "year": 1650,
+   "year_to": 1671,
+   "letters": "S",
+   "note": "levá strana prázdná (za koncem R), vpravo začátek S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "iO",
+   "year": 1671,
+   "year_to": 1691,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "iO",
+   "year": 1718,
+   "year_to": 1751,
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 91,
+   "type": "iO",
+   "year": 1751,
+   "year_to": 1781,
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "iO",
+   "year": 1782,
+   "year_to": 1815,
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 93,
    "type": "O",
    "year": 1815,
    "year_to": 1842,
    "by": "pe-pan"
+  },
+  {
+   "scan": 93,
+   "type": "iO",
+   "year": 1820,
+   "year_to": 1842,
+   "letters": "S",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

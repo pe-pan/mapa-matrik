@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12289",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12289",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12289/{scan}",
+ "signature": "Solopysky 18",
+ "parish": "Solopysky",
+ "records": {
+  "Z": "1784–1815"
+ },
+ "order": "by_village",
+ "places": [
+  "Solopysky",
+  "Jindice"
+ ],
+ "place_codes": {
+  "Solopysky": 159077,
+  "Jindice": 60291
+ },
+ "district": "Kutná Hora",
+ "index": {
+  "volume": "soa-praha/12299"
+ },
+ "points": [
+  {
+   "scan": 17,
+   "type": "Z",
+   "place": "Solopysky",
+   "year": 1813,
+   "page": "31–32",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "Z",
+   "place": "Hrádek",
+   "year": 1809,
+   "year_to": 1810,
+   "page": "32–33",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "Z",
+   "place": "Chotouchov",
+   "year": 1807,
+   "year_to": 1808,
+   "page": "20–21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "Z",
+   "place": "Pučery",
+   "year": 1810,
+   "year_to": 1812,
+   "page": "20–21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "place": "Miletín",
+   "year": 1784,
+   "year_to": 1786,
+   "page": "1",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "blank",
+   "place": "Poďousy",
+   "page": "36",
+   "note": "prázdná strana oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 91,
+   "type": "Z",
+   "place": "Miletín",
+   "year": 1803,
+   "year_to": 1805,
+   "months": "VI–I",
+   "page": "16–17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "place": "Miletín",
+   "year": 1805,
+   "year_to": 1806,
+   "months": "X–V",
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 117,
+   "type": "Z",
+   "place": "Rašovice",
+   "year": 1784,
+   "year_to": 1787,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "Z",
+   "place": "Jindice",
+   "year": 1812,
+   "months": "I–VI",
+   "page": "37",
+   "note": "vlevo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 119,
+   "type": "Z",
+   "place": "Jindice",
+   "year": 1812,
+   "year_to": 1815,
+   "page": "38–39",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

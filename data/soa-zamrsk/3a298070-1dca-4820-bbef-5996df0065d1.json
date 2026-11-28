@@ -1,0 +1,277 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "3a298070-1dca-4820-bbef-5996df0065d1",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/3a298070-1dca-4820-bbef-5996df0065d1",
+ "signature": "114-4",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "N": "1727–1753",
+  "Z": "1727–1753",
+  "O": "1727–1753"
+ },
+ "scans": 502,
+ "places": [
+  "Nové Město nad Metují",
+  "Dolsko",
+  "Domkov",
+  "Doubravice",
+  "Krčín",
+  "Lhota",
+  "Nahořany",
+  "Obora",
+  "Osma",
+  "Provodov",
+  "Přibyslav",
+  "Spy",
+  "Starkoč",
+  "Šeřeč",
+  "Vrchoviny",
+  "Bohuslavice",
+  "Černčice",
+  "Vršovka"
+ ],
+ "place_codes": {
+  "Nové Město nad Metují": 410420,
+  "Dolsko": 101192,
+  "Doubravice": 101206,
+  "Krčín": 106437,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Provodov": 133884,
+  "Přibyslav": 135712,
+  "Spy": 106488,
+  "Starkoč": 188387,
+  "Šeřeč": 133892,
+  "Vrchoviny": 186520,
+  "Bohuslavice": 6467,
+  "Černčice": 20061,
+  "Vršovka": 186635
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1729,
+   "months": "I–IV",
+   "page": "58–59",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1729,
+   "months": "X–XII",
+   "page": "70–71",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1729,
+   "year_to": 1730,
+   "months": "XII–I",
+   "page": "72–73",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1730,
+   "months": "I–III",
+   "page": "76–77",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1731,
+   "page": "122–123",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1732,
+   "months": "I",
+   "page": "126–127",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1732,
+   "months": "II",
+   "page": "128–129",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 176,
+   "type": "N",
+   "year": 1739,
+   "page": "342",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 206,
+   "type": "N",
+   "year": 1741,
+   "page": "402–403",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 221,
+   "type": "N",
+   "year": 1742,
+   "page": "432",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 230,
+   "type": "N",
+   "year": 1742,
+   "page": "448",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 232,
+   "type": "N",
+   "year": 1742,
+   "months": "XII",
+   "page": "452",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 236,
+   "type": "N",
+   "page": "460–461",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 237,
+   "type": "N",
+   "year": 1743,
+   "months": "VI",
+   "page": "462–463",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 246,
+   "type": "N",
+   "year": 1744,
+   "months": "VI",
+   "page": "480–481",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 251,
+   "type": "N",
+   "year": 1745,
+   "months": "II–IV",
+   "page": "490–491",
+   "note": "tatáž dvoustrana jako sn. 252",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 252,
+   "type": "N",
+   "year": 1745,
+   "months": "II–IV",
+   "page": "490–491",
+   "note": "tatáž dvoustrana jako sn. 251, s vloženým lístkem",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 253,
+   "type": "N",
+   "year": 1745,
+   "months": "V",
+   "page": "492–493",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 284,
+   "type": "N",
+   "page": "554–555",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 286,
+   "type": "N",
+   "year": 1750,
+   "months": "XII",
+   "page": "558–559",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 354,
+   "type": "O",
+   "year": 1738,
+   "months": "VII–IX",
+   "page": "92–93",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 386,
+   "type": "O",
+   "year": 1749,
+   "months": "XI",
+   "page": "157",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 387,
+   "type": "O",
+   "year": 1749,
+   "year_to": 1750,
+   "months": "XI–I",
+   "page": "158",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 400,
+   "type": "Z",
+   "year": 1727,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 424,
+   "type": "Z",
+   "year": 1733,
+   "months": "IX–X",
+   "page": "50–51",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 425,
+   "type": "Z",
+   "year": 1733,
+   "months": "XI",
+   "page": "52–53",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 450,
+   "type": "Z",
+   "page": "102–103",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 456,
+   "type": "Z",
+   "year": 1741,
+   "months": "VIII–XII",
+   "page": "114–115",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

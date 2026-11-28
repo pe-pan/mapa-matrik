@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4847",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4847",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4847/{scan}",
+ "signature": "Čestlice 03",
+ "parish": "Čestlice",
+ "records": {
+  "N": "1823–1844"
+ },
+ "places": [
+  "Čestlice",
+  "Průhonice"
+ ],
+ "place_codes": {
+  "Čestlice": 23442
+ },
+ "district": "Praha-východ",
+ "order": "by_village",
+ "index": {
+  "volume": "soa-praha/4855"
+ },
+ "points": [
+  {
+   "scan": 202,
+   "type": "N",
+   "place": "Průhonice",
+   "year": 1836,
+   "months": "VIII–IX",
+   "page": "207",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 229,
+   "type": "N",
+   "place": "Průhonice",
+   "year": 1842,
+   "months": "XII",
+   "page": "233–234",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

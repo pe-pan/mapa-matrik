@@ -107,12 +107,200 @@
    "year": 1808,
    "months": "V",
    "by": "pe-pan"
+  },
+  {
+   "scan": 88,
+   "type": "blank",
+   "place": "Kamenice",
+   "page": "fol. 27",
+   "note": "konec oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "N",
+   "place": "Lomy",
+   "year": 1784,
+   "year_to": 1786,
+   "months": "IX–X",
+   "page": "fol. 1–2",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "place": "Lomy",
+   "year": 1787,
+   "year_to": 1788,
+   "months": "II–XI",
+   "page": "fol. 3–4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "place": "Lomy",
+   "year": 1800,
+   "year_to": 1801,
+   "page": "fol. 17–18",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "place": "Lomy",
+   "year": 1807,
+   "page": "fol. 23–24",
+   "note": "konec oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "place": "Lomy",
+   "year": 1808,
+   "months": "III–V",
+   "page": "fol. 25–26",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "place": "Netřeba",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 102,
+   "type": "N",
+   "place": "Netřeba",
+   "year": 1784,
+   "year_to": 1791,
+   "months": "V–X",
+   "page": "fol. 1–2",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "place": "Netřeba",
+   "year": 1792,
+   "year_to": 1795,
+   "page": "fol. 3–4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 124,
+   "type": "N",
+   "place": "Rovné",
+   "year": 1807,
+   "page": "fol. 35–36",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 128,
+   "type": "blank",
+   "place": "Dolní Spáleniště",
+   "page": "fol. 8",
+   "note": "konec oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 131,
+   "type": "blank",
+   "page": "fol. 27",
+   "note": "prázdný konec předchozí vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 131,
+   "type": "N",
+   "place": "Osečnice",
+   "year": 1784,
+   "year_to": 1785,
+   "months": "VI–III",
+   "page": "fol. 1",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 132,
+   "type": "N",
+   "place": "Osečnice",
+   "year": 1785,
+   "year_to": 1786,
+   "months": "IV–IX",
+   "page": "fol. 2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "place": "Osečnice",
+   "year": 1786,
+   "year_to": 1787,
+   "months": "IX–X",
+   "page": "fol. 4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 134,
+   "type": "N",
+   "place": "Osečnice",
+   "year": 1788,
+   "months": "I–X",
+   "page": "fol. 6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 135,
+   "type": "N",
+   "place": "Osečnice",
+   "year": 1788,
+   "year_to": 1790,
+   "months": "XI–VIII",
+   "page": "fol. 8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 136,
+   "type": "N",
+   "place": "Osečnice",
+   "year": 1790,
+   "year_to": 1792,
+   "months": "VIII–IV",
+   "page": "fol. 10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "place": "Osečnice",
+   "year": 1792,
+   "year_to": 1793,
+   "months": "V–XI",
+   "page": "fol. 12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "place": "Osečnice",
+   "year": 1794,
+   "page": "fol. 14",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

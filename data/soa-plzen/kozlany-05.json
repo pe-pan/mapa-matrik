@@ -19,6 +19,31 @@
  "order": "mixed",
  "points": [
   {
+   "scan": 5,
+   "type": "N",
+   "year": 1763,
+   "months": "IV–VIII",
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1763,
+   "year_to": 1764,
+   "months": "IX–I",
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1764,
+   "months": "II–VI",
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 10,
    "type": "N",
    "year": 1765,
@@ -26,6 +51,15 @@
    "page": "12–13",
    "note": "latinsky; N str. 1 = sn. 4 vpravo (I 1763)",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1765,
+   "year_to": 1766,
+   "months": "XII–IV",
+   "page": "16–17",
+   "by": "kosarlukascz"
   },
   {
    "scan": 14,
@@ -36,12 +70,116 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 18,
+   "type": "N",
+   "year": 1768,
+   "months": "I–IV",
+   "page": "28–29",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 21,
    "type": "N",
    "year": 1769,
    "months": "II–V",
    "page": "34–35",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1772,
+   "months": "I–III",
+   "page": "52–53",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1772,
+   "months": "VI–XI",
+   "page": "56–57",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1773,
+   "months": "VII",
+   "page": "64–65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1773,
+   "months": "IX",
+   "page": "66–67",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "page": "74–75",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1774,
+   "months": "XI",
+   "page": "78–79",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1777,
+   "months": "IX–XII",
+   "page": "100–101",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1778,
+   "months": "VIII–XII",
+   "page": "108–109",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1778,
+   "year_to": 1779,
+   "months": "XII–III",
+   "page": "110–111",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1779,
+   "year_to": 1780,
+   "months": "XII–III",
+   "page": "118–119",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1780,
+   "months": "III–IV",
+   "page": "120–121",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1780,
+   "months": "V–VII",
+   "page": "122–123",
+   "by": "kosarlukascz"
   },
   {
    "scan": 70,
@@ -53,6 +191,37 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 74,
+   "type": "N",
+   "year": 1782,
+   "months": "I–II",
+   "page": "140–141",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1782,
+   "months": "VIII–X",
+   "page": "146–147",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1782,
+   "year_to": 1783,
+   "page": "148–149",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1783,
+   "page": "152–153",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 81,
    "type": "N",
    "year": 1783,
@@ -60,6 +229,43 @@
    "page": "154–155",
    "note": "sn. 77 = str. 146–147 (IX–X 1782), 78 = 148–149 (XI 1782 – I 1783), 79 = 150–151 (I–III 1783), 60 = 112–113 (III–V 1779), 72 = 136–137 (X–XI 1781)",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1783,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "iN",
+   "letters": "A",
+   "note": "začátek rejstříku N s titulem",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "iN",
+   "letters": "B–C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "iN",
+   "letters": "F–G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "iN",
+   "letters": "H–J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 94,
+   "type": "iN",
+   "letters": "K–L",
+   "by": "kosarlukascz"
   },
   {
    "scan": 95,
@@ -80,6 +286,12 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 97,
+   "type": "iN",
+   "letters": "R–S",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 103,
    "type": "O",
    "year": 1759,
@@ -87,6 +299,23 @@
    "page": "4–5",
    "note": "česky; O str. 79–80 (1783) = sn. 140",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 108,
+   "type": "O",
+   "year": 1763,
+   "year_to": 1764,
+   "months": "X–VII",
+   "page": "14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 114,
+   "type": "O",
+   "year": 1768,
+   "months": "II",
+   "page": "26–27",
+   "by": "kosarlukascz"
   },
   {
    "scan": 115,
@@ -97,12 +326,70 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 115,
+   "type": "O",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "XI–VII",
+   "page": "28–29",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 116,
+   "type": "O",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "XI–II",
+   "page": "30–31",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 117,
+   "type": "O",
+   "year": 1770,
+   "year_to": 1771,
+   "page": "32–33",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 118,
    "type": "O",
    "year": 1771,
    "page": "34–35",
    "note": "sn. 121 = str. 40–41 (1772), 125 = 48–49 (XI 1774 – II 1775), 127 = 52–53 (1775); rejstřík O K–P sn. 146",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 119,
+   "type": "O",
+   "year": 1772,
+   "months": "II–VI",
+   "page": "36–37",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 120,
+   "type": "O",
+   "year": 1772,
+   "months": "VI–VIII",
+   "page": "38–39",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 121,
+   "type": "O",
+   "year": 1772,
+   "months": "VIII–XI",
+   "page": "40–41",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "O",
+   "year": 1773,
+   "months": "IX",
+   "page": "42–43",
+   "by": "kosarlukascz"
   },
   {
    "scan": 130,
@@ -123,12 +410,81 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 133,
+   "type": "O",
+   "year": 1780,
+   "months": "I–VIII",
+   "page": "64–65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 136,
+   "type": "O",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "XI–I",
+   "page": "70–71",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 145,
+   "type": "iO",
+   "letters": "D–J",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 146,
    "type": "iO",
    "year": 1758,
    "year_to": 1778,
    "letters": "K–P",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 147,
+   "type": "iO",
+   "letters": "R–W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 148,
+   "type": "Z",
+   "year": 1760,
+   "months": "I–II",
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 148,
+   "type": "iZ",
+   "letters": "J, Z",
+   "note": "konec rejstříku Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 149,
+   "type": "Z",
+   "year": 1760,
+   "months": "II–IX",
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "Z",
+   "year": 1760,
+   "year_to": 1761,
+   "months": "X–I",
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 151,
+   "type": "Z",
+   "year": 1761,
+   "months": "I–IV",
+   "page": "6–7",
+   "by": "kosarlukascz"
   },
   {
    "scan": 152,
@@ -140,6 +496,121 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 154,
+   "type": "Z",
+   "year": 1762,
+   "months": "I–V",
+   "page": "12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 157,
+   "type": "Z",
+   "year": 1763,
+   "months": "V–XII",
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 158,
+   "type": "Z",
+   "year": 1763,
+   "year_to": 1764,
+   "months": "XII–VI",
+   "page": "20–21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 166,
+   "type": "Z",
+   "year": 1768,
+   "months": "II–VI",
+   "page": "36–37",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 168,
+   "type": "Z",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "XII–IV",
+   "page": "40–41",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 174,
+   "type": "Z",
+   "year": 1771,
+   "months": "X–XII",
+   "page": "52–53",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 175,
+   "type": "Z",
+   "year": 1771,
+   "months": "XII",
+   "page": "54–55",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 177,
+   "type": "Z",
+   "year": 1772,
+   "months": "II–III",
+   "page": "58–59",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 179,
+   "type": "Z",
+   "year": 1772,
+   "months": "III–IV",
+   "page": "62–63",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 180,
+   "type": "Z",
+   "year": 1772,
+   "months": "IV",
+   "page": "64–65",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 181,
+   "type": "Z",
+   "year": 1772,
+   "months": "IV–V",
+   "page": "66–67",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 183,
+   "type": "Z",
+   "year": 1772,
+   "months": "VI–X",
+   "page": "70–71",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 186,
+   "type": "Z",
+   "year": 1773,
+   "year_to": 1774,
+   "months": "IX–VII",
+   "page": "76–77",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 187,
+   "type": "Z",
+   "year": 1774,
+   "months": "VII–XII",
+   "page": "78–79",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 188,
    "type": "Z",
    "year": 1775,
@@ -149,6 +620,78 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 189,
+   "type": "Z",
+   "year": 1776,
+   "months": "III",
+   "page": "82–83",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 190,
+   "type": "Z",
+   "year": 1776,
+   "months": "VII",
+   "page": "84–85",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 191,
+   "type": "Z",
+   "year": 1776,
+   "year_to": 1777,
+   "months": "XII–IX",
+   "page": "86–87",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 192,
+   "type": "Z",
+   "year": 1777,
+   "year_to": 1778,
+   "months": "IX–V",
+   "page": "88–89",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 196,
+   "type": "Z",
+   "year": 1780,
+   "months": "III–IV",
+   "page": "96–97",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 197,
+   "type": "Z",
+   "year": 1780,
+   "months": "IX",
+   "page": "98–99",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 202,
+   "type": "Z",
+   "year": 1783,
+   "months": "VII",
+   "page": "108bis",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 203,
+   "type": "Z",
+   "page": "109",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 204,
+   "type": "Z",
+   "year": 1784,
+   "months": "II–IV",
+   "page": "110–111",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 210,
    "type": "iZ",
    "year": 1760,
@@ -156,6 +699,20 @@
    "letters": "L–N",
    "note": "rejstřík zemřelých, odkazy na strany",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 211,
+   "type": "iZ",
+   "letters": "R–S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 214,
+   "type": "N",
+   "year": 1765,
+   "year_to": 1770,
+   "note": "nemanželské křty (za rejstříkem Z)",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
@@ -178,6 +735,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-27"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

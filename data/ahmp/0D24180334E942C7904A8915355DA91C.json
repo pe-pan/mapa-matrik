@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "0D24180334E942C7904A8915355DA91C",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=0D24180334E942C7904A8915355DA91C",
+ "signature": "MAG O117",
+ "parish": "Magistrát hl. m. Prahy (civilní sňatky)",
+ "records": {
+  "O": "1945",
+  "iO": "1945"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 266,
+   "type": "iO",
+   "year": 1945,
+   "letters": "K",
+   "note": "K vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 267,
+   "type": "iO",
+   "year": 1945,
+   "letters": "K",
+   "note": "vlevo pokračování K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 280,
+   "type": "iO",
+   "year": 1945,
+   "letters": "Z",
+   "note": "Z vpravo",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

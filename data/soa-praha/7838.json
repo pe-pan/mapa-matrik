@@ -1,0 +1,378 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7838",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7838",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/7838/{scan}",
+ "signature": "Líšnice 12",
+ "parish": "Líšnice",
+ "records": {
+  "O": "1777–1816"
+ },
+ "order": "mixed",
+ "places": [
+  "Líšnice",
+  "Řitka",
+  "Horní Mokropsy"
+ ],
+ "place_codes": {
+  "Líšnice": 85057,
+  "Řitka": 145807
+ },
+ "district": "Praha-západ",
+ "notes": [
+  "1777–1783 celá farnost chronologicky, od 1784 oddíly po vsích; bez rejstříku."
+ ],
+ "points": [
+  {
+   "scan": 3,
+   "type": "blank",
+   "note": "prázdný list se štítkem knihy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1777,
+   "months": "X",
+   "page": "1",
+   "note": "začátek knihy, levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1777,
+   "year_to": 1778,
+   "months": "XI–IX",
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1778,
+   "year_to": 1779,
+   "months": "X–IV",
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1779,
+   "months": "X–XI",
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1779,
+   "year_to": 1780,
+   "months": "XI–VIII",
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1780,
+   "year_to": 1781,
+   "months": "IX–I",
+   "page": "10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1781,
+   "months": "II–VI",
+   "page": "12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1781,
+   "months": "VII–XI",
+   "page": "14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "XI–IX",
+   "page": "16–17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1782,
+   "months": "IX–X",
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1782,
+   "months": "XI",
+   "page": "20–21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1782,
+   "year_to": 1783,
+   "months": "XI–III",
+   "page": "22–23",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1783,
+   "months": "IV–X",
+   "page": "24–25",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1783,
+   "months": "X–XII",
+   "page": "26–27",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1784,
+   "months": "I–V",
+   "page": "28–29 (fol. 15)",
+   "note": "ještě oddíl celé farnosti (latinsky)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "place": "Líšnice",
+   "year": 1785,
+   "year_to": 1786,
+   "page": "2–3 (fol. 17)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "place": "Líšnice",
+   "year": 1787,
+   "year_to": 1788,
+   "page": "4–5 (fol. 18)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "place": "Klínec",
+   "year": 1785,
+   "year_to": 1786,
+   "page": "2–3 (fol. 28)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "place": "Klínec",
+   "year": 1787,
+   "year_to": 1790,
+   "page": "4–5 (fol. 29)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "place": "Klínec",
+   "year": 1796,
+   "year_to": 1800,
+   "page": "10–11 (fol. 32)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "place": "Jíloviště",
+   "year": 1785,
+   "year_to": 1787,
+   "page": "2–3 (fol. 38)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "place": "Jíloviště",
+   "year": 1788,
+   "year_to": 1791,
+   "page": "4–5 (fol. 39–40)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "place": "Řitka",
+   "year": 1785,
+   "year_to": 1786,
+   "page": "2–3 (fol. 48)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "place": "Řitka",
+   "year": 1787,
+   "year_to": 1790,
+   "page": "4–5 (fol. 49)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "place": "Řitka",
+   "year": 1790,
+   "year_to": 1795,
+   "page": "5–6 (fol. 50)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "place": "Řitka",
+   "year": 1812,
+   "year_to": 1815,
+   "page": "13–14",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "place": "Černolice",
+   "year": 1784,
+   "year_to": 1785,
+   "page": "1 (fol. 54)",
+   "note": "začátek oddílu vsi, levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "place": "Černolice",
+   "year": 1785,
+   "year_to": 1787,
+   "page": "2–3 (fol. 55)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "O",
+   "place": "Černolice",
+   "year": 1788,
+   "year_to": 1792,
+   "page": "4–5 (fol. 56)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "O",
+   "place": "Horní Mokropsy",
+   "year": 1785,
+   "year_to": 1787,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "O",
+   "place": "Horní Mokropsy",
+   "year": 1787,
+   "year_to": 1791,
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "place": "Horní Mokropsy",
+   "year": 1791,
+   "year_to": 1792,
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "place": "Dolní Mokropsy",
+   "year": 1784,
+   "page": "fol. 1",
+   "note": "začátek oddílu vsi, levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "place": "Dolní Mokropsy",
+   "year": 1784,
+   "year_to": 1787,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "place": "Dolní Mokropsy",
+   "year": 1788,
+   "year_to": 1791,
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "O",
+   "place": "Dolní Mokropsy",
+   "year": 1791,
+   "year_to": 1794,
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "place": "Všenory",
+   "year": 1784,
+   "year_to": 1792,
+   "page": "fol. 1",
+   "note": "začátek oddílu vsi; 1784–1792 bez sňatků",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "place": "Všenory",
+   "year": 1793,
+   "year_to": 1794,
+   "note": "konec knihy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

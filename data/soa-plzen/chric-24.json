@@ -24,6 +24,22 @@
  "language": "čeština",
  "points": [
   {
+   "scan": 3,
+   "type": "Z",
+   "year": 1828,
+   "months": "X",
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "Z",
+   "year": 1837,
+   "months": "XII",
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 6,
    "type": "Z",
    "year": 1841,
@@ -142,6 +158,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ],
  "notes": [

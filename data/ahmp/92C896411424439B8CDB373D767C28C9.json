@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "92C896411424439B8CDB373D767C28C9",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=92C896411424439B8CDB373D767C28C9",
+ "signature": "MAG Z32",
+ "parish": "Magistrát hl. m. Prahy (civilní matrika)",
+ "records": {
+  "Z": "1948",
+  "iZ": "1948"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 269,
+   "type": "iZ",
+   "year": 1948,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 270,
+   "type": "iZ",
+   "year": 1948,
+   "letters": "K",
+   "note": "vlevo pokračování K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

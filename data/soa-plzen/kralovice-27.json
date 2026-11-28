@@ -1,0 +1,116 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kralovice-27",
+ "url": "https://www.portafontium.eu/register/soap-pn/kralovice-27",
+ "scans": 96,
+ "signature": "Kralovice 27",
+ "parish": "Kralovice",
+ "places": [
+  "Buček",
+  "Dolní Hradiště",
+  "Dřevec",
+  "Hodyně",
+  "Hradecko",
+  "Kočín",
+  "Kopidlo",
+  "Kralovice",
+  "Lednice",
+  "Mariánský Týnec",
+  "Výrov"
+ ],
+ "place_codes": {
+  "Buček": 32964,
+  "Dolní Hradiště": 29149,
+  "Dřevec": 32981,
+  "Hodyně": 33006,
+  "Hradecko": 47244,
+  "Kočín": 67652,
+  "Kopidlo": 69311,
+  "Kralovice": 406538,
+  "Lednice": 79812,
+  "Mariánský Týnec": 302350,
+  "Výrov": 187691
+ },
+ "aliases": {
+  "Buček": [
+   "Butschek",
+   "Budček"
+  ],
+  "Dolní Hradiště": [
+   "Unter-Hradischt",
+   "Unter-Radisch",
+   "Hradišťko",
+   "Hradiště Dolejší"
+  ],
+  "Dřevec": [
+   "Dřewetz"
+  ],
+  "Hodyně": [
+   "Hodina"
+  ],
+  "Hradecko": [
+   "Hradetzko"
+  ],
+  "Kočín": [
+   "Kočin",
+   "Kotschin"
+  ],
+  "Kralovice": [
+   "Kralowitz"
+  ],
+  "Lednice": [
+   "Lednitz"
+  ],
+  "Výrov": [
+   "Weirow",
+   "Weirau"
+  ]
+ },
+ "district": "Plzeň-sever",
+ "records": {
+  "iN": "1830–1862",
+  "iO": "1830–1862",
+  "iZ": "1830–1862"
+ },
+ "notes": [
+  "Společný rejstřík N/O/Z."
+ ],
+ "points": [
+  {
+   "scan": 50,
+   "type": "iN",
+   "letters": "L",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "iN",
+   "letters": "O",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "iN",
+   "letters": "P",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "letters": "R/S",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

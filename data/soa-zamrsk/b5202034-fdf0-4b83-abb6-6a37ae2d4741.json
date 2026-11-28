@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "b5202034-fdf0-4b83-abb6-6a37ae2d4741",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/b5202034-fdf0-4b83-abb6-6a37ae2d4741",
+ "signature": "176-1",
+ "parish": "Voděrady",
+ "records": {
+  "N": "1784–1836",
+  "iN": "1784–1836"
+ },
+ "scans": 372,
+ "places": [
+  "Uhřínovice",
+  "Ježkovice",
+  "Houdkovice",
+  "Nová Ves",
+  "Panská Ves",
+  "Radostovice",
+  "Vyhnanice",
+  "Voděrady",
+  "Vojenice"
+ ],
+ "place_codes": {
+  "Uhřínovice": 184217,
+  "Ježkovice": 59471,
+  "Houdkovice": 168335,
+  "Nová Ves": 105627,
+  "Panská Ves": 102172,
+  "Radostovice": 83615,
+  "Vyhnanice": 187542,
+  "Voděrady": 184225,
+  "Vojenice": 105635
+ },
+ "points": [
+  {
+   "scan": 93,
+   "type": "N",
+   "place": "Houdkovice",
+   "year": 1787,
+   "year_to": 1789,
+   "months": "IX–IV",
+   "page": "214–215",
+   "note": "v oddílu Houdkovice pag. 4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "place": "Houdkovice",
+   "year": 1791,
+   "year_to": 1792,
+   "months": "XI–VIII",
+   "page": "220–221",
+   "note": "v oddílu Houdkovice pag. 10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "place": "Houdkovice",
+   "year": 1792,
+   "year_to": 1793,
+   "months": "X–VII",
+   "page": "222–223",
+   "note": "v oddílu Houdkovice pag. 12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "place": "Houdkovice",
+   "year": 1793,
+   "year_to": 1794,
+   "months": "IX–VI",
+   "page": "224–225",
+   "note": "v oddílu Houdkovice pag. 14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "place": "Houdkovice",
+   "year": 1824,
+   "year_to": 1826,
+   "months": "XII–II",
+   "page": "288–289",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "title",
+   "place": "Nová Ves",
+   "page": "334–335",
+   "note": "začátek oddílu Nová Ves, strany prázdné",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 338,
+   "type": "iN",
+   "letters": "B",
+   "note": "rejstřík neúplný; jméno, ves, strana oddílu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 339,
+   "type": "iN",
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 340,
+   "type": "iN",
+   "letters": "B",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

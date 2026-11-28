@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "D612954241104E669C6CF6B5ACC80CD6",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=D612954241104E669C6CF6B5ACC80CD6",
+ "signature": "STŘ O10",
+ "records": {
+  "O": "1873–1891"
+ },
+ "parish": "Střešovice – kostel sv. Norberta",
+ "places": [
+  "Střešovice"
+ ],
+ "place_codes": {
+  "Střešovice": 400424
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 172,
+   "type": "O",
+   "year": 1889,
+   "months": "X–XI",
+   "page": "166",
+   "note": "č. 24–25",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 174,
+   "type": "O",
+   "year": 1890,
+   "months": "II",
+   "page": "168",
+   "note": "č. 2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 177,
+   "type": "O",
+   "year": 1890,
+   "months": "II",
+   "page": "171",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 185,
+   "type": "O",
+   "year": 1890,
+   "months": "X–XI",
+   "page": "179",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 199,
+   "type": "blank",
+   "note": "konec knihy",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

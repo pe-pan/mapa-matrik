@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "15108e38-a20d-4988-a1c0-465e70bfb012",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/15108e38-a20d-4988-a1c0-465e70bfb012",
+ "signature": "22-3852",
+ "parish": "České Meziříčí",
+ "records": {
+  "O": "1857–1882"
+ },
+ "scans": 149,
+ "places": [
+  "České Meziříčí",
+  "Mochov",
+  "Ostrov",
+  "Králova Lhota",
+  "Slavětín nad Metují",
+  "Rohenice",
+  "Roheničky",
+  "Skršice",
+  "Tošov"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Králova Lhota": 72613,
+  "Rohenice": 22691,
+  "Skršice": 148661,
+  "Tošov": 148679
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1875,
+   "months": "I",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

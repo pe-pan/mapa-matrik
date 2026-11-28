@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "e037480b-1c11-41e5-b2c2-7f785c5c0481",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/e037480b-1c11-41e5-b2c2-7f785c5c0481",
+ "signature": "6-13",
+ "parish": "Bílý Újezd",
+ "records": {
+  "Z": "1791–1805",
+  "iZ": "1791–1805"
+ },
+ "scans": 65,
+ "places": [
+  "Bílý Újezd",
+  "Chábory",
+  "Hroška",
+  "Ještětice",
+  "Lhota u Dobrušky",
+  "Masty",
+  "Netřeba",
+  "Polom",
+  "Roudné",
+  "Skalka",
+  "Víska",
+  "Ostrov"
+ ],
+ "place_codes": {
+  "Bílý Újezd": 4715,
+  "Hroška": 4723,
+  "Ještětice": 152412,
+  "Masty": 4731,
+  "Roudné": 4740
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 20,
+   "type": "iZ",
+   "page": "8–9",
+   "note": "rejstřík jedné vsi na s. 8, s. 9 prázdná",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

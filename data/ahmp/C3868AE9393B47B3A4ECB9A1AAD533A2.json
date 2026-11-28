@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "C3868AE9393B47B3A4ECB9A1AAD533A2",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=C3868AE9393B47B3A4ECB9A1AAD533A2",
+ "signature": "STŘ O11",
+ "parish": "Střešovice",
+ "records": {
+  "O": "1891–1923"
+ },
+ "places": [
+  "Střešovice"
+ ],
+ "place_codes": {
+  "Střešovice": 400424
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 4,
+   "type": "blank",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1891,
+   "months": "X",
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1892,
+   "months": "VII",
+   "page": "10",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1893,
+   "months": "II",
+   "page": "16",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1893,
+   "months": "XI",
+   "page": "22",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1893,
+   "year_to": 1894,
+   "months": "XI–I",
+   "page": "24",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "983",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/983",
+ "signature": "Jámy, kn. 15666, O 1898–1925",
+ "parish": "Jámy",
+ "records": {
+  "O": "1898–1925"
+ },
+ "order": "by_village",
+ "places": [
+  "Jámy",
+  "Hlinné",
+  "Slavkovice",
+  "Veselíčko"
+ ],
+ "place_codes": {
+  "Jámy": 56685,
+  "Hlinné": 39292,
+  "Slavkovice": 150312,
+  "Veselíčko": 180840
+ },
+ "district": "Žďár nad Sázavou",
+ "sections": [
+  {
+   "scans": "55–75",
+   "type": "O",
+   "place": "Slavkovice"
+  }
+ ],
+ "points": [
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1920,
+   "months": "XI",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "267944E345EB40A9940586700FDB6010",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=267944E345EB40A9940586700FDB6010",
+ "signature": "HOS i5",
+ "parish": "Hostivař",
+ "records": {
+  "iN": "1737–1825"
+ },
+ "scans": 66,
+ "places": [
+  "Hostivař",
+  "Chodov",
+  "Záběhlice",
+  "Práče"
+ ],
+ "place_codes": {
+  "Hostivař": 400866,
+  "Chodov": 400211,
+  "Záběhlice": 490253
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 28,
+   "type": "iN",
+   "year": 1766,
+   "year_to": 1788,
+   "letters": "K",
+   "note": "tom IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "iN",
+   "year": 1788,
+   "year_to": 1802,
+   "letters": "K",
+   "note": "tom IV a tom V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "iN",
+   "year": 1770,
+   "year_to": 1821,
+   "letters": "K",
+   "note": "tom V (Chodov) a tom VI (Záběhlice)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iN",
+   "year": 1737,
+   "year_to": 1757,
+   "letters": "S/Š",
+   "note": "tom III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iN",
+   "year": 1757,
+   "year_to": 1791,
+   "letters": "S/Š",
+   "note": "tom IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "iN",
+   "year": 1737,
+   "year_to": 1815,
+   "letters": "T",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "iN",
+   "year": 1816,
+   "year_to": 1824,
+   "letters": "T",
+   "note": "konec T",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "iN",
+   "year": 1764,
+   "year_to": 1798,
+   "page": "38",
+   "letters": "W",
+   "note": "tom IV, kurent",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1770,
+   "year_to": 1821,
+   "letters": "W",
+   "note": "tom V (Chodov) a tom VI (Záběhlice)",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

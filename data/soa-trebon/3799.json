@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3799",
+ "url": "https://digi.ceskearchivy.cz/3799",
+ "signature": "N Bořetice 1836–1914, fara Hořepník, kniha 19",
+ "parish": "Hořepník",
+ "records": {
+  "N": "1836–1914"
+ },
+ "places": [
+  "Bořetice"
+ ],
+ "place_codes": {
+  "Bořetice": 8141
+ },
+ "district": "Pelhřimov",
+ "index": {
+  "volume": "soa-trebon/3831"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "place": "Bořetice",
+   "year": 1845,
+   "months": "XII",
+   "page": "7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "place": "Bořetice",
+   "year": 1847,
+   "year_to": 1849,
+   "page": "9",
+   "note": "od VIII/1847",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

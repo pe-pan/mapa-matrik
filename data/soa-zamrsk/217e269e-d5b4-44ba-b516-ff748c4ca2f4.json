@@ -16,12 +16,129 @@
    "year": 1830,
    "months": "I",
    "by": "pe-pan"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "place": "Křovice",
+   "year": 1812,
+   "year_to": 1814,
+   "page": "178–179",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "place": "Křovice",
+   "year": 1816,
+   "year_to": 1818,
+   "page": "182–183",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "place": "Křovice",
+   "year": 1818,
+   "year_to": 1819,
+   "months": "XI–VIII",
+   "page": "185",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 102,
+   "type": "N",
+   "place": "Křovice",
+   "year": 1830,
+   "months": "VIII",
+   "page": "198–199",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 149,
+   "type": "N",
+   "place": "Paseky",
+   "year": 1815,
+   "months": "X",
+   "page": "314",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "place": "Paseky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 161,
+   "type": "N",
+   "page": "354–355",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 162,
+   "type": "N",
+   "place": "Provoz",
+   "year": 1812,
+   "year_to": 1813,
+   "months": "II–IX",
+   "page": "356–357",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "place": "Provoz",
+   "year": 1816,
+   "months": "X",
+   "page": "361",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "place": "Provoz",
+   "year": 1819,
+   "months": "XI",
+   "page": "363",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 167,
+   "type": "N",
+   "place": "Provoz",
+   "year": 1824,
+   "months": "V",
+   "page": "367",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 168,
+   "type": "N",
+   "place": "Provoz",
+   "year": 1826,
+   "months": "V",
+   "page": "369",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 169,
+   "type": "N",
+   "place": "Provoz",
+   "year": 1826,
+   "year_to": 1828,
+   "page": "370–371",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

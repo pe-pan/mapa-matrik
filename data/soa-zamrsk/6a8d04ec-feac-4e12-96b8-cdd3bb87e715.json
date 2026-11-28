@@ -1,0 +1,96 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "6a8d04ec-feac-4e12-96b8-cdd3bb87e715",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/6a8d04ec-feac-4e12-96b8-cdd3bb87e715",
+ "signature": "150-15",
+ "parish": "Solnice",
+ "records": {
+  "iO": "1771–1841"
+ },
+ "scans": 31,
+ "places": [
+  "Solnice",
+  "Ještětice",
+  "Kvasiny",
+  "Litohrady",
+  "Nové Dvory",
+  "Skuhrov nad Bělou",
+  "Beranec",
+  "Brocná",
+  "Debřece",
+  "Hamernice",
+  "Hraštice",
+  "Nová Ves",
+  "Pičberk",
+  "Proloh",
+  "Rybníčky",
+  "Slavěnka",
+  "Svinná"
+ ],
+ "place_codes": {
+  "Solnice": 152421,
+  "Ještětice": 152412,
+  "Kvasiny": 78191,
+  "Litohrady": 84735,
+  "Skuhrov nad Bělou": 149101,
+  "Brocná": 12602,
+  "Debřece": 149055,
+  "Hraštice": 149063,
+  "Nová Ves": 149071,
+  "Proloh": 112828,
+  "Rybníčky": 149098,
+  "Svinná": 12629
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 7,
+   "type": "iO",
+   "year": 1771,
+   "year_to": 1841,
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "iO",
+   "letters": "E",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "iO",
+   "year": 1800,
+   "year_to": 1838,
+   "letters": "F",
+   "note": "konec písmene F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iO",
+   "year": 1771,
+   "year_to": 1841,
+   "letters": "H",
+   "note": "celé písmeno na jedné dvojstraně",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "iO",
+   "year": 1771,
+   "year_to": 1841,
+   "letters": "K",
+   "note": "celé písmeno na jedné dvojstraně",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

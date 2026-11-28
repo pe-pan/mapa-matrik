@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "8596355A3FED4A5291DA5F8606D33705",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=8596355A3FED4A5291DA5F8606D33705",
+ "signature": "MGDEJ Z7",
+ "records": {
+  "Z": "1933"
+ },
+ "parish": "Matriční úřad Praha XIX – Dejvice (civilní matrika)",
+ "places": [
+  "Dejvice",
+  "Břevnov"
+ ],
+ "place_codes": {
+  "Dejvice": 400459,
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1933,
+   "months": "V",
+   "page": "11",
+   "note": "č. 21–22",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "Z",
+   "year": 1933,
+   "months": "IX–X",
+   "page": "23",
+   "note": "č. 45–46",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "iZ",
+   "letters": "O",
+   "note": "prázdná strana rejstříku, záložky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "iZ",
+   "letters": "Z/Ž",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

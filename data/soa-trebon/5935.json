@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5935",
+ "url": "https://digi.ceskearchivy.cz/5935",
+ "signature": "O Nová Cerekev 1864–1920, kniha 10",
+ "parish": "Nová Cerekev",
+ "records": {
+  "O": "1864–1920"
+ },
+ "places": [
+  "Nová Cerekev",
+  "Útěchovičky"
+ ],
+ "place_codes": {
+  "Nová Cerekev": 105015
+ },
+ "district": "Pelhřimov",
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1864,
+   "months": "V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1867,
+   "months": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 232,
+   "type": "O",
+   "year": 1897,
+   "months": "XI",
+   "page": "430",
+   "note": "pravou stranu zakrývá vložený přípis",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 233,
+   "type": "O",
+   "year": 1897,
+   "months": "XI",
+   "note": "pravá strana dvojstrany ze sn. 232 bez vložky",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

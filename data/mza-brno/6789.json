@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6789",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6789",
+ "signature": "Nové Město na Moravě, kn. 15921, N + iN 1796–1823",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "N": "1796–1823",
+  "iN": "1796–1823"
+ },
+ "scans": 302,
+ "places": [
+  "Nové Město na Moravě",
+  "Petrovice",
+  "Radňovice",
+  "Jiříkovice",
+  "Vlachovice",
+  "Rokytno",
+  "Studnice",
+  "Maršovice",
+  "Pohledec"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Petrovice": 120189,
+  "Radňovice": 138185,
+  "Jiříkovice": 61107,
+  "Vlachovice": 141101,
+  "Rokytno": 141089,
+  "Studnice": 141097,
+  "Maršovice": 106402,
+  "Pohledec": 106429
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 84,
+   "type": "N",
+   "place": "Petrovice",
+   "year": 1808,
+   "year_to": 1809,
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "place": "Petrovice",
+   "year": 1809,
+   "year_to": 1810,
+   "months": "VIII–VIII",
+   "page": "20–21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "place": "Petrovice",
+   "year": 1810,
+   "year_to": 1811,
+   "page": "22–23",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "place": "Petrovice",
+   "year": 1812,
+   "year_to": 1813,
+   "months": "IX–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 238,
+   "type": "iN",
+   "letters": "A",
+   "note": "konec A; vpravo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 252,
+   "type": "iN",
+   "letters": "F",
+   "note": "rané roky řazeny podle křestního jména",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 253,
+   "type": "iN",
+   "letters": "F",
+   "note": "rané roky řazeny podle křestního jména",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 264,
+   "type": "iN",
+   "letters": "J",
+   "note": "rané roky řazeny podle křestního jména",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 269,
+   "type": "iN",
+   "letters": "K–L",
+   "note": "vlevo konec K, vpravo začátek L",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 270,
+   "type": "iN",
+   "letters": "L",
+   "note": "konec L; vpravo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 271,
+   "type": "iN",
+   "letters": "M",
+   "note": "vlevo prázdná strana, vpravo začátek M",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

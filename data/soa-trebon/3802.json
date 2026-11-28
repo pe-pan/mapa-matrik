@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3802",
+ "url": "https://digi.ceskearchivy.cz/3802",
+ "signature": "Hořepník 22",
+ "parish": "Hořepník",
+ "records": {
+  "N": "1836–1914"
+ },
+ "places": [
+  "Březina"
+ ],
+ "place_codes": {
+  "Březina": 45063
+ },
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 10,
+   "type": "N",
+   "place": "Březina",
+   "year": 1841,
+   "year_to": 1842,
+   "months": "XII–IV",
+   "page": "8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "place": "Březina",
+   "year": 1845,
+   "year_to": 1846,
+   "page": "15",
+   "note": "XII/1845, pak od II/1846",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

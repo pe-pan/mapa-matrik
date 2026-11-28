@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-10",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-10",
+ "scans": 234,
+ "signature": "Chříč 10",
+ "parish": "Chříč",
+ "places": [
+  "Chříč"
+ ],
+ "place_codes": {
+  "Chříč": 54551
+ },
+ "aliases": {
+  "Chříč": [
+   "Křitz",
+   "Kreitsch"
+  ]
+ },
+ "records": {
+  "N": "1838–1900"
+ },
+ "district": "Plzeň-sever",
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1838,
+   "year_to": 1839,
+   "months": "IX–IV",
+   "page": "fol. 0v–1r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1839,
+   "months": "II–V",
+   "page": "fol. 1v–2r",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4519",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4519",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4519/{scan}",
+ "signature": "Bystřice 03",
+ "parish": "Bystřice",
+ "records": {
+  "O": "1750–1770"
+ },
+ "places": [
+  "Bystřice",
+  "Nesvačily"
+ ],
+ "place_codes": {
+  "Bystřice": 16772,
+  "Nesvačily": 16861
+ },
+ "district": "Benešov",
+ "index": {
+  "volume": "soa-praha/4539"
+ },
+ "points": [
+  {
+   "scan": 319,
+   "type": "O",
+   "year": 1765,
+   "months": "II–V",
+   "page": "78",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 322,
+   "type": "O",
+   "year": 1765,
+   "months": "X",
+   "page": "81",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 324,
+   "type": "O",
+   "year": 1765,
+   "months": "XI",
+   "page": "83",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "f3c8bd00-66be-4d8a-8c57-9527c1df1ad2",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/f3c8bd00-66be-4d8a-8c57-9527c1df1ad2",
+ "signature": "26-4",
+ "parish": "Dobruška",
+ "records": {
+  "N": "1840–1857"
+ },
+ "scans": 454,
+ "places": [
+  "Dobruška",
+  "Chábory"
+ ],
+ "place_codes": {
+  "Dobruška": 410705,
+  "Chábory": 27596
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 232,
+   "type": "N",
+   "year": 1847,
+   "months": "X",
+   "page": "fol. 224",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 412,
+   "type": "N",
+   "year": 1854,
+   "months": "XI",
+   "page": "fol. 402",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

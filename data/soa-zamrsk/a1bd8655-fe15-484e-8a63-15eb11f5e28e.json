@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "a1bd8655-fe15-484e-8a63-15eb11f5e28e",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/a1bd8655-fe15-484e-8a63-15eb11f5e28e",
+ "signature": "6-10",
+ "parish": "Bílý Újezd",
+ "records": {
+  "O": "1790–1805",
+  "iO": "1790–1805"
+ },
+ "scans": 43,
+ "places": [
+  "Bílý Újezd",
+  "Chábory",
+  "Ještětice",
+  "Hroška",
+  "Lhota u Dobrušky",
+  "Masty",
+  "Netřeba",
+  "Polom",
+  "Roudné",
+  "Podbřezí",
+  "Skalka",
+  "Studánka",
+  "Brocná",
+  "Víska",
+  "Ostrov"
+ ],
+ "place_codes": {
+  "Bílý Újezd": 4715,
+  "Chábory": 123374,
+  "Ještětice": 152412,
+  "Hroška": 4723,
+  "Masty": 4731,
+  "Roudné": 4740,
+  "Podbřezí": 123391,
+  "Brocná": 12602
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 2,
+   "type": "title",
+   "note": "přední deska se štítkem archivu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "place": "Bílý Újezd",
+   "year": 1791,
+   "year_to": 1792,
+   "months": "VII–VII",
+   "page": "fol. 1",
+   "note": "začátek oddílu vsi (pravá strana)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "place": "Bílý Újezd",
+   "year": 1792,
+   "year_to": 1795,
+   "months": "XI–XI",
+   "page": "fol. 2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "place": "Hroška",
+   "year": 1791,
+   "year_to": 1792,
+   "months": "II–V",
+   "page": "fol. 18",
+   "note": "levá strana prázdná, začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "O",
+   "place": "Hroška",
+   "year": 1792,
+   "year_to": 1796,
+   "months": "IX–II",
+   "page": "fol. 20",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "place": "Hroška",
+   "year": 1796,
+   "year_to": 1801,
+   "months": "X–II",
+   "page": "fol. 22",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "place": "Hroška",
+   "year": 1801,
+   "year_to": 1805,
+   "months": "XI–XI",
+   "page": "fol. 24",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "place": "Víska",
+   "year": 1792,
+   "year_to": 1794,
+   "page": "fol. 1",
+   "note": "levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "O",
+   "place": "Ostrov",
+   "year": 1791,
+   "year_to": 1794,
+   "note": "levá strana prázdná",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

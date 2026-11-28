@@ -1,0 +1,181 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-01",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-01",
+ "scans": 154,
+ "signature": "Chříč 01",
+ "parish": "Chříč",
+ "records": {
+  "N": "1786–1819",
+  "iN": "1786–1806"
+ },
+ "places": [
+  "Hlince",
+  "Holovousy",
+  "Chříč",
+  "Lhota",
+  "Slatina",
+  "Studená"
+ ],
+ "place_codes": {
+  "Hlince": 54534,
+  "Holovousy": 54542,
+  "Chříč": 54551,
+  "Lhota": 54569,
+  "Slatina": 54577,
+  "Studená": 54585
+ },
+ "aliases": {
+  "Hlince": [
+   "Hlintsch",
+   "Hlintz"
+  ],
+  "Holovousy": [
+   "Holofous",
+   "Holofaus"
+  ],
+  "Chříč": [
+   "Křitz",
+   "Kreitsch"
+  ],
+  "Studená": [
+   "Studena"
+  ]
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "place": "Hlince",
+   "year": 1786,
+   "year_to": 1787,
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "place": "Hlince",
+   "year": 1788,
+   "months": "IX",
+   "page": "2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "place": "Hlince",
+   "year": 1789,
+   "year_to": 1790,
+   "page": "3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "place": "Hlince",
+   "year": 1801,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "place": "Holovousy",
+   "year": 1804,
+   "year_to": 1805,
+   "page": "31",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "place": "Holovousy",
+   "year": 1806,
+   "year_to": 1807,
+   "page": "32",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "place": "Chříč",
+   "year": 1794,
+   "months": "IX",
+   "page": "48",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "place": "Chříč",
+   "year": 1796,
+   "months": "V",
+   "page": "50",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "place": "Chříč",
+   "year": 1798,
+   "months": "VII",
+   "page": "53",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 114,
+   "type": "N",
+   "place": "Slatina",
+   "year": 1798,
+   "year_to": 1799,
+   "page": "110",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "place": "Slatina",
+   "year": 1801,
+   "year_to": 1802,
+   "months": "X–X",
+   "page": "113",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 147,
+   "type": "N",
+   "place": "Studená",
+   "year": 1807,
+   "year_to": 1808,
+   "months": "IX–V",
+   "page": "143",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 148,
+   "type": "N",
+   "place": "Studená",
+   "year": 1808,
+   "months": "VII–XII",
+   "page": "144",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 149,
+   "type": "iN",
+   "year": 1786,
+   "page": "145",
+   "note": "rejstřík narozených celé fary",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

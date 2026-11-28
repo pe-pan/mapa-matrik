@@ -1,0 +1,189 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6798",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6798",
+ "signature": "Nové Město na Moravě, kn. 15934, O 1825–1862",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "O": "1825–1862",
+  "iO": "1825–1862"
+ },
+ "order": "by_village",
+ "places": [
+  "Nové Město na Moravě",
+  "Petrovice",
+  "Jiříkovice",
+  "Maršovice",
+  "Pohledec",
+  "Radňovice",
+  "Rokytno",
+  "Studnice",
+  "Vlachovice"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Petrovice": 120189,
+  "Jiříkovice": 61107,
+  "Maršovice": 106402,
+  "Pohledec": 106429,
+  "Radňovice": 138185,
+  "Rokytno": 141089,
+  "Studnice": 141097,
+  "Vlachovice": 141101
+ },
+ "district": "Žďár nad Sázavou",
+ "index": {
+  "scans": "210–236"
+ },
+ "sections": [
+  {
+   "scans": "86–88",
+   "type": "O",
+   "place": "Jiříkovice"
+  },
+  {
+   "scans": "89–105",
+   "type": "O",
+   "place": "Petrovice"
+  },
+  {
+   "scans": "122–135",
+   "type": "O",
+   "place": "Jiříkovice"
+  }
+ ],
+ "points": [
+  {
+   "scan": 87,
+   "type": "O",
+   "place": "Jiříkovice",
+   "year": 1857,
+   "year_to": 1858,
+   "months": "II–V",
+   "page": "fol. 15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "O",
+   "place": "Jiříkovice",
+   "year": 1859,
+   "year_to": 1862,
+   "months": "VIII–X",
+   "page": "fol. 16",
+   "note": "s. 254–255",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "O",
+   "place": "Petrovice",
+   "year": 1832,
+   "year_to": 1834,
+   "page": "263–264",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "O",
+   "place": "Radňovice",
+   "year": 1831,
+   "year_to": 1832,
+   "page": "fol. 4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 111,
+   "type": "O",
+   "place": "Radňovice",
+   "year": 1832,
+   "year_to": 1834,
+   "page": "fol. 5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "O",
+   "place": "Jiříkovice",
+   "year": 1825,
+   "year_to": 1827,
+   "page": "fol. 1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 129,
+   "type": "O",
+   "place": "Jiříkovice",
+   "year": 1841,
+   "page": "fol. 8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 130,
+   "type": "O",
+   "place": "Jiříkovice",
+   "year": 1842,
+   "year_to": 1845,
+   "page": "fol. 9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 134,
+   "type": "O",
+   "place": "Jiříkovice",
+   "year": 1851,
+   "year_to": 1853,
+   "months": "VIII–IX",
+   "page": "fol. 13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 135,
+   "type": "O",
+   "place": "Jiříkovice",
+   "year": 1854,
+   "year_to": 1856,
+   "months": "IX–IX",
+   "page": "fol. 14",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 211,
+   "type": "iO",
+   "year": 1825,
+   "year_to": 1851,
+   "letters": "B",
+   "note": "vlevo prázdná strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 212,
+   "type": "iO",
+   "letters": "B–C/Č",
+   "note": "vlevo B 1853–1860, vpravo začátek C/Č",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 222,
+   "type": "iO",
+   "letters": "L",
+   "note": "přečteno 1825–1844",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 223,
+   "type": "iO",
+   "letters": "M",
+   "note": "přečteno 1825–1837",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

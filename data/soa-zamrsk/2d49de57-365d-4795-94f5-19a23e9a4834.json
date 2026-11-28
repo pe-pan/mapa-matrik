@@ -1,0 +1,103 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "2d49de57-365d-4795-94f5-19a23e9a4834",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/2d49de57-365d-4795-94f5-19a23e9a4834",
+ "signature": "22-7012",
+ "parish": "České Meziříčí",
+ "records": {
+  "Z": "1865–1912",
+  "iZ": "1865–1912"
+ },
+ "scans": 328,
+ "places": [
+  "České Meziříčí",
+  "Mochov",
+  "Ostrov",
+  "Skršice",
+  "Tošov",
+  "Králova Lhota",
+  "Rohenice",
+  "Roheničky",
+  "Slavětín nad Metují"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Skršice": 148661,
+  "Tošov": 148679,
+  "Králova Lhota": 72613,
+  "Rohenice": 22691
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 3,
+   "type": "title",
+   "note": "desky (obal)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
+   "place": "České Meziříčí",
+   "year": 1865,
+   "months": "II–VI",
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "Z",
+   "place": "České Meziříčí",
+   "year": 1870,
+   "months": "III–VII",
+   "page": "22–23",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 281,
+   "type": "iZ",
+   "year": 1865,
+   "year_to": 1869,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 282,
+   "type": "iZ",
+   "year": 1869,
+   "year_to": 1877,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 283,
+   "type": "iZ",
+   "year": 1878,
+   "year_to": 1887,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 287,
+   "type": "iZ",
+   "year": 1865,
+   "year_to": 1868,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 310,
+   "type": "iZ",
+   "letters": "Ř",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12299",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12299",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12299/{scan}",
+ "parish": "Solopysky",
+ "signature": "Solopysky 23",
+ "records": {
+  "iZ": "1771–1815"
+ },
+ "places": [
+  "Solopysky"
+ ],
+ "points": [
+  {
+   "scan": 50,
+   "type": "iZ",
+   "year": 1782,
+   "year_to": 1806,
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "iZ",
+   "year": 1807,
+   "year_to": 1815,
+   "letters": "W",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

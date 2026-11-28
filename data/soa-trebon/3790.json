@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3790",
+ "url": "https://digi.ceskearchivy.cz/3790",
+ "signature": "Hořepník 10",
+ "parish": "Hořepník",
+ "records": {
+  "O": "1784–1827"
+ },
+ "places": [
+  "Hořepník",
+  "Lesná",
+  "Arneštovice",
+  "Radějov",
+  "Kyjov",
+  "Bořetice",
+  "Přáslavice",
+  "Březina"
+ ],
+ "place_codes": {
+  "Hořepník": 45071,
+  "Lesná": 178365,
+  "Arneštovice": 418,
+  "Radějov": 16241,
+  "Kyjov": 16233,
+  "Bořetice": 8141,
+  "Přáslavice": 134091,
+  "Březina": 45063
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 12,
+   "type": "title",
+   "year": 1784,
+   "note": "titul Trauungs-Buch",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "place": "Hořepník",
+   "year": 1797,
+   "year_to": 1798,
+   "months": "XI–X",
+   "page": "44–45",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "place": "Hořepník",
+   "year": 1798,
+   "year_to": 1799,
+   "months": "XI–XI",
+   "page": "46–47",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "year": 1819,
+   "year_to": 1821,
+   "note": "pravá strana prázdná; tabulkový formulář",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

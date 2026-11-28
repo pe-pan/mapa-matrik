@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3784",
+ "url": "https://digi.ceskearchivy.cz/3784",
+ "signature": "N Hořepník 1780–1825, kniha 4",
+ "parish": "Hořepník",
+ "records": {
+  "N": "1780–1825"
+ },
+ "order": "by_village",
+ "places": [
+  "Hořepník",
+  "Přáslavice",
+  "Březina",
+  "Bořetice",
+  "Vítovice"
+ ],
+ "place_codes": {
+  "Hořepník": 45071,
+  "Přáslavice": 134091,
+  "Březina": 45063,
+  "Bořetice": 8141,
+  "Vítovice": 45098
+ },
+ "district": "Pelhřimov",
+ "index": {
+  "volume": "soa-trebon/3788"
+ },
+ "points": [
+  {
+   "scan": 153,
+   "type": "N",
+   "place": "Přáslavice",
+   "year": 1800,
+   "months": "XI",
+   "page": "311–312",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "place": "Přáslavice",
+   "year": 1802,
+   "year_to": 1804,
+   "page": "313–314",
+   "note": "od III/1802",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

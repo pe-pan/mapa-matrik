@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "zvikovec-06",
+ "url": "https://www.portafontium.eu/register/soap-pn/zvikovec-06",
+ "scans": 283,
+ "signature": "Zvíkovec 06",
+ "parish": "Zvíkovec",
+ "places": [
+  "Hradiště",
+  "Chlum",
+  "Podmokly",
+  "Zvíkovec"
+ ],
+ "place_codes": {
+  "Hradiště": 124061,
+  "Chlum": 51527,
+  "Podmokly": 124079,
+  "Zvíkovec": 193976
+ },
+ "aliases": {
+  "Hradiště": [
+   "Hradischt"
+  ],
+  "Podmokly": [
+   "Podmokl"
+  ],
+  "Zvíkovec": [
+   "Swikowetz"
+  ]
+ },
+ "records": {
+  "O": "1765–1787"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1770,
+   "page": "14–15",
+   "note": "silně poškozeno vlhkostí",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

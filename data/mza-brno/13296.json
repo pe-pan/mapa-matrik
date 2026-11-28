@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "13296",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/13296",
+ "signature": "Jámy, kn. 15671, Z 1903–1943",
+ "parish": "Jámy",
+ "records": {
+  "Z": "1903–1943"
+ },
+ "places": [
+  "Jámy",
+  "Hlinné",
+  "Slavkovice",
+  "Veselíčko"
+ ],
+ "place_codes": {
+  "Jámy": 56685,
+  "Hlinné": 39292,
+  "Slavkovice": 150312,
+  "Veselíčko": 180840
+ },
+ "district": "Žďár nad Sázavou",
+ "order": "by_village",
+ "sections": [
+  {
+   "scans": "82–112",
+   "type": "Z",
+   "place": "Slavkovice"
+  }
+ ],
+ "points": [
+  {
+   "scan": 107,
+   "type": "Z",
+   "year": 1939,
+   "months": "XI",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

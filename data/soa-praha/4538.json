@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4538",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4538",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4538/{scan}",
+ "signature": "Bystřice 22",
+ "parish": "Bystřice",
+ "records": {
+  "iN": "1786–1861"
+ },
+ "district": "Benešov",
+ "places": [
+  "Bystřice"
+ ],
+ "place_codes": {
+  "Bystřice": 16772
+ },
+ "points": [
+  {
+   "scan": 30,
+   "type": "iN",
+   "year": 1815,
+   "year_to": 1844,
+   "letters": "F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "iN",
+   "year": 1789,
+   "year_to": 1795,
+   "letters": "G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "iN",
+   "year": 1792,
+   "year_to": 1796,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "iN",
+   "year": 1796,
+   "year_to": 1802,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iN",
+   "year": 1803,
+   "year_to": 1809,
+   "letters": "H",
+   "note": "sloupce data, čísla domu a listu posunuté o řádek",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "iN",
+   "year": 1809,
+   "year_to": 1816,
+   "letters": "H",
+   "note": "sloupce data, čísla domu a listu posunuté o řádek",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

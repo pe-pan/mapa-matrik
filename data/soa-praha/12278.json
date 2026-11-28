@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12278",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12278",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12278/{scan}",
+ "signature": "Solopysky 24",
+ "parish": "Solopysky",
+ "records": {
+  "Z": "1816–1886"
+ },
+ "order": "by_village",
+ "places": [
+  "Solopysky",
+  "Jindice"
+ ],
+ "place_codes": {
+  "Solopysky": 159077,
+  "Jindice": 60291
+ },
+ "district": "Kutná Hora",
+ "index": {
+  "volume": "soa-praha/12277"
+ },
+ "points": [
+  {
+   "scan": 300,
+   "type": "Z",
+   "place": "Miletín",
+   "year": 1852,
+   "year_to": 1853,
+   "page": "fol. 50–51",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 327,
+   "type": "Z",
+   "place": "Jindice",
+   "year": 1826,
+   "year_to": 1827,
+   "page": "fol. 14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 330,
+   "type": "Z",
+   "place": "Jindice",
+   "year": 1832,
+   "months": "III",
+   "page": "fol. 20–21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 370,
+   "type": "Z",
+   "place": "Křečovice",
+   "year": 1817,
+   "year_to": 1820,
+   "page": "fol. 2–3",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

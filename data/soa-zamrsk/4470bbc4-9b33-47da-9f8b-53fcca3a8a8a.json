@@ -1,0 +1,98 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "4470bbc4-9b33-47da-9f8b-53fcca3a8a8a",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/4470bbc4-9b33-47da-9f8b-53fcca3a8a8a",
+ "signature": "170-2",
+ "parish": "Velká Jesenice",
+ "records": {
+  "N": "1701–1716",
+  "O": "1701–1716"
+ },
+ "scans": 84,
+ "places": [
+  "Městec",
+  "Nový Dvůr",
+  "Rohenice",
+  "Roztoky",
+  "Rychnovek",
+  "Slavětín nad Metují",
+  "Šestajovice",
+  "Velká Jesenice",
+  "Veselice",
+  "Zvole",
+  "Bohuslavice",
+  "Černčice",
+  "Dolsko",
+  "Jeníkovice",
+  "Jílovice",
+  "Lhota",
+  "Librantice",
+  "Nahořany",
+  "Slatina nad Úpou",
+  "Sněžné",
+  "Svinišťany",
+  "Velký Třebešov",
+  "Vysoký Újezd"
+ ],
+ "place_codes": {
+  "Městec": 101222,
+  "Nový Dvůr": 45314,
+  "Roztoky": 162396,
+  "Rychnovek": 144380,
+  "Slavětín nad Metují": 150029,
+  "Šestajovice": 162400,
+  "Velká Jesenice": 178411,
+  "Veselice": 178420,
+  "Zvole": 144398,
+  "Bohuslavice": 6467,
+  "Černčice": 20061,
+  "Dolsko": 101192,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Slatina nad Úpou": 149764,
+  "Svinišťany": 28444,
+  "Velký Třebešov": 179779
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 80,
+   "type": "O",
+   "year": 1710,
+   "year_to": 1712,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1712,
+   "year_to": 1713,
+   "months": "VII–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 82,
+   "type": "O",
+   "year": 1713,
+   "year_to": 1715,
+   "months": "XI–III",
+   "note": "bez čísel stran",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1715,
+   "year_to": 1716,
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

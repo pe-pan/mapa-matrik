@@ -1,0 +1,124 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7356",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7356",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/7356/{scan}",
+ "signature": "Křivsoudov 09",
+ "parish": "Křivsoudov",
+ "records": {
+  "O": "1784–1830",
+  "iO": "1784–1830"
+ },
+ "scans": 115,
+ "order": "by_village",
+ "places": [
+  "Strojetice"
+ ],
+ "place_codes": {
+  "Strojetice": 156973
+ },
+ "points": [
+  {
+   "scan": 62,
+   "type": "O",
+   "place": "Děkanovice",
+   "year": 1810,
+   "year_to": 1812,
+   "page": "60–61",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1805,
+   "year_to": 1808,
+   "page": "80",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1810,
+   "year_to": 1811,
+   "page": "82–83",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1819,
+   "year_to": 1821,
+   "page": "86–87",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 84,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1822,
+   "year_to": 1824,
+   "page": "88",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1825,
+   "year_to": 1826,
+   "page": "88–89",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 86,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1827,
+   "year_to": 1829,
+   "page": "90–91",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1828,
+   "year_to": 1829,
+   "months": "VI–III",
+   "page": "91",
+   "note": "konec oddílu vsi, 1830 bez zápisu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "O",
+   "place": "Strojetice",
+   "year": 1829,
+   "months": "V",
+   "page": "92",
+   "note": "konec oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "O",
+   "place": "Lhota",
+   "year": 1828,
+   "months": "I–II",
+   "page": "122–123",
+   "note": "roky 1829–1830 bez zápisů",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

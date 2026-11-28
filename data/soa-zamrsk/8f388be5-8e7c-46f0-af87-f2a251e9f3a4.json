@@ -1,0 +1,115 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "8f388be5-8e7c-46f0-af87-f2a251e9f3a4",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/8f388be5-8e7c-46f0-af87-f2a251e9f3a4",
+ "signature": "145-3",
+ "parish": "Skuhrov nad Bělou",
+ "records": {
+  "iN": "1787–1853",
+  "iZ": "1787–1853",
+  "iO": "1787–1853"
+ },
+ "scans": 94,
+ "places": [
+  "Beranec",
+  "Boroviny",
+  "Brocná",
+  "Debřece",
+  "Debřece Dvůr",
+  "Dělnice",
+  "Hamernice",
+  "Hraštice",
+  "Klečkov",
+  "Kvasiny",
+  "Nová Ves",
+  "Pičberk",
+  "Proloh",
+  "Růženina Huť",
+  "Rybníčky",
+  "Skuhrov nad Bělou",
+  "Slavěnka",
+  "Svinecký Dvůr",
+  "Svinná"
+ ],
+ "place_codes": {
+  "Brocná": 12602,
+  "Debřece": 149055,
+  "Hraštice": 149063,
+  "Kvasiny": 78191,
+  "Nová Ves": 149071,
+  "Proloh": 112828,
+  "Rybníčky": 149098,
+  "Skuhrov nad Bělou": 149101,
+  "Svinná": 12629
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 11,
+   "type": "iN",
+   "letters": "C/Č",
+   "note": "společný rejstřík N/Z/O (sloupce vedle sebe)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "letters": "C/Č, D",
+   "note": "vlevo dodatky C/Č, vpravo D; pokřtění i zemřelí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iN",
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "iN",
+   "note": "konec rejstříku N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "iO",
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "iO",
+   "letters": "D",
+   "note": "dodatek písmene D (1 zápis)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "iO",
+   "letters": "E",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "iO",
+   "letters": "K",
+   "note": "řazeno po vsích a stranách",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "iO",
+   "letters": "K",
+   "note": "řazeno po vsích a stranách",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

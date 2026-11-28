@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "FD11D92A50274F529AC18A0202EB7AD4",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=FD11D92A50274F529AC18A0202EB7AD4",
+ "signature": "DEJ N7 O4 Z3",
+ "records": {
+  "N": "1800–1840",
+  "O": "1800–1840",
+  "Z": "1800–1840"
+ },
+ "parish": "Dejvice",
+ "places": [
+  "Lysolaje"
+ ],
+ "place_codes": {
+  "Lysolaje": 400521
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1803,
+   "months": "V–IX",
+   "page": "10",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1804,
+   "months": "VII–X",
+   "page": "14",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1805,
+   "months": "IV–IX",
+   "page": "16",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1805,
+   "year_to": 1806,
+   "months": "XI–II",
+   "page": "17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1806,
+   "months": "III–VIII",
+   "page": "18",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1806,
+   "months": "VIII–XII",
+   "page": "19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 96,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1801,
+   "months": "IX–VI",
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 97,
+   "type": "O",
+   "year": 1802,
+   "page": "2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 98,
+   "type": "O",
+   "year": 1803,
+   "page": "3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 99,
+   "type": "O",
+   "year": 1803,
+   "year_to": 1804,
+   "months": "XI–X",
+   "page": "4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1805,
+   "year_to": 1806,
+   "months": "I–V",
+   "page": "5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 115,
+   "type": "O",
+   "year": 1826,
+   "page": "20",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

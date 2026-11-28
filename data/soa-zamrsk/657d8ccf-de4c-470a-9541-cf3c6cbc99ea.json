@@ -1,0 +1,127 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "657d8ccf-de4c-470a-9541-cf3c6cbc99ea",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/657d8ccf-de4c-470a-9541-cf3c6cbc99ea",
+ "signature": "114-1",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "N": "1641–1662",
+  "Z": "1641–1662",
+  "O": "1641–1662"
+ },
+ "scans": 190,
+ "places": [
+  "Nové Město nad Metují",
+  "Dolsko",
+  "Domkov",
+  "Doubravice",
+  "Horské Předměstí",
+  "Krajské Předměstí",
+  "Krčín",
+  "Lhota",
+  "Nahořany",
+  "Provodov",
+  "Přibyslav",
+  "Spy",
+  "Starkoč",
+  "Šeřeč",
+  "Vrchoviny",
+  "Bohuslavice",
+  "Černčice",
+  "Vršovka",
+  "Bohdašín",
+  "Jestřebí",
+  "Krahulčí",
+  "Libchyně",
+  "Mezilesí",
+  "Sendraž",
+  "Slavětín nad Metují",
+  "Chudoba",
+  "Jakubovice",
+  "Německá Čermná",
+  "Stroužné",
+  "Žďárky",
+  "Slaný"
+ ],
+ "place_codes": {
+  "Nové Město nad Metují": 410420,
+  "Dolsko": 101192,
+  "Doubravice": 101206,
+  "Krčín": 106437,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Provodov": 133884,
+  "Přibyslav": 135712,
+  "Spy": 106488,
+  "Starkoč": 188387,
+  "Šeřeč": 133892,
+  "Vrchoviny": 186520,
+  "Bohuslavice": 6467,
+  "Černčice": 20061,
+  "Vršovka": 186635,
+  "Jestřebí": 59081,
+  "Krahulčí": 107336,
+  "Libchyně": 59099,
+  "Mezilesí": 93688,
+  "Sendraž": 59102,
+  "Slavětín nad Metují": 150029,
+  "Žďárky": 195529
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1654,
+   "months": "III–IV",
+   "page": "152–153",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1654,
+   "months": "IV–V",
+   "page": "154–155",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1657,
+   "months": "II",
+   "page": "191–192",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1657,
+   "months": "III–IV",
+   "page": "193–194",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "page": "217–218",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1659,
+   "months": "III–IV",
+   "page": "225–226",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

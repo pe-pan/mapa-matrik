@@ -1,0 +1,118 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "685a7543-353d-44b0-ae75-d99447cd1a0c",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/685a7543-353d-44b0-ae75-d99447cd1a0c",
+ "signature": "4814",
+ "parish": "Zahrádka",
+ "records": {
+  "iN": "1729–1853",
+  "iO": "1729–1853"
+ },
+ "scans": 46,
+ "places": [
+  "Blažejovice",
+  "Dolní Paseka",
+  "Dolní Rápotice",
+  "Horní Paseka",
+  "Horní Rápotice",
+  "Ježov",
+  "Kaliště",
+  "Kobylí Důl",
+  "Martinice u Dolních Kralovic",
+  "Píšť",
+  "Podivice",
+  "Snět",
+  "Staré Hamry",
+  "Staré Hutě",
+  "Světlice",
+  "Šetějovice",
+  "Šálkův Mlýn",
+  "Vítonice",
+  "Vranice",
+  "Zahrádka",
+  "Žibřidovice"
+ ],
+ "place_codes": {
+  "Blažejovice": 5517,
+  "Dolní Rápotice": 162418,
+  "Kaliště": 15261,
+  "Martinice u Dolních Kralovic": 92126,
+  "Snět": 151378,
+  "Šetějovice": 162426,
+  "Vítonice": 5525,
+  "Žibřidovice": 162434
+ },
+ "district": "Benešov",
+ "points": [
+  {
+   "scan": 2,
+   "type": "iN",
+   "year": 1729,
+   "letters": "A/B",
+   "note": "vlevo písmeno S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 11,
+   "type": "iN",
+   "year": 1729,
+   "year_to": 1758,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "iN",
+   "year": 1758,
+   "year_to": 1784,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "year": 1729,
+   "year_to": 1762,
+   "letters": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iN",
+   "letters": "N–O",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "letters": "T–W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "iO",
+   "year": 1828,
+   "year_to": 1852,
+   "letters": "H",
+   "note": "rejstřík oddaných od 1828",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "iO",
+   "year": 1828,
+   "year_to": 1851,
+   "letters": "R",
+   "note": "rejstřík oddaných od 1828",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

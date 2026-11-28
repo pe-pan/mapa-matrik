@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-04",
+ "scans": 66,
+ "signature": "Chříč 04",
+ "parish": "Chříč",
+ "places": [
+  "Chříč"
+ ],
+ "place_codes": {
+  "Chříč": 54551
+ },
+ "aliases": {
+  "Chříč": [
+   "Křitz",
+   "Kreitsch"
+  ]
+ },
+ "records": {
+  "N": "1819–1838"
+ },
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1833,
+   "months": "VI–VII",
+   "page": "fol. 439v–440r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1835,
+   "months": "II–VI",
+   "page": "fol. 445v–446r",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

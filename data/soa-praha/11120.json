@@ -1,0 +1,366 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11120",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11120",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11120/{scan}",
+ "parish": "Rejšice",
+ "signature": "Rejšice 01",
+ "records": {
+  "N": "1736–1792"
+ },
+ "scans": 250,
+ "places": [
+  "Rejšice",
+  "Kosořice",
+  "Charvatce",
+  "Jabkenice",
+  "Újezd",
+  "Chudíř",
+  "Smilovice"
+ ],
+ "place_codes": {
+  "Rejšice": 140058,
+  "Kosořice": 69981,
+  "Charvatce": 50644,
+  "Jabkenice": 55867,
+  "Újezd": 173584,
+  "Chudíř": 54798,
+  "Smilovice": 151017
+ },
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 99,
+   "type": "N",
+   "year": 1755,
+   "year_to": 1756,
+   "months": "XI–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1756,
+   "months": "III–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1756,
+   "months": "VIII–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 102,
+   "type": "N",
+   "year": 1756,
+   "year_to": 1757,
+   "months": "XII–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1757,
+   "months": "IV–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "N",
+   "year": 1757,
+   "months": "VIII–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1757,
+   "year_to": 1758,
+   "months": "XII–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1758,
+   "months": "V–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1758,
+   "year_to": 1759,
+   "months": "XI–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1759,
+   "months": "II–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "year": 1759,
+   "months": "IV–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1759,
+   "months": "VII–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1760,
+   "months": "I–II",
+   "note": "nahoře přeškrtnutý zápis z prosince",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "year": 1760,
+   "months": "II–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1760,
+   "months": "IV–VI",
+   "page": "fol. 107v–108r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 114,
+   "type": "N",
+   "year": 1760,
+   "months": "VI–X",
+   "page": "fol. 108v–109r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1760,
+   "year_to": 1761,
+   "months": "X–I",
+   "page": "fol. 109v–110r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1761,
+   "months": "I–III",
+   "page": "fol. 110v–111r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1761,
+   "months": "IV–VIII",
+   "page": "fol. 111v–112r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1761,
+   "months": "VIII–X",
+   "page": "fol. 112v–113r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1761,
+   "months": "X–XI",
+   "page": "fol. 113v–114r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1761,
+   "year_to": 1762,
+   "months": "XII–IV",
+   "page": "fol. 114v–115r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1762,
+   "months": "IV–VI",
+   "page": "fol. 115v–116r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1762,
+   "months": "VI–VIII",
+   "page": "fol. 116v–117r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1762,
+   "months": "VIII–XII",
+   "page": "fol. 117v–118r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 124,
+   "type": "N",
+   "year": 1762,
+   "year_to": 1763,
+   "months": "XII–IV",
+   "page": "fol. 118v–119r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 125,
+   "type": "N",
+   "year": 1763,
+   "months": "IV–VI",
+   "page": "fol. 119v–120r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 126,
+   "type": "N",
+   "year": 1763,
+   "months": "VI–VIII",
+   "page": "fol. 120v–121r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 127,
+   "type": "N",
+   "year": 1763,
+   "months": "VIII–XI",
+   "page": "fol. 121v–122r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1763,
+   "year_to": 1764,
+   "months": "XI–I",
+   "page": "fol. 122v–123r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 129,
+   "type": "N",
+   "year": 1764,
+   "months": "I–III",
+   "page": "fol. 123v–124r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1764,
+   "months": "III–VI",
+   "page": "fol. 124v–125r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1764,
+   "months": "VI–X",
+   "page": "fol. 125v–126r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 132,
+   "type": "N",
+   "year": 1764,
+   "year_to": 1765,
+   "months": "X–II",
+   "page": "fol. 126v–127r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1765,
+   "months": "II–VI",
+   "page": "fol. 127v–128r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 134,
+   "type": "N",
+   "year": 1765,
+   "months": "VI–X",
+   "page": "fol. 128v–129r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1767,
+   "months": "V–VII",
+   "page": "fol. 135v–136r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1767,
+   "months": "VIII–XI",
+   "page": "fol. 136v–137r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 143,
+   "type": "N",
+   "year": 1767,
+   "year_to": 1768,
+   "months": "XI–II",
+   "page": "fol. 137v–138r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "year": 1768,
+   "months": "II–III",
+   "page": "fol. 138v–139r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1770,
+   "months": "VI–VIII",
+   "page": "fol. 148v–149r",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

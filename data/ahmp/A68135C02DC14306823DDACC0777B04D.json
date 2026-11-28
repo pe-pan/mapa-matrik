@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "A68135C02DC14306823DDACC0777B04D",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=A68135C02DC14306823DDACC0777B04D",
+ "signature": "MAG O36",
+ "parish": "Magistrát hl. m. Prahy (civilní sňatky)",
+ "records": {
+  "O": "1926",
+  "iO": "1926"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 314,
+   "type": "iO",
+   "year": 1926,
+   "page": "fol. 322",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 315,
+   "type": "iO",
+   "year": 1926,
+   "letters": "K–L",
+   "note": "vlevo pokračování K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 316,
+   "type": "iO",
+   "year": 1926,
+   "letters": "L",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 317,
+   "type": "iO",
+   "year": 1926,
+   "letters": "M",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

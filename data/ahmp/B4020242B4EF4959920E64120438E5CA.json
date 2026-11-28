@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "B4020242B4EF4959920E64120438E5CA",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=B4020242B4EF4959920E64120438E5CA",
+ "signature": "MAG Z1",
+ "parish": "Magistrát hl. m. Prahy (civilní matrika)",
+ "records": {
+  "Z": "1871–1920",
+  "iZ": "1871–1920"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 164,
+   "type": "iZ",
+   "page": "160",
+   "letters": "J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 165,
+   "type": "iZ",
+   "page": "161",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 170,
+   "type": "iZ",
+   "letters": "P",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -235,6 +235,28 @@
    "page": "str. 166–167",
    "letters": "L–M",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 67,
+   "type": "iO",
+   "page": "172–173",
+   "letters": "R–S",
+   "note": "s. 172 prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "iO",
+   "page": "176–177",
+   "letters": "T–U",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "iO",
+   "page": "178–179",
+   "letters": "W",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
@@ -245,6 +267,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ],
  "notes": [

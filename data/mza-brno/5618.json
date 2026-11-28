@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5618",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5618",
+ "signature": "Horní Bobrová, kn. 15602, NOZ 1745–1771",
+ "parish": "Horní Bobrová",
+ "records": {
+  "N": "1745–1771",
+  "O": "1745–1771",
+  "Z": "1745–1771"
+ },
+ "places": [
+  "Horní Bobrová",
+  "Slavkovice"
+ ],
+ "place_codes": {
+  "Slavkovice": 150312
+ },
+ "district": "Žďár nad Sázavou",
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1745,
+   "months": "III",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

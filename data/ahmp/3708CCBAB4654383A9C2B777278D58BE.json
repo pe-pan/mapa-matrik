@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "3708CCBAB4654383A9C2B777278D58BE",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=3708CCBAB4654383A9C2B777278D58BE",
+ "signature": "AP N42",
+ "records": {
+  "N": "1869–1870"
+ },
+ "parish": "Praha – sv. Apolinář (zemská porodnice)",
+ "places": [
+  "Nové Město"
+ ],
+ "place_codes": {
+  "Nové Město": 490148
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1869,
+   "months": "VII",
+   "page": "fol. 88",
+   "note": "č. 1648–1653",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 228,
+   "type": "N",
+   "year": 1869,
+   "months": "XI",
+   "page": "fol. 215",
+   "note": "č. 2413–2418",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 229,
+   "type": "N",
+   "year": 1869,
+   "months": "XI",
+   "page": "fol. 216",
+   "note": "č. 2419–2424",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 230,
+   "type": "N",
+   "year": 1869,
+   "months": "XI",
+   "page": "fol. 217",
+   "note": "č. 2425–2430",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 236,
+   "type": "N",
+   "year": 1869,
+   "months": "XI",
+   "page": "fol. 223",
+   "note": "č. 2461–2466",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 277,
+   "type": "N",
+   "year": 1870,
+   "months": "I",
+   "page": "fol. 261",
+   "note": "číslování od 1",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4520",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4520",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4520/{scan}",
+ "signature": "Bystřice 04",
+ "parish": "Bystřice",
+ "places": [
+  "Bystřice",
+  "Nesvačily"
+ ],
+ "place_codes": {
+  "Bystřice": 16772,
+  "Nesvačily": 16861
+ },
+ "district": "Benešov",
+ "notes": [
+  "Kniha N a O kolem 1781–1786.",
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "records": {
+  "N": "1766–1785",
+  "O": "1781–1784"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1766,
+   "months": "VIII–X",
+   "page": "34–35",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1769,
+   "months": "I–II",
+   "page": "78–79",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1776,
+   "months": "V",
+   "page": "164–165",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1780,
+   "months": "V–VI",
+   "page": "198–199",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1785,
+   "months": "I–II",
+   "page": "224–225",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1785,
+   "months": "VI–X",
+   "page": "226–227",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 189,
+   "type": "O",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "V–II",
+   "page": "42–43",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 190,
+   "type": "O",
+   "page": "44–45",
+   "note": "rok na snímku neuveden",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 192,
+   "type": "O",
+   "year": 1784,
+   "months": "I–XI",
+   "page": "48–49",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

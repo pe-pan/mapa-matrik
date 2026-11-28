@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "13254",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13254",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/13254/{scan}",
+ "signature": "Uhlířské Janovice 29",
+ "parish": "Uhlířské Janovice",
+ "records": {
+  "iZ": "1682–1912"
+ },
+ "scans": 87,
+ "places": [
+  "Uhlířské Janovice"
+ ],
+ "place_codes": {
+  "Uhlířské Janovice": 173215
+ },
+ "points": [
+  {
+   "scan": 79,
+   "type": "iZ",
+   "year": 1799,
+   "year_to": 1833,
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "iZ",
+   "year": 1833,
+   "year_to": 1858,
+   "letters": "W",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "11619",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/11619",
+ "signature": "Nové Město na Moravě, evangelický sbor h. v., kn. 16712, N 1875–1919",
+ "parish": "Nové Město na Moravě (evangelický sbor h. v.)",
+ "records": {
+  "N": "1875–1919",
+  "iN": "1875–1919"
+ },
+ "district": "Žďár nad Sázavou",
+ "places": [
+  "Nové Město na Moravě",
+  "Pohledec",
+  "Fryšava",
+  "Studnice",
+  "Olešná",
+  "Rokytno",
+  "Křídla"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Pohledec": 106429,
+  "Studnice": 141097,
+  "Olešná": 110329,
+  "Rokytno": 141089,
+  "Křídla": 105953
+ },
+ "index": {
+  "scans": "313–347"
+ },
+ "points": [
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1890,
+   "months": "II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1896,
+   "months": "XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 211,
+   "type": "N",
+   "year": 1903,
+   "months": "V",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

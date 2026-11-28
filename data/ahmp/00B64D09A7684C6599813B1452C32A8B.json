@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "00B64D09A7684C6599813B1452C32A8B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=00B64D09A7684C6599813B1452C32A8B",
+ "signature": "LBŇ Z13",
+ "parish": "Libeň",
+ "records": {
+  "Z": "1926–1931"
+ },
+ "places": [
+  "Libeň"
+ ],
+ "place_codes": {
+  "Libeň": 490105
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 239,
+   "type": "Z",
+   "year": 1931,
+   "months": "II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 248,
+   "type": "Z",
+   "year": 1931,
+   "months": "V",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4540",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4540",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4540/{scan}",
+ "signature": "Bystřice 24",
+ "parish": "Bystřice",
+ "records": {
+  "iO": "1785–1865",
+  "iZ": "1784–1866"
+ },
+ "district": "Benešov",
+ "places": [
+  "Bystřice"
+ ],
+ "place_codes": {
+  "Bystřice": 16772
+ },
+ "points": [
+  {
+   "scan": 12,
+   "type": "iO",
+   "year": 1784,
+   "year_to": 1856,
+   "letters": "F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iO",
+   "year": 1785,
+   "year_to": 1816,
+   "letters": "G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "iO",
+   "year": 1784,
+   "year_to": 1807,
+   "letters": "H",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

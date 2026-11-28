@@ -1,0 +1,197 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6345",
+ "url": "https://digi.ceskearchivy.cz/6345",
+ "signature": "NOZ Vlásenice 1787–1863, fara Pelhřimov, kniha 37",
+ "parish": "Pelhřimov",
+ "records": {
+  "N": "1787–1861",
+  "O": "1787–1863",
+  "Z": "1787–1861"
+ },
+ "places": [
+  "Vlásenice"
+ ],
+ "district": "Pelhřimov",
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "place": "Vlásenice",
+   "year": 1788,
+   "year_to": 1790,
+   "note": "do II/1790",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "place": "Vlásenice",
+   "year": 1790,
+   "year_to": 1791,
+   "note": "vpravo XI/1790 – V/1791",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "place": "Vlásenice",
+   "year": 1799,
+   "months": "III",
+   "note": "dvojstrana = celý rok",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "place": "Vlásenice",
+   "year": 1823,
+   "year_to": 1824,
+   "months": "VIII–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "place": "Vlásenice",
+   "year": 1839,
+   "year_to": 1840,
+   "page": "86–87",
+   "note": "do VIII/1840",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "place": "Vlásenice",
+   "year": 1840,
+   "year_to": 1841,
+   "months": "IX–V",
+   "page": "88–89",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "place": "Vlásenice",
+   "year": 1844,
+   "year_to": 1845,
+   "months": "VII–VII",
+   "page": "94–95",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "place": "Vlásenice",
+   "year": 1852,
+   "year_to": 1853,
+   "note": "od X/1852",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1787,
+   "year_to": 1789,
+   "months": "XI–XI",
+   "page": "121",
+   "note": "začátek oddílu O; levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1790,
+   "year_to": 1795,
+   "page": "122–123",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1795,
+   "year_to": 1797,
+   "months": "V–XI",
+   "page": "124–125",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1797,
+   "year_to": 1801,
+   "months": "XI–X",
+   "page": "126–127",
+   "note": "rok 1798 bez zápisu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1803,
+   "year_to": 1808,
+   "months": "II–I",
+   "page": "128–129",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1818,
+   "year_to": 1822,
+   "months": "X–I",
+   "page": "134–135",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1822,
+   "year_to": 1824,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1822,
+   "months": "II",
+   "page": "136–137",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1848,
+   "year_to": 1850,
+   "months": "IX–II",
+   "page": "148–149",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "place": "Vlásenice",
+   "year": 1850,
+   "months": "VIII",
+   "page": "150–151",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

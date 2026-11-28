@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "14443",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/14443",
+ "signature": "Nové Město na Moravě, kn. 15937, O 1931–1949",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "O": "1931–1949",
+  "iO": "1931–1949"
+ },
+ "order": "by_village",
+ "places": [
+  "Nové Město na Moravě",
+  "Petrovice",
+  "Jiříkovice",
+  "Maršovice",
+  "Pohledec",
+  "Radňovice",
+  "Rokytno",
+  "Studnice",
+  "Vlachovice"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Petrovice": 120189,
+  "Jiříkovice": 61107,
+  "Maršovice": 106402,
+  "Pohledec": 106429,
+  "Radňovice": 138185,
+  "Rokytno": 141089,
+  "Studnice": 141097,
+  "Vlachovice": 141101
+ },
+ "district": "Žďár nad Sázavou",
+ "index": {
+  "scans": "229–259"
+ },
+ "sections": [
+  {
+   "scans": "213–228",
+   "type": "O",
+   "place": "Pohledec"
+  }
+ ],
+ "points": [
+  {
+   "scan": 223,
+   "type": "O",
+   "year": 1945,
+   "months": "IX",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7363",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7363",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/7363/{scan}",
+ "signature": "Křivsoudov 14",
+ "parish": "Křivsoudov",
+ "records": {
+  "iN": "1784–1802"
+ },
+ "scans": 25,
+ "places": [
+  "Křivsoudov"
+ ],
+ "place_codes": {
+  "Křivsoudov": 76414
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "iN",
+   "year": 1785,
+   "year_to": 1802,
+   "letters": "B–C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "iN",
+   "letters": "C–D",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "9a8cab13-4575-4a07-84e8-d97cde88ffc6",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/9a8cab13-4575-4a07-84e8-d97cde88ffc6",
+ "signature": "6-0",
+ "parish": "Bílý Újezd",
+ "records": {
+  "N": "1663–1702",
+  "Z": "1663–1702",
+  "O": "1663–1702"
+ },
+ "scans": 221,
+ "places": [
+  "Bílý Újezd",
+  "Brocná",
+  "Hroška",
+  "Chábory",
+  "Lhota u Dobrušky",
+  "Masty",
+  "Netřeba",
+  "Ostrov",
+  "Podbřezí",
+  "Polom",
+  "Roudné",
+  "Skalka",
+  "Víska",
+  "Černíkovice",
+  "Byzhradec",
+  "Domašín",
+  "Třebešov",
+  "Dobré",
+  "Bačetín",
+  "Hlinné",
+  "Kamenice",
+  "Lomy",
+  "Osečnice",
+  "Rovné",
+  "Spáleniště",
+  "Žákovec",
+  "Deštné v Orlických horách",
+  "Hoděčín",
+  "Jedlová",
+  "Lično",
+  "Mnichová",
+  "Ostašovice",
+  "Radostovice",
+  "Rozkoš",
+  "Šediviny",
+  "Uhřínovice",
+  "Velký Uhřínov"
+ ],
+ "place_codes": {
+  "Bílý Újezd": 4715,
+  "Brocná": 12602,
+  "Hroška": 4723,
+  "Masty": 4731,
+  "Podbřezí": 123391,
+  "Roudné": 4740,
+  "Černíkovice": 20206,
+  "Byzhradec": 17264,
+  "Domašín": 20214,
+  "Třebešov": 169676,
+  "Dobré": 27197,
+  "Bačetín": 744,
+  "Hlinné": 27201,
+  "Kamenice": 27227,
+  "Lomy": 112801,
+  "Osečnice": 112810,
+  "Rovné": 27243,
+  "Spáleniště": 30783,
+  "Deštné v Orlických horách": 410683,
+  "Hoděčín": 110370,
+  "Lično": 83593,
+  "Ostašovice": 83607,
+  "Radostovice": 83615,
+  "Rozkoš": 321648,
+  "Uhřínovice": 184217
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1698,
+   "months": "X–XII",
+   "page": "218–219",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1699,
+   "months": "VII",
+   "page": "224–225",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 161,
+   "type": "O",
+   "year": 1692,
+   "year_to": 1693,
+   "months": "IX–II",
+   "page": "62–63",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 170,
+   "type": "O",
+   "year": 1700,
+   "year_to": 1701,
+   "page": "80–81",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "Z",
+   "year": 1691,
+   "page": "42–43",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

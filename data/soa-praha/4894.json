@@ -1,0 +1,90 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4894",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4894",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4894/{scan}",
+ "signature": "Čistá 11",
+ "parish": "Čistá",
+ "records": {
+  "N": "1805–1823"
+ },
+ "order": "by_village",
+ "places": [
+  "Čistá"
+ ],
+ "place_codes": {
+  "Čistá": 23965
+ },
+ "district": "Rakovník",
+ "index": {
+  "volume": "soa-praha/5865"
+ },
+ "points": [
+  {
+   "scan": 91,
+   "type": "N",
+   "place": "Všesulov",
+   "year": 1808,
+   "year_to": 1809,
+   "page": "178–179",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "place": "Všesulov",
+   "year": 1809,
+   "year_to": 1810,
+   "months": "VI–VII",
+   "page": "180–181",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "place": "Všesulov",
+   "year": 1810,
+   "year_to": 1812,
+   "months": "X–VII",
+   "page": "182–183",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "place": "Šípy",
+   "year": 1809,
+   "year_to": 1810,
+   "months": "II–I",
+   "page": "218–219",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "place": "Šípy",
+   "year": 1810,
+   "year_to": 1811,
+   "page": "220–221",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "place": "Šípy",
+   "year": 1814,
+   "year_to": 1815,
+   "months": "VII–XI",
+   "page": "226–227",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

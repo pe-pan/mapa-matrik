@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "330FADCED12545B2A1A0A089B9C8E1A5",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=330FADCED12545B2A1A0A089B9C8E1A5",
+ "signature": "BŘV Z5",
+ "parish": "Břevnov",
+ "records": {
+  "Z": "1793–1860"
+ },
+ "places": [
+  "Břevnov"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1825,
+   "year_to": 1826,
+   "page": "32–33",
+   "note": "„Umrlčí list“ malé obce",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

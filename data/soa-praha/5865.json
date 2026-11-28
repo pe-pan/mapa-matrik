@@ -23,6 +23,22 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 15,
+   "type": "iN",
+   "year": 1791,
+   "year_to": 1807,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "iN",
+   "year": 1807,
+   "year_to": 1819,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 18,
    "type": "iN",
    "year": 1791,
@@ -56,6 +72,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-27"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

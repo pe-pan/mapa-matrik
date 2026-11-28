@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5716",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5716",
+ "signature": "Jámy, kn. 15659, N 1844–1870",
+ "parish": "Jámy",
+ "records": {
+  "N": "1844–1870"
+ },
+ "places": [
+  "Slavkovice"
+ ],
+ "place_codes": {
+  "Slavkovice": 150312
+ },
+ "district": "Žďár nad Sázavou",
+ "notes": [
+  "Jen obec Slavkovice."
+ ],
+ "points": [
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1864,
+   "months": "X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1866,
+   "months": "VII",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

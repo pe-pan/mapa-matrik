@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "684C5282CE9D41E6A7958E685B828503",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=684C5282CE9D41E6A7958E685B828503",
+ "signature": "STŘ Z10",
+ "parish": "Střešovice",
+ "records": {
+  "Z": "1891–1916"
+ },
+ "scans": 407,
+ "places": [
+  "Střešovice"
+ ],
+ "place_codes": {
+  "Střešovice": 400424
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 198,
+   "type": "Z",
+   "year": 1904,
+   "months": "XI–XII",
+   "page": "194",
+   "note": "č. 63–69",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 201,
+   "type": "Z",
+   "year": 1905,
+   "months": "I–IV",
+   "page": "197",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 202,
+   "type": "Z",
+   "year": 1905,
+   "months": "IV",
+   "page": "198",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 232,
+   "type": "Z",
+   "year": 1907,
+   "months": "III",
+   "page": "228",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

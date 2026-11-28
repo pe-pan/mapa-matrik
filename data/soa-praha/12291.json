@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12291",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12291",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12291/{scan}",
+ "signature": "Solopysky 14",
+ "parish": "Solopysky",
+ "records": {
+  "O": "1784–1831"
+ },
+ "order": "by_village",
+ "places": [
+  "Solopysky",
+  "Jindice"
+ ],
+ "place_codes": {
+  "Solopysky": 159077,
+  "Jindice": 60291
+ },
+ "district": "Kutná Hora",
+ "index": {
+  "volume": "soa-praha/12298"
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "O",
+   "place": "Červený Hrádek",
+   "year": 1800,
+   "year_to": 1802,
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "place": "Chotouchov",
+   "year": 1805,
+   "year_to": 1808,
+   "page": "9–10",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "place": "Pučery",
+   "year": 1819,
+   "year_to": 1820,
+   "page": "14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "place": "Jindice",
+   "year": 1805,
+   "year_to": 1808,
+   "page": "10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "place": "Jindice",
+   "year": 1810,
+   "year_to": 1815,
+   "page": "12–13",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

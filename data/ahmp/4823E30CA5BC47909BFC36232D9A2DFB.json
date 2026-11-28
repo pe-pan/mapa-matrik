@@ -1,0 +1,115 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "4823E30CA5BC47909BFC36232D9A2DFB",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=4823E30CA5BC47909BFC36232D9A2DFB",
+ "signature": "HOS N6O6Z6",
+ "records": {
+  "N": "1763–1805",
+  "O": "1763–1805",
+  "Z": "1763–1805"
+ },
+ "parish": "Hostivař",
+ "places": [
+  "Hostivař",
+  "Chodov"
+ ],
+ "place_codes": {
+  "Hostivař": 400866,
+  "Chodov": 400211
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1779,
+   "months": "II–VII",
+   "page": "138–139",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1779,
+   "year_to": 1780,
+   "months": "XII–IV",
+   "page": "142–143",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1781,
+   "months": "X–XII",
+   "page": "150–151",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1782,
+   "months": "VI–VIII",
+   "page": "152–153",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "blank",
+   "note": "vložený prázdný lístek (zadní strana)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1783,
+   "months": "III–IX",
+   "page": "156–157",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 184,
+   "type": "O",
+   "year": 1777,
+   "year_to": 1778,
+   "months": "V–II",
+   "page": "47–48",
+   "note": "vlastní stránkování oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 185,
+   "type": "O",
+   "year": 1778,
+   "year_to": 1780,
+   "months": "IX–II",
+   "page": "49–50",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 186,
+   "type": "O",
+   "year": 1780,
+   "year_to": 1781,
+   "months": "V–VII",
+   "page": "51–52",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "year": 1793,
+   "year_to": 1794,
+   "page": "69–70",
+   "note": "josefínský formulář",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

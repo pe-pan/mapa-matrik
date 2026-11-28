@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5037",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5037",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5037/{scan}",
+ "signature": "Dobřichovice 02",
+ "parish": "Dobřichovice",
+ "records": {
+  "N": "1704–1765"
+ },
+ "order": "mixed",
+ "places": [
+  "Dobřichovice",
+  "Lety",
+  "Karlík",
+  "Zadní Třebaň"
+ ],
+ "place_codes": {
+  "Dobřichovice": 27812,
+  "Lety": 80764,
+  "Karlík": 27821
+ },
+ "district": "Praha-západ",
+ "notes": [
+  "Do 1754 smíšeně, pak po vsích; 1 strana na snímek."
+ ],
+ "points": [
+  {
+   "scan": 263,
+   "type": "N",
+   "page": "fol. 129r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 300,
+   "type": "N",
+   "year": 1749,
+   "year_to": 1750,
+   "months": "XII–V",
+   "page": "fol. 147r",
+   "note": "smíšený oddíl více vsí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 305,
+   "type": "N",
+   "place": "Lety",
+   "year": 1754,
+   "months": "I–XII",
+   "page": "fol. 149v",
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 306,
+   "type": "N",
+   "place": "Lety",
+   "year": 1755,
+   "months": "I–IX",
+   "page": "fol. 150r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 307,
+   "type": "N",
+   "place": "Lety",
+   "year": 1755,
+   "year_to": 1756,
+   "months": "XII–IV",
+   "page": "fol. 150v",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 308,
+   "type": "N",
+   "place": "Lety",
+   "year": 1756,
+   "year_to": 1757,
+   "months": "VII–III",
+   "page": "fol. 151r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 309,
+   "type": "N",
+   "place": "Lety",
+   "year": 1757,
+   "months": "VI–XII",
+   "page": "fol. 151v",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 310,
+   "type": "N",
+   "place": "Lety",
+   "year": 1758,
+   "months": "I–XI",
+   "page": "fol. 152r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 311,
+   "type": "N",
+   "place": "Lety",
+   "year": 1758,
+   "year_to": 1759,
+   "months": "XII–IV",
+   "page": "fol. 152v",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 318,
+   "type": "N",
+   "place": "Lety",
+   "year": 1762,
+   "year_to": 1763,
+   "page": "fol. 156r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 340,
+   "type": "N",
+   "place": "Zadní Třebaň",
+   "year": 1727,
+   "year_to": 1728,
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

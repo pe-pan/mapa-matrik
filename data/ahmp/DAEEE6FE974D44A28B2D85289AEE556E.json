@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "DAEEE6FE974D44A28B2D85289AEE556E",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=DAEEE6FE974D44A28B2D85289AEE556E",
+ "signature": "BŘV Z12",
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "records": {
+  "Z": "1926"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "points": [
+  {
+   "scan": 67,
+   "type": "Z",
+   "year": 1926,
+   "months": "I",
+   "page": "61",
+   "note": "č. 1–8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "Z",
+   "year": 1926,
+   "months": "III",
+   "page": "64",
+   "note": "č. 19–25",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

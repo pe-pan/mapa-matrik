@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "57588BC3063F4B75922F91C8921E5086",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=57588BC3063F4B75922F91C8921E5086",
+ "signature": "LBC i2",
+ "parish": "Liboc",
+ "records": {
+  "iN": "1671–1726"
+ },
+ "scans": 61,
+ "places": [
+  "Liboc"
+ ],
+ "place_codes": {
+  "Liboc": 400408
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 30,
+   "type": "iN",
+   "year": 1722,
+   "year_to": 1726,
+   "letters": "K",
+   "note": "strojopis; konec K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "iN",
+   "year": 1671,
+   "year_to": 1710,
+   "page": "18",
+   "letters": "L",
+   "note": "strojopis",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "iN",
+   "year": 1711,
+   "year_to": 1726,
+   "letters": "L",
+   "note": "strojopis; konec L",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "iN",
+   "year": 1671,
+   "year_to": 1683,
+   "page": "19",
+   "letters": "M",
+   "note": "strojopis; začátek M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iN",
+   "year": 1671,
+   "year_to": 1696,
+   "page": "31",
+   "letters": "T",
+   "note": "strojopis",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "iN",
+   "year": 1697,
+   "year_to": 1726,
+   "letters": "T",
+   "note": "strojopis",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

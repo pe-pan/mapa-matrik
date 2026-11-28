@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "13964",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13964",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/13964/{scan}",
+ "signature": "Loučeň 10",
+ "parish": "Loučeň",
+ "records": {
+  "iN": "1786–1825",
+  "iO": "1786–1825",
+  "iZ": "1786–1825"
+ },
+ "places": [
+  "Loučeň"
+ ],
+ "place_codes": {
+  "Loučeň": 86932
+ },
+ "notes": [
+  "Společný rejstřík O/N/Z (sloupce Copulati | Baptizati | Mortui) od 1786; konec rozsahu přibližně."
+ ],
+ "points": [
+  {
+   "scan": 43,
+   "type": "iN",
+   "letters": "Z",
+   "note": "společný rejstřík O/N/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iN",
+   "letters": "Z",
+   "note": "konec Z a doplňky; společný rejstřík O/N/Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

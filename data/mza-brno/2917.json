@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2917",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2917",
+ "signature": "Boskovice, kn. 178, N 1894–1906",
+ "parish": "Boskovice",
+ "records": {
+  "N": "1894–1906"
+ },
+ "places": [
+  "Boskovice",
+  "Hrádkov",
+  "Lhota Rapotina",
+  "Mladkov",
+  "Vratíkov"
+ ],
+ "place_codes": {
+  "Boskovice": 411558,
+  "Hrádkov": 8478,
+  "Lhota Rapotina": 81141,
+  "Mladkov": 8486,
+  "Vratíkov": 185591
+ },
+ "district": "Blansko",
+ "order": "by_village",
+ "sections": [
+  {
+   "scans": "1–244",
+   "type": "N",
+   "place": "Boskovice"
+  }
+ ],
+ "points": [
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1901,
+   "months": "IV",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

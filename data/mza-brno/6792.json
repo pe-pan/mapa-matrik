@@ -1,0 +1,92 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6792",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6792",
+ "signature": "Nové Město na Moravě, kn. 15924, N 1857–1877",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "N": "1857–1877"
+ },
+ "order": "by_village",
+ "places": [
+  "Nové Město na Moravě",
+  "Petrovice",
+  "Jiříkovice",
+  "Maršovice",
+  "Pohledec",
+  "Radňovice",
+  "Rokytno",
+  "Studnice",
+  "Vlachovice"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Petrovice": 120189,
+  "Jiříkovice": 61107,
+  "Maršovice": 106402,
+  "Pohledec": 106429,
+  "Radňovice": 138185,
+  "Rokytno": 141089,
+  "Studnice": 141097,
+  "Vlachovice": 141101
+ },
+ "district": "Žďár nad Sázavou",
+ "sections": [
+  {
+   "scans": "143–172",
+   "type": "N",
+   "place": "Petrovice"
+  }
+ ],
+ "points": [
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1859,
+   "months": "XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 212,
+   "type": "N",
+   "place": "Jiříkovice",
+   "year": 1857,
+   "year_to": 1858,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 217,
+   "type": "N",
+   "place": "Jiříkovice",
+   "year": 1859,
+   "year_to": 1860,
+   "page": "12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 220,
+   "type": "N",
+   "place": "Jiříkovice",
+   "year": 1861,
+   "months": "VII",
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 319,
+   "type": "N",
+   "year": 1866,
+   "months": "VI",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

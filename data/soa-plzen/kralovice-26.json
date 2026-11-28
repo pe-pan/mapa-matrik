@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kralovice-26",
+ "url": "https://www.portafontium.eu/register/soap-pn/kralovice-26",
+ "scans": 119,
+ "signature": "Kralovice 26",
+ "parish": "Kralovice",
+ "places": [
+  "Buček",
+  "Dolní Hradiště",
+  "Dřevec",
+  "Hodyně",
+  "Hradecko",
+  "Kočín",
+  "Kopidlo",
+  "Kralovice",
+  "Lednice",
+  "Mariánský Týnec",
+  "Výrov"
+ ],
+ "place_codes": {
+  "Buček": 32964,
+  "Dolní Hradiště": 29149,
+  "Dřevec": 32981,
+  "Hodyně": 33006,
+  "Hradecko": 47244,
+  "Kočín": 67652,
+  "Kopidlo": 69311,
+  "Kralovice": 406538,
+  "Lednice": 79812,
+  "Mariánský Týnec": 302350,
+  "Výrov": 187691
+ },
+ "aliases": {
+  "Buček": [
+   "Butschek",
+   "Budček"
+  ],
+  "Dolní Hradiště": [
+   "Unter-Hradischt",
+   "Unter-Radisch",
+   "Hradišťko",
+   "Hradiště Dolejší"
+  ],
+  "Dřevec": [
+   "Dřewetz"
+  ],
+  "Hodyně": [
+   "Hodina"
+  ],
+  "Hradecko": [
+   "Hradetzko"
+  ],
+  "Kočín": [
+   "Kočin",
+   "Kotschin"
+  ],
+  "Kralovice": [
+   "Kralowitz"
+  ],
+  "Lednice": [
+   "Lednitz"
+  ],
+  "Výrov": [
+   "Weirow",
+   "Weirau"
+  ]
+ },
+ "records": {
+  "iN": "1795–1829",
+  "iO": "1795–1829",
+  "iZ": "1795–1829"
+ },
+ "points": [
+  {
+   "scan": 70,
+   "type": "iN",
+   "year": 1807,
+   "year_to": 1810,
+   "letters": "P",
+   "note": "souhrnný rejstřík N/O/Z celé fary",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 76,
+   "type": "iN",
+   "year": 1795,
+   "year_to": 1799,
+   "letters": "R",
+   "note": "souhrnný rejstřík N/O/Z celé fary",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 77,
+   "type": "iN",
+   "year": 1799,
+   "year_to": 1805,
+   "letters": "R",
+   "note": "souhrnný rejstřík N/O/Z celé fary",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "iN",
+   "year": 1805,
+   "year_to": 1813,
+   "letters": "R",
+   "note": "souhrnný rejstřík N/O/Z celé fary",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 79,
+   "type": "iN",
+   "year": 1813,
+   "year_to": 1821,
+   "letters": "R",
+   "note": "souhrnný rejstřík N/O/Z celé fary",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "iN",
+   "year": 1821,
+   "year_to": 1829,
+   "letters": "R",
+   "note": "souhrnný rejstřík N/O/Z celé fary",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

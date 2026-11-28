@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "10780",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/10780",
+ "signature": "Nové Veselí, kn. 15959, O 1875–1936",
+ "parish": "Nové Veselí",
+ "records": {
+  "O": "1875–1936"
+ },
+ "order": "by_village",
+ "places": [
+  "Nové Veselí",
+  "Březí",
+  "Budeč",
+  "Kotlasy",
+  "Matějov",
+  "Újezd"
+ ],
+ "place_codes": {
+  "Nové Veselí": 106836,
+  "Březí": 13919,
+  "Budeč": 15229,
+  "Kotlasy": 71064,
+  "Matějov": 92291,
+  "Újezd": 173720
+ },
+ "district": "Žďár nad Sázavou",
+ "points": [
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1897,
+   "months": "II",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

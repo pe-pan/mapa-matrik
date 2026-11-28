@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "3DCDB5AD3AF74027AFF9138085A7701C",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=3DCDB5AD3AF74027AFF9138085A7701C",
+ "signature": "BBČ i8",
+ "parish": "Bubeneč",
+ "records": {
+  "iO": "1816–1895"
+ },
+ "places": [
+  "Bubeneč"
+ ],
+ "place_codes": {
+  "Bubeneč": 490024
+ },
+ "district": "území Hlavního města Prahy",
+ "notes": [
+  "Konec rozsahu jen podle viděných písmen rejstříku."
+ ],
+ "points": [
+  {
+   "scan": 17,
+   "type": "iO",
+   "year": 1816,
+   "year_to": 1832,
+   "letters": "C",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 198,
+   "type": "iO",
+   "year": 1883,
+   "year_to": 1891,
+   "letters": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 199,
+   "type": "iO",
+   "year": 1891,
+   "year_to": 1895,
+   "letters": "Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

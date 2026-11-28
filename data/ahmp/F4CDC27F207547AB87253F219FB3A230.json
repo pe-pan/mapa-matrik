@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "F4CDC27F207547AB87253F219FB3A230",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=F4CDC27F207547AB87253F219FB3A230",
+ "signature": "MAG O145",
+ "parish": "Magistrát hl. m. Prahy (civilní sňatky)",
+ "records": {
+  "O": "1947",
+  "iO": "1947"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 267,
+   "type": "iO",
+   "year": 1947,
+   "letters": "K",
+   "note": "vlevo pokračování K, vpravo prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 284,
+   "type": "iO",
+   "year": 1947,
+   "letters": "Z",
+   "note": "Z vpravo",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "11b4a73b-02cd-47da-9a81-c49d2d516c34",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/11b4a73b-02cd-47da-9a81-c49d2d516c34",
+ "signature": "6-2759",
+ "parish": "Bílý Újezd",
+ "records": {
+  "iN": "1768–1784",
+  "iZ": "1768–1784",
+  "iO": "1768–1784"
+ },
+ "scans": 43,
+ "places": [
+  "Bílý Újezd",
+  "Hroška",
+  "Chábory",
+  "Lhota u Dobrušky",
+  "Masty",
+  "Netřeba",
+  "Ostrov",
+  "Podbřezí",
+  "Polom",
+  "Roudné",
+  "Skalka",
+  "Víska",
+  "Vitenžovský mlýn",
+  "Černíkovice",
+  "Byzhradec",
+  "Domašín",
+  "Třebešov",
+  "Dobré",
+  "Hlinné",
+  "Kamenice",
+  "Lomy",
+  "Osečnice",
+  "Rovné",
+  "Spáleniště",
+  "Žákovec",
+  "Houdkovice",
+  "Slavěnec"
+ ],
+ "place_codes": {
+  "Bílý Újezd": 4715,
+  "Hroška": 4723,
+  "Masty": 4731,
+  "Podbřezí": 123391,
+  "Roudné": 4740,
+  "Černíkovice": 20206,
+  "Byzhradec": 17264,
+  "Domašín": 20214,
+  "Třebešov": 169676,
+  "Dobré": 27197,
+  "Hlinné": 27201,
+  "Kamenice": 27227,
+  "Lomy": 112801,
+  "Osečnice": 112810,
+  "Rovné": 27243,
+  "Spáleniště": 30783,
+  "Houdkovice": 168335
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 3,
+   "type": "iN",
+   "note": "začátek rejstříku N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "blank",
+   "note": "prázdný list na začátku rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 8,
+   "type": "iN",
+   "letters": "D",
+   "note": "na konci začátek J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "year": 1780,
+   "year_to": 1784,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iN",
+   "year": 1768,
+   "year_to": 1784,
+   "letters": "L–M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "letters": "S/Š",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "iN",
+   "letters": "T–W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "iN",
+   "year": 1768,
+   "year_to": 1775,
+   "letters": "W–Z",
+   "note": "pravá strana prázdná; konec rejstříku N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "blank",
+   "note": "prázdné předtištěné listy",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "iZ",
+   "letters": "A–B",
+   "note": "začátek rejstříku Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "iZ",
+   "year": 1770,
+   "year_to": 1782,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "iZ",
+   "year": 1770,
+   "year_to": 1775,
+   "letters": "H, K",
+   "note": "vlevo konec H (1782–1784), K 1770–1775",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "iZ",
+   "year": 1775,
+   "year_to": 1783,
+   "months": "XI–VI",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "iZ",
+   "year": 1770,
+   "year_to": 1784,
+   "letters": "M–P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "iZ",
+   "year": 1772,
+   "year_to": 1783,
+   "letters": "P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "iO",
+   "letters": "A–C",
+   "note": "začátek rejstříku oddaných; začátek rejstříku O",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "iO",
+   "letters": "C–D",
+   "note": "D 1769–1784",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iO",
+   "year": 1769,
+   "year_to": 1784,
+   "note": "roky 1769–1784 uvedeny u písmene K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iO",
+   "letters": "N–S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "iO",
+   "note": "konec rejstříku O",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

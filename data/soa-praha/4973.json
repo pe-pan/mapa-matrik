@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4973",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4973",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4973/{scan}",
+ "parish": "Dobrovice",
+ "signature": "Dobrovice 27",
+ "records": {
+  "iN": "1744–1795",
+  "iO": "1744–1795"
+ },
+ "scans": 60,
+ "places": [
+  "Dobrovice"
+ ],
+ "place_codes": {
+  "Dobrovice": 27472
+ },
+ "points": [
+  {
+   "scan": 12,
+   "type": "iN",
+   "year": 1745,
+   "year_to": 1790,
+   "letters": "E",
+   "note": "vlevo prázdná strana; společný rejstřík N/O",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "iN",
+   "year": 1763,
+   "year_to": 1774,
+   "letters": "S",
+   "note": "společný rejstřík N/O",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iN",
+   "year": 1786,
+   "year_to": 1795,
+   "letters": "S",
+   "note": "společný rejstřík N/O; i nemanželské S 1744–1789",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iN",
+   "letters": "T–U",
+   "note": "T 1774–1791, U 1744–1773; společný rejstřík N/O",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iO",
+   "letters": "U",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "iN",
+   "year": 1774,
+   "year_to": 1794,
+   "letters": "U",
+   "note": "společný rejstřík N/O",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

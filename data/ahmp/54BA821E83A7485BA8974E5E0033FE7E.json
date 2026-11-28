@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "54BA821E83A7485BA8974E5E0033FE7E",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=54BA821E83A7485BA8974E5E0033FE7E",
+ "signature": "TO N7",
+ "parish": "Malá Strana – sv. Tomáš",
+ "places": [
+  "Malá Strana"
+ ],
+ "place_codes": {
+  "Malá Strana": 490121
+ },
+ "district": "území Hlavního města Prahy",
+ "notes": [
+  "Katalog uvádí TO N7 1770–1784, snímky ale ukazují rejstříky (oddaní 1800–1818, zemřelí 1844–1850).",
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "records": {
+  "iO": "1800–1818",
+  "iZ": "1844–1850"
+ },
+ "points": [
+  {
+   "scan": 120,
+   "type": "iO",
+   "year": 1800,
+   "year_to": 1818,
+   "note": "katalog uvádí TO N7 1770–1784, snímek je rejstřík oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "iZ",
+   "year": 1844,
+   "year_to": 1850,
+   "note": "katalog uvádí TO N7 1770–1784, snímek je rejstřík zemřelých",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "5BD912E8456E4E078A80D2F31D74F53B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=5BD912E8456E4E078A80D2F31D74F53B",
+ "signature": "HOS N9O8Z9",
+ "parish": "Hostivař",
+ "scans": 168,
+ "places": [
+  "Záběhlice"
+ ],
+ "place_codes": {
+  "Záběhlice": 490253
+ },
+ "records": {
+  "N": "1777–1785"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1777,
+   "year_to": 1778,
+   "months": "IX–II",
+   "page": "22–23",
+   "note": "latinsky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1780,
+   "page": "28–29",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1785,
+   "page": "39–40",
+   "note": "od 1784 česky",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

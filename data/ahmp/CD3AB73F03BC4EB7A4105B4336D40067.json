@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "CD3AB73F03BC4EB7A4105B4336D40067",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=CD3AB73F03BC4EB7A4105B4336D40067",
+ "signature": "MAG Z15",
+ "parish": "Magistrát hl. m. Prahy (civilní matrika)",
+ "records": {
+  "Z": "1938",
+  "iZ": "1938"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 141,
+   "type": "iZ",
+   "year": 1938,
+   "letters": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 143,
+   "type": "iZ",
+   "year": 1938,
+   "letters": "K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

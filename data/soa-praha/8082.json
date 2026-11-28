@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8082",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8082",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/8082/{scan}",
+ "signature": "Loučeň 03",
+ "parish": "Loučeň",
+ "records": {
+  "Z": "1786–1872"
+ },
+ "scans": 65,
+ "places": [
+  "Loučeň",
+  "Patřín",
+  "Chudíř",
+  "Studečky"
+ ],
+ "place_codes": {
+  "Loučeň": 86932,
+  "Patřín": 86941,
+  "Studečky": 86967
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 2,
+   "type": "title",
+   "note": "desky",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 3,
+   "type": "Z",
+   "place": "Loučeň",
+   "year": 1786,
+   "year_to": 1787,
+   "page": "fol. 1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "Z",
+   "place": "Loučeň",
+   "year": 1818,
+   "year_to": 1819,
+   "months": "II–V",
+   "page": "fol. 18",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "Z",
+   "place": "Loučeň",
+   "year": 1828,
+   "year_to": 1829,
+   "months": "XI–XII",
+   "page": "fol. 25",
+   "note": "konec oddílu Loučeň",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "Z",
+   "place": "Patřín",
+   "year": 1786,
+   "year_to": 1787,
+   "page": "fol. 26",
+   "note": "začátek oddílu Patřín",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "place": "Patřín",
+   "year": 1824,
+   "year_to": 1825,
+   "page": "fol. 38",
+   "note": "konec oddílu Patřín",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "blank",
+   "note": "prázdná dvoustrana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "place": "Chudíř",
+   "year": 1786,
+   "year_to": 1788,
+   "months": "IV–VI",
+   "page": "fol. 45",
+   "note": "začátek oddílu Chudíř",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 43,
+   "type": "Z",
+   "place": "Chudíř",
+   "year": 1788,
+   "year_to": 1792,
+   "months": "VII–V",
+   "page": "fol. 45v–46",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "place": "Chudíř",
+   "year": 1792,
+   "year_to": 1796,
+   "months": "VI–XII",
+   "page": "fol. 46v–47",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "place": "Chudíř",
+   "year": 1830,
+   "year_to": 1834,
+   "months": "XI–IV",
+   "page": "fol. 56–57",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "blank",
+   "page": "fol. 58–59",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "place": "Studečky",
+   "year": 1788,
+   "year_to": 1797,
+   "months": "IV–V",
+   "page": "fol. 65",
+   "note": "začátek oddílu vsi; roky 1786–1787 bez zápisů",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

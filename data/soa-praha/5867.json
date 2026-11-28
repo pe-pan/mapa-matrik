@@ -15,6 +15,39 @@
  "language": "latina",
  "points": [
   {
+   "scan": 14,
+   "type": "iO",
+   "year": 1815,
+   "year_to": 1821,
+   "note": "písmeno psané „L“ (písař tak píše i R); vpravo prázdno",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "iO",
+   "year": 1778,
+   "year_to": 1816,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "iO",
+   "year": 1816,
+   "year_to": 1822,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "iO",
+   "year": 1778,
+   "year_to": 1819,
+   "letters": "U/W",
+   "note": "U 1779–1819, W 1778–1814",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 36,
    "type": "iZ",
    "year": 1778,
@@ -51,6 +84,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

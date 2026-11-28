@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "F42BD3DBB4554AD2930BA498AEB83960",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=F42BD3DBB4554AD2930BA498AEB83960",
+ "signature": "HOS i6",
+ "parish": "Hostivař",
+ "records": {
+  "iN": "1688–1736",
+  "iZ": "1737–1763"
+ },
+ "places": [
+  "Hostivař",
+  "Chodov",
+  "Záběhlice"
+ ],
+ "place_codes": {
+  "Hostivař": 400866,
+  "Chodov": 400211,
+  "Záběhlice": 490253
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 3,
+   "type": "iN",
+   "year": 1688,
+   "year_to": 1716,
+   "letters": "J–M",
+   "note": "obce Hostivař, Chodov, Záběhlice",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "iN",
+   "year": 1714,
+   "year_to": 1736,
+   "letters": "L–P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iZ",
+   "year": 1737,
+   "year_to": 1763,
+   "letters": "A–B",
+   "note": "titul: Index mortuorum, tom III",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

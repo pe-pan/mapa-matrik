@@ -62,6 +62,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 18,
+   "type": "iN",
+   "year": 1761,
+   "year_to": 1790,
+   "letters": "S–T",
+   "note": "vlevo S 1785–1790, vpravo T 1761–1780",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 21,
    "type": "iN",
    "year": 1773,
@@ -86,6 +95,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

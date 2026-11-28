@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "df020160-cae9-49b2-aaa7-ba60bc5ad5c0",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/df020160-cae9-49b2-aaa7-ba60bc5ad5c0",
+ "signature": "114-8",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "N": "1789–1833"
+ },
+ "scans": 358,
+ "places": [
+  "Krčín",
+  "Dupačka",
+  "Doubravice",
+  "Dolsko",
+  "Lhota",
+  "Nahořany",
+  "Přibyslav",
+  "Spy",
+  "Vrchoviny"
+ ],
+ "place_codes": {
+  "Krčín": 106437,
+  "Doubravice": 101206,
+  "Dolsko": 101192,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Přibyslav": 135712,
+  "Spy": 106488,
+  "Vrchoviny": 186520
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 65,
+   "type": "N",
+   "place": "Krčín",
+   "year": 1819,
+   "months": "X",
+   "page": "122",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10220",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10220",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10220/{scan}",
+ "signature": "Tachlovice 10",
+ "parish": "Tachlovice",
+ "records": {
+  "O": "1784–1817"
+ },
+ "scans": 54,
+ "places": [
+  "Tachlovice"
+ ],
+ "place_codes": {
+  "Tachlovice": 164828
+ },
+ "points": [
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1816,
+   "year_to": 1817,
+   "page": "fol. 94–95",
+   "note": "fol. 95 prázdná",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

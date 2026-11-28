@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "4F3898A08F4B4ECF81BFD318AC2FAB73",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=4F3898A08F4B4ECF81BFD318AC2FAB73",
+ "signature": "LBŇ N22",
+ "records": {
+  "N": "1913–1916"
+ },
+ "parish": "Libeň – kostel Neposkvrněného početí P. Marie",
+ "places": [
+  "Libeň",
+  "Kobylisy",
+  "Troja"
+ ],
+ "place_codes": {
+  "Libeň": 490105,
+  "Kobylisy": 400611,
+  "Troja": 490202
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1913,
+   "months": "IX",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

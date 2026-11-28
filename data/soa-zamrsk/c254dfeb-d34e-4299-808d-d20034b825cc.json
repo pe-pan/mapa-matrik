@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "c254dfeb-d34e-4299-808d-d20034b825cc",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/c254dfeb-d34e-4299-808d-d20034b825cc",
+ "signature": "150-10",
+ "parish": "Solnice",
+ "records": {
+  "Z": "1784–1816"
+ },
+ "scans": 84,
+ "places": [
+  "Solnice",
+  "Kvasiny",
+  "Ještětice",
+  "Litohrady"
+ ],
+ "place_codes": {
+  "Solnice": 152421,
+  "Kvasiny": 78191,
+  "Ještětice": 152412,
+  "Litohrady": 84735
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 63,
+   "type": "Z",
+   "place": "Kvasiny",
+   "year": 1796,
+   "year_to": 1798,
+   "page": "109–110",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "Z",
+   "place": "Kvasiny",
+   "year": 1807,
+   "year_to": 1809,
+   "months": "VII–IV",
+   "page": "119–120",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

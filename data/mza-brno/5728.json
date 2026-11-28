@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5728",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5728",
+ "signature": "Jámy, kn. 15676, iZ 1784–1870",
+ "parish": "Jámy",
+ "records": {
+  "iZ": "1784–1870"
+ },
+ "scans": 58,
+ "places": [
+  "Jámy",
+  "Slavkovice",
+  "Hlinné",
+  "Veselíčko"
+ ],
+ "points": [
+  {
+   "scan": 1,
+   "type": "iZ",
+   "letters": "A",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "iZ",
+   "year": 1827,
+   "year_to": 1836,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "iZ",
+   "year": 1837,
+   "year_to": 1845,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "iZ",
+   "year": 1845,
+   "year_to": 1855,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "iZ",
+   "year": 1855,
+   "year_to": 1866,
+   "letters": "K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

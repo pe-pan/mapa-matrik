@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7377",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7377",
+ "signature": "Nové Město na Moravě, evangelický sbor h. v., kn. 16710, N 1817–1855",
+ "parish": "Nové Město na Moravě (evangelický sbor h. v.)",
+ "records": {
+  "N": "1817–1855"
+ },
+ "order": "mixed",
+ "district": "Žďár nad Sázavou",
+ "places": [
+  "Nové Město na Moravě",
+  "Pohledec"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Pohledec": 106429
+ },
+ "notes": [
+  "Kniha v 75 částech po obcích a letech."
+ ],
+ "points": [
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1855,
+   "months": "VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "place": "Pohledec",
+   "year": 1854,
+   "months": "II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "year": 1852,
+   "months": "II",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

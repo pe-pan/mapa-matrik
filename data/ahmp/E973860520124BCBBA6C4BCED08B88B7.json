@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "E973860520124BCBBA6C4BCED08B88B7",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=E973860520124BCBBA6C4BCED08B88B7",
+ "signature": "BBČ N15 O13",
+ "records": {
+  "N": "1827–1847",
+  "O": "1827–1847"
+ },
+ "parish": "Bubeneč – kaple Nejsv. Trojice v Malých Holešovicích",
+ "places": [
+  "Holešovice"
+ ],
+ "place_codes": {
+  "Holešovice": 490067
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1828,
+   "months": "VI",
+   "page": "1",
+   "note": "začátek oddaných",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1829,
+   "months": "VIII–XI",
+   "page": "5",
+   "note": "razítko 28",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

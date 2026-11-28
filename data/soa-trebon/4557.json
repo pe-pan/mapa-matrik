@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4557",
+ "url": "https://digi.ceskearchivy.cz/4557",
+ "signature": "Z Kadov 1801–1862",
+ "parish": "Kadov",
+ "records": {
+  "Z": "1801–1862"
+ },
+ "order": "by_village",
+ "places": [
+  "Kadov",
+  "Slatina"
+ ],
+ "place_codes": {
+  "Kadov": 61921
+ },
+ "district": "Strakonice",
+ "points": [
+  {
+   "scan": 115,
+   "type": "Z",
+   "place": "Slatina",
+   "year": 1807,
+   "year_to": 1808,
+   "months": "I–X",
+   "page": "fol. 121",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "Z",
+   "place": "Slatina",
+   "year": 1813,
+   "year_to": 1814,
+   "months": "I–XI",
+   "page": "fol. 124",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 121,
+   "type": "Z",
+   "place": "Slatina",
+   "year": 1818,
+   "year_to": 1820,
+   "months": "XI–III",
+   "page": "fol. 127",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

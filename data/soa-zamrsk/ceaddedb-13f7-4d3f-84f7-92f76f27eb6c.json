@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ceaddedb-13f7-4d3f-84f7-92f76f27eb6c",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ceaddedb-13f7-4d3f-84f7-92f76f27eb6c",
+ "signature": "67-14",
+ "parish": "Jasenná",
+ "records": {
+  "iN": "1721–1779",
+  "iZ": "1721–1779",
+  "iO": "1721–1779"
+ },
+ "scans": 39,
+ "places": [
+  "Jasenná",
+  "Ples",
+  "Rasošky",
+  "Šestajovice"
+ ],
+ "place_codes": {
+  "Jasenná": 57673,
+  "Rasošky": 139416,
+  "Šestajovice": 162400
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 30,
+   "type": "iN",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "iN",
+   "note": "konec rejstříku N",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

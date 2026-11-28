@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10222",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10222",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10222/{scan}",
+ "parish": "Tachlovice",
+ "signature": "Tachlovice 12",
+ "records": {
+  "iN": "1719–1779"
+ },
+ "places": [
+  "Tachlovice"
+ ],
+ "place_codes": {
+  "Tachlovice": 164828
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "iN",
+   "page": "fol. 22",
+   "letters": "S–W",
+   "note": "W 1719–1744",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "iN",
+   "year": 1743,
+   "year_to": 1778,
+   "page": "fol. 23",
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "iN",
+   "year": 1719,
+   "year_to": 1780,
+   "page": "fol. 24",
+   "letters": "Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

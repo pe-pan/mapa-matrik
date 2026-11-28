@@ -1,0 +1,424 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "F25BC42A63E9459BB403201801598B23",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=F25BC42A63E9459BB403201801598B23",
+ "signature": "BŘV N1O1Z1",
+ "records": {
+  "N": "1652–1752",
+  "O": "1652–1752",
+  "Z": "1652–1752"
+ },
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1658,
+   "year_to": 1659,
+   "months": "VII–VII",
+   "page": "fol. 8",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1659,
+   "year_to": 1660,
+   "months": "VIII–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1660,
+   "year_to": 1661,
+   "months": "VII–III",
+   "page": "fol. 9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1667,
+   "year_to": 1668,
+   "months": "IV–IV",
+   "page": "fol. 12",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1668,
+   "year_to": 1669,
+   "months": "VI–VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1669,
+   "year_to": 1670,
+   "months": "VIII–VI",
+   "page": "fol. 13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1670,
+   "year_to": 1671,
+   "months": "XI–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1671,
+   "year_to": 1673,
+   "months": "XII–II",
+   "page": "fol. 14",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1673,
+   "year_to": 1674,
+   "months": "III–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1674,
+   "year_to": 1675,
+   "months": "IV–VI",
+   "page": "fol. 15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1675,
+   "year_to": 1676,
+   "months": "VII–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1676,
+   "year_to": 1677,
+   "months": "VIII–II",
+   "page": "fol. 16",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1677,
+   "year_to": 1678,
+   "months": "III–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1678,
+   "year_to": 1679,
+   "months": "V–III",
+   "page": "fol. 17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1679,
+   "year_to": 1680,
+   "months": "III–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1680,
+   "year_to": 1681,
+   "months": "VII–VI",
+   "page": "fol. 18",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1681,
+   "year_to": 1682,
+   "months": "VII–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1682,
+   "months": "IV–XI",
+   "page": "fol. 19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1712,
+   "months": "IV–X",
+   "page": "fol. 43",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1712,
+   "year_to": 1713,
+   "months": "X–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1713,
+   "year_to": 1714,
+   "months": "IX–VII",
+   "page": "fol. 44v",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1714,
+   "months": "VII–XI",
+   "page": "fol. 45",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1716,
+   "year_to": 1717,
+   "months": "XI–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1717,
+   "months": "II–VII",
+   "page": "fol. 48",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1717,
+   "months": "VII–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1736,
+   "months": "V–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 180,
+   "type": "N",
+   "year": 1743,
+   "year_to": 1744,
+   "months": "X–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 182,
+   "type": "N",
+   "year": 1744,
+   "months": "VI–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 190,
+   "type": "N",
+   "year": 1746,
+   "months": "I–III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 209,
+   "type": "N",
+   "year": 1750,
+   "months": "III–IV",
+   "page": "fol. 107",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 211,
+   "type": "N",
+   "year": 1750,
+   "months": "VIII–IX",
+   "page": "fol. 108",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 223,
+   "type": "O",
+   "year": 1661,
+   "year_to": 1667,
+   "months": "IX–XI",
+   "page": "fol. 114",
+   "note": "začátek oddaných (Consignatio Copulatorum ab 1661)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 224,
+   "type": "O",
+   "year": 1670,
+   "year_to": 1673,
+   "months": "VII–VII",
+   "page": "fol. 114v",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 225,
+   "type": "O",
+   "year": 1673,
+   "year_to": 1675,
+   "months": "VII–XI",
+   "page": "fol. 115",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 226,
+   "type": "O",
+   "year": 1675,
+   "year_to": 1679,
+   "months": "XI–XI",
+   "page": "fol. 115v",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 227,
+   "type": "O",
+   "year": 1679,
+   "year_to": 1682,
+   "months": "XI–X",
+   "page": "fol. 116",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 231,
+   "type": "O",
+   "year": 1693,
+   "year_to": 1696,
+   "page": "fol. 118",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 232,
+   "type": "O",
+   "year": 1696,
+   "year_to": 1702,
+   "page": "fol. 118v",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 233,
+   "type": "O",
+   "year": 1702,
+   "year_to": 1706,
+   "months": "I–II",
+   "page": "fol. 119",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 238,
+   "type": "O",
+   "year": 1717,
+   "year_to": 1719,
+   "months": "XI–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 250,
+   "type": "O",
+   "year": 1733,
+   "months": "VIII–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 260,
+   "type": "O",
+   "year": 1744,
+   "year_to": 1745,
+   "months": "VII–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 261,
+   "type": "O",
+   "year": 1745,
+   "months": "X–XI",
+   "page": "fol. 133",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 262,
+   "type": "O",
+   "year": 1746,
+   "months": "I–V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 266,
+   "type": "O",
+   "year": 1749,
+   "year_to": 1750,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 270,
+   "type": "Z",
+   "year": 1693,
+   "year_to": 1701,
+   "months": "VIII–V",
+   "note": "začátek zemřelých (ab Anno 1693)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 271,
+   "type": "Z",
+   "year": 1702,
+   "year_to": 1708,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 285,
+   "type": "Z",
+   "year": 1729,
+   "year_to": 1732,
+   "months": "IX–II",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

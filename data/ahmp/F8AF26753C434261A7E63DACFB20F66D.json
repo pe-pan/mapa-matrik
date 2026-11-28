@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "F8AF26753C434261A7E63DACFB20F66D",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=F8AF26753C434261A7E63DACFB20F66D",
+ "signature": "STR i2",
+ "parish": "Strahov – kostel Nanebevzetí P. Marie",
+ "records": {
+  "iO": "1660–1902"
+ },
+ "places": [
+  "Hradčany"
+ ],
+ "place_codes": {
+  "Hradčany": 490075
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 78,
+   "type": "iO",
+   "letters": "Y",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 79,
+   "type": "iO",
+   "letters": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "iO",
+   "letters": "Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "iO",
+   "year": 1870,
+   "year_to": 1901,
+   "letters": "Z",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

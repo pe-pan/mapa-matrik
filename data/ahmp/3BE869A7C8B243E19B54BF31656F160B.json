@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "3BE869A7C8B243E19B54BF31656F160B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=3BE869A7C8B243E19B54BF31656F160B",
+ "signature": "BŘV O12",
+ "parish": "Břevnov",
+ "records": {
+  "O": "1935–1941"
+ },
+ "scans": 317,
+ "places": [
+  "Břevnov"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 312,
+   "type": "O",
+   "year": 1941,
+   "months": "XII",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

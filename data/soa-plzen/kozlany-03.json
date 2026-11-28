@@ -222,6 +222,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 179,
+   "type": "O",
+   "year": 1722,
+   "months": "II–VII",
+   "page": "352–353",
+   "note": "dopsané sňatky 1722",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 180,
    "type": "O",
    "year": 1703,
@@ -272,11 +281,67 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 210,
+   "type": "O",
+   "year": 1719,
+   "year_to": 1720,
+   "page": "414–415",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 211,
+   "type": "O",
+   "year": 1720,
+   "months": "V–X",
+   "page": "416–417",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 212,
+   "type": "O",
+   "year": 1720,
+   "months": "X–XI",
+   "page": "418–419",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 213,
    "type": "O",
    "year": 1721,
    "page": "str. 420–421",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 214,
+   "type": "O",
+   "year": 1721,
+   "page": "422–423",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 215,
+   "type": "O",
+   "year": 1721,
+   "year_to": 1722,
+   "months": "XI–XI",
+   "page": "424–425",
+   "note": "s. 425 dopsané sňatky 1722",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 216,
+   "type": "O",
+   "year": 1721,
+   "page": "426–427",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 217,
+   "type": "O",
+   "year": 1721,
+   "page": "428–429",
+   "note": "s. 428 prázdná; konec oddílu oddaných",
+   "by": "kosarlukascz"
   },
   {
    "scan": 218,
@@ -303,6 +368,13 @@
    "page": "552–553",
    "note": "druhý oddíl N na konci knihy (sn. 272–279)",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 279,
+   "type": "N",
+   "page": "558",
+   "note": "nemanželské křty; zadní deska s pečetí",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
@@ -321,6 +393,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

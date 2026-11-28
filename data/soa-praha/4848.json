@@ -11,17 +11,53 @@
  },
  "points": [
   {
+   "scan": 168,
+   "type": "N",
+   "place": "Průhonice",
+   "year": 1844,
+   "months": "VIII–X",
+   "page": "fol. 168",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "place": "Průhonice",
+   "year": 1845,
+   "months": "IV–V",
+   "page": "fol. 170",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 243,
    "type": "N",
    "year": 1844,
    "months": "VIII",
    "by": "pe-pan"
+  },
+  {
+   "scan": 430,
+   "type": "iN",
+   "letters": "F–G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 431,
+   "type": "iN",
+   "year": 1844,
+   "year_to": 1858,
+   "letters": "H",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

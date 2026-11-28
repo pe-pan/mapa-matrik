@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11131",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11131",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11131/{scan}",
+ "signature": "Rejšice 12",
+ "parish": "Rejšice",
+ "records": {
+  "iZ": "1736–1830"
+ },
+ "scans": 41,
+ "places": [
+  "Rejšice"
+ ],
+ "place_codes": {
+  "Rejšice": 140058
+ },
+ "points": [
+  {
+   "scan": 12,
+   "type": "iZ",
+   "letters": "H",
+   "note": "levá strana prázdná; H ke staré knize Z (fol. 105–146)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iZ",
+   "letters": "H",
+   "note": "od tohoto snímku odkazy do nové knihy Z 1792–1831",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iZ",
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 16,
+   "type": "iZ",
+   "year": 1826,
+   "year_to": 1830,
+   "letters": "H",
+   "note": "konec písmene H, zbytek prázdný",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "iZ",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iZ",
+   "letters": "Z",
+   "note": "levá strana prázdná",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

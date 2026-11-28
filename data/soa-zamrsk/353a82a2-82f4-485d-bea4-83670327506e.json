@@ -1,0 +1,118 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "353a82a2-82f4-485d-bea4-83670327506e",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/353a82a2-82f4-485d-bea4-83670327506e",
+ "signature": "8-5",
+ "parish": "Bohuslavice",
+ "records": {
+  "O": "1784–1841",
+  "iO": "1784–1841"
+ },
+ "scans": 137,
+ "places": [
+  "Bohuslavice",
+  "Opařiště",
+  "Černčice",
+  "Osíček",
+  "Vršovka"
+ ],
+ "place_codes": {
+  "Bohuslavice": 6467,
+  "Černčice": 20061,
+  "Vršovka": 186635
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 70,
+   "type": "iO",
+   "letters": "A, Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 73,
+   "type": "iO",
+   "note": "písmeno nejisté; malý rejstřík vsi bez nadpisu",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "iO",
+   "letters": "H, D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "iO",
+   "letters": "R",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "place": "Černčice",
+   "year": 1799,
+   "year_to": 1800,
+   "page": "12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "page": "32–33",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 122,
+   "type": "O",
+   "place": "Vršovka",
+   "year": 1809,
+   "months": "VIII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 123,
+   "type": "O",
+   "place": "Vršovka",
+   "year": 1810,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 128,
+   "type": "O",
+   "place": "Vršovka",
+   "year": 1839,
+   "months": "II",
+   "page": "20",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 132,
+   "type": "iO",
+   "letters": "S",
+   "note": "malý rejstřík jedné vsi (bez názvu)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 133,
+   "type": "iO",
+   "letters": "S",
+   "note": "malý rejstřík jedné vsi (bez názvu)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 134,
+   "type": "iO",
+   "note": "malý rejstřík vsi bez nadpisu",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

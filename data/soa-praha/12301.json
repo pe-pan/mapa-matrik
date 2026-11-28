@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12301",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12301",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12301/{scan}",
+ "parish": "Solopysky",
+ "signature": "Solopysky 19",
+ "records": {
+  "iN": "1651–1834"
+ },
+ "places": [
+  "Solopysky"
+ ],
+ "points": [
+  {
+   "scan": 8,
+   "type": "iN",
+   "year": 1816,
+   "year_to": 1834,
+   "letters": "C",
+   "note": "vlevo prázdno",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 9,
+   "type": "iN",
+   "year": 1651,
+   "year_to": 1745,
+   "letters": "Č",
+   "note": "záhlaví „Index Baptisatorum ab Anno 1651“",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "year": 1816,
+   "year_to": 1829,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "iN",
+   "year": 1699,
+   "year_to": 1743,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "iN",
+   "year": 1744,
+   "year_to": 1770,
+   "letters": "H",
+   "note": "„Matrica Lit. C“ (= Solopysky 03)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "iN",
+   "year": 1816,
+   "year_to": 1826,
+   "letters": "W",
+   "note": "vlevo prázdno",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "iN",
+   "letters": "W",
+   "note": "vlevo W 1827–1834, vpravo W 1651–1686",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "iN",
+   "year": 1686,
+   "year_to": 1722,
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "iN",
+   "year": 1722,
+   "year_to": 1757,
+   "letters": "W",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

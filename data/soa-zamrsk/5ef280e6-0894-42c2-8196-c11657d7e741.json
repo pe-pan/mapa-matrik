@@ -25,6 +25,14 @@
    "by": "pe-pan"
   },
   {
+   "scan": 20,
+   "type": "iN",
+   "year": 1805,
+   "year_to": 1812,
+   "letters": "H/Ch",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 22,
    "type": "N",
    "year": 1784,
@@ -32,11 +40,27 @@
    "by": "pe-pan"
   },
   {
+   "scan": 22,
+   "type": "iN",
+   "year": 1784,
+   "year_to": 1800,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 23,
    "type": "N",
    "year": 1800,
    "year_to": 1811,
    "by": "pe-pan"
+  },
+  {
+   "scan": 23,
+   "type": "iN",
+   "year": 1800,
+   "year_to": 1811,
+   "letters": "K",
+   "by": "kosarlukascz"
   },
   {
    "scan": 24,
@@ -141,6 +165,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

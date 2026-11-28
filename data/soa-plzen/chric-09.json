@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-09",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-09",
+ "scans": 66,
+ "signature": "Chříč 09",
+ "parish": "Chříč",
+ "places": [
+  "Studená"
+ ],
+ "place_codes": {
+  "Studená": 54585
+ },
+ "aliases": {
+  "Studená": [
+   "Studena"
+  ]
+ },
+ "records": {
+  "N": "1809–1838"
+ },
+ "district": "Plzeň-sever",
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1809,
+   "year_to": 1810,
+   "months": "VII–I",
+   "page": "fol. 207v–208r",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1814,
+   "year_to": 1815,
+   "months": "IX–III",
+   "page": "fol. 214v–215r",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

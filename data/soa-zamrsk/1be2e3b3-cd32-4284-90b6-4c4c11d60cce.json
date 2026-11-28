@@ -1,0 +1,234 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "1be2e3b3-cd32-4284-90b6-4c4c11d60cce",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/1be2e3b3-cd32-4284-90b6-4c4c11d60cce",
+ "signature": "114-4310",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "iN": "1641–1753"
+ },
+ "scans": 110,
+ "places": [
+  "Nové Město nad Metují",
+  "Dolsko",
+  "Domkov",
+  "Doubravice",
+  "Horské Předměstí",
+  "Krajské Předměstí",
+  "Krčín",
+  "Lhota",
+  "Nahořany",
+  "Obora",
+  "Osma",
+  "Provodov",
+  "Přibyslav",
+  "Spy",
+  "Starkoč",
+  "Šeřeč",
+  "Vrchoviny",
+  "Bohuslavice",
+  "Černčice",
+  "Vršovka",
+  "Bohdašín",
+  "Jestřebí",
+  "Krahulčí",
+  "Libchyně",
+  "Mezilesí",
+  "Německá Čermná",
+  "Sendraž",
+  "Slavětín nad Metují"
+ ],
+ "place_codes": {
+  "Nové Město nad Metují": 410420,
+  "Dolsko": 101192,
+  "Doubravice": 101206,
+  "Krčín": 106437,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Provodov": 133884,
+  "Přibyslav": 135712,
+  "Spy": 106488,
+  "Starkoč": 188387,
+  "Šeřeč": 133892,
+  "Vrchoviny": 186520,
+  "Bohuslavice": 6467,
+  "Černčice": 20061,
+  "Vršovka": 186635,
+  "Jestřebí": 59081,
+  "Krahulčí": 107336,
+  "Libchyně": 59099,
+  "Mezilesí": 93688,
+  "Sendraž": 59102,
+  "Slavětín nad Metují": 150029
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 26,
+   "type": "iN",
+   "letters": "G, H",
+   "note": "vlevo G 1728–1746, vpravo začátek H (od 1641)",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "iN",
+   "year": 1667,
+   "year_to": 1681,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 30,
+   "type": "iN",
+   "year": 1692,
+   "year_to": 1700,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 33,
+   "type": "iN",
+   "year": 1722,
+   "year_to": 1733,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "iN",
+   "year": 1733,
+   "year_to": 1741,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "iN",
+   "year": 1741,
+   "year_to": 1753,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 37,
+   "type": "iN",
+   "year": 1678,
+   "year_to": 1746,
+   "letters": "J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "iN",
+   "year": 1652,
+   "year_to": 1662,
+   "letters": "K",
+   "note": "odkazy na knihu A (114-1), s. 126–273",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iN",
+   "year": 1662,
+   "year_to": 1672,
+   "letters": "K",
+   "note": "odkazy na knihu B (114-2), s. 10–86; odkazy na knihu B (114-2) s. 10–86",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iN",
+   "letters": "K",
+   "note": "odkazy na knihu B s. 86–158",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "iN",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "iN",
+   "year": 1703,
+   "year_to": 1712,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "iN",
+   "year": 1712,
+   "year_to": 1721,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "iN",
+   "year": 1721,
+   "year_to": 1731,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "iN",
+   "year": 1731,
+   "year_to": 1740,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "iN",
+   "year": 1740,
+   "year_to": 1746,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "iN",
+   "year": 1696,
+   "letters": "L",
+   "note": "od 1696 do 30. let 18. stol.",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "iN",
+   "year": 1681,
+   "year_to": 1692,
+   "letters": "M",
+   "note": "odkazy na knihu B s. 164–278",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "iN",
+   "year": 1693,
+   "year_to": 1702,
+   "letters": "M",
+   "note": "odkazy B s. 278 – C s. 95",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "iN",
+   "letters": "M",
+   "note": "odkazy na knihu C (114-3) s. 95–256",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

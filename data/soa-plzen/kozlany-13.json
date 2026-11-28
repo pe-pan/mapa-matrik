@@ -39,6 +39,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ],
  "points": [
@@ -48,6 +52,14 @@
    "year": 1784,
    "page": "1",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 3,
+   "type": "Z",
+   "year": 1784,
+   "months": "VII–VIII",
+   "page": "3",
+   "by": "kosarlukascz"
   },
   {
    "scan": 5,
@@ -140,6 +152,25 @@
    "place": "Hedčany",
    "note": "začátek oddílu vsi; 1 snímek = 1 strana",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1784,
+   "year_to": 1785,
+   "months": "VI–VI",
+   "page": "79",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "Z",
+   "place": "Chříč",
+   "year": 1785,
+   "months": "X–XII",
+   "page": "80",
+   "by": "kosarlukascz"
   },
   {
    "scan": 56,

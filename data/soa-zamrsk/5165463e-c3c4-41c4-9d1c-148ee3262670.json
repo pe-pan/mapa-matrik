@@ -1,0 +1,130 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "5165463e-c3c4-41c4-9d1c-148ee3262670",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/5165463e-c3c4-41c4-9d1c-148ee3262670",
+ "signature": "114-12",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "O": "1789–1853"
+ },
+ "scans": 203,
+ "places": [
+  "Krčín",
+  "Dupačka",
+  "Doubravice",
+  "Dolsko",
+  "Lhota",
+  "Nahořany",
+  "Přibyslav",
+  "Peklo",
+  "Spy",
+  "Vrchoviny"
+ ],
+ "place_codes": {
+  "Krčín": 106437,
+  "Doubravice": 101206,
+  "Dolsko": 101192,
+  "Lhota": 101214,
+  "Nahořany": 101231,
+  "Přibyslav": 135712,
+  "Spy": 106488,
+  "Vrchoviny": 186520
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1790,
+   "year_to": 1791,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "place": "Krčín",
+   "year": 1843,
+   "year_to": 1844,
+   "page": "fol. 60",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "place": "Krčín",
+   "year": 1844,
+   "year_to": 1845,
+   "page": "fol. 61",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 82,
+   "type": "O",
+   "place": "Lhota",
+   "year": 1806,
+   "months": "VI",
+   "page": "9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 155,
+   "type": "O",
+   "place": "Spy",
+   "year": 1839,
+   "page": "25",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 168,
+   "type": "O",
+   "place": "Vrchoviny",
+   "year": 1798,
+   "year_to": 1799,
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 169,
+   "type": "O",
+   "place": "Vrchoviny",
+   "year": 1800,
+   "page": "10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 173,
+   "type": "O",
+   "place": "Vrchoviny",
+   "year": 1807,
+   "year_to": 1810,
+   "page": "18–19",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 191,
+   "type": "O",
+   "place": "Vrchoviny",
+   "year": 1838,
+   "year_to": 1839,
+   "page": "fol. 47",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 195,
+   "type": "O",
+   "place": "Vrchoviny",
+   "year": 1842,
+   "page": "fol. 51",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

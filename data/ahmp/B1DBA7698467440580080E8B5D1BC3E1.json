@@ -1,0 +1,278 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "B1DBA7698467440580080E8B5D1BC3E1",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=B1DBA7698467440580080E8B5D1BC3E1",
+ "signature": "BŘV N3O3Z3",
+ "records": {
+  "N": "1771–1794",
+  "O": "1771–1794",
+  "Z": "1771–1794"
+ },
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1783,
+   "months": "I–IV",
+   "page": "fol. 20",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1783,
+   "months": "VI",
+   "page": "fol. 21",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1783,
+   "months": "VI–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1784,
+   "months": "I–III",
+   "page": "fol. 23",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1784,
+   "months": "IV–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1785,
+   "months": "IX–II",
+   "page": "fol. 24",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1785,
+   "months": "II–V",
+   "note": "III/1785 vacat",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1785,
+   "months": "VI–X",
+   "page": "fol. 25",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1785,
+   "year_to": 1786,
+   "months": "XI–IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1786,
+   "months": "IV–VIII",
+   "page": "fol. 26",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1786,
+   "year_to": 1787,
+   "months": "IX–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1787,
+   "months": "II–IV",
+   "page": "fol. 27",
+   "note": "V/1787 vacat",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1787,
+   "months": "VI–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1788,
+   "months": "I–VIII",
+   "page": "fol. 28",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1788,
+   "year_to": 1789,
+   "months": "IX–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1789,
+   "months": "III–VIII",
+   "page": "fol. 29",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1789,
+   "months": "VIII–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1790,
+   "months": "I–IV",
+   "page": "fol. 30",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1790,
+   "months": "V–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1774,
+   "months": "V–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1782,
+   "months": "VII–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 82,
+   "type": "O",
+   "year": 1783,
+   "months": "II–X",
+   "page": "fol. 58",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1783,
+   "year_to": 1784,
+   "months": "X–IX",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 84,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1785,
+   "months": "IX–I",
+   "page": "fol. 59",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1786,
+   "year_to": 1787,
+   "months": "VII–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1772,
+   "months": "IV–VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "Z",
+   "year": 1773,
+   "months": "I–VII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "Z",
+   "year": 1773,
+   "months": "VIII–XII",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 125,
+   "type": "Z",
+   "year": 1784,
+   "months": "IX–X",
+   "page": "88",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 126,
+   "type": "Z",
+   "year": 1784,
+   "months": "X–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 127,
+   "type": "Z",
+   "year": 1784,
+   "year_to": 1785,
+   "months": "XII–II",
+   "page": "fol. 89",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 128,
+   "type": "Z",
+   "year": 1785,
+   "months": "III–VI",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

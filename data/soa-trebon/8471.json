@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8471",
+ "url": "https://digi.ceskearchivy.cz/8471",
+ "parish": "Vojslavice",
+ "records": {
+  "O": "1784–1834",
+  "iO": "1785–1834"
+ },
+ "signature": "Vojslavice 16",
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "places": [
+  "Vojslavice"
+ ],
+ "points": [
+  {
+   "scan": 18,
+   "type": "iO",
+   "year": 1785,
+   "year_to": 1810,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 19,
+   "type": "iO",
+   "year": 1810,
+   "year_to": 1834,
+   "letters": "M",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

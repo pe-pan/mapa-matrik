@@ -30,12 +30,25 @@
    "year": 1863,
    "months": "IX",
    "by": "pe-pan"
+  },
+  {
+   "scan": 79,
+   "type": "Z",
+   "place": "Křovice",
+   "year": 1851,
+   "months": "IV",
+   "page": "161–162",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

@@ -68,6 +68,26 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 57,
+   "type": "iN",
+   "year": 1898,
+   "year_to": 1910,
+   "page": "fol. 55v–56r",
+   "letters": "N",
+   "note": "společný rejstřík N/O/Z, nová část; fol. 56r prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "iN",
+   "year": 1818,
+   "year_to": 1899,
+   "page": "fol. 57r",
+   "letters": "O",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 59,
    "type": "iN",
    "year": 1786,
@@ -83,6 +103,15 @@
    "year_to": 1811,
    "letters": "P",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1797,
+   "year_to": 1815,
+   "page": "fol. 58v–59r",
+   "note": "společný rejstřík N/O/Z, stará část",
+   "by": "kosarlukascz"
   },
   {
    "scan": 61,
@@ -101,10 +130,47 @@
    "year_to": 1881
   },
   {
+   "scan": 66,
+   "type": "iN",
+   "year": 1890,
+   "year_to": 1901,
+   "page": "fol. 64v–65r",
+   "letters": "P",
+   "note": "společný rejstřík N/O/Z, nová část",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 67,
    "type": "iN",
    "letters": "P",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "iN",
+   "year": 1786,
+   "year_to": 1811,
+   "page": "fol. 67r",
+   "letters": "R",
+   "note": "společný rejstřík N/O/Z, stará část",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "iO",
+   "letters": "R",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "iN",
+   "year": 1812,
+   "year_to": 1870,
+   "page": "fol. 67v–68r",
+   "letters": "R",
+   "note": "společný rejstřík N/O/Z; fol. 67v 1812–1846, fol. 68r 1845–1870",
+   "by": "kosarlukascz"
   },
   {
    "scan": 70,
@@ -118,6 +184,50 @@
    "type": "iN",
    "letters": "S–Š",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "iN",
+   "year": 1909,
+   "year_to": 1910,
+   "page": "fol. 69v–70r",
+   "letters": "S",
+   "note": "společný rejstřík N/O/Z, nová část; fol. 69v prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 74,
+   "type": "iN",
+   "page": "fol. 72v–73r",
+   "letters": "S",
+   "note": "společný rejstřík N/O/Z, stará část",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "iN",
+   "page": "fol. 73v–74r",
+   "letters": "S",
+   "note": "společný rejstřík N/O/Z, stará část",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 76,
+   "type": "iN",
+   "page": "fol. 74v–75r",
+   "letters": "S",
+   "note": "společný rejstřík N/O/Z, stará část",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "iN",
+   "year": 1851,
+   "year_to": 1858,
+   "page": "fol. 76v–77r",
+   "letters": "S",
+   "note": "společný rejstřík N/O/Z",
+   "by": "kosarlukascz"
   },
   {
    "scan": 83,
@@ -169,6 +279,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

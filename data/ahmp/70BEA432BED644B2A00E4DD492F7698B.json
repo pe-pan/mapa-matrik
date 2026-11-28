@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "70BEA432BED644B2A00E4DD492F7698B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=70BEA432BED644B2A00E4DD492F7698B",
+ "signature": "MAG Z17",
+ "parish": "Magistrát hl. m. Prahy (civilní matrika)",
+ "records": {
+  "Z": "1940",
+  "iZ": "1940"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 131,
+   "type": "iZ",
+   "year": 1940,
+   "letters": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 133,
+   "type": "iZ",
+   "year": 1940,
+   "letters": "K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

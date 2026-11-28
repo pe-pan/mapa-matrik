@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "CAA2DF0077F3452F8B1E4DE91489D55E",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=CAA2DF0077F3452F8B1E4DE91489D55E",
+ "signature": "BBČ i4",
+ "parish": "Bubeneč",
+ "records": {
+  "iZ": "1700–1784"
+ },
+ "places": [
+  "Bubeneč"
+ ],
+ "place_codes": {
+  "Bubeneč": 490024
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 5,
+   "type": "iZ",
+   "year": 1765,
+   "year_to": 1772,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "iZ",
+   "year": 1772,
+   "year_to": 1779,
+   "letters": "B",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "iZ",
+   "year": 1779,
+   "year_to": 1784,
+   "months": "X–IX",
+   "letters": "B",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

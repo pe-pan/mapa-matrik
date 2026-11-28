@@ -45,6 +45,35 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 93,
+   "type": "Z",
+   "place": "Šípy",
+   "year": 1840,
+   "year_to": 1842,
+   "months": "IX–IV",
+   "page": "178–179",
+   "note": "konec oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1812,
+   "year_to": 1814,
+   "page": "182–183",
+   "note": "druhý oddíl na snímku, ves nejistá",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "place": "Křekovice",
+   "year": 1810,
+   "year_to": 1812,
+   "page": "182–183",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 101,
    "type": "Z",
    "year": 1835,
@@ -69,6 +98,12 @@
    "page": "220–221",
    "place": "Krakov",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 138,
+   "type": "iZ",
+   "letters": "S–T",
+   "by": "kosarlukascz"
   }
  ],
  "sources": [
@@ -79,6 +114,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-27"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

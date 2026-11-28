@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12277",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12277",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12277/{scan}",
+ "parish": "Solopysky",
+ "signature": "Solopysky 32",
+ "records": {
+  "iZ": "1816–1949"
+ },
+ "places": [
+  "Solopysky"
+ ],
+ "points": [
+  {
+   "scan": 80,
+   "type": "iZ",
+   "year": 1816,
+   "year_to": 1838,
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "iZ",
+   "year": 1838,
+   "year_to": 1879,
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 84,
+   "type": "iZ",
+   "year": 1908,
+   "year_to": 1944,
+   "letters": "V",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

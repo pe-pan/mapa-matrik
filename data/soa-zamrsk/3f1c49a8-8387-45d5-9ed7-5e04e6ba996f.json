@@ -1,0 +1,336 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "3f1c49a8-8387-45d5-9ed7-5e04e6ba996f",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f",
+ "signature": "130-42",
+ "parish": "Police nad Metují",
+ "records": {
+  "iN": "1641–1784"
+ },
+ "scans": 179,
+ "places": [
+  "Bukovice",
+  "Česká Metuje",
+  "Dědov",
+  "Hlavňov",
+  "Hony",
+  "Malá Ledhuje",
+  "Maršov nad Metují",
+  "Nízký Dřevíč",
+  "Ostaš",
+  "Ochoz",
+  "Pěkov",
+  "Petrovice",
+  "Petrovičky",
+  "Police nad Metují",
+  "Radešov",
+  "Slavný",
+  "Suchý Důl",
+  "Velká Ledhuje",
+  "Žďár nad Metují",
+  "Horní Dřevíč",
+  "Javor",
+  "Stárkov",
+  "Skalka",
+  "Chlívce",
+  "Bystré",
+  "Bělý",
+  "Machov",
+  "Nouzín",
+  "Machovská Lhota",
+  "Nízká Srbská",
+  "Řeřišný",
+  "Hronov",
+  "Malá Čermná",
+  "Rokytník",
+  "Střezina",
+  "Velký Dřevíč",
+  "Vysoká Srbská",
+  "Zbečník",
+  "Žabokrky",
+  "Žďárky",
+  "Jakubovice",
+  "Jakubowice",
+  "Jakubowitz",
+  "Stroužné",
+  "Strážné",
+  "Pstražna",
+  "Lachov",
+  "Bezděkov nad Metují",
+  "Pavlišov",
+  "Česká Skalice",
+  "Hrádek",
+  "Radków",
+  "Wünschelburg",
+  "Pasterkov",
+  "Pasterka"
+ ],
+ "place_codes": {
+  "Bukovice": 50121,
+  "Česká Metuje": 21628,
+  "Dědov": 166316,
+  "Hlavňov": 50130,
+  "Hony": 118893,
+  "Maršov nad Metují": 179256,
+  "Pěkov": 118907,
+  "Petrovice": 179264,
+  "Petrovičky": 179272,
+  "Police nad Metují": 125326,
+  "Radešov": 125334,
+  "Slavný": 159328,
+  "Suchý Důl": 159336,
+  "Velká Ledhuje": 125342,
+  "Žďár nad Metují": 195189,
+  "Horní Dřevíč": 154814,
+  "Javor": 166341,
+  "Stárkov": 154831,
+  "Skalka": 21636,
+  "Chlívce": 154822,
+  "Bystré": 154806,
+  "Bělý": 89834,
+  "Machov": 89842,
+  "Machovská Lhota": 89851,
+  "Nízká Srbská": 89869,
+  "Hronov": 48372,
+  "Malá Čermná": 48453,
+  "Rokytník": 48437,
+  "Velký Dřevíč": 48402,
+  "Vysoká Srbská": 188123,
+  "Zbečník": 48399,
+  "Žabokrky": 48411,
+  "Žďárky": 195529,
+  "Lachov": 166359,
+  "Bezděkov nad Metují": 3590,
+  "Pavlišov": 118346,
+  "Česká Skalice": 21687
+ },
+ "district": "Náchod",
+ "points": [
+  {
+   "scan": 34,
+   "type": "iN",
+   "year": 1641,
+   "year_to": 1652,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 35,
+   "type": "iN",
+   "year": 1652,
+   "year_to": 1671,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "iN",
+   "year": 1671,
+   "year_to": 1685,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "iN",
+   "year": 1703,
+   "year_to": 1711,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 40,
+   "type": "iN",
+   "year": 1711,
+   "year_to": 1720,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 41,
+   "type": "iN",
+   "year": 1720,
+   "year_to": 1726,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "iN",
+   "year": 1726,
+   "year_to": 1732,
+   "months": "IX–V",
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "iN",
+   "year": 1772,
+   "year_to": 1777,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "iN",
+   "year": 1641,
+   "year_to": 1647,
+   "letters": "K",
+   "note": "jen pravá strana",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 58,
+   "type": "iN",
+   "year": 1647,
+   "year_to": 1660,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 59,
+   "type": "iN",
+   "year": 1660,
+   "year_to": 1668,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1668,
+   "year_to": 1675,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "iN",
+   "year": 1675,
+   "year_to": 1681,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "iN",
+   "year": 1681,
+   "year_to": 1687,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "iN",
+   "year": 1692,
+   "year_to": 1696,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "iN",
+   "year": 1696,
+   "year_to": 1700,
+   "months": "V–IX",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "iN",
+   "year": 1700,
+   "year_to": 1705,
+   "months": "IX–IV",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 67,
+   "type": "iN",
+   "year": 1705,
+   "year_to": 1709,
+   "months": "IV–IV",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "iN",
+   "year": 1709,
+   "year_to": 1713,
+   "months": "IV–VII",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "iN",
+   "year": 1713,
+   "year_to": 1717,
+   "months": "VII–XI",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "iN",
+   "year": 1717,
+   "year_to": 1721,
+   "months": "XI–VIII",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "iN",
+   "year": 1721,
+   "year_to": 1724,
+   "months": "X–XI",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "iN",
+   "year": 1724,
+   "year_to": 1727,
+   "months": "XI–XI",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 164,
+   "type": "iN",
+   "year": 1652,
+   "year_to": 1672,
+   "note": "druhá řada rejstříku; odkazy na Matrica II od 1664",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 166,
+   "type": "iN",
+   "year": 1684,
+   "year_to": 1696,
+   "note": "druhá řada rejstříku",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 172,
+   "type": "iN",
+   "year": 1746,
+   "year_to": 1753,
+   "note": "druhá řada rejstříku",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

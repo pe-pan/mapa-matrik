@@ -39,6 +39,14 @@
    "by": "pe-pan"
   },
   {
+   "scan": 33,
+   "type": "N",
+   "year": 1730,
+   "months": "III–VI",
+   "page": "54–55",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 41,
    "type": "N",
    "year": 1733,
@@ -498,6 +506,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

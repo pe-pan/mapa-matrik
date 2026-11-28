@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "0B9CA4962E0744F59E794D87CAD24024",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=0B9CA4962E0744F59E794D87CAD24024",
+ "signature": "LBC i5",
+ "parish": "Liboc",
+ "places": [
+  "Košíře",
+  "Liboc",
+  "Veleslavín",
+  "Zličín"
+ ],
+ "place_codes": {
+  "Košíře": 400319,
+  "Liboc": 400408,
+  "Veleslavín": 400432,
+  "Zličín": 400351
+ },
+ "records": {
+  "iO": "1797–1933"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 5,
+   "type": "iO",
+   "year": 1797,
+   "page": "3",
+   "letters": "B",
+   "note": "strojopis; oddíly Košíře a Liboc",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "iO",
+   "year": 1898,
+   "year_to": 1933,
+   "page": "58",
+   "letters": "Ř",
+   "note": "strojopis",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

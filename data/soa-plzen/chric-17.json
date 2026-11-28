@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-17",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-17",
+ "scans": 36,
+ "signature": "Chříč 17",
+ "parish": "Chříč",
+ "records": {
+  "Z": "1832–1944",
+  "iZ": "1832–1837"
+ },
+ "places": [
+  "Lhota",
+  "Dubjanský Dvůr",
+  "Polanec"
+ ],
+ "place_codes": {
+  "Lhota": 54569
+ },
+ "district": "Plzeň-sever",
+ "points": [
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1842,
+   "year_to": 1850,
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "Z",
+   "year": 1850,
+   "year_to": 1855,
+   "page": "8–9",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

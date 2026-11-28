@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "2b755c77-f321-4ead-b07a-914ab37c2ca5",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/2b755c77-f321-4ead-b07a-914ab37c2ca5",
+ "signature": "7894",
+ "parish": "Zahrádka",
+ "records": {
+  "O": "1853–1918",
+  "iO": "1853–1918"
+ },
+ "scans": 217,
+ "places": [
+  "Snět",
+  "Dolní Rápotice",
+  "Šetějovice",
+  "Žibřidovice",
+  "Martinice u Dolních Kralovic",
+  "Blažejovice"
+ ],
+ "place_codes": {
+  "Snět": 151378,
+  "Dolní Rápotice": 162418,
+  "Šetějovice": 162426,
+  "Žibřidovice": 162434,
+  "Martinice u Dolních Kralovic": 92126,
+  "Blažejovice": 5517
+ },
+ "district": "Benešov",
+ "points": [
+  {
+   "scan": 195,
+   "type": "iO",
+   "letters": "F",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

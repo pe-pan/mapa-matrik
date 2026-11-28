@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "0E15DF4F734142D593062F3930C5678E",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=0E15DF4F734142D593062F3930C5678E",
+ "signature": "DEJ N2",
+ "parish": "Dejvice",
+ "records": {
+  "N": "1784–1800"
+ },
+ "order": "chronological",
+ "places": [
+  "Dejvice"
+ ],
+ "place_codes": {
+  "Dejvice": 400459
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1785,
+   "months": "XII–II",
+   "page": "4–5",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

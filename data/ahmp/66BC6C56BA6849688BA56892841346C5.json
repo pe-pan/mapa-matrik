@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "66BC6C56BA6849688BA56892841346C5",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=66BC6C56BA6849688BA56892841346C5",
+ "signature": "BBČ N10O10",
+ "parish": "Bubeneč",
+ "records": {
+  "N": "1798–1822"
+ },
+ "places": [
+  "Holešovice"
+ ],
+ "place_codes": {
+  "Holešovice": 490067
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1802,
+   "months": "I–IV",
+   "page": "23",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1802,
+   "year_to": 1803,
+   "months": "XI–III",
+   "page": "26",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1803,
+   "months": "III–VI",
+   "page": "27",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1810,
+   "months": "IX",
+   "page": "50",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

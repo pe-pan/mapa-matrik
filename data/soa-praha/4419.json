@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4419",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4419",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4419/{scan}",
+ "parish": "Budňany (Karlštejn)",
+ "signature": "Budňany-Karlštejn 22",
+ "scans": 26,
+ "records": {
+  "iN": "1784–1802",
+  "iO": "1784–1802",
+  "iZ": "1784–1802"
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "iN",
+   "letters": "L–M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 12,
+   "type": "iN",
+   "letters": "N–P",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "iN",
+   "letters": "W",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "iN",
+   "letters": "Ž",
+   "note": "konec rejstříku N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "iZ",
+   "letters": "A–Č",
+   "note": "začátek rejstříku zemřelých",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 23,
+   "type": "iZ",
+   "letters": "R–S",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

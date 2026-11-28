@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4539",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4539",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4539/{scan}",
+ "signature": "Bystřice 23",
+ "parish": "Bystřice",
+ "records": {
+  "iO": "1691–1797"
+ },
+ "scans": 42,
+ "district": "Benešov",
+ "places": [
+  "Bystřice"
+ ],
+ "place_codes": {
+  "Bystřice": 16772
+ },
+ "points": [
+  {
+   "scan": 12,
+   "type": "iO",
+   "year": 1745,
+   "year_to": 1797,
+   "letters": "G",
+   "note": "písmeno G zahrnuje i J",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iO",
+   "year": 1738,
+   "year_to": 1789,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "iO",
+   "year": 1753,
+   "year_to": 1784,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 18,
+   "type": "iO",
+   "year": 1784,
+   "year_to": 1797,
+   "letters": "K",
+   "note": "vpravo prázdno",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 34,
+   "type": "iO",
+   "year": 1691,
+   "year_to": 1796,
+   "letters": "S–T",
+   "note": "vlevo konec S/Š (1796), vpravo T 1691–1784",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

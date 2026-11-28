@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4522",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4522",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4522/{scan}",
+ "signature": "Bystřice 06",
+ "parish": "Bystřice",
+ "records": {
+  "N": "1805–1827"
+ },
+ "order": "by_village",
+ "places": [
+  "Bystřice",
+  "Nesvačily"
+ ],
+ "place_codes": {
+  "Bystřice": 16772,
+  "Nesvačily": 16861
+ },
+ "district": "Benešov",
+ "index": {
+  "volume": "soa-praha/4538"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "N",
+   "place": "Bystřice",
+   "year": 1806,
+   "year_to": 1807,
+   "page": "4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "place": "Bystřice",
+   "year": 1808,
+   "months": "II",
+   "page": "9",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "bd4954bb-f75e-4f89-8c23-bc655503a4df",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/bd4954bb-f75e-4f89-8c23-bc655503a4df",
+ "signature": "6-15",
+ "parish": "Bílý Újezd",
+ "records": {
+  "iN": "1806–1834"
+ },
+ "scans": 34,
+ "places": [
+  "Bílý Újezd",
+  "Boroviny",
+  "Brocná",
+  "Bucký mlýn",
+  "Hroška",
+  "Chábory",
+  "Ještětice",
+  "Lhota u Dobrušky",
+  "Masty",
+  "Milenka",
+  "Netřeba",
+  "Ostrov",
+  "Podbřezí",
+  "Polom",
+  "Přímy",
+  "Roudné",
+  "Skalka",
+  "Studánka",
+  "Víska",
+  "Vitenžovský mlýn"
+ ],
+ "place_codes": {
+  "Bílý Újezd": 4715,
+  "Brocná": 12602,
+  "Hroška": 4723,
+  "Chábory": 123374,
+  "Ještětice": 152412,
+  "Masty": 4731,
+  "Podbřezí": 123391,
+  "Roudné": 4740
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 22,
+   "type": "iN",
+   "letters": "N–O",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 24,
+   "type": "iN",
+   "year": 1806,
+   "year_to": 1824,
+   "letters": "P",
+   "note": "písmeno P vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "iN",
+   "letters": "Q–R",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

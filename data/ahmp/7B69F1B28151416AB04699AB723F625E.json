@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "7B69F1B28151416AB04699AB723F625E",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=7B69F1B28151416AB04699AB723F625E",
+ "signature": "BŘV O8",
+ "records": {
+  "O": "1890–1905"
+ },
+ "parish": "Břevnov – kostel sv. Markéty",
+ "places": [
+  "Břevnov",
+  "Tejnka",
+  "Střešovice"
+ ],
+ "place_codes": {
+  "Břevnov": 490032,
+  "Střešovice": 400424
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1890,
+   "months": "IV",
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1890,
+   "months": "VI",
+   "page": "2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1892,
+   "months": "V",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1893,
+   "months": "VII",
+   "page": "42",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "O",
+   "year": 1894,
+   "months": "I–II",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

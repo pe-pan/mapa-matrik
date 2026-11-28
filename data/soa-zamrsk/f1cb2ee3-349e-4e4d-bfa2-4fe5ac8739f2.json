@@ -1,0 +1,209 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "f1cb2ee3-349e-4e4d-bfa2-4fe5ac8739f2",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/f1cb2ee3-349e-4e4d-bfa2-4fe5ac8739f2",
+ "signature": "121-11",
+ "parish": "Osenice",
+ "records": {
+  "iN": "1715–1784",
+  "iO": "1715–1784"
+ },
+ "scans": 237,
+ "places": [
+  "Bačalky",
+  "Brodek",
+  "Dětenice",
+  "Dolní Rokytňany",
+  "Horní Rokytňany",
+  "Lično",
+  "Mcely",
+  "Osenice",
+  "Prodašice",
+  "Ujkovice"
+ ],
+ "place_codes": {
+  "Bačalky": 94994,
+  "Brodek": 25917,
+  "Dětenice": 25925,
+  "Dolní Rokytňany": 140864,
+  "Horní Rokytňany": 140872,
+  "Lično": 95001,
+  "Osenice": 25933
+ },
+ "points": [
+  {
+   "scan": 52,
+   "type": "iN",
+   "year": 1743,
+   "year_to": 1748,
+   "letters": "H",
+   "note": "předtisk „Kniha zemřelých“, obsahuje křty",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1775,
+   "year_to": 1778,
+   "letters": "H",
+   "note": "odkazy na sv. IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 68,
+   "type": "iN",
+   "year": 1723,
+   "year_to": 1729,
+   "letters": "J",
+   "note": "vlevo prázdná strana písmene Ch; odkazy na sv. III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 76,
+   "type": "iN",
+   "year": 1774,
+   "year_to": 1784,
+   "letters": "J",
+   "note": "odkazy na sv. IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 78,
+   "type": "iN",
+   "year": 1717,
+   "year_to": 1722,
+   "letters": "K",
+   "note": "odkazy na sv. III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 81,
+   "type": "iN",
+   "year": 1715,
+   "year_to": 1717,
+   "letters": "K",
+   "note": "odkazy na sv. III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 83,
+   "type": "iN",
+   "year": 1720,
+   "year_to": 1722,
+   "letters": "K",
+   "note": "odkazy na sv. III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 86,
+   "type": "iN",
+   "year": 1727,
+   "year_to": 1731,
+   "letters": "K",
+   "note": "odkazy na sv. III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "iN",
+   "year": 1739,
+   "year_to": 1740,
+   "letters": "K",
+   "note": "odkazy na sv. III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 96,
+   "type": "iN",
+   "year": 1751,
+   "year_to": 1753,
+   "letters": "K",
+   "note": "odkazy na sv. III",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 102,
+   "type": "iN",
+   "year": 1762,
+   "year_to": 1763,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "iN",
+   "year": 1764,
+   "year_to": 1766,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "iN",
+   "year": 1766,
+   "year_to": 1769,
+   "letters": "K",
+   "note": "odkazy na sv. IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 105,
+   "type": "iN",
+   "year": 1769,
+   "year_to": 1771,
+   "letters": "K",
+   "note": "odkazy na sv. IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 106,
+   "type": "iN",
+   "year": 1771,
+   "year_to": 1774,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 107,
+   "type": "iN",
+   "year": 1774,
+   "year_to": 1777,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 108,
+   "type": "iN",
+   "year": 1777,
+   "year_to": 1779,
+   "letters": "K",
+   "note": "odkazy na sv. IV",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 109,
+   "type": "iN",
+   "year": 1779,
+   "year_to": 1782,
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 215,
+   "type": "iN",
+   "year": 1718,
+   "year_to": 1724,
+   "letters": "V",
+   "note": "předtisk „Kniha oddaných“, obsahuje křty",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

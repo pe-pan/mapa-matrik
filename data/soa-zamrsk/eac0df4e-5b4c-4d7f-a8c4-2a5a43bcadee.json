@@ -1,0 +1,146 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "eac0df4e-5b4c-4d7f-a8c4-2a5a43bcadee",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/eac0df4e-5b4c-4d7f-a8c4-2a5a43bcadee",
+ "signature": "22-10",
+ "parish": "České Meziříčí",
+ "records": {
+  "Z": "1793–1864"
+ },
+ "scans": 251,
+ "places": [
+  "České Meziříčí",
+  "Mochov",
+  "Ostrov",
+  "Skršice",
+  "Tošov",
+  "Králova Lhota",
+  "Rohenice",
+  "Roheničky",
+  "Slavětín nad Metují"
+ ],
+ "place_codes": {
+  "České Meziříčí": 22659,
+  "Skršice": 148661,
+  "Tošov": 148679,
+  "Králova Lhota": 72613,
+  "Rohenice": 22691
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 45,
+   "type": "Z",
+   "place": "České Meziříčí",
+   "year": 1828,
+   "year_to": 1829,
+   "months": "X–VI",
+   "page": "81–82",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "place": "České Meziříčí",
+   "year": 1842,
+   "year_to": 1843,
+   "months": "XI–VII",
+   "page": "111–112",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 134,
+   "type": "Z",
+   "place": "Králova Lhota",
+   "year": 1797,
+   "year_to": 1799,
+   "months": "VIII–XII",
+   "page": "4–5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 136,
+   "type": "Z",
+   "place": "Králova Lhota",
+   "year": 1802,
+   "year_to": 1806,
+   "months": "V–I",
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 138,
+   "type": "Z",
+   "place": "Králova Lhota",
+   "year": 1807,
+   "year_to": 1809,
+   "page": "12–13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 140,
+   "type": "Z",
+   "place": "Králova Lhota",
+   "year": 1811,
+   "year_to": 1814,
+   "months": "XII–III",
+   "page": "16–17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 151,
+   "type": "Z",
+   "place": "Králova Lhota",
+   "year": 1839,
+   "year_to": 1843,
+   "months": "XII–I",
+   "page": "38–39",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 160,
+   "type": "Z",
+   "place": "Králova Lhota",
+   "year": 1853,
+   "page": "56–57",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 174,
+   "type": "Z",
+   "place": "Rohenice",
+   "year": 1800,
+   "year_to": 1803,
+   "months": "X–XI",
+   "page": "6–7",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 176,
+   "type": "Z",
+   "place": "Rohenice",
+   "year": 1806,
+   "year_to": 1809,
+   "months": "VI–V",
+   "page": "10–11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 195,
+   "type": "Z",
+   "place": "Rohenice",
+   "year": 1860,
+   "year_to": 1862,
+   "page": "48–49",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

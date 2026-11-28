@@ -1,0 +1,110 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6799",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6799",
+ "signature": "Nové Město na Moravě, kn. 15935, O 1863–1895",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "O": "1863–1895",
+  "iO": "1863–1895"
+ },
+ "order": "by_village",
+ "places": [
+  "Nové Město na Moravě",
+  "Petrovice",
+  "Jiříkovice",
+  "Maršovice",
+  "Pohledec",
+  "Radňovice",
+  "Rokytno",
+  "Studnice",
+  "Vlachovice"
+ ],
+ "place_codes": {
+  "Nové Město na Moravě": 412996,
+  "Petrovice": 120189,
+  "Jiříkovice": 61107,
+  "Maršovice": 106402,
+  "Pohledec": 106429,
+  "Radňovice": 138185,
+  "Rokytno": 141089,
+  "Studnice": 141097,
+  "Vlachovice": 141101
+ },
+ "district": "Žďár nad Sázavou",
+ "index": {
+  "scans": "165–188"
+ },
+ "sections": [
+  {
+   "scans": "1–63",
+   "type": "O",
+   "place": "Nové Město na Moravě"
+  },
+  {
+   "scans": "64–77",
+   "type": "O",
+   "place": "Petrovice"
+  },
+  {
+   "scans": "78–93",
+   "type": "O",
+   "place": "Radňovice"
+  },
+  {
+   "scans": "94–108",
+   "type": "O",
+   "place": "Jiříkovice"
+  },
+  {
+   "scans": "109–120",
+   "type": "O",
+   "place": "Vlachovice"
+  },
+  {
+   "scans": "120–128",
+   "type": "O",
+   "place": "Rokytno"
+  },
+  {
+   "scans": "128–135",
+   "type": "O",
+   "place": "Studnice"
+  },
+  {
+   "scans": "136–151",
+   "type": "O",
+   "place": "Maršovice"
+  },
+  {
+   "scans": "152–164",
+   "type": "O",
+   "place": "Pohledec"
+  }
+ ],
+ "points": [
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1883,
+   "months": "I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 147,
+   "type": "O",
+   "place": "Maršovice",
+   "year": 1887,
+   "year_to": 1888,
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

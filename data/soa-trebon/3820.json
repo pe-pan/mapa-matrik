@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3820",
+ "url": "https://digi.ceskearchivy.cz/3820",
+ "signature": "N Přáslavice 1836–1914, fara Hořepník, kniha 40",
+ "parish": "Hořepník",
+ "records": {
+  "N": "1836–1914"
+ },
+ "places": [
+  "Přáslavice"
+ ],
+ "place_codes": {
+  "Přáslavice": 134091
+ },
+ "district": "Pelhřimov",
+ "points": [
+  {
+   "scan": 2,
+   "type": "N",
+   "place": "Přáslavice",
+   "year": 1836,
+   "months": "I–XI",
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 3,
+   "type": "N",
+   "place": "Přáslavice",
+   "year": 1837,
+   "year_to": 1838,
+   "page": "2",
+   "note": "z r. 1837 jen XI a XII, pak 1838",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "place": "Přáslavice",
+   "year": 1838,
+   "year_to": 1840,
+   "months": "XII–II",
+   "page": "3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "place": "Přáslavice",
+   "year": 1874,
+   "year_to": 1875,
+   "page": "35",
+   "note": "XII/1874 a zápisy z 1875",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "place": "Přáslavice",
+   "year": 1877,
+   "year_to": 1878,
+   "months": "XI–II",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "place": "Přáslavice",
+   "year": 1901,
+   "months": "I",
+   "page": "69",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "place": "Přáslavice",
+   "year": 1901,
+   "months": "VI–X",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "place": "Přáslavice",
+   "year": 1908,
+   "months": "I–IV",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

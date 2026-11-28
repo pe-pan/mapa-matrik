@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "29AB9AC9836A434694409FE570B1B0C1",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=29AB9AC9836A434694409FE570B1B0C1",
+ "signature": "MAG O132",
+ "parish": "Magistrát hl. m. Prahy (civilní sňatky)",
+ "records": {
+  "O": "1946",
+  "iO": "1946"
+ },
+ "places": [
+  "Praha"
+ ],
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 266,
+   "type": "iO",
+   "year": 1946,
+   "letters": "K",
+   "note": "K vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 267,
+   "type": "iO",
+   "year": 1946,
+   "letters": "K",
+   "note": "vlevo pokračování K",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

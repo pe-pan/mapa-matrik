@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10495",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10495",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10495/{scan}",
+ "signature": "Odolena Voda 04",
+ "parish": "Odolena Voda",
+ "records": {
+  "N": "1761–1784",
+  "iN": "1761–1784",
+  "O": "1776–1778"
+ },
+ "places": [
+  "Odolena Voda",
+  "Dolínek",
+  "Vodolka"
+ ],
+ "place_codes": {
+  "Odolena Voda": 108995,
+  "Dolínek": 108987
+ },
+ "district": "Praha-východ",
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "points": [
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1778,
+   "months": "V–VIII",
+   "page": "134–135",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 103,
+   "type": "O",
+   "year": 1776,
+   "page": "32–33",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 104,
+   "type": "O",
+   "year": 1777,
+   "page": "34–35",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 105,
+   "type": "O",
+   "year": 1777,
+   "year_to": 1778,
+   "page": "36–37",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 162,
+   "type": "iN",
+   "letters": "H",
+   "note": "rejstřík na konci knihy; levý sloupec H 1761–1777",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

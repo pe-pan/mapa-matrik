@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "14366",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/14366",
+ "signature": "Radešínská Svratka, kn. 16113, O 1936–1949",
+ "parish": "Radešínská Svratka",
+ "records": {
+  "O": "1936–1949"
+ },
+ "order": "by_village",
+ "places": [
+  "Radešínská Svratka",
+  "Řečice",
+  "Nová Ves"
+ ],
+ "place_codes": {
+  "Radešínská Svratka": 137561,
+  "Řečice": 144886,
+  "Nová Ves": 105694
+ },
+ "district": "Žďár nad Sázavou",
+ "sections": [
+  {
+   "scans": "3–33",
+   "type": "O",
+   "place": "Radešínská Svratka"
+  },
+  {
+   "scans": "34–58",
+   "type": "O",
+   "place": "Řečice"
+  },
+  {
+   "scans": "59–80",
+   "type": "O",
+   "place": "Nová Ves"
+  }
+ ],
+ "points": [
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1947,
+   "months": "V",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

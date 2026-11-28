@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "1eadef0d-1be1-45e5-a766-feeec3022aa6",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/1eadef0d-1be1-45e5-a766-feeec3022aa6",
+ "signature": "26-14",
+ "parish": "Dobruška",
+ "records": {
+  "iN": "1806–1839"
+ },
+ "scans": 58,
+ "places": [
+  "Běstviny",
+  "Brtva",
+  "Březiny",
+  "Dobruška",
+  "Domašín",
+  "Horní Spáleniště",
+  "Chábory",
+  "Chlístov",
+  "Křovice",
+  "Mělčany",
+  "Miškov",
+  "Paseky",
+  "Provoz",
+  "Pulice",
+  "Val"
+ ],
+ "place_codes": {
+  "Běstviny": 27570,
+  "Dobruška": 410705,
+  "Domašín": 30741,
+  "Chábory": 27596,
+  "Chlístov": 176141,
+  "Křovice": 27545,
+  "Mělčany": 27553,
+  "Paseky": 18651,
+  "Provoz": 176150,
+  "Pulice": 27537,
+  "Val": 176168
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 34,
+   "type": "iN",
+   "letters": "N",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 38,
+   "type": "iN",
+   "letters": "P",
+   "note": "písmeno P vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 39,
+   "type": "iN",
+   "year": 1806,
+   "year_to": 1839,
+   "letters": "P",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

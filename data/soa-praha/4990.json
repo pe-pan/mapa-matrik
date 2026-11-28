@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4990",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4990",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4990/{scan}",
+ "signature": "Dobrovice 44",
+ "parish": "Dobrovice",
+ "records": {
+  "iO": "1673–1949"
+ },
+ "scans": 144,
+ "places": [
+  "Dobrovice"
+ ],
+ "place_codes": {
+  "Dobrovice": 27472
+ },
+ "points": [
+  {
+   "scan": 141,
+   "type": "iO",
+   "letters": "H",
+   "note": "poslední strana rejstříku, dodatek s německými jmény; poslední list",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

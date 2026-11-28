@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "32050680-3c31-459a-abdc-85618f62046a",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/32050680-3c31-459a-abdc-85618f62046a",
+ "signature": "150-1",
+ "parish": "Solnice",
+ "records": {
+  "N": "1685–1735",
+  "Z": "1685–1735",
+  "O": "1685–1735"
+ },
+ "scans": 403,
+ "places": [
+  "Solnice",
+  "Ještětice",
+  "Kvasiny",
+  "Litohrady",
+  "Skuhrov nad Bělou",
+  "Brocná",
+  "Debřece",
+  "Hamernice",
+  "Hraštice",
+  "Nová Ves",
+  "Pičberk",
+  "Proloh",
+  "Rybníčky",
+  "Svinná",
+  "Benátky",
+  "Bukový",
+  "Jedlová v Orlických horách",
+  "Kačerov",
+  "Malý Uhřínov",
+  "Podolí",
+  "Velký Uhřínov"
+ ],
+ "place_codes": {
+  "Solnice": 152421,
+  "Ještětice": 152412,
+  "Kvasiny": 78191,
+  "Litohrady": 84735,
+  "Skuhrov nad Bělou": 149101,
+  "Brocná": 12602,
+  "Debřece": 149055,
+  "Hraštice": 149063,
+  "Nová Ves": 149071,
+  "Proloh": 112828,
+  "Rybníčky": 149098,
+  "Svinná": 12629
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 182,
+   "type": "N",
+   "year": 1720,
+   "months": "VI–X",
+   "page": "350–351",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 184,
+   "type": "N",
+   "year": 1721,
+   "months": "III–IV",
+   "page": "354–355",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 235,
+   "type": "N",
+   "year": 1731,
+   "months": "I–II",
+   "page": "456–457",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 285,
+   "type": "O",
+   "year": 1712,
+   "year_to": 1713,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 288,
+   "type": "O",
+   "year": 1715,
+   "months": "V–XI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 289,
+   "type": "O",
+   "year": 1716,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 290,
+   "type": "O",
+   "year": 1716,
+   "year_to": 1718,
+   "months": "XI–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 291,
+   "type": "O",
+   "year": 1718,
+   "months": "VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 330,
+   "type": "Z",
+   "year": 1719,
+   "year_to": 1720,
+   "months": "VIII–I",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 380,
+   "type": "Z",
+   "year": 1688,
+   "year_to": 1689,
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "43c88b6d-94b5-448d-8962-f3cef90de3d0",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/43c88b6d-94b5-448d-8962-f3cef90de3d0",
+ "signature": "165-1",
+ "parish": "Týniště nad Orlicí",
+ "records": {
+  "N": "1686–1753",
+  "Z": "1686–1753",
+  "O": "1686–1753"
+ },
+ "scans": 278,
+ "places": [
+  "Týniště nad Orlicí",
+  "Bědovice",
+  "Lípa nad Orlicí",
+  "Petrovice",
+  "Petrovičky",
+  "Rašovice",
+  "Voděrady",
+  "Houdkovice",
+  "Ježkovice",
+  "Nová Ves",
+  "Radostovice",
+  "Uhřínovice",
+  "Vojenice",
+  "Vyhnanice"
+ ],
+ "place_codes": {
+  "Týniště nad Orlicí": 172421,
+  "Lípa nad Orlicí": 83941,
+  "Petrovice": 120138,
+  "Petrovičky": 321656,
+  "Rašovice": 139556,
+  "Voděrady": 184225,
+  "Houdkovice": 168335,
+  "Ježkovice": 59471,
+  "Nová Ves": 105627,
+  "Radostovice": 83615,
+  "Uhřínovice": 184217,
+  "Vojenice": 105635,
+  "Vyhnanice": 187542
+ },
+ "district": "Rychnov nad Kněžnou",
+ "points": [
+  {
+   "scan": 179,
+   "type": "O",
+   "year": 1729,
+   "page": "14–15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "year": 1746,
+   "year_to": 1747,
+   "page": "56–57",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 208,
+   "type": "O",
+   "year": 1751,
+   "months": "V",
+   "page": "73",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3788",
+ "url": "https://digi.ceskearchivy.cz/3788",
+ "signature": "Hořepník 8",
+ "parish": "Hořepník",
+ "records": {
+  "N": "1780–1835",
+  "iO": "1830–1834",
+  "iN": "1780–1835"
+ },
+ "places": [
+  "Arneštovice",
+  "Bořetice",
+  "Březina",
+  "Lesná",
+  "Loutkov",
+  "Přáslavice"
+ ],
+ "place_codes": {
+  "Arneštovice": 418,
+  "Bořetice": 8141,
+  "Březina": 45063,
+  "Lesná": 178365,
+  "Přáslavice": 134091
+ },
+ "order": "by_village",
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "points": [
+  {
+   "scan": 24,
+   "type": "iO",
+   "letters": "Ch",
+   "note": "písmeno na pravé straně",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 25,
+   "type": "iO",
+   "letters": "J",
+   "note": "levá strana prázdná",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 26,
+   "type": "iO",
+   "year": 1830,
+   "year_to": 1834,
+   "letters": "K",
+   "note": "levá strana prázdná; navíc 1 řádek z r. 1821",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 27,
+   "type": "iO",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 28,
+   "type": "iO",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "iN",
+   "year": 1780,
+   "year_to": 1835,
+   "letters": "D",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "iN",
+   "letters": "F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 85,
+   "type": "iN",
+   "year": 1800,
+   "year_to": 1835,
+   "letters": "M",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 86,
+   "type": "iN",
+   "letters": "M",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-02",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-02",
+ "scans": 145,
+ "signature": "Chříč 02",
+ "parish": "Chříč",
+ "records": {
+  "O": "1786–1861",
+  "iO": "1786–1861"
+ },
+ "places": [
+  "Hlince",
+  "Holovousy",
+  "Chříč",
+  "Lhota",
+  "Slatina",
+  "Studená"
+ ],
+ "place_codes": {
+  "Hlince": 54534,
+  "Holovousy": 54542,
+  "Chříč": 54551,
+  "Lhota": 54569,
+  "Slatina": 54577,
+  "Studená": 54585
+ },
+ "aliases": {
+  "Hlince": [
+   "Hlintsch",
+   "Hlintz"
+  ],
+  "Holovousy": [
+   "Holofous",
+   "Holofaus"
+  ],
+  "Chříč": [
+   "Křitz",
+   "Kreitsch"
+  ],
+  "Studená": [
+   "Studena"
+  ]
+ },
+ "district": "Plzeň-sever",
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "place": "Hlince",
+   "year": 1787,
+   "year_to": 1793,
+   "page": "1",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "place": "Hlince",
+   "year": 1794,
+   "year_to": 1797,
+   "page": "2",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "place": "Hlince",
+   "year": 1798,
+   "year_to": 1802,
+   "page": "3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "place": "Hlince",
+   "year": 1802,
+   "year_to": 1804,
+   "page": "4",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "place": "Hlince",
+   "year": 1805,
+   "year_to": 1815,
+   "page": "5",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1797,
+   "year_to": 1799,
+   "page": "40",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "place": "Chříč",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "place": "Chříč",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1811,
+   "page": "44",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "place": "Chříč",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1817,
+   "year_to": 1818,
+   "page": "48",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1829,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 61,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1830,
+   "year_to": 1831,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1831,
+   "year_to": 1834,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1834,
+   "year_to": 1836,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 64,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1836,
+   "year_to": 1837,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1837,
+   "year_to": 1838,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1838,
+   "year_to": 1839,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 69,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1841,
+   "year_to": 1843,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 70,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1844,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1845,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1846,
+   "year_to": 1847,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 75,
+   "type": "O",
+   "place": "Chříč",
+   "year": 1848,
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 111,
+   "type": "O",
+   "place": "Slatina",
+   "year": 1823,
+   "year_to": 1825,
+   "page": "112",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 113,
+   "type": "O",
+   "place": "Slatina",
+   "year": 1829,
+   "year_to": 1831,
+   "page": "114",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 131,
+   "type": "O",
+   "place": "Studená",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "place": "Studená",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 143,
+   "type": "iO",
+   "year": 1787,
+   "page": "144",
+   "letters": "A–Z",
+   "note": "rejstřík oddaných celé fary",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

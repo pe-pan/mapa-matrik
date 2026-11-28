@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3831",
+ "url": "https://digi.ceskearchivy.cz/3831",
+ "signature": "Hořepník 51",
+ "parish": "Hořepník",
+ "records": {
+  "iN": "1833–1894"
+ },
+ "scans": 82,
+ "places": [
+  "Hořepník"
+ ],
+ "place_codes": {
+  "Hořepník": 45071
+ },
+ "points": [
+  {
+   "scan": 1,
+   "type": "title",
+   "year": 1833,
+   "year_to": 1894,
+   "note": "titul indexu narozených",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 15,
+   "type": "iN",
+   "year": 1837,
+   "year_to": 1851,
+   "letters": "F",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 17,
+   "type": "iN",
+   "year": 1874,
+   "year_to": 1894,
+   "letters": "F–G",
+   "note": "F 1874–1894, pak G",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "iN",
+   "year": 1867,
+   "year_to": 1873,
+   "letters": "H",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

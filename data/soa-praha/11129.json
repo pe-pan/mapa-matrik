@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11129",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11129",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11129/{scan}",
+ "parish": "Rejšice",
+ "signature": "Rejšice 10",
+ "records": {
+  "iN": "1736–1830"
+ },
+ "scans": 23,
+ "places": [
+  "Rejšice"
+ ],
+ "place_codes": {
+  "Rejšice": 140058
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "iN",
+   "year": 1756,
+   "year_to": 1775,
+   "letters": "H",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "year": 1736,
+   "year_to": 1769,
+   "letters": "J–K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 14,
+   "type": "iN",
+   "letters": "K–L",
+   "note": "K 1770–1792",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "year": 1756,
+   "year_to": 1786,
+   "letters": "S",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 21,
+   "type": "iN",
+   "letters": "S–W",
+   "note": "S 1784–1792; Š, T, U, W 1736–1744",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 22,
+   "type": "iN",
+   "year": 1744,
+   "year_to": 1785,
+   "letters": "W",
+   "note": "poslední list rejstříku, písmeno Z chybí",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

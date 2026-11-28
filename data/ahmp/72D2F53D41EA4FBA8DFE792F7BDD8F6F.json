@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "72D2F53D41EA4FBA8DFE792F7BDD8F6F",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=72D2F53D41EA4FBA8DFE792F7BDD8F6F",
+ "signature": "BŘV i2",
+ "parish": "Břevnov",
+ "records": {
+  "iN": "1800–1870"
+ },
+ "scans": 161,
+ "places": [
+  "Břevnov"
+ ],
+ "place_codes": {
+  "Břevnov": 490032
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1859,
+   "year_to": 1864,
+   "letters": "J/G",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

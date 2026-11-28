@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "A76BD4CB77754CF7B2AE1C2C3C3862B1",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=A76BD4CB77754CF7B2AE1C2C3C3862B1",
+ "signature": "LBŇ Z11",
+ "parish": "Libeň",
+ "records": {
+  "Z": "1916–1920",
+  "iZ": "1916–1920"
+ },
+ "places": [
+  "Libeň"
+ ],
+ "place_codes": {
+  "Libeň": 490105
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 353,
+   "type": "iZ",
+   "year": 1916,
+   "months": "IV–IX",
+   "letters": "K",
+   "note": "začátek K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 354,
+   "type": "iZ",
+   "year": 1916,
+   "year_to": 1917,
+   "months": "X–X",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 355,
+   "type": "iZ",
+   "year": 1917,
+   "year_to": 1918,
+   "months": "X–VII",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 356,
+   "type": "iZ",
+   "year": 1918,
+   "year_to": 1919,
+   "months": "VII–VI",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 357,
+   "type": "iZ",
+   "year": 1919,
+   "year_to": 1920,
+   "months": "VI–VI",
+   "letters": "K",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 358,
+   "type": "iZ",
+   "year": 1920,
+   "months": "VI–VII",
+   "letters": "K–L",
+   "note": "konec K (VI–VII/1920), vpravo L od 1916",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 370,
+   "type": "iZ",
+   "letters": "R",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

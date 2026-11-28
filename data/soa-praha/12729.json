@@ -1,0 +1,232 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12729",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12729",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12729/{scan}",
+ "order": "by_village",
+ "signature": "Svatý Jan pod Skalou (N 1784–1805)",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "N": "1784–1805"
+ },
+ "places": [
+  "Svatý Jan pod Skalou",
+  "Bubovice",
+  "Hostim",
+  "Kozolupy",
+  "Lužce",
+  "Sedlec",
+  "Srbsko"
+ ],
+ "place_codes": {
+  "Svatý Jan pod Skalou": 160261,
+  "Bubovice": 15130,
+  "Kozolupy": 71960,
+  "Lužce": 89249,
+  "Sedlec": 160253,
+  "Srbsko": 152986
+ },
+ "district": "Beroun",
+ "points": [
+  {
+   "scan": 49,
+   "type": "N",
+   "place": "Srbsko",
+   "year": 1793,
+   "year_to": 1794,
+   "months": "X–XI",
+   "page": "9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "place": "Srbsko",
+   "year": 1795,
+   "year_to": 1796,
+   "page": "10",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "place": "Srbsko",
+   "year": 1796,
+   "year_to": 1797,
+   "months": "IX–III",
+   "page": "11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "place": "Srbsko",
+   "year": 1797,
+   "year_to": 1798,
+   "months": "VI–IV",
+   "page": "12",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "place": "Srbsko",
+   "year": 1798,
+   "year_to": 1799,
+   "months": "VII–II",
+   "page": "13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "place": "Srbsko",
+   "year": 1799,
+   "year_to": 1800,
+   "months": "II–I",
+   "page": "14",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "place": "Srbsko",
+   "year": 1800,
+   "page": "15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "place": "Srbsko",
+   "year": 1801,
+   "page": "16",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "place": "Srbsko",
+   "year": 1802,
+   "year_to": 1803,
+   "months": "II–IV",
+   "page": "17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "place": "Bubovice",
+   "year": 1784,
+   "note": "začátek oddílu vsi",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "place": "Srbsko",
+   "year": 1804,
+   "page": "20",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "place": "Kozolupy",
+   "year": 1787,
+   "year_to": 1788,
+   "page": "2–3",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "place": "Kozolupy",
+   "year": 1794,
+   "year_to": 1795,
+   "page": "8–9",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "place": "Kozolupy",
+   "year": 1796,
+   "page": "11",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 89,
+   "type": "N",
+   "place": "Kozolupy",
+   "year": 1796,
+   "year_to": 1797,
+   "page": "12",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "place": "Kozolupy",
+   "year": 1797,
+   "year_to": 1798,
+   "months": "VIII–III",
+   "page": "13",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "place": "Kozolupy",
+   "year": 1798,
+   "months": "III–XII",
+   "page": "14",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "place": "Kozolupy",
+   "year": 1799,
+   "months": "III–IX",
+   "page": "15",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "place": "Kozolupy",
+   "year": 1799,
+   "year_to": 1801,
+   "page": "16–17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "place": "Kozolupy",
+   "year": 1800,
+   "year_to": 1801,
+   "months": "VII–IV",
+   "page": "17",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "place": "Kozolupy",
+   "year": 1801,
+   "year_to": 1802,
+   "page": "18",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -32,6 +32,25 @@
    "by": "pe-pan"
   },
   {
+   "scan": 42,
+   "type": "Z",
+   "place": "Křovice",
+   "year": 1833,
+   "year_to": 1835,
+   "page": "96–97",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 46,
+   "type": "Z",
+   "place": "Křovice",
+   "year": 1841,
+   "year_to": 1843,
+   "months": "VIII–IV",
+   "page": "104–105",
+   "by": "kosarlukascz"
+  },
+  {
    "scan": 53,
    "type": "Z",
    "year": 1807,
@@ -85,6 +104,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
   }
  ]
 }

@@ -1,0 +1,283 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6311",
+ "url": "https://digi.ceskearchivy.cz/6311",
+ "parish": "Pelhřimov",
+ "signature": "Pelhřimov 3",
+ "records": {
+  "N": "1740–1784",
+  "iN": "1760–1784"
+ },
+ "scans": 370,
+ "order": "chronological",
+ "notes": [
+  "Čísla snímků jsou pořadí v seznamu snímků; od sn. 245 otevře krátká adresa digi.ceskearchivy.cz/6311/n snímek n+1.",
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "places": [
+  "Pelhřimov"
+ ],
+ "points": [
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1760,
+   "page": "324–325",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1760,
+   "months": "III–IV",
+   "page": "326–327",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1765,
+   "months": "III",
+   "page": "420–421",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 168,
+   "type": "N",
+   "year": 1765,
+   "months": "VI",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1768,
+   "months": "II",
+   "page": "493",
+   "note": "číslo 493 vpravo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 211,
+   "type": "N",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "XII–I",
+   "page": "514",
+   "note": "číslo 514 vlevo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 228,
+   "type": "N",
+   "year": 1770,
+   "months": "VIII",
+   "page": "548",
+   "note": "číslo 548 vlevo",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 244,
+   "type": "N",
+   "year": 1773,
+   "months": "XII",
+   "page": "580–581",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 245,
+   "type": "N",
+   "year": 1774,
+   "months": "II–III",
+   "page": "582–583",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 246,
+   "type": "N",
+   "year": 1774,
+   "months": "IV–V",
+   "page": "584–585",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 258,
+   "type": "N",
+   "year": 1776,
+   "months": "I–III",
+   "page": "608–609",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 259,
+   "type": "N",
+   "year": 1776,
+   "months": "IV–VI",
+   "page": "610–611",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 260,
+   "type": "N",
+   "year": 1776,
+   "months": "VII–VIII",
+   "page": "612–613",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 261,
+   "type": "N",
+   "year": 1776,
+   "months": "VIII–X",
+   "page": "614–615",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 262,
+   "type": "N",
+   "year": 1776,
+   "months": "X–XII",
+   "page": "616–617",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 263,
+   "type": "N",
+   "year": 1776,
+   "year_to": 1777,
+   "months": "XII–II",
+   "page": "618–619",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 264,
+   "type": "N",
+   "year": 1777,
+   "months": "II–IV",
+   "page": "620–621",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 265,
+   "type": "N",
+   "year": 1777,
+   "months": "IV–VI",
+   "page": "622–623",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 266,
+   "type": "N",
+   "year": 1777,
+   "months": "VI–VII",
+   "page": "624–625",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 267,
+   "type": "N",
+   "year": 1777,
+   "months": "VIII–IX",
+   "page": "626–627",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 268,
+   "type": "N",
+   "year": 1777,
+   "months": "X–XI",
+   "page": "628–629",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 269,
+   "type": "N",
+   "year": 1777,
+   "year_to": 1778,
+   "months": "XI–I",
+   "page": "630–631",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 352,
+   "type": "iN",
+   "letters": "N–O",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 353,
+   "type": "iN",
+   "letters": "O–P",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 362,
+   "type": "iN",
+   "year": 1760,
+   "year_to": 1767,
+   "letters": "S/Š",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 363,
+   "type": "iN",
+   "year": 1768,
+   "year_to": 1774,
+   "letters": "S/Š",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 364,
+   "type": "iN",
+   "year": 1774,
+   "year_to": 1779,
+   "letters": "S/Š",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 365,
+   "type": "iN",
+   "year": 1779,
+   "year_to": 1784,
+   "letters": "S/Š",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  },
+  {
+   "scan": 368,
+   "type": "iN",
+   "year": 1762,
+   "year_to": 1784,
+   "letters": "V/W",
+   "note": "pořadí dle seznamu snímků; krátká adresa /6311/n zde nesedí",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}

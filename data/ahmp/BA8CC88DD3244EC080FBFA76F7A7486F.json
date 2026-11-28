@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "BA8CC88DD3244EC080FBFA76F7A7486F",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=BA8CC88DD3244EC080FBFA76F7A7486F",
+ "signature": "NUS Z6",
+ "records": {
+  "Z": "1948"
+ },
+ "notes": [
+  "Roky v records jen podle orientačních bodů; kniha může být širší."
+ ],
+ "parish": "Nusle – kostel sv. Pankráce",
+ "places": [
+  "Nusle"
+ ],
+ "place_codes": {
+  "Nusle": 490156
+ },
+ "district": "území Hlavního města Prahy",
+ "points": [
+  {
+   "scan": 307,
+   "type": "Z",
+   "year": 1948,
+   "page": "fol. 299",
+   "by": "kosarlukascz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "kosarlukascz",
+   "date": "2026-11-28"
+  }
+ ]
+}
